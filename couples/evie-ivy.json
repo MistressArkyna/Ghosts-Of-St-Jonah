@@ -1,0 +1,28 @@
+{
+  "id": "evie-ivy",
+  "kind": "couple",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "name": "Evie & Ivy",
+  "tag": "The Fire Oath",
+  "a": "evie-emberose",
+  "b": "ivy-emberose",
+  "arcMet": 3,
+  "status": {
+    "pre9": "Engaged",
+    "arc9": "Married",
+    "arc12": "Married"
+  },
+  "core": "Evie took every punishment meant for Ivy across Jonah's walls, then navigated the tunnels alone to reclaim her. Married in the joint Garden Vow wedding alongside Bryn and Torie.",
+  "colorCode": "Porcelain-Silver",
+  "position": "Missionary; Ivy's legs wrapped around Evie",
+  "aftercare": "Reverent praise, cuddles",
+  "rituals": [],
+  "conflicts": "",
+  "home": "",
+  "tells": "",
+  "open": [],
+  "weddingArc": 9,
+  "weddingNote": "the joint Garden Vow wedding, alongside Bryn and Torie"
+}
