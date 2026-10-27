@@ -1,0 +1,22 @@
+{
+  "id": "c-clinic-door",
+  "kind": "change",
+  "subject": "project-nereid",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The clinic gets its front door",
+  "field": "Hathaway Clinic",
+  "from": "A place named across a dozen records and never once described",
+  "to": "THE PARLOUR, THE CONSENT LADDER AND THE GUMMY — three system records",
+  "note": "EVERY WOMAN MEETS THE IMAGINED CLINIC FIRST: fluorescent panels, a clipboard before a hello, the wrong name called off a record and the injury treated as DATABASE WEATHER. She rehearses her corrections on the way over. Then the door opens with a brass chime onto honey floorboards, mismatched vases and one astonishing mustard chair.\n\nIT IS CLINIC-SHAPED AND NOT CLINIC-DESIGNED. Cassandra decorated it the way she decorates everything, and the philosophy underneath is not soft at all: she remembered the rooms she was once expected to defend herself in, and could not rewrite anyone's journey to the clinic — only WHAT MET THEM AT ITS END.\n\nTHE DELIVERY MECHANISM IS NOW ON THE RECORD AND THE ARCHIVE NEVER HAD IT. Nereid arrives as ONE CONSENT-LOCKED GUMMY, cooked from her own Final Authorization, in a mould family she chose: shark, dinosaur, animal, car. There are no gummy candies in the parlour, deliberately, so nothing in a communal bowl can blur what that object is.\n\nAND THE LADDER: entering was not consent, sitting was not consent, tea was not consent, reading page one is not consent. IMMUTABLE CORE, then CONSENT MENU, then a REVIEW OF THE WHOLE BODY, then FINAL AUTHORIZATION — and review never becomes authorization merely because the clinic likes the design.",
+  "links": [
+    "hathaway-clinic",
+    "consent-ladder",
+    "nereid-gummy",
+    "nereid-origin",
+    "project-nereid"
+  ]
+}

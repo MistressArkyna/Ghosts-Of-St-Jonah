@@ -1,0 +1,21 @@
+{
+  "id": "c-fleet-timeline",
+  "kind": "change",
+  "subject": "horni-fleet",
+  "subjectKind": "system",
+  "arc": 13,
+  "state": "current",
+  "mode": "evolution",
+  "label": "Idea in Eleven, built in Thirteen",
+  "field": "When the fleet happened",
+  "from": "Undated — the Archive had the fleet as a thing that simply existed",
+  "to": "CONCEIVED ARC 11 · FULLY BUILT ARC 13",
+  "note": "TWO ARCS BETWEEN THE THOUGHT AND THE THIRTEENTH HULL, which is what it takes when seven women each own a trade and not one of them will ship something half-finished.\n\nAND IT RE-DATES THE NOSE ART, WHICH MATTERS. The Archive wrote that Cora painted Luna on the bow of CONSIDERABLE GIRTH two years before Luna believed it. THE GAP IS SIX YEARS, NOT TWO. Luna Meadows had six years to unlearn what was done to her, and she did the unlearning — the painting did not arrive early and wait for her to catch up, it arrived after the work was already done, and Cora painted a woman who had become that.\n\nThe Archive keeps reaching for the version where somebody is rescued by being seen. This family mostly does it the other way round: the seeing is the RECEIPT.",
+  "links": [
+    "horni-fleet",
+    "cora-ariti",
+    "luna-meadows",
+    "pandora-everrest",
+    "13"
+  ]
+}

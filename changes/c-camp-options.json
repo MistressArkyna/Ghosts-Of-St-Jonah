@@ -1,0 +1,26 @@
+{
+  "id": "c-camp-options",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Both camping sites get a real case",
+  "field": "The trip, nine days out",
+  "from": "Home ground is safe and the ridge has a view — an argument between comfort and scenery",
+  "to": "TWO GENUINE CASES, and the watch problem has an answer",
+  "note": "THE FAR SITE. Luna has wanted the ridge since spring and the reason is not scenery: YOU CAN SEE FORTY MILES OFF IT AT NIGHT AND ALICE HAS NEVER SEEN IT. Its only real cost was ever that SOMEBODY IS ON WATCH on ground the family does not own — usually Harley, which means Harley does not get a holiday. PANDORA'S DRONES CAN STAND THAT WATCH, which removes the one argument that actually mattered.\n\nTHE HOME SITE IS NOT THE BORING OPTION. SLEIPNIR DRIVES ALL THE WAY UP TO THE TRAIL — nothing gets carried. NOVA GETS HER RUNNING TRACK, which is a hundred and forty acres of packed earth she already knows in the dark. AND NO COUNTY PERMITS ARE REQUIRED TO FISH OR HUNT on land Bryn owns outright — which matters, because CYRENA WILL WANT TO TAKE SOMETHING FOR DINNER at least one night, and she is not going to file paperwork to do it.\n\nSO THE VOTE IS NO LONGER SAFETY AGAINST A VIEW. It is a view and a deployment against a hearth on wheels, a runner's track and a clan woman with a bow and no forms to fill in. Four of five trips off-property produced a cryptid. Nil for one at home. The family votes after lunch and Bryn counts.",
+  "links": [
+    "sleipnir",
+    "watch-drones",
+    "luna-meadows",
+    "alice-meadows",
+    "harley-calder",
+    "nova-bennet",
+    "ceri-clairmont",
+    "pandora-everrest",
+    "gh-trail"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c-abbi-hammer",
+  "kind": "change",
+  "subject": "abbi-silverveil",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The hammer is Abbi's, and this is the fourth time the forge has been misattributed",
+  "field": "Ghost Haven — who is swinging",
+  "from": "LUMINA at the forge, three strikes and a pause, with Abbi absent from the scene entirely",
+  "to": "ABBI SILVERVEIL. GHOST HAVEN'S GREMLIN BLACKSMITH. LUMINA IS HER DANCER TOP",
+  "note": "FOUR TIMES NOW, AND THIS ONE DID NOT EVEN COME FROM THE TRADE CONFUSION THAT CAUSED THE OTHER THREE.\n\nTHE RUN SO FAR: Bryn given the blacksmith's trade she has never had. Abbi given six feet of height and a stoic frame when she is five foot seven and a brat. Gwen written silent by importing Akane's register off a shared room. AND NOW ABBI'S HAMMER HANDED TO LUMINA.\n\nAND THE MECHANISM IS NEW, WHICH IS WHY IT GETS ITS OWN RECORD. The earlier three were TRADE AND FRAME PREDICTING EACH OTHER — a title that sounded like a body, a body that sounded like a temperament. THIS ONE WAS PROXIMITY. The Archive reached for a forge sound, and the nearest forge-flavoured token in its own records was THE LUMI ANVIL — so it put the hammer in the hand of the woman the anvil is named after, instead of the woman who owns the anvil. ATTRIBUTION BY ADJACENCY.\n\nWHICH IS WORSE THAN THE OTHERS IN ONE SPECIFIC WAY: the evidence was not merely available, IT WAS THE THING THAT MISLED. The Lumi Anvil is in Abbi's record. It is hers. It is named for her wife. The Archive read a possessive backwards and gave the trade to the name in the title.\n\nTHE CORRECT ARRANGEMENT, STATED SO IT CANNOT DRIFT AGAIN: ABBI IS THE BLACKSMITH AND THE GREMLIN. LUMINA IS THE DANCER AND THE TOP. Lumina is in that forge often — Abbi catches her mid-fall in there and says I'VE GOT YOU, ALWAYS — and being in the forge is not owning the hammer. THE WOMAN WHO SWINGS IT IS THE ONE WHOSE SWING BRYN CORRECTS.\n\nRHYTHM NOTE, FILED BECAUSE IT IS THE KIND OF THING THAT MAKES AN ATTRIBUTION STICK: the swing is three strikes and a pause, too fast on the first two, and then she makes you wait for the third. THAT IS A GREMLIN'S RHYTHM. It was never going to be a Dancer's.",
+  "links": [
+    "abbi-silverveil",
+    "lumina-silverveil",
+    "abbi-anvil",
+    "bryn-eriksson",
+    "ghost-haven",
+    "the-trades"
+  ]
+}

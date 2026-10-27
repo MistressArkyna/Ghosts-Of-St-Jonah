@@ -1,0 +1,19 @@
+{
+  "id": "c-evie-married",
+  "kind": "change",
+  "subject": "evie-ivy",
+  "subjectKind": "couple",
+  "arc": 9,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The Garden Vow",
+  "field": "Status",
+  "from": "Engaged",
+  "to": "Married",
+  "note": "The second half of the joint wedding. Ivy's garden becomes the sanctuary's soul in the same arc.",
+  "links": [
+    "evie-emberose",
+    "ivy-emberose",
+    "gh-garden"
+  ]
+}

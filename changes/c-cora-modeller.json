@@ -1,0 +1,18 @@
+{
+  "id": "c-cora-modeller",
+  "kind": "change",
+  "subject": "cora-ariti",
+  "subjectKind": "girl",
+  "arc": 1,
+  "state": "current",
+  "mode": "correction",
+  "label": "She was always a 3D modeller",
+  "field": "Role in Family",
+  "from": "The Velvet Viper · The Femme Fatale · The Bodyguard of Soft Hearts — Bodyguard Bruja",
+  "to": "3D Modeller. Titles retired and unreplaced",
+  "note": "A CORRECTION, not an evolution. The femme-fatale reading comes from an older profile and was never true; the Archive carried it in from the import and built prose on top of it.\n\nAnd it changes the Maddy story completely. A bodyguard bruja offering to buy a sex worker's time reads as smooth, dangerous, in control. A NERDY 3D MODELLER doing it reads as a woman with no idea how to reach someone she loves, throwing the only currency she can think of at the problem, being refused three times, and going back a fourth without the money. She had to fail all the way through the obvious idea before she arrived at the real one, which was a home.\n\nAnd when Maddy turned out to be an excellent model and took up cosplay, her wife's work and her wife merged. Unfortunately for Cora.\n\nHer three titles are RETIRED and the Archive is not inventing replacements.",
+  "links": [
+    "maddy-ariti",
+    "maddy-cora"
+  ]
+}

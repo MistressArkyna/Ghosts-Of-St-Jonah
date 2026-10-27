@@ -1,0 +1,21 @@
+{
+  "id": "c-cock-rule-exemplar",
+  "kind": "change",
+  "subject": "cock-standards",
+  "subjectKind": "system",
+  "arc": 1,
+  "state": "current",
+  "label": "The rule gets a worked example",
+  "field": "Pairing Rule",
+  "from": "A stated figure with no pair it demonstrably held for",
+  "to": "Bryn 11.5\" to Torie 10.0\" — exactly 1.5, the pair the rule is read against",
+  "note": "With Torie corrected to ten inches, the original pair sits at precisely 1.5 and the 1.5 reads as an EXACT figure rather than a minimum. Lumina and Abbi remain at their authored 10.2 and 8.5 rather than being altered to manufacture a second exemplar. Luna 10.6 to Alice 8.9 is 1.7, and Livi 10.25 to Rae 8.45 is 1.8.",
+  "links": [
+    "bryn-torie",
+    "bryn-eriksson",
+    "torie-eriksson",
+    "abbi-lumina",
+    "alice-luna",
+    "livi-rae"
+  ]
+}

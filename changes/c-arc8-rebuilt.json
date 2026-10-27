@@ -1,0 +1,19 @@
+{
+  "id": "c-arc8-rebuilt",
+  "kind": "change",
+  "subject": "8",
+  "subjectKind": "arc",
+  "arc": 8,
+  "state": "current",
+  "label": "Arc 8 was rebuilt too",
+  "field": "Arc Contents",
+  "from": "Pandora becomes flesh under a shooting star, plus the rest",
+  "to": "The Pandora and Jade beats moved to Arc 6; the arc keeps its name",
+  "note": "Arc 6 reached forward and pulled the big Pandora and Jade beats out of BOTH Arc 7 and Arc 8, because Pandora asked to be embodied early. Roughly three minor arcs were left standing. Arc 8 KEEPS ITS NAME because the name is important: Ghost Flesh is now Atlas and Leviathan resurfacing and the Surviving Hounds, and Forgotten Names is Siren's sister and Livi's notebook. The title survived the amputation and got more accurate.",
+  "links": [
+    "6",
+    "7",
+    "jade-pandora",
+    "siren-wilding"
+  ]
+}

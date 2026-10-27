@@ -1,0 +1,20 @@
+{
+  "id": "c-evie-certs",
+  "kind": "change",
+  "subject": "evie-emberose",
+  "subjectKind": "girl",
+  "arc": 7,
+  "state": "current",
+  "mode": "correction",
+  "label": "She had the certs before the tunnel",
+  "field": "When Evie qualified",
+  "from": "Arc 7 as the arc where Evie's certification thread runs — the Archive read it as her getting qualified",
+  "to": "SHE WAS ALREADY QUALIFIED. SHE GOT HER CERTS BEFORE GOING IN AND RESCUING IVY. Arc 7 is her FLEXING them",
+  "note": "THE ORDER OF THOSE TWO EVENTS IS THE WHOLE CORRECTION.\n\nEVIE EMBEROSE CERTIFIED AS AN ELECTRICIAN, AND THEN WENT DOWN INTO JONAH'S DEPTHS ALONE TO GET IVY OUT. The Tunnel Rescue is in her own profile; the certification came first.\n\nARC 7 IS NOT A QUALIFICATION ARC. It is a DEMONSTRATION arc — the first time a whole city sees what she can already do. She puts the lights back on at the Lucky Hammer, the apartment, Livi's gym, Roseforge, and MARIANNE'S CLINIC.\n\nTHE ARCHIVE NOTES THE ADJACENCY AND DECLINES TO FILE A MOTIVE. Ivy spent FOUR YEARS UNDERGROUND, ALONE, IN THE DARK. Evie learned a trade about electricity and light, and then went into the dark after her. Whether the trade was learned FOR the rescue is not recorded, and the Archive has invented enough people's reasons today. It is writing down the order and leaving the why to Evie.",
+  "links": [
+    "evie-emberose",
+    "ivy-emberose",
+    "c-ivy-underground",
+    "7"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-cock-rule-scope",
+  "kind": "change",
+  "subject": "cock-standards",
+  "subjectKind": "system",
+  "arc": 1,
+  "state": "current",
+  "label": "The rule gets a scope",
+  "field": "Pairing Rule",
+  "from": "Applied to every pair, and apparently broken by three of them",
+  "to": "Applies only where the pairing contains an Anchor — and Anchor means the role, not the Pillar label",
+  "note": "The rule was never broken; it was being read too widely. Luna and Alice are Goth to Chaos Agent and Livi and Rae have no Anchor established, so neither pair was ever in scope, and their gaps are chosen rather than drifted. Second half of the ruling: Lumina is coded Muse and Slut and still holds the larger side over Abbi, because she is Abbi's anchor in practice. Read the dynamic, then apply the figure.",
+  "links": [
+    "pillars",
+    "abbi-lumina",
+    "alice-luna",
+    "livi-rae",
+    "bryn-torie",
+    "lumina-silverveil"
+  ]
+}

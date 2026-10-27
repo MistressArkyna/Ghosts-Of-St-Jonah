@@ -1,0 +1,23 @@
+{
+  "id": "c-every-circle",
+  "kind": "change",
+  "subject": "livi-notebook",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "Every survivor on the compound is a circle",
+  "field": "The ledger, as it stands",
+  "from": "A notation system, described",
+  "to": "A COUNT. TWENTY-NINE CIRCLES, AND NOT ONE UNCLOSED MARK AMONG THE FOUND",
+  "note": "VIRAENA'S RULING, AND IT IS THE SINGLE BEST LINE IN THIS ENTIRE FILE: EVERY SURVIVOR ON THE COMPOUND IS A CIRCLE.\n\nTWENTY-NINE OF THEM. Nineteen in Ghost Haven, five in Specter, five in Banshee. Every name on the Survivors list has a scratched-out flight number above it and a circle around what replaced it.\n\nWHICH MEANS THE BOOK HAS THREE MARKS AND THE COMPOUND CONTAINS ONLY ONE OF THEM. A line through means dead. A cross means no longer needed. AND EVERY SINGLE WOMAN WHO LIVES ON THIS LAND IS CIRCLED.\n\nThe other two marks are still in there. Livi did not stop writing when the good outcomes started; SHE HAS BEEN KEEPING THIS SINCE ST. JONAH'S, and a ledger that old has pages the compound cannot answer for. SIREN'S SISTER, 09-156, is somewhere in that book and she is not a circle.\n\nBUT THE COMPOUND IS ALL CIRCLES. Twenty-nine women who were issued numbers instead of names, and one strategist who scratched out every number, wrote the name beside it, and drew a ring around it to mean ALIVE AND FOUND.",
+  "links": [
+    "livi-notebook",
+    "livi-stewart",
+    "welcome-home",
+    "flight-roster",
+    "siren-wilding",
+    "st-jonahs"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c-bread-exception",
+  "kind": "change",
+  "subject": "casa-di-aglio",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The one thing you buy without asking",
+  "field": "The manifest's bread line",
+  "from": "BREAD — ask Owlmom (do not pre-buy)",
+  "to": "BREAD — ask Owlmom (do not pre-buy). UNLESS IT IS BEATRICE AGLIO'S GARLIC BREAD, then buy, yes, and do not ask questions",
+  "note": "CORA PUT THE FIRST LINE AT THE BOTTOM OF THE PACK MANIFEST AS A COST-SAVING MEASURE, and it is a correct one — Owlmom can put bread on a table out of the idea of bread, and pre-buying is money spent on a solved problem.\n\nVIRAENA AMENDED IT IN HER OWN HAND, UNDERNEATH, AND THE AMENDMENT IS THE POINT. Conjured bread is bread. Beatrice Aglio's bread is A WOMAN IN FAIRBROOKS WHO ASKS AFTER BRYN'S HANDS EVERY TIME SHE TAKES AN ORDER, and there is no version of this family's economy where the correct move is to stop buying it because a cheaper miracle exists.\n\nBUY IT. YES. DO NOT ASK QUESTIONS.",
+  "links": [
+    "casa-di-aglio",
+    "cora-ariti",
+    "ghost-haven"
+  ]
+}

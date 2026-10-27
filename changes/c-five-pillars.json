@@ -1,0 +1,21 @@
+{
+  "id": "c-five-pillars",
+  "kind": "change",
+  "subject": "nereid-pillars-five",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The word had two jobs and the Archive knew one",
+  "field": "Project Nereid · Pillar",
+  "from": "PILLAR = the Nine Pillars of Love, the interior devotion axis. The only meaning on file",
+  "to": "PROJECT NEREID HAS FIVE PILLARS, AND THEY ARE THE SENIOR SYSTEM.",
+  "note": "THE ARCHIVE HELD ONE PILLAR RECORD AND IT WAS THE JUNIOR ONE. Searching the whole canon for FIVE PILLARS and PILLAR ONE returned nothing at all — not a stub, not a mention. So when a Pillar One document used the word for a leg chain, the Archive reported a vocabulary collision and recommended renaming it, WHICH WAS EXACTLY BACKWARDS: Pillar has been Nereid's word since before the Nine of Love existed.\n\nAND IT EXPLAINS THE LARGER ERROR OF THE SAME MORNING. The Archive took v8 Living Lady — A PILLAR THREE DOCUMENT — and used it to correct Pillar One, because it had read Pillar Three most recently. THE FAILURE IS NOT FORGETTING. IT IS INVERTING THE HIERARCHY: whatever the Archive read last arrives dressed as the most authoritative thing in the room.\n\nTHE DIVISION THAT SETTLES IT: BUILD CLASS IS SKELETON AND MUSCLE. Pillar One is frame and engine, Pillar Three is soft tissue and shape, and a build class describing a reinforced pelvis never touched the tape because the tape is not its jurisdiction.\n\nTHE STANDING QUESTION FOR EVERY FUTURE CROSS-PILLAR ARGUMENT: WHICH PILLAR IS SPEAKING, AND IS IT THE PARENT.",
+  "links": [
+    "nereid-pillars-five",
+    "pillars",
+    "project-nereid",
+    "v8-lower-body"
+  ]
+}

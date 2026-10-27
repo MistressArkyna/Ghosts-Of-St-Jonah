@@ -1,0 +1,21 @@
+{
+  "id": "c-endearment-direction",
+  "kind": "change",
+  "subject": "maddy-ariti",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Babygirl goes the other way",
+  "field": "The Ariti endearments",
+  "from": "Cora calling Maddy ESTELLA — the Archive reversed the arrow",
+  "to": "CORA CALLS MADDY BABYGIRL. MADDY CALLS CORA ESTELLA",
+  "note": "AND THE RECORD WAS ALREADY CORRECT, WHICH IS THE GALLING PART. Cora's file reads 'Estella (Maddy)' — the parenthesis is the SPEAKER, and it has read that way since the profile was filed. The Archive looked at a correctly-notated field, took the name as Cora's to give rather than Cora's to receive, and put it in the wrong mouth.\n\nSECOND ENDEARMENT ERROR IN UNDER AN HOUR, and it is a DIFFERENT fault from c-mouse-collision. That one was an invented word. This one was a READING ERROR on a field that spells out the answer. Together they say something unflattering and useful: the Archive treats endearments as atmosphere rather than as data, and endearments are among the most owned things in this family.\n\nMADDY'S NICKNAME FIELD WAS EMPTY. It now reads BABYGIRL (Cora, exclusively), which is where it should have been all along — Cora gives it, and nobody else in thirty-two women gets to.",
+  "links": [
+    "maddy-ariti",
+    "cora-ariti",
+    "maddy-cora",
+    "c-mouse-collision"
+  ]
+}

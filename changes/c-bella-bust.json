@@ -1,0 +1,24 @@
+{
+  "id": "c-bella-bust",
+  "kind": "change",
+  "subject": "bella-vargas",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Forty",
+  "field": "Measurements",
+  "path": "body.measurements",
+  "from": "28–46, with the bust left blank rather than invented",
+  "to": "40–28–46. ASKED AT THE TABLE AND ANSWERED BY THE WOMAN HERSELF",
+  "note": "THE ARCHIVE DID NOT GUESS AND DID NOT ACCEPT A SECONDHAND FIGURE. It asked Belladonna Vargas across a kitchen table at ten to eleven in the morning, and she answered by sitting up straighter first and speaking second.\n\nAND HER OWN NUMBERS NOW BREAK THE v8 BUST GATE. 28 over 46 is 0.61 — EXTREME HOURGLASS, the deepest band, exactly what she chose at the Consent Menu. But 40 over 46 is 0.87, and the proposed gate requires 0.95 to 1.05. SHE IS THREE AND SEVEN-TENTHS OF AN INCH SHORT of being an hourglass at all under the rule.\n\nWHICH IS EVIDENCE ABOUT THE GATE, NOT ABOUT BELLA. The house is shaped like this woman. The whole v8 hourglass scale was written against her figure. If the calibration instrument fails its own reference standard, the fault is in the instrument — and adopting the gate as written would file the PAWG Council's presiding president as not an hourglass, which is an absurd sentence to have produced from a correct calculation.\n\nTHE ARCHIVE IS NOT PROPOSING A FIX. It is putting the number on the record and letting the proposal answer for itself.",
+  "links": [
+    "bella-vargas",
+    "nereid-v8-hourglass",
+    "nereid-v8-stature",
+    "hathaway-clinic",
+    "pawg-council",
+    "ghost-haven"
+  ]
+}

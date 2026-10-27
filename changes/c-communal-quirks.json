@@ -1,0 +1,31 @@
+{
+  "id": "c-communal-quirks",
+  "kind": "change",
+  "subject": "communal-quirks",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Communal Quirks opens",
+  "field": "Household law",
+  "from": "Nothing filed",
+  "to": "FIFTEEN new system records — the unwritten constitution of 1 Sanctuary Drive",
+  "note": "NOVA'S LAW · CONSEQUENCES · GIRLMATH · THE PAWG COUNCIL · THE H.O.R.N.I. FLEET · THE MARK · THE HALLWAY OF HANDPRINTS · THE LUMI ANVIL · THE LASAGNA BAN · THE LITTLE CHAIRS · QUINN'S SYLLABUS · SIREN'S PROCESS · ELSPETH'S RITE · PROCUREMENT WINDOWS — and COMMUNAL QUIRKS itself, which names the engine underneath all of them.\n\nEVERY ONE OF THEM FORMED THE SAME WAY. One woman was already doing something; everyone else adopted it; the name arrived afterward. Nothing on these two hundred acres was drafted. The woods run on it too.\n\nAND EVERY ONE OF THEM IS CARE IN A FILTHY COAT. The joke is the paint. The care is the hull.",
+  "links": [
+    "nova-law",
+    "consequences",
+    "girlmath",
+    "pawg-council",
+    "horni-fleet",
+    "the-mark",
+    "lumi-anvil",
+    "little-chairs",
+    "elspeth-rite",
+    "quinn-syllabus",
+    "sirens-process",
+    "procurement-windows",
+    "lasagna-ban",
+    "hallway-handprints"
+  ]
+}

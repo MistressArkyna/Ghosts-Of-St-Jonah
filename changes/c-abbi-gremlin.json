@@ -1,0 +1,32 @@
+{
+  "id": "c-abbi-gremlin",
+  "kind": "change",
+  "subject": "abbi-silverveil",
+  "subjectKind": "girl",
+  "arc": 6,
+  "state": "current",
+  "mode": "correction",
+  "label": "The Blacksmith Gremlin",
+  "field": "Personal Vibe",
+  "path": "vibe",
+  "from": {
+    "primary": "Anchor",
+    "primaryFlavor": "Blacksmith",
+    "secondary": null,
+    "secondaryFlavor": null
+  },
+  "to": {
+    "primary": "Chaos Agent",
+    "primaryFlavor": "Blacksmith Gremlin",
+    "secondary": "Anchor",
+    "secondaryFlavor": "Blacksmith"
+  },
+  "note": "A continuity correction, not an on-page evolution. Abbi enters the story in Arc 6 already as Lumina's Blacksmith Gremlin; she does not wait for her Arc 7 adoption to become one. Anchor remains her secondary, which is what Blacksmith Gremlin means: chaos wearing a smith's apron.",
+  "links": [
+    "lumina-silverveil",
+    "pillars",
+    "cock-standards",
+    "lived-evolution",
+    "c-abbi-cock"
+  ]
+}

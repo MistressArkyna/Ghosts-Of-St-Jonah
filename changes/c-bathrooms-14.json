@@ -1,0 +1,22 @@
+{
+  "id": "c-bathrooms-14",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Fourteen",
+  "field": "Bathrooms",
+  "from": "Thirteen — two basement, three main, six across the cheeks, two in the Library Tower",
+  "to": "FOURTEEN — 3 main · 3 Right Cheek · 3 Couch · 2 basement · 3 Left Cheek. NONE in the Tower.",
+  "note": "Specter Haven has TEN: four in each thigh, one in the pelvis, one in the entry shaft. Banshee Haven has TEN and Bell has not told anyone where.\n\nThe Archive noticed that thirteen showers and thirteen H.O.R.N.I. carts landed on the same figure, declined to build anything on it, and the figure turned out to be noise anyway.\n\nAND THERE IS A LOW CHAIR IN EVERY ONE OF THEM.",
+  "links": [
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven",
+    "little-chairs",
+    "horni-fleet"
+  ]
+}

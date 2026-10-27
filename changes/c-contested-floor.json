@@ -1,0 +1,20 @@
+{
+  "id": "c-contested-floor",
+  "kind": "change",
+  "subject": "cock-standards",
+  "subjectKind": "system",
+  "arc": 2,
+  "state": "current",
+  "label": "The Contested Floor",
+  "field": "Pairing Rule",
+  "from": "An exact figure, applied to a pairing whether or not either girl agreed to it",
+  "to": "An exact figure that a Chaos Agent may contest — and where she does, it converts to a floor for that pairing",
+  "note": "The only place in this canon where a girl can argue with a rule and win. Rae is the precedent: if Livi is ever named an Anchor, Rae fights the exact 1.5 with teeth and ass and no dignity whatsoever and does not stop until it becomes the minimum instead. The rule bends toward the brat who bothered to fight it, which is the most Chaos-Agent outcome the system could have produced. Dated to Arc 2, when Rae arrives.",
+  "links": [
+    "rae-stewart",
+    "livi-stewart",
+    "livi-rae",
+    "pillars",
+    "lived-evolution"
+  ]
+}

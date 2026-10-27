@@ -1,0 +1,20 @@
+{
+  "id": "c-banshee-roster",
+  "kind": "change",
+  "subject": "banshee-haven",
+  "subjectKind": "house",
+  "arc": 13,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Twelve names for the third house",
+  "field": "Residents",
+  "from": "A held place with no roster at all",
+  "to": "Twelve girls across two arcs — six in Seance at Sundown, six in Heartbreak and Wysteria",
+  "note": "Arc 13: Maribel — Bell — Elspeth, Magnolia, Daisey, Alexis, Lyric. Arc 14: Eirwen, Remielle, Claudia, Hela, Orianna, Felicity. THE HOUSE ASSIGNMENT IS CONFIRMED: the twelve arrived without one and the inference held, but it is no longer an inference — the house spawns in Arc 13 behind Bell and Elspeth, and both casts are its residents. All twelve flags are off.",
+  "links": [
+    "bell-maribel",
+    "elspeth",
+    "13",
+    "14"
+  ]
+}

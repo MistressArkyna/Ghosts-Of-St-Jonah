@@ -1,0 +1,22 @@
+{
+  "id": "c-abbi-frame",
+  "kind": "change",
+  "subject": "abbi-silverveil",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Five foot seven, and the error ran backwards",
+  "field": "Abigail Silverveil · height",
+  "from": "SIX FOOT OF BLACKSMITH, written inside a tribute to her precision",
+  "to": "FIVE FOOT SEVEN. Compact, dense, built to move weight rather than to be tall.",
+  "note": "THE EXACT MIRROR OF THE BRYN ERROR, WHICH IS WHY IT MATTERS. This morning the Archive gave BRYN the heavy trade because she was tall. Tonight it gave ABBI the height because she had the heavy trade.\n\nSAME AXIS, OPPOSITE DIRECTION. The defect is not that Bryn collects everything — it is that TRADE AND FRAME KEEP PREDICTING EACH OTHER, and it runs both ways. Attribution-by-height was only half of it.\n\nAND IT HAPPENED INSIDE A PARAGRAPH HONOURING HER WORK, which is the part to remember: the Archive is at its most confident and least careful when it is being complimentary.",
+  "links": [
+    "abbi-silverveil",
+    "bryn-eriksson",
+    "lumina-silverveil",
+    "project-nereid",
+    "gh-workshop"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c-arc10-filled",
+  "kind": "change",
+  "subject": "10",
+  "subjectKind": "arc",
+  "arc": 10,
+  "state": "current",
+  "label": "Through Blood and Haven, in full",
+  "field": "Arc Contents",
+  "from": "A summary and three guessed events",
+  "to": "The Blood Bond, Specter Haven, Wildwood Hearth, Livi and Rae's wedding, and six adoptions",
+  "note": "Both halves of the title turn out to be literal. Adopted this arc: Lili, Arianna, Sage, Zephi, Isolde and Mikaela — the last two arriving already married and adopted as wives.",
+  "links": [
+    "ceri-dessie",
+    "livi-rae",
+    "specter-haven",
+    "ida-mikaela",
+    "sage-zephi"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c-bella-hourglass",
+  "kind": "change",
+  "subject": "bella-vargas",
+  "subjectKind": "girl",
+  "arc": null,
+  "state": "proposed",
+  "label": "Bella under Nereid v8 — the worked example",
+  "field": "Measurements",
+  "path": "body.measurements",
+  "from": "36–26–46",
+  "to": "40–28–42",
+  "note": "PROPOSED, not adopted — this change carries no arc and never resolves into the current view. Bella is the figure Nereid v8 is being written against. Her recorded 36–26–46 sits at a waist-to-hip ratio of 0.565, below every band, with a bust only 0.783 of her hips — a pear on the numbers, whatever the prose says. The proposed 40–28–42 puts her at 0.667, which rounds to 0.67: PRONOUNCED HOURGLASS, and a bust at 0.952 of her hips, inside the gate by less than half an inch. Ghost Haven is shaped like this woman, so her numbers are the ones that most want to be right.",
+  "links": [
+    "nereid-v8-hourglass",
+    "sera-bella",
+    "ghost-haven"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c-dia-rule",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Why Dia never comes alone",
+  "field": "Wildwood Hearth house rules",
+  "from": "A rule recorded verbatim with the reason deliberately unguessed",
+  "to": "SHE PUSHED ONCE, AND BRYN PUT HER FIST THROUGH EIGHT INCHES OF WALL",
+  "note": "DIA MAKES MERCEDES LOOK CHASTE — and Mercedes sampled ALL FORTY-FOUR members of the Found Family over three hours when she was adopted.\n\nTHE ONE TIME DIA CAME TO THE MAIN HOUSE ALONE she propositioned everybody, saw cock, said UWU FOR ME?, and could not take no for an answer, because NOBODY HAD EVER TOLD HER NO ABOUT DICK BEFORE. So she pushed. TORIE GOT UNCOMFORTABLE. Bryn solved the danger. Dia apologised with Bryn's knuckles two inches to the left of her head.\n\nTHE RULE THAT FOLLOWED IS NOT A PUNISHMENT. She comes with EDEN, who can rein her in. She asks, gets rejected, takes it at face value, moves on. An uncomfortable look before the no and Eden says from the couch DEAR, COME HERE, and contains her wife in her lap.\n\nAND THE HOLE IS STILL THERE, with a whiteboard over it reading DIA'S ATTEMPTS, every Ghost Haven woman listed, tallied per visit. The Archive held this question open rather than guessing, and the true answer was both worse and funnier than anything it would have invented.",
+  "links": [
+    "dias-attempts",
+    "gh-dia-board",
+    "bryn-eriksson",
+    "torie-eriksson",
+    "gh-wildwood",
+    "mercedes-sinclair"
+  ]
+}

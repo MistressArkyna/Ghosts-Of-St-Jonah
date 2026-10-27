@@ -1,0 +1,23 @@
+{
+  "id": "c-fleet-roster",
+  "kind": "change",
+  "subject": "horni-fleet",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "All thirteen, and what is drawn on them",
+  "field": "H.O.R.N.I. fleet · hull names and nose art",
+  "from": "Four hulls named, nine unnamed. Nose art recorded as existing, never as content",
+  "to": "THE FULL ROSTER, RULED BY VIRAENA, WITH CORA'S ART ON EACH.",
+  "note": "GHOST HAVEN: Sparkle Tits · Straddle Ride · Booty Queen · Considerable Girth.\nSPECTER HAVEN: Moaning Wood · Chaos Twerk · Sassy Ride · Slutty Bounce.\nBANSHEE HAVEN: Fishnet Hardon · Holy Frottage · Witchy Grind · Velvet Booty.\nWILDWOOD HEARTH: Titty Massage.\n\nFOUR PER HAVEN AND ONE AT THE HEARTH. Thirteen, as recorded.\n\nAND THE HOUSES ARE LEGIBLE IN THEIR OWN HULLS. Ghost Haven's four are direct: tits, riding, ass, cock, no metaphor anywhere. Specter's four are all BRAT ENERGY AND MOTION — twerking, bouncing, a woman caught halfway off her wife, and one asleep with the blanket up. Banshee's four are GOTH AND OCCULT TO THE LAST: fishnets, a witch hat, and a crucifix wound around two flushed cocks, which is the single most Banshee object in the canon.\n\nTHE HEARTH GOT THE ONLY TENDER ONE. TITTY MASSAGE is the one name in thirteen that describes a woman BEING TAKEN CARE OF rather than taken, and its squiggles mean HANDS WORKING rather than anything bouncing. Nobody voted on that and nobody had to.\n\nTHE SQUIGGLE IS THE FLEET'S ONLY GRAMMAR and it is used honestly on all three hulls that carry it. CORA ARITI IS A PROFESSIONAL 3D MODELLER AND DIGITAL SCULPTOR WHO DREW THIRTEEN NOSE ARTS IN THE VISUAL LANGUAGE OF A BATHROOM WALL, DELIBERATELY, and Pandora paid for every one.",
+  "links": [
+    "horni-fleet",
+    "cora-ariti",
+    "pandora-everrest",
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven"
+  ]
+}

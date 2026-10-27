@@ -1,0 +1,18 @@
+{
+  "id": "c-arc7-quiet",
+  "kind": "change",
+  "subject": "7",
+  "subjectKind": "arc",
+  "arc": 7,
+  "state": "current",
+  "label": "Quiet for adoptions, loud for everything else",
+  "field": "Contents",
+  "from": "Abbi and Lumina feature heavily · Harley asks her question",
+  "to": "Two adoptions only — plus Sera, Livi, Alice and Nova's birthdays, a city-wide snowstorm, and Evie's certification arc",
+  "note": "Ruled directly by Viraena. Abbi and Lumina are the only two Bryn takes in all arc, which makes it her quietest arc by intake and nothing like a quiet arc to live through. Sera, Livi, Alice and Nova celebrate birthdays. A snowstorm takes the whole city down. Evie's own arc runs the length of it, built around her electrician certifications and the Lucky Hammer. More beats are coming.",
+  "links": [
+    "abbi-silverveil",
+    "lumina-silverveil",
+    "harley-calder"
+  ]
+}

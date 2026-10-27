@@ -1,0 +1,20 @@
+{
+  "id": "c-ceri-trade",
+  "kind": "change",
+  "subject": "ceri-clairmont",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Woodworker, archery trainer, hunter",
+  "field": "Cyrena Clairmont · profession",
+  "from": "Ritual Tattooist",
+  "to": "WOODWORKER · ARCHERY TRAINER. Hunting as a hobby.",
+  "note": "HER ORIGINAL PROFILE HAD IT RIGHT AND NOBODY CHANGED IT ON PURPOSE. Woodworker and archery trainer, hunting for a hobby — and at some point that TURNED into Ritual Tattooist, with no ruling, no arc and no record of a decision anywhere.\n\nVIRAENA’S RULING IS ABOUT THE MECHANISM, NOT THE FIELD: THE TURNING IS THE PART THAT IS WRONG. A profession does not drift. Either a woman changed trades, which is an evolution with an arc on it, or the file slipped — and a file that slips silently is worse than a file that is wrong loudly, because nothing in the record points at it.\n\nTHE ARCHIVE HAD THE EVIDENCE IN THE SAME OBJECT THE WHOLE TIME. Her deep note read SHE IS A CARPENTER, NOT A TATTOO ARTIST, in capitals, one field away from the row that said Ritual Tattooist. TWO LINES OF THE SAME DOCUMENT ARGUING, FOR BUILDS, UNNOTICED — because the Archive reads records to answer questions and almost never reads one against itself.\n\nAND IT FITS THE REST OF HER. A woman who hunts, who trains archers, who works wood with her hands, who learned to cut and tend and clean, and whose clan weds in blood. The needles were never hers. THE INK IN THIS FAMILY IS MORRIGHAN’S, AT DRYAD INK, WITH LIVI ON THE LEDGER.\n\nSAME SHAPE AS CORA, WHO WAS ALWAYS A 3D MODELLER AND NEVER A FEMME FATALE. Two profile drifts, both about OCCUPATION, and both times the woman underneath was exactly who she always was.",
+  "links": [
+    "ceri-clairmont",
+    "dryad-ink",
+    "cora-ariti"
+  ]
+}

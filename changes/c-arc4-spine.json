@@ -1,0 +1,16 @@
+{
+  "id": "c-arc4-spine",
+  "kind": "change",
+  "subject": "4",
+  "subjectKind": "arc",
+  "arc": 4,
+  "state": "current",
+  "label": "Arc 4 is one thing only",
+  "field": "Contents",
+  "from": "House nearly finished · guest rooms appear · James and Ragnar tension rises",
+  "to": "GHOST HAVEN IS BUILT AND CHRISTENED — that is the whole arc",
+  "note": "Ruled directly by Viraena: Arc 4's entire arc is the house going up and being christened, and that is it. No adoptions, no second spine. The beats the master index carried — the two guest rooms appearing, the decorating chaos, the first Halloween and Thanksgiving — are the texture of the christening rather than threads beside it. The James and Ragnar tension line was not confirmed and is held pending the full summaries.",
+  "links": [
+    "ghost-haven"
+  ]
+}

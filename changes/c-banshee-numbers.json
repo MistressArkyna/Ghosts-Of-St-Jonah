@@ -1,0 +1,21 @@
+{
+  "id": "c-banshee-numbers",
+  "kind": "change",
+  "subject": "gremlindex",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "Eighty-four of eighty-four",
+  "field": "The Gremlindex · the last ten seats",
+  "from": "TEN WOMEN UNWRITTEN, queued somewhere between 075 and 084, with the queue described as blocked",
+  "to": "ALL TEN NUMBERED, PAIRED AND ROOMED. THE GREMLINDEX CLOSES AT 084.",
+  "note": "INGRID AND SCARLETT 075-076. MELODY AND DIANA 077-078. NYSSA AND URSA 079-080. QIYANA AND WINONA 081-082. GENESIS AND YUNA 083-084.\n\nTHE QUEUE WAS NEVER BLOCKED — IT WAS UNTRANSCRIBED. The Banshee Haven appendix names, pairs, rooms and characterises every one of them: the Cosplay Blacksmith and the model, the Bikini Model chaos agent and the novelist whose manuscript towers use coffee mugs as load-bearing columns, the Goth Priestess and her holly-bushed top, the Goth Rocker and the Ice Queen, the Goth Volleyball player and the Gyaru Librarian whose card-catalogue nightstand holds one filthier thing per drawer, alphabetised.\n\nFOUR HAVE NOT YET CROSSED THE THRESHOLD. THE ROOMS ARE ALREADY ASSIGNED, because the house names its future and then goes to find it.",
+  "links": [
+    "gremlindex",
+    "banshee-haven",
+    "bell-maribel",
+    "elspeth"
+  ]
+}

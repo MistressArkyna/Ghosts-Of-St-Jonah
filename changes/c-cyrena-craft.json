@@ -1,0 +1,20 @@
+{
+  "id": "c-cyrena-craft",
+  "kind": "change",
+  "subject": "ceri-clairmont",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Carpenter, not tattoo artist",
+  "field": "Profession",
+  "from": "Tattoo artist, per her profile",
+  "to": "CARPENTER AND WOODWORKER, taught by her clan",
+  "note": "THE SECOND PROFILE DRIFT OF ITS KIND, after Cora — who was always a 3D modeller and never a femme fatale.\n\nTHE ARCHIVE BUILT A PATTERN OUT OF TWO POINTS and proposed that profiles were drifting away from women who quietly make things with their hands and toward something with more smoke on it. THAT THEORY IS WRONG AND IS WITHDRAWN. Cyrena is a smug goth brat top who is loud in every room she enters; nothing about the woodwork was ever hiding. TWO ACCIDENTS, NOT A TILT — which is the better outcome, because a tilt would mean the instrument was bent.",
+  "links": [
+    "ceri-clairmont",
+    "cora-ariti",
+    "dessie-clairmont"
+  ]
+}

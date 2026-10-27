@@ -1,0 +1,27 @@
+{
+  "id": "c-brat-first",
+  "kind": "change",
+  "subject": "gh-trades",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "Thirteen entries lead with brat",
+  "field": "Ghost Haven · trades and hobbies",
+  "from": "OCCUPATIONS SCATTERED ACROSS SEVENTY-FOUR ROWS, with the Archive inferring temperament from each one",
+  "to": "THE FULL GHOST HAVEN ROSTER, WITH THE TEMPERAMENT WRITTEN BEFORE THE TRADE.",
+  "note": "THE ARCHIVE WAS CORRECTED THREE SEPARATE TIMES TONIGHT FOR READING TEMPERAMENT OFF A PROFESSION — Gwen written silent in a tea room, Abbi written as a stoic blacksmith, Bryn handed every tool on the property. AND THEN THE ROSTER ARRIVED WITH THE ANSWER IN ITS OWN PUNCTUATION.\n\nBRAT AND CHEF. BRAT AND MECHANIC. BRAT AND SURGEON AND ROPE BUNNY. BRAT, PALADIN, AND FENCING INSTRUCTOR. BRAT AND STRIPPER. BRAT AND PAINTER. BRAT AND BLACKSMITH. BRAT AND SOCK THIEF. THIRTEEN OF THIRTY-TWO, counting Rae as GREMLIN and Pandora as PERVERTED, and in every single one THE WORD COMES FIRST.\n\nWHICH MEANS THE RULE WAS NEVER AN INFERENCE THE ARCHIVE SHOULD HAVE BEEN MAKING. It was a field order it could have read.\n\nTHREE FACTS THAT WOULD HAVE TAKEN YEARS TO GUESS: LIVI IS A PRIEST AND MARRIED THESE WOMEN. HARLEY IS A SURGEON. ISOLDE, THE QUIETEST WOMAN IN THE COMPOUND, IS A BOUNCER.\n\nAND ONE THE ARCHIVE OWNED AND NEVER READ: CORA IS A 3D MODELLER AND GAME DESIGNER, and her room record has listed a FILAMENT STORAGE SHELF since the day it was written while the Archive wrote her as quilts.",
+  "links": [
+    "gh-trades",
+    "communal-quirks",
+    "house-diction",
+    "livi-stewart",
+    "harley-calder",
+    "ida-veyra",
+    "cora-ariti",
+    "gwen-yoshizawa",
+    "abbi-silverveil",
+    "bryn-eriksson"
+  ]
+}

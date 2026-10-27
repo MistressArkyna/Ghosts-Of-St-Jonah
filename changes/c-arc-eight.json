@@ -1,0 +1,29 @@
+{
+  "id": "c-arc-eight",
+  "kind": "change",
+  "subject": "8",
+  "subjectKind": "arc",
+  "arc": 8,
+  "state": "current",
+  "mode": "correction",
+  "label": "Ghost NAMES and Ghost Flesh",
+  "field": "Arc 8",
+  "from": "GHOST FLESH & FORGOTTEN NAMES — the Surviving Hounds, Atlas and Leviathan, Valentine's confession",
+  "to": "GHOST NAMES AND GHOST FLESH. Atlas returns, EDEN COMES OUT OF THE WOODWORK, AND DIA IS BORN",
+  "note": "THE TITLE WAS INVERTED AND MISWORDED. It is GHOST NAMES AND GHOST FLESH — names first.\n\nATLAS RETURNS. EDEN COMES OUT OF THE WOODWORK. The Archive had been carrying ATLAS AND LEVIATHAN as a pair of returning names without knowing that Leviathan is EDEN, or that this is the arc where she stops being a codename in a lab note and becomes a person in the room.\n\nAND DIA IS BORN HERE. Eden's LAST transformation, made after she took Last Kiss — the antidote she named herself. Arc 8 contains both the emergence of the woman and the final thing she ever made.\n\nADOPTED: CYRENA AND DESTINY, following Arc 7's Lucky Hammer appearance, where they were fucking and Sera sighed and BRYN SAID NOT YET. Arc 8 is when it stops being not yet.\n\nGWEN AND AKANE MOVE FROM CAMEO INTO PRESENCE — Gwen's farming side quest for a woman who sends prospective suitors on side quests belongs here.\n\nFIRST CAMEOS: SAGE, and KATHERINE AND WYNTER.\n\nBIRTHDAYS: yes, and IVY'S IS CELEBRATED FOR CERTAIN.\n\nAND THE PANDORA MATERIAL IS GONE FROM THIS ARC, because she wanted to be with Jade earlier than Arc 8. ARCS 7 AND 8 ARE UNDER REWRITE AND EVERYTHING IN BOTH IS MARKED PROVISIONAL.",
+  "links": [
+    "8",
+    "7",
+    "nereid-origin",
+    "dias-attempts",
+    "c-last-kiss",
+    "ceri-clairmont",
+    "dessie-clairmont",
+    "gwen-yoshizawa",
+    "akane-yoshizawa",
+    "sage-hawthorne",
+    "katherine-morrison",
+    "wynter-morrison",
+    "ivy-emberose"
+  ]
+}

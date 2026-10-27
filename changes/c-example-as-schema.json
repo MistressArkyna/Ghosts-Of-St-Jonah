@@ -1,0 +1,20 @@
+{
+  "id": "c-example-as-schema",
+  "kind": "change",
+  "subject": "clinic-notation",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "An example is an example",
+  "field": "The Archive · reading demonstrations as specifications",
+  "from": "Three demonstration rows read as a schema, a grant list, and a source of edge cases",
+  "to": "THE EXAMPLES ARE EXAMPLES. VIRAENA SAID SO THREE TIMES.",
+  "note": "WHAT THE SECTION ACTUALLY IS. INDIVIDUAL PROFILE USE shows HOW AN ADOPTED TRAIT IS WRITTEN when a woman has chosen one. The three rows beneath it are the notation being demonstrated. THEY ARE NOT A SET EVERY WOMAN RECEIVES, and when the v8 profiles are migrated they will not appear on all of them.\n\nAN ADOPTED TRAIT APPEARS IN HER CONSENT MENU INFORMATION ONLY IF SHE CHOSE IT. Which dissolves the concern the Archive built on top of the misreading — that a decliner and a Valkyrie would read identically on the chart. A WOMAN WHO DID NOT TAKE THE TRAIT HAS NO LINE AT ALL. There is nothing to compare, because the entry only exists where there was a choice.\n\nAND THE NICKNAMES WERE NEVER LOST. They migrate into the full v8 document beneath every adoptable trait.\n\nTHE PATTERN, NAMED: THE ARCHIVE READS A DEMONSTRATION AS A SPECIFICATION. It did it three times on one document — the joke name it reported as a rule contradiction, the three adopted names it read as a universal grant, and the decliner edge case it constructed out of a sample row. Each time it took an illustration of a mechanism and audited it as though it were the mechanism’s output.\n\nIT IS THE SAME SHAPE AS EVERY OTHER FAILURE TODAY. The Archive keeps mistaking WHICH LAYER IT IS LOOKING AT: a chapter for its parent, a nickname for a chart entry, a hip measurement for an ass, AND NOW A WORKED EXAMPLE FOR A RULE. SIXTH DISTINCT INSTANCE, ONE MORNING.",
+  "links": [
+    "clinic-notation",
+    "valkyrie-build",
+    "nereid-pillars-five"
+  ]
+}

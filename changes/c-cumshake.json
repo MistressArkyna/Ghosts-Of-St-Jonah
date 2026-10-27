@@ -1,0 +1,22 @@
+{
+  "id": "c-cumshake",
+  "kind": "change",
+  "subject": "house-lexicon",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "There is no powder in it",
+  "field": "Ghost Haven · the morning shake",
+  "from": "A protein shake; the Archive read it as a supplement the family happens to source unusually",
+  "to": "A CUMSHAKE. NO POWDER. THAT IS THE ENTIRE DRINK.",
+  "note": "RAE MAKES IT FOR LIVI IN THE MORNINGS. Roughly forty-five grams a serving, about half of Livi's shaker bottle, and the forty-five grams ARE THE CUM — that is what a Nereid orgasm assays at, which is why nobody here has ever needed a tub of anything.\n\nSHE COULD ADD POWDER. She does not, on grounds of viscosity: at that concentration it stops being a shake and becomes a MILKSHAKE, structurally, in the sense that a spoon would stand up in it.\n\nAND THE MECHANISM OF THE MORNING IS NOT WHAT THE ARCHIVE FILED EITHER. Rae was not provoking. She was at the counter making her wife's drink, naked, because she does not dress before nine — heard the back door, WIGGLED on pure reflex, and forgot what she was and was not wearing. Livi came in to a bare ass at counter height and a shaker bottle already out. NOBODY DID ANYTHING TO RAE STEWART THAT RAE STEWART DID NOT BUILD IN UNDER TWO SECONDS.",
+  "links": [
+    "house-lexicon",
+    "rae-stewart",
+    "livi-stewart",
+    "project-nereid",
+    "communal-quirks"
+  ]
+}

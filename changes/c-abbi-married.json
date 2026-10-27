@@ -1,0 +1,18 @@
+{
+  "id": "c-abbi-married",
+  "kind": "change",
+  "subject": "abbi-lumina",
+  "subjectKind": "couple",
+  "arc": 6,
+  "state": "current",
+  "mode": "correction",
+  "label": "Already Silverveil",
+  "field": "Status",
+  "from": "Dating — a recording error",
+  "to": "Married before Bryn adopts them",
+  "note": "Abbi and Lumina arrive as wives and are adopted together in Arc 7. Arc 9 has only Bryn and Torie's and Evie and Ivy's joint wedding; no Silverveil wedding occurs there.",
+  "links": [
+    "abbi-silverveil",
+    "lumina-silverveil"
+  ]
+}

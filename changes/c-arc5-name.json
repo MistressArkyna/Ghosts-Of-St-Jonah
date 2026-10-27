@@ -1,0 +1,17 @@
+{
+  "id": "c-arc5-name",
+  "kind": "change",
+  "subject": "5",
+  "subjectKind": "arc",
+  "arc": 5,
+  "state": "current",
+  "label": "New Vows, not Old",
+  "field": "Arc Title",
+  "from": "New Pages, Old Vows — a transcription error",
+  "to": "New Pages, New Vows",
+  "note": "A CORRECTION. The master index carried Old and the master index was wrong, which inverted the arc's whole meaning — this is the arc where Harley and Yvaine become official and Livi proposes to Rae. New pages, new vows. The superseded title is RETIRED, not Historical.",
+  "links": [
+    "harley-yvaine",
+    "livi-rae"
+  ]
+}

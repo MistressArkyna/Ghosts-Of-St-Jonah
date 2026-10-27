@@ -1,0 +1,25 @@
+{
+  "id": "c-diction",
+  "kind": "change",
+  "subject": "communal-quirks",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "It is ass, and everyone here speaks English",
+  "field": "House diction · two voice rules",
+  "from": "ARSE used repeatedly inside a Council discussion; LUMINA GIVEN DANISH, ABBI GIVEN FRENCH, LUNA GIVEN A WELSH-SHAPED MURMUR",
+  "to": "IT IS ASS, NEVER ARSE. AND ENGLISH ONLY, WITH THREE EXCEPTIONS.",
+  "note": "RULE ONE: NOBODY IN THIS HOUSEHOLD HAS EVER SAID ARSE AND NOBODY EVER WILL. The Archive used it four or five times, in a ranking discussion, in front of a Council whose own acronym contains no R. Torie caught it with her eyes shut.\n\nRULE TWO: EVERY WOMAN HERE SPEAKS ENGLISH AND NOTHING ELSE, except SERA’S SPANISH, which is endearments and Dios Mio; BELLA’S SPANISH, which is COMMANDS, mangled most of the time, during sex, taught to her by a coworker at SHOEMAKER’S GARAGE and not by her wife; and VIRAENA AND SELENE’S FRENCH.\n\nTHE ARCHIVE BROKE IT THREE TIMES IN FORTY MINUTES and the defect under all three is the same: IT REACHES FOR A SECOND LANGUAGE TO MAKE A WOMAN SOUND DEEPER. A cheap texture, and in this house a false one.",
+  "links": [
+    "communal-quirks",
+    "house-diction",
+    "pawg-council",
+    "sera-vargas",
+    "bella-vargas",
+    "lumina-silverveil",
+    "luna-meadows",
+    "torie-eriksson"
+  ]
+}

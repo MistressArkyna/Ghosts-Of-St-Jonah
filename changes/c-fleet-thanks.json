@@ -1,0 +1,21 @@
+{
+  "id": "c-fleet-thanks",
+  "kind": "change",
+  "subject": "horni-fleet",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Two words, and it goes home",
+  "field": "H.O.R.N.I. fleet · return to base",
+  "from": "Resupply and docking recorded as automatic",
+  "to": "RETURN TO BASE IS TRIGGERED BY THE WORDS THANK YOU. NOTHING ELSE WORKS.",
+  "note": "PANDORA PROGRAMMED IT AND DID NOT ANNOUNCE IT. The household found out by being polite.\n\nWHAT IT MEANS IN PRACTICE. A hull that is not thanked NEVER DOCKS. It does not resupply, it does not power down, it stands exactly where it was left with its bays open and whatever it had left inside them, WAITING TO BE USEFUL AGAIN.\n\nDEMONSTRATED THIS MORNING. U.G.H. CONSIDERABLE GIRTH was parked at the Recliner's footrest from roughly half past midnight. Selene said MERCI, MA GROSSE — which is gratitude, and is not the phrase. The hull stayed. It stayed through the night, through the bath, through breakfast, through the death of the chair. When somebody finally reached into a bay there was NOTHING IN IT, because the resupply run never happened, BECAUSE NOBODY EVER SAID THANK YOU.\n\nAND IT IS THE MOST PANDORA THING IN THE ENTIRE FLEET. A perverted software architect built a navy for aftercare and then wrote in a condition that it will not go home until it has been thanked OUT LOUD, IN THOSE WORDS. She will not say whether that is a safety interlock or a lesson.",
+  "links": [
+    "horni-fleet",
+    "pandora-everrest",
+    "gh-recliner",
+    "ghost-haven"
+  ]
+}

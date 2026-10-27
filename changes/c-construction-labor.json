@@ -1,0 +1,22 @@
+{
+  "id": "c-construction-labor",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": 4,
+  "state": "current",
+  "mode": "correction",
+  "label": "Beam by beam, and orgasm by orgasm",
+  "field": "Who built Ghost Haven",
+  "from": "The family built it, with excavation, plumbing and central air contracted out — and the Archive left the contractor list open-ended",
+  "to": "EXACTLY THREE OUTSIDE TRADES EVER SET FOOT HERE. Everything else is the girls' own hands",
+  "note": "THE TIMELINE FIRST. RAGNAR GAVE BRYN THE LAND IN ARC 2. CONSTRUCTION STARTED PROPERLY IN ARC 4 — the arc whose entire content is the house going up and being christened.\n\nAND THE LABOUR LIST IS CLOSED. Three trades came in from outside and no others: PLUMBING, EXCAVATION, CENTRAL AIR. Ragnar produced all three and asked nothing. The Archive had been writing 'contractors' as an open category, and half the ones it was implying never existed.\n\nEVERY OTHER BEAM IN THIS BUILDING WAS SET BY A WOMAN WHO LIVES IN IT. Abbi forged the hinges, handles and hooks. Bryn framed. Livi hauled. They put up a thirty-two-bedroom compound with their own arms across one arc — and they did it BEAM BY BEAM AND ORGASM BY ORGASM, because a construction site staffed entirely by this family was never going to be a construction site only.\n\nTHE GARAGE STAIN IS THE PHYSICAL EVIDENCE OF THAT SECOND HALF, and Viraena named it as the direct consequence.",
+  "links": [
+    "ghost-haven",
+    "bryn-eriksson",
+    "abbi-silverveil",
+    "gh-garage-stain",
+    "c-ragnar-logistics",
+    "4"
+  ]
+}

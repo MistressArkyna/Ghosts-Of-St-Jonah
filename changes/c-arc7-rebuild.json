@@ -1,0 +1,19 @@
+{
+  "id": "c-arc7-rebuild",
+  "kind": "change",
+  "subject": "7",
+  "subjectKind": "arc",
+  "arc": 7,
+  "state": "current",
+  "label": "Arc 7 rebuilt",
+  "field": "Arc Title & Contents",
+  "from": "How Can I Help You? — the original Arc 7",
+  "to": "Sanctuary Lights and Gremlin Hands — the arc rebuilt around what stayed",
+  "note": "Not a rename. Much of the original Arc 7 was moved forward into Arc 6, and what was left became a different arc with a different name. Every event still listed on Arc 7 is inherited from the arc this one replaced and has not been reassigned — Pandora's whole embodiment thread and the Roseforge grand opening went with it, and Abbi and Lumina's adoption arc did NOT — they stay at 7 and are its only two adoptions. What remains: Abbi and Lumina featuring heavily, Harley's question, the birthdays of Sera, Livi, Alice and Nova, a city-wide snowstorm, and Evie's certification thread. The old title is RETIRED.",
+  "links": [
+    "6",
+    "jade-pandora",
+    "abbi-lumina",
+    "c-roseforge"
+  ]
+}

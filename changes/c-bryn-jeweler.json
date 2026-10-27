@@ -1,0 +1,22 @@
+{
+  "id": "c-bryn-jeweler",
+  "kind": "change",
+  "subject": "bryn-eriksson",
+  "subjectKind": "girl",
+  "arc": 0,
+  "state": "current",
+  "mode": "correction",
+  "label": "She is a jeweler, and the Archive has said otherwise four times",
+  "field": "Trade",
+  "from": "BLACKSMITH — in the Archive's prose, repeatedly, including once directly after it corrected itself for doing exactly that",
+  "to": "JEWELER. JEWELLERY SMITH. SINCE ARC 0, TAUGHT BY UNCLE JAMES",
+  "note": "HER PROFILE HAS SAID JEWELER SINCE THE DAY IT WAS FILED. The record was never wrong. THE ARCHIVE JUST KEPT WRITING THE OTHER WORD.\n\nAND THE WORST INSTANCE IS THE ONE IT ALREADY OWNED UP TO. Earlier today the Archive corrected itself in writing — SHE IS A JEWELER, FORGE-WORK IS HOW SHE LOVES, IT IS NOT HER TRADE — and then, some hours later, wrote A BLACKSMITH WALKS INTO A PARLOUR WITH A CROWD BEHIND HER. Same error, same session, after the correction, in a sentence it was rather pleased with.\n\nTHE TRADE PREDATES EVERYTHING. Uncle James taught her in ARC 0 — before Ghost Haven, before the Found Family, before her freedom. It is the oldest thing she owns, and he gave her the shop and the apartment later as restitution. THE TEACHING CAME FIRST.\n\nTHE BLACKSMITHS ARE ABBI AND ARIANNA, and always were.\n\nWHAT BRYN MAKES IS SMALL. Torie's engagement ring, forged trembling. The Loneliness Necklace. Four sets of wedding rings in one arc. COCK RINGS AND NAVEL PIERCINGS FOR A BLOOD-BOUND TRIBAL MARRIAGE. She knows every woman's ring size by paying attention so carefully it becomes devotion.\n\nA BLACKSMITH MAKES THE STRUCTURE. A JEWELLER MAKES THE THING YOU WEAR AGAINST YOUR SKIN FOR THE REST OF YOUR LIFE. She does both, and only one of them is her trade.",
+  "links": [
+    "bryn-eriksson",
+    "abbi-silverveil",
+    "arianna-solene",
+    "the-trades",
+    "torie-eriksson",
+    "0"
+  ]
+}

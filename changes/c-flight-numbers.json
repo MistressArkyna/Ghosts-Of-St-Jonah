@@ -1,0 +1,25 @@
+{
+  "id": "c-flight-numbers",
+  "kind": "change",
+  "subject": "flight-system",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Five designations recovered",
+  "field": "Flight IDs",
+  "from": "Unrecorded, plus one wrong number",
+  "to": "Morrighan 01-269 · Hela 01-235 · Elspeth 01-388 → 10-044 · Eirwen 06-091 · Remielle 06-089",
+  "note": "THE FOUR PLEASURES SURVIVORS ARE NOW COMPLETE AND CONSISTENT: Ceri 01-203, Zephi 01-211, Hela 01-235, Morrighan 01-269. All four inside 200–299, the Pleasure Designate Pool, in ascending order.\n\nELSPETH'S ENFORCER NUMBER IS 01-388, NOT 01-399. The Archive recorded 399 from an earlier telling and built a whole reissue theory on top of it to explain the apparent collision with Akane. THERE WAS NEVER A COLLISION. The 399 reading is RETIRED. Her discard number is 10-044 — Maddy's is 10-008, both of them pushed into Flight 10, thirty-six numbers apart.\n\nEIRWEN IS A SURVIVOR. 06-091, Porcelain Dolls. The survivor-or-citizen dispute is resolved by evidence rather than by choosing: a flight and an ID settle it. AND REMIELLE TOO — 06-089, two numbers away from her girlfriend. They were processed almost back to back and are now dating.\n\nWhich means the Banshee citizen list carried TWO women who hold designations. Magnolia, Daisey, Lyric and Alexis remain citizens; Claudia, Orianna and Felicity are still unrecorded; Bell, Elspeth, Hela, Eirwen and Remielle are survivors. Twelve accounted for.",
+  "links": [
+    "morrighan-eithne",
+    "hela",
+    "elspeth",
+    "eirwen",
+    "remielle",
+    "akane-yoshizawa",
+    "maddy-ariti",
+    "the-tribes"
+  ]
+}

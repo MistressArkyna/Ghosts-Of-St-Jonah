@@ -1,0 +1,26 @@
+{
+  "id": "c-dupe-sweep",
+  "kind": "change",
+  "subject": "gremlindex",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Eleven silent overwrites",
+  "field": "The seed sources · duplicate keys and colliding ids",
+  "from": "A source file that discarded data without ever failing a build",
+  "to": "CLEAN. SCANNED, MERGED, AND THE SCANNER KEPT.",
+  "note": "FOUND BY ACCIDENT WHILE NUMBERING THE GREMLINDEX, when five women refused their numbers. SWEPT PROPERLY AFTERWARD WITH A PURPOSE-BUILT SCANNER, tools/dupe-scan.cjs, which is now part of the verification set.\n\nTHE FAILURE MODE, NAMED: IN A JAVASCRIPT OBJECT LITERAL, TWO KEYS OF THE SAME NAME DO NOT ERROR. THE LATER ONE SILENTLY WINS AND THE EARLIER CONTENT IS GONE. No build breaks, no verifier fires, nothing in the record points at it. IT IS THE ONE DEFECT CLASS THIS ARCHIVE COULD NOT SEE.\n\nWHAT WAS ACTUALLY LOST AND IS NOW RECOVERED.\n\nYVAINE CALDER had two entries. The surviving one held her dynamic and the retired Dual-Domme label; THE DISCARDED ONE HELD HER ST. JONAH’S ARRIVAL — nobody knows how or when she got there, assigned Flight 02 by default, filed under records-wiped BECAUSE THERE WAS NOTHING TO WIPE — and the line that No Girl Left Behind is hers. MERGED.\n\nPANDORA EVERREST had two. Both notes survived by luck; the discarded open held THE CATALOGUE IS NOT A EUPHEMISM — she was the Archivist before she was the Architect and the dataset predates the body. MERGED.\n\nEVIE EMBEROSE had two OPEN arrays and the surviving one held a single line. THE DISCARDED ARRAY HELD EIGHT: her missing Nereid profile, her movement, her v8 lower body, her cock and its lightning tattoo, HER CORE WOUND IN FOUR WORDS, her possessions, why Pandora recruited her, and her tell. NINE ITEMS NOW. THAT WAS THE WORST ONE.\n\nCYRENA CLAIRMONT had two CLAN values and THE SURVIVING ONE WAS THE POORER. The discarded version named the clan WALLACHIAN and carried her Pleasures subflight number, 01-203. The richer text now stands.\n\nELSPETH had two NOTES — the second paladin in the canon, and the Enforcer Designate Pool at 01-399. Both kept, joined.\n\nEIRWEN carried her survivor record and her dispute-resolution note TWICE, identically. Deduplicated, nothing lost.\n\nAND THREE PAIRS OF CHANGE RECORDS SHARED AN ID, WHICH IS A DIFFERENT INJURY. Arrays do not overwrite, so both records always existed — but EVERY LOOKUP IN THIS ARCHIVE KEYS BY ID ALONE, so one of each pair was unreachable and which one you got depended on iteration order. Renamed: c-roster-closes, c-bryn-dainty, c-livi-ledger. SIX RECORDS, SIX DISTINCT FACTS, ALL SIX NOW ADDRESSABLE.\n\nAND gh-pool WAS A ROOM AND A SYSTEM AT ONCE — see c-gh-pool. The room sat at DISPUTED asking whether it existed while the system three hundred lines away told the story of it being built.\n\nTHE SCANNER STAYS. It runs beside verify and verify-lens from now on, because this archive can prove its links resolve and its arcs are consistent AND STILL BE QUIETLY EATING ITS OWN RECORDS.",
+  "links": [
+    "gremlindex",
+    "yvaine-calder",
+    "pandora-everrest",
+    "evie-emberose",
+    "ceri-clairmont",
+    "elspeth",
+    "eirwen",
+    "gh-pool",
+    "gh-pool-complex"
+  ]
+}

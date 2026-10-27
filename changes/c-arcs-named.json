@@ -1,0 +1,20 @@
+{
+  "id": "c-arcs-named",
+  "kind": "change",
+  "subject": "11",
+  "subjectKind": "arc",
+  "arc": 11,
+  "state": "current",
+  "label": "Arcs 11 through 14 get their names",
+  "field": "Arc Ledger",
+  "from": "Four unrecorded slots, two of which the Archive had filled with its own inventions",
+  "to": "Four Vows and a Raccoon · The Brat Bloom · Seance at Sundown · Heartbreak and Wysteria",
+  "note": "The Cathedral Rises and The Present were both mine, not canon, and both are now RETIRED. Arc 9 also loses its definite article — Garden Vow, not The Garden Vow. Names are recorded; contents are not, and the Archive has not invented any.",
+  "links": [
+    "12",
+    "13",
+    "14",
+    "9",
+    "c-specter-founded"
+  ]
+}

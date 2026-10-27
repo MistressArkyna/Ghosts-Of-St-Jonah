@@ -1,0 +1,20 @@
+{
+  "id": "c-evie-heist",
+  "kind": "change",
+  "subject": "evie-emberose",
+  "subjectKind": "girl",
+  "arc": 0,
+  "state": "current",
+  "label": "The certification was the crowbar",
+  "field": "Profession",
+  "from": "Electrician — a trade",
+  "to": "Four years of apprenticeship, earned as a prison break",
+  "note": "State police drove Evie to St. Jonah's, walked her INSIDE, and stayed to watch her cuffs change hands. The first thing she saw in there was a younger Ivy gardening in soil that would not take, humming, and she promised herself to keep that smile safe — then took Ivy's beatings for years. Bryn cracked half of ATLAS'S RIBS over it and earned his respect; Livi covered every gap Evie could not.\n\nEvie learned the guard rotations and escaped, so Jonah's imprisoned Ivy underneath the facility as leverage. Evie went to a master electrician, said there was someone waiting for her in hell and she needed the tools to get back in — and the woman GRINNED and taught her everything. FOUR YEARS later, fully certified, she took a contract to repair St. Jonah's electrical grid, went in through the same service tunnel she escaped from, cut the power, and got Ivy out. Sir Trashmuffin escorted them to Marianne's clinic.",
+  "links": [
+    "ivy-emberose",
+    "bryn-eriksson",
+    "livi-stewart",
+    "st-jonahs",
+    "nereid-origin"
+  ]
+}

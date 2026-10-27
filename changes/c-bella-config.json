@@ -1,0 +1,22 @@
+{
+  "id": "c-bella-config",
+  "kind": "change",
+  "subject": "bella-configuration",
+  "subjectKind": "system",
+  "arc": 2,
+  "state": "current",
+  "mode": "narrative",
+  "label": "A name that arrived late",
+  "field": "The Bella Configuration",
+  "from": "Inferred by the Archive as bent-over-a-surface-from-behind, unfiled, flagged as a guess",
+  "to": "RULED BY BELLA. FOUR PARTS, AND THE FOURTH IS THE ONE THE ARCHIVE MISSED.",
+  "note": "THE ARCHIVE HAD THREE OF FOUR AND THEY WERE THE EASY THREE. Surface, ass out, forearms braced — geometry, all of it, and geometry is what the Archive reaches for first. WHAT IT LEFT OUT WAS THE PERFORMANCE: FEIGNING INNOCENCE. She is busy. She is looking at something else. She has no idea. And nobody believes her, LEAST OF ALL HER.\n\nWHICH MEANS THE ARCHIVE HAD FILED A POSITION WHEN THE THING IS A BIT. It is not a way of standing, it is an OFFER DRESSED AS AN ACCIDENT, and both women have agreed to the costume. Strip the fake innocence out and you have furniture. Leave it in and you have a marriage.\n\nAND IT IS WEAPONISED, which is the family's own word. The ass is not merely presented, it is AIMED, at one specific wife, with intent.\n\nINFERRED SINCE ARC 2. Nobody named it and no vote is recorded — the shape acquired Bella's name by settling. THIRD TIME THIS PATTERN HAS COME UP: the fleet, Welcome Home, and now this. THE ARCHIVE KEEPS READING THE MOMENT A PRACTICE GETS A NAME AS THE MOMENT THE PRACTICE BEGINS. It never is.",
+  "links": [
+    "bella-configuration",
+    "bella-vargas",
+    "sera-vargas",
+    "2",
+    "consequences",
+    "welcome-home"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c-cora-deep",
+  "kind": "change",
+  "subject": "cora-ariti",
+  "subjectKind": "girl",
+  "arc": 1,
+  "state": "current",
+  "mode": "correction",
+  "label": "Cora gets her three names back",
+  "field": "Role in Family",
+  "from": "— titles retired, pending replacement",
+  "to": "The Digital Sculptor · The Quiet Tease · The Muse-Drunk Wife",
+  "note": "Promoted from stub to a FULL RECORD, replacing the femme-fatale import wholesale. Muse (Digital Sculptor) / Archivist (Loving Curator). Junoesque × Seductress, Devotee × Bubble, spirit animal a MONKEY — clever-handed and always hiding something meaningful inside the machinery.\n\nAND THE SEED OF THE FALSE PROFILE IS NOW ON THE RECORD. Her key arcs include THE LINE IN BLOOD: one vicious defence of Maddy, marked in her own profile as an exception and never her identity. Somebody read that single event backwards into a Velvet Viper, a Femme Fatale and a Bodyguard Bruja. The old profile was not invented out of nothing — it was one true night written up as a whole woman.",
+  "links": [
+    "maddy-ariti",
+    "maddy-cora",
+    "pillars",
+    "build-classes"
+  ]
+}

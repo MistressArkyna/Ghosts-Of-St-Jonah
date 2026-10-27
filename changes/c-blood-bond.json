@@ -1,0 +1,20 @@
+{
+  "id": "c-blood-bond",
+  "kind": "change",
+  "subject": "ceri-dessie",
+  "subjectKind": "couple",
+  "arc": 10,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The Blood Bond",
+  "field": "Status",
+  "from": "Dating",
+  "to": "Blood Bonded — married under Ceri's clan rite, with Ceri officiating",
+  "note": "The BLOOD in Through Blood and Haven. Her clan is nomadic and blood-occult and marries by a rite with no officiant standing apart from the couple: they share blood with their chosen mate during intimacy, and the vow and the consummation are one act. Ceri performing her own marriage is not the strangeness it looks like — the only two people qualified to perform it were already in the room. Livi would have done a wedding. Ceri did a bond.",
+  "links": [
+    "ceri-clairmont",
+    "dessie-clairmont",
+    "blood-bond",
+    "10"
+  ]
+}

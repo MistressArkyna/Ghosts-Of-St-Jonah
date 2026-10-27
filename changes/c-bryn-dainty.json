@@ -1,0 +1,19 @@
+{
+  "id": "c-bryn-dainty",
+  "kind": "change",
+  "subject": "bryn-eriksson",
+  "subjectKind": "girl",
+  "arc": 1,
+  "state": "current",
+  "label": "She asked for the dainty things",
+  "field": "Profession",
+  "from": "Flight 03 labour — hands trained to break",
+  "to": "Jeweler. Valkyrie Jewels, taught by the man who nearly killed her",
+  "note": "Her hands shook when she got out. The first thing she asked for was the SMALLEST POSSIBLE WORK — settings, prongs, clasps, where a tremor ruins the piece — because she wanted the dainty things. James taught her and gave her the shop and the apartment, having worked out what St. Jonah's had become. Torie steadied the shaking, button by button. She has since forged the rings for Torie, Alice and Luna, and made Sera's out of car parts on a late-night text.",
+  "links": [
+    "torie-eriksson",
+    "st-jonahs",
+    "alice-luna",
+    "sera-bella"
+  ]
+}

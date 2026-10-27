@@ -1,0 +1,18 @@
+{
+  "id": "c-bryn-cabin",
+  "kind": "change",
+  "subject": "bryn-eriksson",
+  "subjectKind": "girl",
+  "arc": 3,
+  "state": "historical",
+  "label": "What she actually drew",
+  "field": "The Land",
+  "from": "A small cosy cabin near the lake, big enough for her and Torie",
+  "to": "Ghost Haven",
+  "note": "That was the whole ambition of the woman who ended up with two hundred acres, three Havens and seventy-two daughters. One warm building, two people, water out the window — at the back of the property, where THE BACKYARD LAKE still is. She walks past the site of the house she never built every single day, and it is a beach now.",
+  "links": [
+    "torie-eriksson",
+    "gh-lake",
+    "sanctuary-drive"
+  ]
+}

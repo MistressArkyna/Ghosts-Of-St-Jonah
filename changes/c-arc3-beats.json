@@ -1,0 +1,18 @@
+{
+  "id": "c-arc3-beats",
+  "kind": "change",
+  "subject": "3",
+  "subjectKind": "arc",
+  "arc": 3,
+  "state": "current",
+  "label": "Arc 3's big beats, given",
+  "field": "Contents",
+  "from": "Four adoptions recorded; the rest inferred from the master index",
+  "to": "Four adoptions · three camping trips, each with a cryptid · Bryn buys the cuddle bus",
+  "note": "Evie, Ivy, Harley and Yvaine all come in here — four in one arc, the largest intake before the Havens. Three separate camping trips, and something walks out of the treeline on every single one of them. Yvaine's shadow in the woods sits comfortably alongside that, which may not be a coincidence at all.",
+  "links": [
+    "bryn-eriksson",
+    "harley-calder",
+    "yvaine-calder"
+  ]
+}

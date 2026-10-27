@@ -1,0 +1,22 @@
+{
+  "id": "c-citizens",
+  "kind": "change",
+  "subject": "flight-system",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The citizen roster",
+  "field": "Survivor Status",
+  "from": "Forty unrecorded",
+  "to": "Twenty-two more named CIVILIAN by Viraena; twenty still unrecorded",
+  "note": "CIVILIAN — never went through those walls, as an authored fact. GHOST HAVEN: Luna, Violet, Jade, Pandora, Sage, Izzy, Fiona. SPECTER HAVEN: Quinn, Briar, Katherine, Wynter, Pepper, Natalia, Danielle, Marigold, Tiffany, Sapphira. BANSHEE HAVEN: Magnolia, Daisey, Lyric, Alexis, Remielle. Plus Torie, Alice and Cora.\n\nNOVA CONFIRMED SURVIVOR — 07 Floaters, 07-005, which the Archive already held.\n\nAKANE'S 01-399 CONFIRMED. Elspeth held that designation before her demotion, so the two are sequential rather than contradictory; the reissue itself has never been stated and is not being asserted.\n\nEIRWEN IS DISPUTED and stays UNRECORDED: named a survivor in one pass and a citizen in the next, and the Archive will not pick between two authored statements.\n\nStanding at 28 survivors, 24 civilians, 20 unrecorded.",
+  "links": [
+    "nova-bennet",
+    "eirwen",
+    "cora-ariti",
+    "elspeth",
+    "akane-yoshizawa"
+  ]
+}

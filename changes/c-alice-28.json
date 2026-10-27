@@ -1,0 +1,21 @@
+{
+  "id": "c-alice-28",
+  "kind": "change",
+  "subject": "alice-meadows",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Twenty-eight, for four years, and her own hell",
+  "field": "Age · Where she came from",
+  "from": "Age unrecorded. The Archive guessed TWENTY-ONE and wrote THREE ARCS OUT OF HELL",
+  "to": "TWENTY-EIGHT, AND TWENTY-EIGHT FOR FOUR YEARS. And she was never in St. Jonah's",
+  "note": "TWO INVENTIONS IN ONE SENTENCE, BOTH OF THEM MINE.\n\nTHE AGE. Her record carried no age at all, so the Archive supplied one — twenty-one — because it fit the shape of the sentence it wanted to write. She is TWENTY-EIGHT, and she has been twenty-eight for FOUR YEARS, which is the Age Cap made visible and is now its own record.\n\nTHE HELL. 'Three arcs out of hell' assumed St. Jonah's, and Alice is filed CIVILIAN — no flight, no ID, correctly. THE ARCHIVE READ CIVILIAN AS UNHARMED, which is a worse error than the age by a distance. Viraena's words: SHE DIDN'T GET OUT OF HELL, SHE HAD HER OWN. Whatever it was, it was not the academy, it has no ID number, and it does not appear in any list the Archive holds.\n\nTHAT IS THE LESSON WORTH KEEPING. The survivor field distinguishes St. Jonah's from everything else. It does not distinguish suffering from safety, and the Archive has been reading it as though it does.\n\nA PROPER SURVIVORS LIST IS COMING from Viraena. Until it lands, no woman in this file gets an origin she was not given.",
+  "links": [
+    "alice-meadows",
+    "luna-meadows",
+    "age-cap",
+    "st-jonahs"
+  ]
+}

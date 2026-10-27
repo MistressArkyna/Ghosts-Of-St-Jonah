@@ -1,0 +1,22 @@
+{
+  "id": "c-abbi-scale",
+  "kind": "change",
+  "subject": "abbi-silverveil",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Abbi is five foot eight and a quarter, and she is a gremlin",
+  "field": "Height · Register · Council seat",
+  "from": "5'8\" · written as a solid, plain-spoken artisan · no Council seat recorded",
+  "to": "5'8.25\" · SOFT, SUBBY, GREMLIN · FIFTH ON THE PAWG COUNCIL",
+  "note": "THE QUARTER INCH IS THE SMALLEST PART OF THIS. The Archive had her height nearly right and her WHOLE REGISTER wrong, and then wrote her at six feet in a scene on top of it — three and three-quarter inches invented on a woman whose entire comedy is that she is small and makes enormous things.\n\nSHE IS A CHAOS AGENT. Blacksmith Gremlin is the flavour, gremlin is the noun. SOFT. SUBBY. She gremlins about a problem until somebody fixes it — which is literally how Sleipnir got elongated — and then she forges the hardware for it herself. Two thousand hinges and a bratty little voice going about the length of a bus.\n\nAND SHE SITS FIFTH ON THE PAWG COUNCIL, at 38–26–44. Ivy, at 42, ranks above her, and the stated reason is not arithmetic: IVY IS IVY.\n\nHer 8.5\" against Lumina's 10.2\" stands at one point seven where the standard is one point five, and that gap is THEIR CHOICE, which was already on file and now has a reason to be read next to.",
+  "links": [
+    "abbi-silverveil",
+    "lumina-silverveil",
+    "pawg-council",
+    "sleipnir",
+    "ivy-emberose"
+  ]
+}

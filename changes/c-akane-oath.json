@@ -1,0 +1,20 @@
+{
+  "id": "c-akane-oath",
+  "kind": "change",
+  "subject": "akane-gwen",
+  "subjectKind": "couple",
+  "arc": 10,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The Oath — married common-law",
+  "field": "Status",
+  "from": "Married, with no ceremony recorded behind it",
+  "to": "Married common-law, by Oath ceremony. Gwen is Akane's Knight",
+  "note": "The Archive reached this the long way and both wrong turns are worth keeping. It first recorded them simply as Married, with nothing behind it. It then over-corrected to NOT MARRIED at all, which was worse. The truth is narrower and better: Gwen's paladin oath forbids her a marriage in the legal sense, so the Arc 10 Oath ceremony is what they had instead, and they are married common-law. She is Akane's brat-wife. She took Akane's name with no certificate anywhere in it — a knight who cannot sign, signing herself over in the only ink she has.",
+  "links": [
+    "akane-yoshizawa",
+    "gwen-yoshizawa",
+    "the-oath",
+    "10"
+  ]
+}

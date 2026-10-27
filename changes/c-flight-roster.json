@@ -1,0 +1,24 @@
+{
+  "id": "c-flight-roster",
+  "kind": "change",
+  "subject": "st-jonahs",
+  "subjectKind": "system",
+  "arc": 0,
+  "state": "current",
+  "mode": "correction",
+  "label": "Eighteen numbers, and the column header that is an apology",
+  "field": "Flight IDs",
+  "from": "Flight data assembled one girl at a time across many sessions",
+  "to": "THE DEFINITIVE TABLE. Sixteen of eighteen already matched",
+  "note": "CORRECTED: NOVA 07-005 → 07-088. MADDY 09-099 → 09-055. AND DESSIE GAINS A FLIGHT SHE DID NOT HAVE — the Archive held only her Discard number, 10-058, and she was 04-077 FIRST: FAILED TRIALS, the experimentation class, before she was demoted. She was not simply discarded. SHE WAS EXPERIMENTED ON AND THEN DISCARDED, and the Archive has been recording only the second half of that sentence.\n\nEVIE 00-100 AND HARLEY 00-101 ARE CONSECUTIVE. Two Criminal Transfers, numbered back to back, in the same house two decades later.\n\nAND THE TABLE HAS A DEADNAME COLUMN WHOSE HEADER READS: DEADNAME (I'M SORRY).\n\nTHE ARCHIVE HAS RECORDED THAT THE COLUMN EXISTS AND WHAT IT SAYS AT THE TOP, AND HAS WRITTEN NO WOMAN'S DEADNAME INTO HER OWN RECORD. Those fields already hold what each of them chose to put there instead — DEAD, GONE, BURIED · BURNED OUT OF MEMORY IN SILENCE · LEFT IN A PUDDLE UNDERNEATH AN ENGINE · DELETED WITHOUT BACKUP, EVEN RECOVERY SOFTWARE KNOWS BETTER · ERASED FROM RECORDS, YVAINE STITCHED HER NAME PERMANENT. Overwriting a woman's own sentence with the name she buried is not filing. It is exhumation. VIRAENA RULES ON THAT, NOT THE ARCHIVE.\n\nIDA VEYRA IS NOT ON THE TABLE and is on the Survivors list at 05-117. Eighteen rows, nineteen Ghost Haven survivors. Held open.",
+  "links": [
+    "st-jonahs",
+    "flight-roster",
+    "nova-bennet",
+    "maddy-ariti",
+    "dessie-clairmont",
+    "evie-emberose",
+    "harley-calder",
+    "ida-veyra"
+  ]
+}

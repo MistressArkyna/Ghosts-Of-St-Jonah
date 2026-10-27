@@ -1,0 +1,23 @@
+{
+  "id": "c-draft-table",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": 3,
+  "state": "current",
+  "label": "Three fathers over a draft table",
+  "field": "Construction",
+  "from": "Built beam by beam by the girls who live in it",
+  "to": "Framed by Bryn and three fathers, finished by the family, as a surprise for Torie",
+  "note": "Bryn arrived at the site to start her cabin and found RAGNAR, TORIE'S FATHER and UNCLE JAMES already at a draft table at a wide open spot, with something far larger drawn. The man who beat her, the man who finished it and put her in a coma, and the father of the girl she was beaten for hurting — none of them asking, all of them drafting.\n\nWeeks of beams and skeleton followed. LIVI, SERA and ALICE worked out where Bryn kept vanishing to and were SWORN TO SECRECY, because Torie was not allowed to find out. ALICE'S PRICE WAS A LIBRARY FOR LUNA — which is why the Library Tower exists. The garage was already in the plan by then, so when BELLA, NOVA and RAE joined the innards team the frame was already standing. Nova was on that team pre-affirmation, with the limp.\n\nAnd the load-bearing fact: SERA AND BELLA MAY HAVE FUCKED THE SHAPE INTO A LARGE ASS, BUT THE SKELETON REMAINS WHAT BRYN DESIGNED. The woods had opinions about the skin. The bones were never up for debate.",
+  "links": [
+    "bryn-eriksson",
+    "torie-eriksson",
+    "alice-meadows",
+    "luna-meadows",
+    "gh-library",
+    "gh-garage",
+    "nova-bennet",
+    "st-jonahs"
+  ]
+}

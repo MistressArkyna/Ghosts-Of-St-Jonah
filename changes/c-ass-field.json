@@ -1,0 +1,24 @@
+{
+  "id": "c-ass-field",
+  "kind": "change",
+  "subject": "project-nereid",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "Five axes and one authored sentence",
+  "field": "Nereid v8 · the Ass field",
+  "from": "THE SHRINE VOCABULARY — Shrine, Idol, Recoil, Anchor, compounded into hyphenated tokens on live records",
+  "to": "FIVE AXES: Shape, Scale, Cheek Plump, Kinetic Motion, Handfeel. PAST PROPOSAL STAGE PER QUINN.",
+  "note": "THE OLD VOCABULARY COMPRESSED TWO FIELDS INTO ONE TOKEN. Bella’s label was SHRINE-RECOIL, and under the new model that is Shrine for HANDFEEL and Recoil for KINETIC — one hyphen doing two axes of work. That is why it had to be replaced and not merely renamed.\n\nNATURAL IS THE ZERO POINT. Unmodified, on every axis. The Archive flagged NATURAL-on-two-axes as a collision needing a rename; WRONG — it is one meaning applied in two places. Cheek Plump runs 0, 1, 2 and 3 inches across Natural, Subtle, Pronounced and Obscene.\n\nAND THE ARCHIVE ALMOST RAN HIP LABELS THROUGH THE HANDFEEL TABLE. Quinn’s SHRINE-ANCHOR hips and Arianna’s IDOL-ANCHOR hips would have come out PLIANT AND DENSE AT ONCE, which is incoherent. HIP LABELS DO NOT TRANSLATE. Caught before committing, for once.\n\nOBSCENE IS A SECRET MENU OPTION. Not granted, not offered — you have to know how to ask, and BELLA KNEW.",
+  "links": [
+    "project-nereid",
+    "nereid-ass-field",
+    "nereid-pillars-five",
+    "bella-vargas",
+    "quinn-lutinia",
+    "arianna-solene",
+    "clinic-notation"
+  ]
+}

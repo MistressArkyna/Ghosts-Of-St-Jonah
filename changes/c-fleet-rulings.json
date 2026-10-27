@@ -1,0 +1,24 @@
+{
+  "id": "c-fleet-rulings",
+  "kind": "change",
+  "subject": "road-fleet",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "Work, twelve, and a garage that belongs to everybody",
+  "field": "The Road Fleet · three rulings",
+  "from": "TWO OPEN QUESTIONS and one field the Archive had called BROKEN",
+  "to": "THE WORK TRUCK. TWELVE UNITS, FULL STOP. AND THE GARAGE IS COMPOUND-WIDE BY DESIGN.",
+  "note": "ONE: IT IS THE WORK TRUCK. A thumb slip, exactly as suspected and deliberately not assumed. The question cost one line and the answer cost one word; GUESSING WOULD HAVE COST A NAME, which is what happened to Ceri’s trade the last time the Archive tidied a spelling it did not understand.\n\nTWO: WILDWOOD HEARTH IS THE GUEST HOUSE. No wheels of its own, because guests do not garage cars at a guest house. Twelve is the fleet and the thirteen-cart parallel was a coincidence the Archive correctly refused to build a vehicle out of. THIS IS THE SECOND TIME TODAY THAT HOLDING A GAP OPEN PAID INSTEAD OF COSTING.\n\nTHREE: AND THE ARCHIVE OVERSTATED THE THIRD ONE. It announced that Elspeth’s bike BROKE A FIELD and that the roster would LIE THE FIRST TIME SOMETHING GOT TOWED. The truth is quieter and better: BELLA’S GARAGE SERVES THE WHOLE COMPOUND AND DOES NOT CARE WHICH HAVEN A VEHICLE CAME FROM. A Banshee motorcycle in a Ghost Haven bay is not an edge case straining the schema, it is the garage doing its job. The two fields are still correct. The alarm attached to them was not.",
+  "links": [
+    "road-fleet",
+    "gh-garage",
+    "bella-vargas",
+    "elspeth",
+    "bryn-eriksson",
+    "ceri-clairmont",
+    "horni-fleet"
+  ]
+}

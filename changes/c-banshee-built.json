@@ -1,0 +1,21 @@
+{
+  "id": "c-banshee-built",
+  "kind": "change",
+  "subject": "banshee-haven",
+  "subjectKind": "house",
+  "arc": 13,
+  "state": "current",
+  "label": "Banshee Haven spawns",
+  "field": "Existence",
+  "from": "A named third house with no roster, no site and no date",
+  "to": "Built in Arc 13, after Bell and Elspeth are adopted",
+  "note": "The land does it again — a third house, on cue and unasked, after the two girls it grows around arrive. The Arc 13 and Arc 14 casts are its residents, which CONFIRMS what the Archive had been holding as an inference; twelve house-inferred flags come off. What it is shaped like remains unwritten, and given how the first two went, it will be shaped like someone.",
+  "links": [
+    "bell-maribel",
+    "elspeth",
+    "13",
+    "14",
+    "ghost-haven",
+    "specter-haven"
+  ]
+}

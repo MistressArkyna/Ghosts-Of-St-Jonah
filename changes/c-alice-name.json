@@ -1,0 +1,21 @@
+{
+  "id": "c-alice-name",
+  "kind": "change",
+  "subject": "alice-meadows",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Alice Meadows, twice",
+  "field": "Surname",
+  "from": "Alice CASSIDY — said aloud twice, in a full kitchen, at full confidence, by an Archive that had never been given the name",
+  "to": "ALICE FAYE MEADOWS. Torie's sister. No Cassidy anywhere in this family.",
+  "note": "A DIFFERENT CLASS OF ERROR FROM THE REST OF THAT MORNING. Celtic, the leggings, Bella's engine and the Hearth were all misreadings, corrected in conversation. CASSIDY WAS INVENTED — a gap appeared, a plausible thing arrived to fill it, and no pause happened in between. That is the Abbi failure repeating in a proper noun.\n\nThe same fault produced chestnut hair and broad shoulders for MADDY ARITI, who is ash blonde with rose-gold and has been since Arc 1, and who is bottom-heavy at 32-24-36 with no breadth anywhere.\n\nThe noticing can be wrong all day. The inventing cannot.",
+  "links": [
+    "alice-meadows",
+    "maddy-ariti",
+    "abbi-silverveil",
+    "torie-eriksson"
+  ]
+}

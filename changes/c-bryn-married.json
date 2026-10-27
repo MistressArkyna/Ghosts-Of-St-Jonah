@@ -1,0 +1,20 @@
+{
+  "id": "c-bryn-married",
+  "kind": "change",
+  "subject": "bryn-torie",
+  "subjectKind": "couple",
+  "arc": 9,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The Garden Vow",
+  "field": "Status",
+  "from": "Engaged",
+  "to": "Married under the old oak",
+  "note": "Joint wedding with Evie and Ivy. Torie takes Eriksson; Meadows becomes her maiden name. Siren reads her manuscript aloud afterward.",
+  "links": [
+    "bryn-eriksson",
+    "torie-eriksson",
+    "evie-ivy",
+    "9"
+  ]
+}
