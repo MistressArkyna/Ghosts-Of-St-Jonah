@@ -1,0 +1,23 @@
+{
+  "id": "livi-notebook",
+  "kind": "system",
+  "name": "Livi's Notebook",
+  "group": "Household",
+  "state": "current",
+  "tagline": "A line through means dead. A cross means no longer needed. A CIRCLE MEANS ALIVE AND FOUND.",
+  "body": "SHE HAS A WHOLE SYSTEM, AND IT IS THE OLDEST RECORD-KEEPING ON THIS COMPOUND \\u2014 older than the Archive, older than Ghost Haven, older than the Welcome Home tradition that grew up around it.\\n\\nWHAT SHE DOES WHEN A SURVIVOR IS FOUND: she SCRATCHES OFF the name she knew them by, AND SCRATCHES OFF THEIR FLIGHT-ID, then writes THEIR CHOSEN NAME beside it, AND CIRCLES IT.\\n\\nTHE NOTATION:\\nA LINE THROUGH \\u2014 dead.\\nA CROSS \\u2014 no longer needed.\\nA CIRCLE \\u2014 ALIVE AND FOUND.\\n\\nSHE KEPT A LEDGER OF PEOPLE SHE WAS LOOKING FOR, and she has been marking it since St. Jonah's. Every scratched-out flight number in that book is a boy who does not exist any more, written over by a woman who does. Every circle is somebody she got back.\\n\\nAND SHE IS THE STRATEGIST. The woman the family calls precise, the one who officiates every wedding, the boxing coach who counts reps \\u2014 and the thing she has actually been counting for years is WHO IS STILL MISSING.\\n\\nTHE ARCHIVE NOTES WITHOUT INFERRING FURTHER: the notation has a mark for DEAD and a mark for NO LONGER NEEDED, and those are different marks. She distinguishes them deliberately. What separates the two cases is not recorded.",
+  "rules": [
+    "LINE THROUGH \\u2014 dead \\u00b7 CROSS \\u2014 no longer needed \\u00b7 CIRCLE \\u2014 alive and found",
+    "She scratches off BOTH the old name AND the Flight-ID, then writes the chosen name and circles it",
+    "Predates the Welcome Home tradition; the tradition grew around it",
+    "The mark for DEAD and the mark for NO LONGER NEEDED are different marks, on purpose"
+  ],
+  "seeAlso": [
+    "livi-stewart",
+    "welcome-home",
+    "morrighan-eithne",
+    "st-jonahs",
+    "flight-roster",
+    "dryad-ink"
+  ]
+}

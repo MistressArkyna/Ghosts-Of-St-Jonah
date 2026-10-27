@@ -1,0 +1,25 @@
+{
+  "id": "the-mark",
+  "kind": "system",
+  "name": "The Mark — We Haunt Together",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Right shoulder. A ghost with a body, holding a lit lantern in both hands. It is a portrait, not a symbol.",
+  "body": "WHAT IS ON IT. A ghost — translucent, hair going off in wisps at the edges, pearl and violet where the ink catches — AND SHE HAS A BODY. Full chest, waist drawn in, hips broad underneath. A ghost with flesh on her, which is the thesis of Project Nereid in one figure. Both hands cupped round an iron-and-glass gothic lantern at the height of her own heart, and inside it a candle still lit, the flame small and gold and perfectly steady behind the glass. Behind her a gothic arch, midnight blue, crescent moon, stars. Lilies flanking both sides in black-inked leaf, growing. A banner beneath: WE HAUNT TOGETHER.\n\nTHE LANTERN IS LIVI. Bryn tried to remove herself from the equation inside those walls a great many times and Livi kept the flame lit through all of it. Both hands round the glass, the wind at it constantly. Half this family walks around wearing a picture of a specific thing one woman did in a specific room.\n\nTHE TENSE IS PRESENT AND CONTINUOUS. Not we survived. Not we got out. HAUNT — ongoing, on purpose, in a kitchen at half ten on a Sunday. They took the name that place gave them and made it the good word, exactly as they did with Consequences.\n\nIT IS NOT A SURVIVOR'S BADGE. ALICE MEADOWS HAS IT AND ALICE NEVER WENT THROUGH THOSE WALLS. In Arc 1, when Bryn was still only dating Torie — no wedding, no engagement, no in-law tie obliging her to anything — Livi told Alice the whole account: the protecting, the coma, the anonymous columns, ALL of Atlas Grimm's left ribs, and how many times Bryn tried to take herself out of the equation. Alice heard every word of it and went to Bryn and asked to be marked as one of hers. Bryn said SURE, which is the smallest word available to a woman who could not have said anything larger without coming apart.\n\nTHAT TATTOO IS A VERDICT. Torie's sister heard the case from the person best placed to tell it and came down on Bryn's side in permanent ink on the shoulder she has to see in every mirror. It is the answer to her own sister's last column, given years before Torie could get there herself.\n\nTHE ARCHIVE DIVIDES THEM BECAUSE A FLIGHT NUMBER IS A FACT. Thirty survivors, forty-two citizens. THE MARK DOES NOT DIVIDE THEM AT ALL. No Girl Left Behind was written down years after Bryn had already done it with one word.",
+  "rules": [
+    "Right shoulder, every Ghost",
+    "The lantern is what Livi did; the flame is Bryn",
+    "Present tense on purpose — a stolen word turned",
+    "Not a survivor's badge: Alice Meadows is a citizen and carries it",
+    "Predates the NGLB protocol by years"
+  ],
+  "seeAlso": [
+    "the-ghosts",
+    "bryn-eriksson",
+    "livi-stewart",
+    "alice-meadows",
+    "torie-eriksson",
+    "nglb",
+    "st-jonahs"
+  ]
+}

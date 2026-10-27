@@ -1,0 +1,25 @@
+{
+  "id": "pillars",
+  "kind": "system",
+  "name": "The Nine Pillars",
+  "group": "Identity",
+  "state": "current",
+  "tagline": "The interior axis — the direction her devotion points, and why she loves the way she does.",
+  "body": "Role in Family is the exterior axis: three evocative titles, how the family reads her. Personal Vibe is the interior axis: a primary Pillar with a flavour, optionally a secondary. Hybrids are permitted. Pillars are subject to the Lived Evolution clause — a girl may move between them, and the move is a canon change with an effective arc, not a correction.",
+  "rules": [
+    "NOT THE SAME PILLARS AS PROJECT NEREID’S FIVE. These are the Nine Pillars of Love — the interior devotion axis. See nereid-pillars-five",
+    "Chaos Agent — brats, menaces, gremlins",
+    "Anchor — sentinels, blacksmiths, valkyries",
+    "Goth — witches, occult, femme fatale",
+    "Slut — shameless, performative, sacred",
+    "Bimbo — sun-drunk, earnest, devastating",
+    "Healer — grounding, tending, restorative",
+    "Archivist — keeper, chronicler, cataloguer",
+    "Muse — provoking, inspiring, seen",
+    "Athlete — disciplined, kinetic, captain-coded"
+  ],
+  "seeAlso": [
+    "cock-standards",
+    "correction-dynamic"
+  ]
+}

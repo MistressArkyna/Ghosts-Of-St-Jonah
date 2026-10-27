@@ -1,0 +1,24 @@
+{
+  "id": "st-jonahs",
+  "kind": "system",
+  "name": "St. Jonah's — the Academy and the Hell",
+  "group": "St. Jonah's",
+  "state": "current",
+  "tagline": "It was the West Point of Calderon before it was the School for Troubled Boys. That is why the parents sent their children.",
+  "body": "ST. JONAH'S ACADEMY OF MILITARY EXCELLENCE. Calderon's officer school, its West Point, genuinely prestigious. MARIANNE HATHAWAY and CASSANDRA went there together. So did JAMES and RAGNAR — which is how those two men know the Hathaways.\n\nAnd that is why Bryn was sent there. Ragnar did not hand his child to a torture facility; he drove her to HIS OWN ALMA MATER to learn discipline and respect, exactly as he had. His belief was not negligence, it was MEMORY — nobody re-verifies the school they graduated from. It had become St. Jonah's School for Troubled Boys somewhere in between, and the name change is the whole horror.\n\nAnd when Ragnar found out what it had turned into, he used everything he had as a GOVERNMENT AGENT and BURNED IT TO THE GROUND. The Collapse of St. Jonah's in Arc 0 is him.\n\nThe gate was fed by everyone a child is supposed to trust. Ragnar drove Bryn. Bella's parents dropped her off. Ivy's parents sold her for being too soft for their heir. A priest sold Livi for defending younger boys. The state police walked Evie in and stayed to watch her cuffs change hands. Harley's own black-ops handlers filed her under one word: failed.",
+  "rules": [
+    "Original name: St. Jonah's Academy of Military Excellence — the West Point of Calderon",
+    "Alumni: Marianne Hathaway, Cassandra Hathaway, James, Ragnar",
+    "Later name: St. Jonah's School for Troubled Boys",
+    "RAGNAR BURNED IT DOWN as a government agent, on learning what it had become — this is Arc 0's Collapse",
+    "James found a partial sequence of Leviathan's lab notes burned into a hidden page in the EAST WING, and sent it to Marianne rather than destroying it",
+    "Restitution: James gave Bryn the shop and the apartment; Ragnar gave her the land deed Ghost Haven stands on"
+  ],
+  "seeAlso": [
+    "flight-system",
+    "id-ranges",
+    "nereid-origin",
+    "bryn-eriksson",
+    "0"
+  ]
+}

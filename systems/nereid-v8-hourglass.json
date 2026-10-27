@@ -1,0 +1,32 @@
+{
+  "id": "nereid-v8-hourglass",
+  "kind": "system",
+  "name": "Nereid v8 — Immutable Hourglass Math",
+  "group": "Body",
+  "state": "proposed",
+  "version": "v8 proposal",
+  "tagline": "WHR 0.60–0.70, and a TOLERANCE between two waist-based ratios. The bust gate is gone. PROPOSED — nothing resolves from this.",
+  "body": "NEREID GROWS AN AFFIRMED HOURGLASS: a deliberate waist between upper and lower curves belonging to the same living woman. Those curves may make a dress scandalous, a wife distracted and Cassandra's account of ADEQUATE COVERAGE medically unhelpful. THEY STILL OBEY THE MATHEMATICS. Hathaway Clinic distinguishes bodily variety from unrestricted exaggeration, even when its chief physician needs a moment to remember what she was calculating.\n\nWAIST-TO-HIP RATIO. WHR = waist ÷ hips. THE IMMUTABLE PERMITTED RANGE IS 0.60 TO 0.70 INCLUSIVE. Classification reads the finished ratio rounded to two places: 0.68–0.70 BALANCED · 0.64–0.67 PRONOUNCED · 0.60–0.63 EXTREME.\n\nAND THE UNROUNDED RATIO DETERMINES COMPLIANCE. Rounding supplies the classification and NOT A DISCREET LITTLE TUNNEL BENEATH THE IMMUTABLE BOUNDARY. A woman at 0.598 does not round her way inside.\n\nBUST-LINE BALANCE — AND THIS IS THE PART THAT CHANGED. Waist-to-bust = waist ÷ full bust. The permitted separation is |WHR − WBR| ≤ 0.10.\n\nAND THE TWO RATIOS CARRY TWO DECIMAL PLACES. The separation is measured between the ratios AS WRITTEN — 0.62 against 0.72, not 0.6190 against 0.7222 — and a pair exactly 0.10 apart is INSIDE, because the rule reads less than or equal. The 0.60 floor is the one place the unrounded quotient still governs: it is a floor, and a floor does not round.\n\nTHE 0.10 TOLERANCE REPLACES THE OLD 0.05 GATE ENTIRELY, and it is a different instrument, not a looser one. The superseded rule compared BUST TO HIPS and demanded they sit within five per cent of each other, which forced every woman toward one upper-to-lower balance. The new rule compares TWO WAIST-BASED RATIOS, both measured off the same finished waist. A generous ass need not arrive with an identically measured bust, and a generous bust does not have to pay matching hips as an admission fee. BUST-LED AND HIP-LED HOURGLASSES BOTH SURVIVE.\n\nIt is NOT a ten per cent difference between bust and hip circumferences. It is the unrounded gap between two ratios.\n\nFULL BUST CIRCUMFERENCE supplies the upper measurement. Band size and cup designation are separate information and neither substitutes for the bust line. THE IMMUTABLE CUP SEQUENCE IS C · D · DD · DDD · E · F, and Cassandra's ability to interrupt Marianne by leaning forward does not constitute a seventh size.\n\nEVEN-NUMBER MEASUREMENTS. Primary bust, waist AND hip circumferences all follow the even-number canon — calculated values ROUND DOWN to the nearest even whole inch, and then the complete combination is validated AGAIN. A calculated 29.4-inch waist becomes 28, not 30. The intended little exaggeration stays subordinate to both proportion checks, and if rounding breaks compliance THE CLINIC EXPLAINS THE CONFLICT AND OFFERS REVISIONS FOR THE WOMAN TO CHOOSE.\n\nNO BUST GROWS, WAIST NARROWS OR HIPS SHRINK WITHOUT HER AUTHORIZATION merely because the software would find a different woman easier to approve. DESIRE BELONGS IN THE CONSULTATION. UNAUTHORIZED ARITHMETIC DOES NOT.\n\nBELLA'S VALIDATED EXAMPLE. 40–28–46. Waist-to-hip 28÷46 = 0.608695… COMPLIANT. Waist-to-bust 28÷40 = 0.700000. Separation 0.091304… COMPLIANT. She classifies EXTREME HOURGLASS and keeps her forty-six-inch hips WITHOUT having her bust silently enlarged to appease the superseded tolerance. Sera is permitted to admire the result; her subsequent loss of concentration is not an additional validation stage.\n\nNO SILHOUETTE EXCEPTIONS. Build Classes, Adoptable Traits, regional refinements and Secret Menu selections all operate BENEATH these constraints. They may move local fullness and whole-body structure; the finished design must still satisfy WHR 0.60–0.70 and separation ≤ 0.10. A MASSIVELY BOTTOM-HEAVY MEWTWO SILHOUETTE AT 0.51 WHR REMAINS OUTSIDE THE ENVELOPE — the broader bust tolerance does not lower the floor, create a ninth Build, or turn provocative compression shorts into a constitutional amendment.\n\nBELLA HAS WON ROOM FOR VARIETY. SHE HAS NOT WON JURISDICTION OVER THE CALCULATOR. Sera's testimony remains affectionate, enthusiastic, and inadmissible whenever Bella is facing away from her.",
+  "rules": [
+    "WHR = waist ÷ hips. IMMUTABLE RANGE 0.60–0.70 inclusive",
+    "0.68–0.70 BALANCED · 0.64–0.67 PRONOUNCED · 0.60–0.63 EXTREME",
+    "The UNROUNDED ratio decides compliance; rounding only names the band",
+    "|WHR − WBR| ≤ 0.10 — two waist-based ratios. THIS REPLACES the 0.95–1.05 bust gate",
+    "BOTH RATIOS CARRY TWO DECIMAL PLACES. The separation test is run at two places, not on the full quotient",
+    "The 0.60 floor still reads UNROUNDED. A woman at 0.598 does not round her way inside",
+    "Cup sequence, immutable: C · D · DD · DDD · E · F",
+    "Bust, waist AND hips round DOWN to the nearest even inch, then revalidate",
+    "If rounding breaks compliance the clinic explains and offers revisions. NO UNAUTHORIZED ARITHMETIC",
+    "Build Class, traits, refinements and Secret Menu all sit BENEATH the envelope",
+    "Mewtwo at 0.51 is out. The floor did not move"
+  ],
+  "seeAlso": [
+    "project-nereid",
+    "nereid-v8-stature",
+    "consent-ladder",
+    "hathaway-clinic",
+    "nereid-origin",
+    "bella-vargas",
+    "build-classes"
+  ]
+}

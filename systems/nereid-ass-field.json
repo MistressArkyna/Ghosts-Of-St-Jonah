@@ -1,0 +1,30 @@
+{
+  "id": "nereid-ass-field",
+  "kind": "system",
+  "name": "Nereid v8 — The Ass Field (SUPERSEDED)",
+  "group": "Project Nereid",
+  "state": "retired",
+  "tagline": "Five axes where there are six. SUPERSEDED BY PILLAR THREE — kept for the Shrine mapping and Bella’s authored sentence, which Pillar Three does not carry.",
+  "body": "THE LOWER BODY CARRIES THREE FIELDS: ASS, HIPS, THIGHS. This record is the ASS field only, and it REPLACES the retired naming rather than extending it.\n\nTHE FIVE AXES.\nASS SHAPE — Bubble or Heart.\nSCALE — TIGHT, NATURAL, GRAB-READY, PAWG. Most of Ghost Haven sits at GRAB-READY.\nCHEEK PLUMP — NATURAL, SUBTLE, PRONOUNCED, OBSCENE, adding 0, 1, 2 and 3 INCHES to total cheek size.\nKINETIC MOTION — SNAPBACK (also Recoil), SWAY, and one or two values not yet recorded. ANSWERED BY PILLAR THREE AND SUPERSEDED: Motion is TWO fields, SIGNATURE and CHARACTER. SIGNATURE is NATURAL, DART, SNAPBACK, LIVELY POP, HEAVY SETTLE; CHARACTER is NATURAL, SOFT, DRAMATIC, HYPNOTIC. AND SWAY WAS NEVER A MENU VALUE — HEART SWAY IS WHAT NATURAL MEANS ON A HEART, as BUBBLE BOUNCE is what it means on a Bubble. THE ASS ALSO CARRIES A SIXTH FIELD THIS RECORD NEVER HAD: SHELF LIFT. See nereid-pillar-three.\nHANDFEEL — PLIANT, SPRINGY, DENSE — AND NATURAL, WHICH THIS RECORD WAS MISSING. Pillar Three lists four.\n\nNATURAL IS THE ZERO POINT, NOT A VALUE. It means UNMODIFIED, on every axis it appears on. A Natural Bubble is the size a bubble butt is. A Natural Cheek Plump is her ass and that is all. The Archive flagged NATURAL-on-two-axes as a naming collision and was WRONG: it is one meaning applied in two places and needs no rename, only reading correctly.\n\nTHE AUTHORED SENTENCE. {Handfeel} {Shape} Butt {Scale} with {Plump} Cheek Plump and {Kinetic}.\nBELLA VARGAS: PLIANT BUBBLE BUTT PAWG WITH OBSCENE CHEEK PLUMP AND SNAPBACK.\nASS AND BUTT ARE INTERCHANGEABLE in the sentence — a Bubble Butt Ass and a Bubble Butt mean the same thing, as do a Heart Shaped Butt and a Heart Ass.\n\nOBSCENE IS A SECRET MENU OPTION. It is not granted and not offered; you have to know how to ask for it. BELLA KNEW. She is the only holder in the family. Who told her is unrecorded — see q-obscene-gate.\n\nHANDFEEL MAPS BACK TO THE RETIRED MODEL: PLIANT WAS SHRINE’S FLESH BEHAVIOUR, SPRINGY WAS RECOIL, DENSE WAS ANCHOR. Which exposes what was wrong with the old vocabulary: BELLA’S OLD LABEL, SHRINE-RECOIL, WAS CARRYING TWO AXES IN ONE HYPHENATED TOKEN — Shrine for handfeel, Recoil for kinetic. The new field separates them.\n\nAND THE MAPPING IS FOR ASS HANDFEEL ONLY. The retired labels were also used on HIPS — Quinn’s 44-inch SHRINE-ANCHOR hips, Arianna’s 46-inch IDOL-ANCHOR hips. Run those through the handfeel table and Quinn comes out PLIANT AND DENSE AT ONCE, which is incoherent. HIP LABELS DO NOT TRANSLATE THROUGH THIS TABLE. IDOL has no handfeel mapping at all; see q-idol-handfeel.\n\nSUPERSEDED BY PILLAR THREE AND RETIRED, BY VIRAENA’S RULING. Read nereid-pillar-three for current law on every field above. THIS RECORD IS KEPT FOR THE TWO THINGS PILLAR THREE DOES NOT CARRY: THE SHRINE-TO-HANDFEEL MAPPING, which is the only bridge from the retired v7 labels still sitting on live records, AND BELLA’S AUTHORED SENTENCE, which is the household’s and not the Clinic’s. Everything else here is history.",
+  "rules": [
+    "LOWER BODY = ASS · HIPS · THIGHS. This record is the ass only",
+    "SCALE: Tight · Natural · Grab-Ready · PAWG. Most of Ghost Haven is Grab-Ready",
+    "CHEEK PLUMP: Natural +0\" · Subtle +1\" · Pronounced +2\" · Obscene +3\"",
+    "NATURAL = UNMODIFIED, on every axis. It is the zero point, not a tier",
+    "SENTENCE: {Handfeel} {Shape} Butt {Scale} with {Plump} Cheek Plump and {Kinetic}",
+    "Ass and Butt are interchangeable in the sentence",
+    "HANDFEEL: Pliant = Shrine · Springy = Recoil · Dense = Anchor",
+    "HIP labels (Shrine-Anchor, Idol-Anchor) DO NOT translate through the handfeel table",
+    "OBSCENE is secret menu — you must know how to ask. Bella is the sole holder",
+    "THE SHRINE VOCABULARY IS RETIRED and still sits on live records awaiting the scrub"
+  ],
+  "seeAlso": [
+    "project-nereid",
+    "nereid-pillar-three",
+    "nereid-pillars-five",
+    "pawg-council",
+    "clinic-notation",
+    "bella-vargas",
+    "ivy-emberose"
+  ]
+}

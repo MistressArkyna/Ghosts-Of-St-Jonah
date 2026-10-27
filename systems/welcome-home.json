@@ -1,0 +1,28 @@
+{
+  "id": "welcome-home",
+  "kind": "system",
+  "name": "Welcome Home",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Livi redoes the name. Morrighan does the ghost. Then there is a party.",
+  "body": "THE TRADITION FORMALISED BY LIVI AND MORRIGHAN IN ARC 12, and the most important ritual this family has — AND IT IS MUCH OLDER THAN ARC 12. Long before Morrighan was adopted, Bryn, Livi and the survivors would drive to DRYAD INK, the parlour she worked at, every single time a new survivor was found. Arc 12 did not create the ritual. IT BROUGHT IT HOME AND ADDED THE PARTY.\\n\\nWHEN A SURVIVOR FROM ST. JONAH'S IS FOUND AND ADOPTED, TWO THINGS HAPPEN.\\n\\nFIRST, LIVI REDOES THEIR NAME IN HER NOTEBOOK. Not writes it \\u2014 REDOES it. St. Jonah's stripped every one of them of a name and issued a flight number in its place, and Livi's notebook is where the number stops being the entry.\\n\\nSECOND, MORRIGHAN TATTOOS THE FOUND FAMILY TATTOO ON HER RIGHT SHOULDER. THE DESIGN: a FEMININE GHOST, with WE HAUNT TOGETHER on a parchment banner beneath her, and A LANTERN WITH A CANDLE IN IT.\\n\\nAND THEN THERE IS A PARTY. After both. Not after the paperwork, not after the tattoo alone \\u2014 after the name and the ink, together.\\n\\nREAD THE DESIGN AND IT TELLS YOU WHAT THIS FAMILY DECIDED ABOUT ITSELF. They did not choose a symbol of escape, or of the place burning down, or of anything being over. THEY CHOSE A GHOST \\u2014 the thing the academy tried to make of them \\u2014 and they made her feminine, and gave her a lantern, and wrote WE HAUNT TOGETHER underneath. The haunting is kept. The alone is what gets removed.\\n\\nMORRIGHAN DOES THE INK BECAUSE OF WHO SHE IS AND WHAT WAS DONE TO HER. Flight 01-269, the Pleasures subflight, where desire meant servitude and her body was somebody else's object. She is the one who now puts a permanent mark on a survivor's skin at that survivor's request, and every piece she inks is an act of overwriting: YOUR BODY IS A CANVAS AND I WILL MAKE IT HOLY.",
+  "rules": [
+    "Triggered by the adoption of a ST. JONAH'S SURVIVOR",
+    "LIVI redoes the name in her notebook \\u2014 against the flight number that replaced it",
+    "MORRIGHAN tattoos the Found Family mark on the RIGHT SHOULDER",
+    "THE DESIGN: a feminine ghost \\u00b7 WE HAUNT TOGETHER on parchment beneath her \\u00b7 a lantern with a candle in it",
+    "A party follows, after BOTH are done",
+    "FORMALISED by Livi and Morrighan in Arc 12 — it ran at DRYAD INK for years before that",
+    "Livi's notation: line through = dead · cross = no longer needed · CIRCLE = ALIVE AND FOUND"
+  ],
+  "seeAlso": [
+    "livi-stewart",
+    "morrighan-eithne",
+    "st-jonahs",
+    "flight-roster",
+    "livi-notebook",
+    "dryad-ink",
+    "12",
+    "ghost-haven"
+  ]
+}

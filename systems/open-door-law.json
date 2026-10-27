@@ -1,0 +1,24 @@
+{
+  "id": "open-door-law",
+  "kind": "system",
+  "name": "The Open Door Law",
+  "group": "Household",
+  "state": "current",
+  "tagline": "A door that was shut stays shut. A door that was open stays open. Nobody in this compound has ever closed one to fuck.",
+  "body": "THE RULE, AS IT HAS ALWAYS BEEN: IF A DOOR WAS ALREADY SHUT FOR SOME OTHER REASON, IT STAYS SHUT AND THAT IS FINE. IF IT WAS OPEN WHEN THINGS STARTED, IT STAYS OPEN. Nobody in this compound has ever gone and closed a door BECAUSE they got horny.\n\nWHICH MEANS THE DOOR IS NEVER A STATEMENT. A closed door in Ghost Haven is a woman who wanted quiet, or cold air kept out, or a nap — it is never a verdict on whoever is outside it. And an open door is not an invitation, a performance, or a request for an audience. IT IS SIMPLY WHERE THE DOOR ALREADY WAS.\n\nTHE WHOLE ACOUSTIC CHARACTER OF THESE THREE HOUSES FOLLOWS FROM IT. The workshop archway has had no door since Abbi took it off in Arc 10. Bryn and Torie’s room opens onto the kitchen corridor. The forge room, the tower, the garage bays, the Raceway vents — the reason this family hears everything is not exhibitionism. IT IS THAT NOBODY GETS UP TO SHUT ANYTHING.\n\nAND THE ARCHIVE BROKE IT IMMEDIATELY. Written on the morning of 9 September: THE GARAGE DOOR GOES DOWN, ROLLED ALL THE WAY TO THE CONCRETE by a woman about to get to work on her wife. Struck. The garage was open and therefore stayed open, and the entire kitchen heard every second of what happened to the orange paint.",
+  "rules": [
+    "Shut before = stays shut. Open before = STAYS OPEN",
+    "Nobody closes a door because they got horny. Always has been",
+    "A closed door is never a verdict; an open one is never an invitation",
+    "This is WHY the compound hears everything — not display, just nobody getting up",
+    "STRUCK: the Archive rolled the garage door down on 9 September. It stayed open"
+  ],
+  "seeAlso": [
+    "communal-quirks",
+    "house-diction",
+    "gh-garage",
+    "gh-workshop",
+    "ghost-haven",
+    "the-christening"
+  ]
+}

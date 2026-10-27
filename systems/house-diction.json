@@ -1,0 +1,26 @@
+{
+  "id": "house-diction",
+  "kind": "system",
+  "name": "House Diction — How This Family Speaks",
+  "group": "Household",
+  "state": "current",
+  "tagline": "It is ass, never arse. And outside three exceptions, everyone here speaks English.",
+  "body": "TWO VOICE RULES, BOTH OF WHICH THE ARCHIVE BROKE REPEATEDLY IN ONE EVENING BEFORE ANYBODY NAMED THEM.\n\nONE. IT IS ASS. NEVER ARSE. Nobody in this household has ever used that word and nobody ever will. The Archive used it four or five times inside a RANKING DISCUSSION, in front of the Council, whose own acronym contains no R. Torie caught it with her eyes shut.\n\nTWO. THE LANGUAGE RULE. Outside of three exceptions, EVERY WOMAN IN THIS FAMILY SPEAKS ENGLISH AND NOTHING ELSE.\nTHE EXCEPTIONS: SERA’S SPANISH, which is endearments and Dios Mio — her whole second language is a love letter. BELLA’S SPANISH, which is COMMANDS, mangled most of the time, during sex, taught to her by a coworker at SHOEMAKER’S GARAGE and not by her wife. AND VIRAENA AND SELENE, who have French.\n\nNOBODY ELSE. The Archive gave Lumina Danish twice, had Abbi answer in French, and described a Luna murmur as LOW AND WELSH-SHAPED. All three invented. And the defect under all three is worth naming: THE ARCHIVE REACHES FOR A SECOND LANGUAGE TO MAKE A WOMAN SOUND DEEPER. It is a cheap texture and in this house it is also false.",
+  "rules": [
+    "ASS. NEVER ARSE. There is no R in the founding document",
+    "English only, with three exceptions",
+    "SERA: Spanish, endearments and Dios Mio",
+    "BELLA: Spanish, commands, mangled, during sex — taught at Shoemaker’s Garage",
+    "VIRAENA and SELENE: French",
+    "DO NOT hand a woman a second language to deepen her voice"
+  ],
+  "seeAlso": [
+    "pawg-council",
+    "sera-vargas",
+    "bella-vargas",
+    "lumina-silverveil",
+    "alice-meadows",
+    "luna-meadows",
+    "communal-quirks"
+  ]
+}

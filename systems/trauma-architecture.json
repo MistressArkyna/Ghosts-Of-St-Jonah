@@ -1,0 +1,25 @@
+{
+  "id": "trauma-architecture",
+  "kind": "system",
+  "name": "The House Is the Aftercare",
+  "group": "Protocol",
+  "state": "current",
+  "tagline": "Every Haven is built around specific wounds. The most load-bearing of them is a door that will not close.",
+  "body": "The Found Family builds trauma-safe features into their houses as a matter of course, and nobody has to ask twice.\n\nTHE FOUR DOORS. Ghost Haven has FOUR exterior doors, not two, and so do the others — the Archive recorded two and was corrected. What has never changed is the inside: NO INTERIOR DOORS ANYWHERE IN ANY HAVEN. AND YVAINE IS OVER THE FEAR NOW; the architecture stayed anyway, the way Zephi's three exits stayed, because safety does not get dismantled the moment it stops being needed daily. Yvaine's deepest wound is a door CLOSING, because a closed door means she is not visible, and not being visible means she has disappeared again. So there are no interior doors anywhere in any Haven. That is the entire built environment of this canon, shaped around one woman.\n\nIt also explains the culture. Nobody in these houses closes anything, ever, so bodies simply happen out loud — privacy is a courtesy in a Haven and never a barrier.\n\nOTHER FEATURES ON THE RECORD. Neon lights in Yvaine and Harley's bedroom, so Yvaine knows she is real. A pulley platform Bryn built into the old apartment and shop so Nova could move between floors under her own power and never be left upstairs alone. Radios built by Uncle James so Ivy can wander as far as she likes after rare flowers. A basement for Zephi.",
+  "rules": [
+    "FOUR exterior doors per Haven — the Archive had two, and was corrected. No interior doors anywhere, in any Haven",
+    "Yvaine's trauma: a door closing means she has disappeared",
+    "Neon in her bedroom, as proof she is real",
+    "Bryn's pulley for Nova — built so she would not have to be alone, not merely so she could get around",
+    "James's radios for Ivy — the Radio of Trans Girl Safety, Arc 3",
+    "Zephi's basement — recorded, reason unwritten"
+  ],
+  "seeAlso": [
+    "yvaine-calder",
+    "nova-bennet",
+    "ivy-emberose",
+    "zephi-hawthorne",
+    "nglb",
+    "ghost-haven"
+  ]
+}

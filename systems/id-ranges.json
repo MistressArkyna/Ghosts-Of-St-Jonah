@@ -1,0 +1,18 @@
+{
+  "id": "id-ranges",
+  "kind": "system",
+  "name": "Identity Number Ranges",
+  "group": "St. Jonah's",
+  "state": "current",
+  "tagline": "The second half of a survivor's designation carries her sentence.",
+  "body": "Read a survivor ID as flight-then-range. Evie's 00-100 is the sharpest example the canon has: Flight 0, and the lowest number in the marked-dangers band.",
+  "rules": [
+    "000–099 — obedient, quiet, or broken survivors; sometimes promoted",
+    "100–199 — marked dangers, watched constantly; closer to 100 means higher threat",
+    "200–299 — Pleasure Designate Pool; sexual or appearance-based reconditioning",
+    "300–399 — Enforcer Designate Pool; groomed for brutality and control"
+  ],
+  "seeAlso": [
+    "flight-system"
+  ]
+}

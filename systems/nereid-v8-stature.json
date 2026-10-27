@@ -1,0 +1,29 @@
+{
+  "id": "nereid-v8-stature",
+  "kind": "system",
+  "name": "Nereid v8 — Stature, and the Two Empty Seats",
+  "group": "Body",
+  "state": "proposed",
+  "version": "v8 proposal",
+  "tagline": "JUNOESQUE and PETITE were never builds. They were HEIGHT wearing a build's coat. PROPOSED — nothing resolves from this.",
+  "body": "THE DIAGNOSIS. Of the eight v7 Build Classes, two of them were not describing how a body is organised at all — they were describing HOW TALL IT IS. Junoesque means large-scaled. Petite means small-scaled. Neither says anything about posture, load, temperament-frame or how the flesh answers pressure, which is what the other six do.\n\nSO v8 PROMOTES THEM OUT. Junoesque and Petite become STATURE — a vertical scale sitting beside the class list rather than inside it. This is the same move v7 already made below the waist, where HEART and BUBBLE are two ass-shape FAMILIES that every archetype hangs off rather than two archetypes among thirteen. A family is not a member of itself.\n\nAND v8 KEEPS THE NUMBER EIGHT. Which leaves TWO EMPTY SEATS at the table.\n\nTHE THREE STATURES, WITH THEIR RANGES. PETITE — 5'4\" to 5'7\". AVERAGE — 5'7\" to 5'10\". JUNOESQUE — 5'11\" to 6'4\".\n\nTHE HINGE AND THE GAP ARE BOTH DELIBERATE. 5'7\" belongs to Petite AND Average at once — a hinge, not a sloppy boundary, because a woman on that line reads either way depending on how she carries it and the scale is not going to arbitrate her. And there is NO BAND between 5'10\" and 5'11\": Average stops, Junoesque starts an inch later, and the gap is intentional too. Junoesque is not simply tall; it is LARGE-SCALED, and the missing inch is the scale refusing to hand the title to a woman who merely cleared a number.\n\nWHICH PLACES TWO WOMEN THE ARCHIVE HAS BEEN CARRYING FLAGS ON. CORA ARITI at 5'10\" and LUMINA SILVERVEIL at 5'10\" are both AVERAGE, and both flags dissolve — Cora was never a Junoesque who fell an inch short, and Lumina was never a Petite carrying four inches she should not have had. Neither of them was wrong. THE FIELD WAS.\n\nSEAT ONE IS OPULENT, proposed by QUINN LUTINIA — who put it forward while riding Briar's cock, because that woman can multitask through moans and the Archive is recording the circumstances as given. OPULENT IS FOR A BODY DESIGNED TO BE LAZY AND SOFT WITHOUT MEANING SEDUCTRESS. That distinction is the whole reason the class is needed: v7 had no way to say plush-and-unhurried without routing it through lure-lines and deliberate temptation, so every softly-built woman came out reading like she was doing it AT somebody.\n\nAND THE CLINIC ALREADY DESCRIBED HOW OPULENT BEHAVES before the class was named for the Archive: PRESSURE-SHARING REST, against Valkyrie's LOAD-BEARING CONTINUITY and Athletic's TASK-RESPONSIVE RECRUITMENT. A load signature, which v7 never recorded for any class and which currently exists in canon only inside a paragraph about chairs.\n\nSEAT TWO IS UNNAMED. Viraena holds it and the proposal is not finished. The Archive is not guessing at it.",
+  "rules": [
+    "PROPOSED. Nothing on this record resolves into the current view",
+    "JUNOESQUE and PETITE leave the Build Classes and become STATURE — a vertical scale",
+    "PETITE 5'4\"–5'7\" · AVERAGE 5'7\"–5'10\" · JUNOESQUE 5'11\"–6'4\"",
+    "The 5'7\" HINGE is deliberate — a woman on the line reads either way and the scale will not arbitrate her",
+    "The missing inch between 5'10\" and 5'11\" is deliberate — Junoesque is LARGE-SCALED, not merely tall",
+    "Precedent: HEART and BUBBLE are ass-shape FAMILIES, not archetypes. A family is not a member of itself",
+    "The class list stays at EIGHT, so two seats open",
+    "OPULENT — proposed by Quinn. Lazy and soft WITHOUT meaning Seductress. Load signature: pressure-sharing rest",
+    "The eighth is unnamed and is not being invented here"
+  ],
+  "seeAlso": [
+    "build-classes",
+    "nereid-v8-hourglass",
+    "nereid-versioning",
+    "ass-archetypes",
+    "quinn-lutinia",
+    "hathaway-clinic"
+  ]
+}

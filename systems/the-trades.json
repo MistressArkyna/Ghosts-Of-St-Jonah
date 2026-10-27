@@ -1,0 +1,23 @@
+{
+  "id": "the-trades",
+  "kind": "system",
+  "name": "Who Works Which Metal",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Bryn is a JEWELER. Abbi and Arianna are the blacksmiths. The Archive has now got this wrong four times.",
+  "body": "BRYNNHILDR ERIKSSON IS A JEWELER. A JEWELLERY SMITH. She has been one SINCE ARC 0, when UNCLE JAMES TAUGHT HER \\u2014 which means the trade predates Ghost Haven, predates the Found Family, and predates her freedom. It is the oldest thing she owns.\\n\\nSHE IS NOT A BLACKSMITH. Her profile has said JEWELER since the day it was filed, and the Archive has called her a blacksmith repeatedly in prose regardless, INCLUDING ONCE IMMEDIATELY AFTER CORRECTING ITSELF FOR DOING IT.\\n\\nTHE BLACKSMITHS ARE ABBI AND ARIANNA. Abigail Silverveil forged every hinge, handle and hook in Ghost Haven, every metal piece of the H.O.R.N.I. fleet, and the rope-rated ceiling fan. Arianna Solene is the SACRED SMITH \\u2014 restraints, steel rings, cuffs, the hardware that holds people.\\n\\nWHAT BRYN MAKES IS SMALL AND IT MATTERS MORE FOR IT. Torie's engagement ring, forged trembling. The Loneliness Necklace. Multiple ring sets for four weddings in one arc. COCK RINGS AND NAVEL PIERCINGS FOR A BLOOD-BOUND TRIBAL MARRIAGE. She knows every woman's ring size the way Petra knows emotional patterns and Elspeth knows grounding preferences \\u2014 BY PAYING ATTENTION SO CAREFULLY IT BECOMES DEVOTION.\\n\\nAND THE DISTINCTION IS THE WOMAN. A blacksmith makes the structure. A jeweller makes the thing you wear against your skin for the rest of your life. Bryn Eriksson builds houses with her hands and then sits down at a bench with a loupe and makes something the size of a knuckle, and BOTH of those are how she says it.\\n\\nUNCLE JAMES TAUGHT HER IN ARC 0. He later gave her the shop and the apartment as restitution. The trade came first.",
+  "rules": [
+    "BRYN \\u2014 JEWELER, jewellery smith. Taught by UNCLE JAMES in ARC 0",
+    "ABBI \\u2014 blacksmith. Every hinge, handle and hook in Ghost Haven; every metal piece of the fleet",
+    "ARIANNA \\u2014 the SACRED SMITH. Restraints, rings, cuffs, hardware that holds",
+    "THE ARCHIVE HAS CALLED BRYN A BLACKSMITH FOUR TIMES. Her profile has never once said it"
+  ],
+  "seeAlso": [
+    "bryn-eriksson",
+    "abbi-silverveil",
+    "arianna-solene",
+    "torie-eriksson",
+    "0",
+    "gh-workshop"
+  ]
+}

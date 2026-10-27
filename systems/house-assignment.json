@@ -1,0 +1,27 @@
+{
+  "id": "house-assignment",
+  "kind": "system",
+  "name": "Which House You Go To",
+  "group": "Places",
+  "state": "current",
+  "tagline": "Arc 13 onward, you are Banshee Haven. Unless you and your wife decide otherwise.",
+  "body": "THE RULE IS SIMPLE AND THE ARCHIVE HAD BEEN GUESSING WHERE IT COULD HAVE ASKED.\\n\\nANYONE ADOPTED DURING OR AFTER ARC 13 GOES TO BANSHEE HAVEN. That is the default, and it is not a judgement about the woman \\u2014 it is simply where the room is. Ghost Haven closed at thirty-two. Specter Haven closed at twenty-eight. The third house opened in Arc 13 with twelve doorways waiting, and that is where new arrivals land.\\n\\nTHE ONE EXCEPTION IS A COUPLE DECIDING OTHERWISE. A pair already living in one house may choose to move to another \\u2014 KATHERINE AND WYNTER MORRISON DID EXACTLY THAT, into Specter Haven. The move is the couple's decision, made together, and nobody is assigned out of a house they want to stay in.\\n\\nWHICH RETROACTIVELY SETTLES SOMETHING THE ARCHIVE HAD MARKED INFERRED. RIVEN AND HEATHER, adopted in Arc 15, are Banshee Haven BY RULE rather than by the Archive's guess about arc proximity. So are Orianna and Felicity. The inference flags come off.",
+  "rules": [
+    "Adopted in or after ARC 13 \\u2192 BANSHEE HAVEN, by default",
+    "A COUPLE may choose to move between houses. KATHERINE AND WYNTER MOVED TO SPECTER HAVEN",
+    "The move is the couple's decision, together",
+    "Ghost Haven closed at 32. Specter Haven closed at 28. Banshee has the room"
+  ],
+  "seeAlso": [
+    "banshee-haven",
+    "specter-haven",
+    "ghost-haven",
+    "katherine-morrison",
+    "wynter-morrison",
+    "riven",
+    "heather",
+    "orianna",
+    "felicity",
+    "13"
+  ]
+}

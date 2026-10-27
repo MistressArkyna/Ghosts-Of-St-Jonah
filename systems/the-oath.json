@@ -1,0 +1,25 @@
+{
+  "id": "the-oath",
+  "kind": "system",
+  "name": "The Oath",
+  "group": "Fidelity",
+  "state": "current",
+  "tagline": "A marriage that cannot be legal, made in the only form left to it. Knight and maiden, common-law.",
+  "body": "Gwen is Akane's brat-wife. That is the plain fact, and the Archive had it wrong twice before it had it right — first recording them as married with no ceremony behind it, then over-correcting to not married at all.\n\nHere is the actual shape. Gwen's PALADIN OATH forbids her a marriage in the legal sense. So they did not have one. In Arc 10 they held an Oath ceremony instead: Gwen became Akane's Knight, and they are married common-law — which is not a lesser arrangement or a workaround they settled for, but the only form the vow could take, chosen deliberately and held completely.\n\nAnd she took Akane's name anyway. Gwendolyn Isolde Astremere became Gwendolyn Isolde Yoshizawa with no certificate anywhere in it, which is the detail that makes the whole thing land: the name was never the point of the paper. It was the point of the vow. A knight who cannot sign, signing herself over in the only ink she has.\n\nGwen's entire profile was already oathcraft — ceremonial discipline, vow bondage, defiance offered as devotion, a sword called Vigil's Promise. The constraint that stops her marrying legally is the same one that makes the Oath the correct instrument. It was never a compromise.",
+  "rules": [
+    "Gwen's paladin oath forbids legal marriage — the constraint is hers, and it is absolute",
+    "The Arc 10 Oath ceremony makes her Akane's Knight; they are married COMMON-LAW",
+    "They are wives. Record them as married — common-law — and never as unmarried",
+    "The knight may take her maiden's name without a certificate. Gwen did",
+    "Devotion-Lock applies in full; the Oath is no weaker a fidelity bond than a wedding",
+    "Akane × Gwen, Arc 10 — the only Oath in the canon so far"
+  ],
+  "seeAlso": [
+    "akane-yoshizawa",
+    "gwen-yoshizawa",
+    "akane-gwen",
+    "blood-bond",
+    "devotion-lock",
+    "10"
+  ]
+}

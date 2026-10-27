@@ -1,0 +1,24 @@
+{
+  "id": "group-chats",
+  "kind": "system",
+  "name": "The Organizations",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Six group chats across three Havens and the Hearth. Nobody founded them. Everybody is in at least one.",
+  "body": "THEY ARE GROUP CHATS AND THE FAMILY CALLS THEM ORGANIZATIONS, WHICH TELLS YOU THE TONE. Membership is by temperament, not by house — every roster crosses all three Havens — and several women sit in two or three at once.\n\nBRAT BRIGADE. The Chaos Agent chat, where the brats, gremlins and menaces plan coordinated chaos, and the word COORDINATED is doing a great deal of unpaid labour. MEMBERS: Torie · Bella · Rae · Alice · Harley · Abbi · Ceri · Dessie · Izzy · Fiona · Gwen · Zephi · Jade (a member, checks occasionally) · Lili · Briar · Wynter · Pepper · Natalia · Vesper · Jinx · Brielle · Mercedes · Goldie · Kaia · Ophelia · Alexis · Lyric · Riven.\n\nGREMLIN DEFENSE LEAGUE. The wives of the Chaos Agents, where they sigh and coordinate HOW TO DEAL WITH THE CHAOS THEY ARE GOING TO LET HAPPEN. That clause is the whole institution: nobody in the GDL is preventing anything. MEMBERS: Bryn · Sera · Livi · Luna · Yvaine · Lumina · Ceri · Izzy · Fiona · Akane · Pandora · Sage · Arianna · Quinn · Katherine · Morrighan · Jinx · Pepper · Dakota · Danielle · Roxie · Zelda · Alexis · Heather.\n\nAND THE SWITCHES HOLD DUAL MEMBERSHIP BY THE DAY. IZZY AND FIONA ARE SWITCHES: whichever one is topping that day sits in the GDL and the other sits in Brat Brigade, and the roster reshuffles itself without anyone announcing it. Ceri, Jinx, Pepper and Alexis also appear on both lists.\n\nWITCHES COVEN. The goth chat. MEMBERS: Luna · Mikaela · Zelda · Orianna · Claudia · Hela · Eirwen · Maribel · Daisey.\n\nHARD STAFF. Chefs, caretakers, hospitality. MEMBERS: Alice · Akane · Sage · Katherine · Elspeth · Magnolia · Sera (the bartender) · Felicity · Ivy.\n\nMUSES AND MOANS. Artists, writers and dancers. MEMBERS: Siren · Izzy · Fiona · Lumina · Destiny · Petra · Minerva · Lyric · Remielle · Jinx · Orianna · Riven · Pandora (ADMITTED ON A TECHNICALITY, ON THE GROUNDS THAT SHE DOES WRITE) · Maddy · Cora.\n\nLET’S GO TEAM! The sporty ones, the lifters and the boxers. MEMBERS: Violet · Nova · Pepper · Jade · Bryn · Livi · Morrighan · Danielle · Umiko · Jinx · Zelda · Isolde · Heather · Evie.\n\nJINX IS IN FOUR OF THE SIX, which is a fact about Jinx and requires no further comment.",
+  "rules": [
+    "Six chats: Brat Brigade · Gremlin Defense League · Witches Coven · Hard Staff · Muses and Moans · Let’s Go Team!",
+    "Membership is by temperament, never by Haven. Every roster crosses all three",
+    "The GDL does not prevent the chaos. It coordinates how to handle the chaos it is going to allow",
+    "SWITCHES SWAP LISTS BY THE DAY — Izzy and Fiona, whichever is topping sits in the GDL",
+    "Pandora is in Muses and Moans on a technicality: she does write",
+    "Rosters current to Arc 15, including the two newest couples — Orianna/Felicity and Riven/Heather"
+  ],
+  "seeAlso": [
+    "pillars",
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven",
+    "communal-quirks"
+  ]
+}

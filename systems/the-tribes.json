@@ -1,0 +1,28 @@
+{
+  "id": "the-tribes",
+  "kind": "system",
+  "name": "The Four Tribes — the Pleasures Subflight Survivors",
+  "group": "St. Jonah's",
+  "state": "current",
+  "tagline": "The Pleasures subflight died. Four walked out. Every one of them came from a nomadic tribe.",
+  "body": "FLIGHT 01, the Lapdogs. Pleasures ran 200–299 — obedience and feminisation, aesthetics and silence training. The subflight DIED, and Ivy was being held in Flight 06 as a replacement for it. FOUR SURVIVED.\n\nCYRENA CLAIRMONT — 01-203. A WALLACHIAN, Dracula-shaped clan: blood-occult, no officiant standing apart from the couple, married by BLOOD BOND during intimacy. She officiated her own marriage to Dessie in Arc 10 because the only two people qualified were already in the room.\n\nZEPHINIA FAUST–HAWTHORNE — 01-211. A GERMANIC VISIGOTH tribe. Married to Sage, the green witch and herbkeeper.\n\nMORRIGHAN EITHNE — flight number unrecorded. A CULTIC DRUID tribe, and named for the Morrígan herself. She keeps a leather-bound ink list recording date, design, recipient, and one word for the emotion present during the session; the book is sacred and nobody touches it without permission. That is a record of rites rather than a work log.\n\nHELA — flight number unrecorded. A SCOTTISH PICT tribe. Herbalist and alchemist.\n\nWHAT THE ARCHIVE NOTICES, AND IS NOT ASSERTING: nomadic peoples keep no fixed address and generate no state paperwork, which is the same absence that let Yvaine simply appear inside those walls with nothing to wipe. And all four carry a PRACTICE — blood rites, herbs, ink, alchemy. Whether the practices are why they were taken, or why they lived, is a reading and nothing has been written down about it.\n\nAnd Ceri's own record asked whether any of her clan survives beyond her. THREE MORE CLANS SURVIVE, one in each Haven.",
+  "rules": [
+    "Cyrena Clairmont — 01-203 · Wallachian, blood-occult · Ghost Haven",
+    "Zephinia Faust–Hawthorne — 01-211 · Germanic Visigoth · Ghost Haven",
+    "Morrighan Eithne — number unrecorded · cultic druid · Specter Haven",
+    "Hela — number unrecorded · Scottish Pict · Banshee Haven",
+    "One in Ghost Haven's Ceri, one in Ghost Haven's Zephi, one in Specter Haven, one in Banshee Haven",
+    "Two of the four mark skin ritually: Ceri is a ritual tattooist, Morrighan a tattoo artist",
+    "Two of the four work in plants: Hela is a herbalist and alchemist; Zephi married the green witch"
+  ],
+  "seeAlso": [
+    "flight-system",
+    "id-ranges",
+    "blood-bond",
+    "ceri-clairmont",
+    "zephi-hawthorne",
+    "morrighan-eithne",
+    "hela",
+    "ivy-emberose"
+  ]
+}

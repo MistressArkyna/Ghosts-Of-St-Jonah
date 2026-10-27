@@ -1,0 +1,19 @@
+{
+  "id": "little-chairs",
+  "kind": "system",
+  "name": "The Little Chairs",
+  "group": "Places",
+  "state": "current",
+  "tagline": "The quietest thing this family ever built. It has no name and nobody cites it.",
+  "body": "THERE IS A LOW TEAK CHAIR IN EVERY BATHROOM IN THIS HOUSE. All fourteen. Set exactly where a woman lands when her legs have gone.\n\nNOBODY DRAFTED IT. Somebody needed one once. Somebody else saw it and put one in hers. Now they are in all of them, nobody remembers who started it, and NOBODY HAS EVER GIVEN IT A NAME. It does not get cited like Nova's Law or performed like Elspeth's rite. It is simply there, waiting, so that a woman who cannot stand up afterward does not have to be embarrassed about it. She sits down. Somebody thought of her before she arrived.\n\nSAME FAMILY, SAME ENGINE, AND THE ONLY ONE OF THEM WITH NO JOKE ATTACHED.",
+  "rules": [
+    "One low chair in every bathroom in Ghost Haven",
+    "Unnamed, uncited, undocumented until now",
+    "Origin unknown and probably unrecoverable"
+  ],
+  "seeAlso": [
+    "ghost-haven",
+    "horni-fleet",
+    "communal-quirks"
+  ]
+}

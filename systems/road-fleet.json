@@ -1,0 +1,39 @@
+{
+  "id": "road-fleet",
+  "kind": "system",
+  "name": "The Road Fleet",
+  "group": "Places",
+  "state": "current",
+  "tagline": "Twelve units. Four per Haven. One cuddle bus each, one corpse, and a hearse.",
+  "body": "THE ARCHIVE HAD NO ROAD ROSTER UNTIL NOW, which is why it could hand out keys that opened nothing. Sleipnir had a record. Lucia’s bike existed as RIDING GEAR inside her suite. The truck appeared once, as the words THE TRUCK. The vans appeared nowhere. Nothing was enumerable, so nothing was checkable.\n\nFOUR PER HAVEN, which is the SAME SHAPE as the H.O.R.N.I. Fleet — and the carts have a THIRTEENTH at Wildwood Hearth. The road fleet has no Wildwood unit on record. See q-wildwood-wheels.\n\nGHOST HAVEN. SLEIPNIR, the cuddle bus — and THE FUCK WAGON if you ask Torie, Bella or Rae, which makes three women and therefore a real name. THE MOBILE MECHANIC WORK VAN, Bella’s own, DEAD as of 9:40 this morning, killed by Sera and Bella and rough fucking in it, like usual; Ivy is taking the body for the garden. LUCIA’S MOTORCYCLE, one rider and one pillion and the pillion has a name on it. THE WORL TRUCK, which Bryn, Abbi and Cyrena take into town.\n\nSPECTER HAVEN. SLEIPNIR 2, driven by LILI as house lead, chaotically, into every pothole between here and anywhere. ARIANNA’S MINIVAN. DAKOTA’S PICKUP. KATHERINE AND WYNTER’S PASTRY VAN, which is the only unit in the fleet with a trade on the side of it.\n\nBANSHEE HAVEN. SLEIPNIR 3, the Gothic one, CANDLES INSTALLED BY BELL, who is the Goth lead of that house. ELSPETH’S MOTORCYCLE, which is NOT IN BANSHEE HAVEN — it is in Bella’s garage here at Ghost Haven awaiting Lucia. ALEXIS’ HEARSE. HELA’S VAN, which is a mobile alchemy shop with the tinctures in the back.\n\nHOME HAVEN IS NOT CURRENT LOCATION, AND THAT IS ROUTINE RATHER THAN EXCEPTIONAL. BELLA’S GARAGE IS COMPOUND INFRASTRUCTURE and does not care which house a vehicle came from, so a Banshee bike sitting in Ghost Haven is the garage working correctly. The roster still needs both fields. It does not need to treat the second one as an anomaly.\n\nTWELVE IS THE WHOLE FLEET. WILDWOOD HEARTH IS THE GUEST HOUSE — guests do not keep cars at a guest house, and the Hearth has no wheels of its own. The rhyme with the thirteen carts was a coincidence and the Archive was right not to build a vehicle out of it.",
+  "rules": [
+    "TWELVE UNITS. Four per Haven, no Wildwood Hearth unit on record",
+    "THREE CUDDLE BUSES: Sleipnir (Ghost) · Sleipnir 2 (Specter, Lili drives) · Sleipnir 3 (Banshee, Bell’s candles)",
+    "Sleipnir is also THE FUCK WAGON to Torie, Bella and Rae",
+    "Ghost: Sleipnir · Bella’s work van (DEAD) · Lucia’s motorcycle · THE WORK TRUCK (Bryn, Abbi, Cyrena)",
+    "Specter: Sleipnir 2 · Arianna’s minivan · Dakota’s pickup · the Morrison pastry van",
+    "Banshee: Sleipnir 3 · Elspeth’s motorcycle · Alexis’ hearse · Hela’s alchemy van",
+    "Elspeth’s bike is PHYSICALLY AT GHOST HAVEN in Bella’s garage, waiting on Lucia",
+    "Lucia’s motorcycle: she is the only driver, ever. Siren rides pillion and that seat is hers",
+    "A PROP MAY NOT EXCEED THE ROSTER. No keys exist in a scene for a vehicle not listed here",
+    "IT IS THE WORK TRUCK. Ruled; the question is retired",
+    "WILDWOOD HEARTH IS THE GUEST HOUSE and therefore has NO WHEELS OF ITS OWN. Twelve is the whole fleet",
+    "BELLA’S GARAGE SERVES THE WHOLE COMPOUND — it does not care which Haven a vehicle came from",
+    "VEHICLES KILLED BY SERA AND BELLA GO TO THE GARDEN. Forky first, the work van second"
+  ],
+  "seeAlso": [
+    "sleipnir",
+    "horni-fleet",
+    "bella-vargas",
+    "lucia-wilding",
+    "siren-wilding",
+    "bryn-eriksson",
+    "lili-seraphine",
+    "katherine-morrison",
+    "bell-maribel",
+    "hela",
+    "alexis",
+    "elspeth",
+    "gh-garage"
+  ]
+}

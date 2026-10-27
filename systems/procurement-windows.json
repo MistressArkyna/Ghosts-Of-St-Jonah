@@ -1,0 +1,22 @@
+{
+  "id": "procurement-windows",
+  "kind": "system",
+  "name": "Procurement Windows",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Nobody in this family has ever won an appropriations argument at a table.",
+  "body": "THINGS GET BOUGHT WHEN SOMEBODY IS SOFT. You do not make a case on the merits at breakfast. You wait until a woman has been thoroughly loved, has gone entirely pliable, and is holding something, and then you mention the thing that is back in stock.\n\nDOCUMENTED INSTANCE. ABIGAIL SILVERVEIL, freshly fucked on her own anvil by Lumina, in Lumi's lap with Lumi's hands full of her, holding her unicorn plushie SPARKLES and going MMMM LUMI at nothing — opened her phone in that condition and bought RAE the grill Rae had been mentioning for weeks.\n\nTHE GYM RIG went through the same channel. Livi denies doing it on purpose and then admits doing it on purpose.\n\nAND ABBI FORGED THE BONES OF THIS HOUSE. Every hinge, every handle, every hook Lumina's ribbons hang from, the bolts keeping four hundred books off Rae's skull, the load-bearing rope-rated fan. When she is soft, when she has nothing left, face-down in her wife's lap with a plushie under her chin — the first thing she reaches for is her phone, to buy somebody else a grill.",
+  "rules": [
+    "Requests land during the soft window, not at a table",
+    "Documented: Rae's grill (Abbi, post-anvil, holding Sparkles); the gym rig (Livi)",
+    "The merits are irrelevant; the timing is everything"
+  ],
+  "seeAlso": [
+    "abbi-silverveil",
+    "lumina-silverveil",
+    "rae-stewart",
+    "livi-stewart",
+    "lumi-anvil",
+    "communal-quirks"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nereid-consent-menu",
+  "kind": "system",
+  "name": "Nereid v8 — Sections 6 and 7: The Consent Menu",
+  "group": "Project Nereid",
+  "state": "current",
+  "tagline": "Thirteen parts, and the Secret Menu options are not printed on the form at all.",
+  "body": "THE PREAMBLE IS THE WHOLE ETHIC IN ONE SENTENCE: THE FIVE PILLARS EXPLAIN WHAT PROJECT NEREID CAN BUILD, AND THE CONSENT MENU IS WHERE ONE WOMAN TELLS IT WHAT BELONGS TO HER.\n\nShe completes it on her PRIVATE NEREID TABLET, alone or beside an affirmed clinician. She may read ahead, move backward, compare previews, SPEND NINETY MINUTES DISCUSSING TITS, reject every proposed ass, DISCOVER THAT EIGHT INCHES LOOKED SMALLER IN HER IMAGINATION, EAT TWO PASTRIES WITHOUT SELECTING ANYTHING, or close the tablet and leave. NONE OF THESE OUTCOMES CONSTITUTES FAILURE.\n\nAND THE MENU DOES NOT ASK WHAT BODY WOULD MAKE HER EASIEST TO DRESS, SAFEST TO DESIRE, MOST USEFUL TO A PARTNER, OR LEAST DISRUPTIVE WHEN NAKED. IT ASKS WHAT SHE RECOGNISES. If that answer includes enormous tits, a PAWG capable of destroying concentration, a cock requiring Silken Embrace to convene an emergency tailoring council, or THIGHS HER WIFE FULLY INTENDS TO DIE BETWEEN, the Clinic records the consequences and builds honestly.\n\nA CLINICIAN MAY EXPLAIN EVERY BUTTON. SHE MAY NOT PRESS ONE ON THE WOMAN’S BEHALF.\n\nFINAL AUTHORISATION LOCKS THE APPROVED BODY AND PERMITS ITS GUMMY TO BE MADE. IT DOES NOT COMPEL THE WOMAN TO EAT IT. Until she deliberately consumes the finished gummy, HER BODY REMAINS HERS BY REFUSAL AS COMPLETELY AS THE AFFIRMED BODY WILL BECOME HERS BY CHOICE.\n\nTHE FORM RUNS THIRTEEN PARTS.\n1 PATIENT RECORD — chosen name, pronouns after affirmation and DURING CONSULTATION IF DIFFERENT, eligibility gate, affirmation path, THE WORDS SHE USES FOR HER OWN BODY IF THEY DIFFER FROM THE FORM, accessibility and sensory and mobility and privacy and cultural needs, and a TRUSTED PERSON whose presence is granted PER STAGE: consultation, Pillar previews, Integrated Preview, recovery planning, first recognition. FIVE SEPARATE PERMISSIONS, NOT ONE.\n2 CONSENT STATUS — eighteen or older; these choices belong to me; I may request explanations, comparisons or complete-body previews; I may revise or refuse any unstarted choice; FINAL AUTHORISATION PERMITS MY GUMMY TO BE MADE AND DOES NOT REQUIRE ME TO CONSUME IT; Nereid assigns no personality, profession, consent, sexual role or relationship role through anatomy. Status may read EXPLORING, COMPARING PREVIEWS, PROVISIONALLY SELECTED, READY FOR INTEGRATED PREVIEW, or NOT READY TO CONTINUE — and the last one is a listed status, not a failure state.\n3 SHARED NEREID INHERITANCE — the Immutable Core, ACKNOWLEDGED RATHER THAN SELECTED.\n4 BODY-WIDE AFFIRMATION PACE — INSTANT, OVERNIGHT or GRADUAL, ONE PACE FOR THE ENTIRE BODY INCLUDING HAIR, plus what she wants to witness, document, conceal, celebrate or experience privately.\n5 PILLAR ONE — Stature, exact height, NATIVE FRAMING (AUTOMATICALLY POPULATED BY PRIMARY BUILD AND NOT A PATIENT CHOICE — the form originally printed it as three independent checkboxes and that was a defect, patched; see nereid-framing), Primary Build from the eight with trait gate reviewed, measurements with the WHR and WBR checkboxes, three Native Traits, three Adopted, household nicknames, skin tone and undertone, and RETAINED SURFACE FEATURES: freckles, birthmarks, moles, VITILIGO, STRETCH MARKS, RETAINED SCARS.\n6 PILLAR TWO — shoulders, midriff, tits, nipples and areolae, Full Chest Integration, upper-body refinements.\n7 PILLAR THREE — hip canvas CARRIED FORWARD AND NOT SELECTED AGAIN, ass, Motion, Carriage, thighs and legs, Combined Expression.\n8 PILLAR FOUR — measurements with the erection-range checkboxes, shaft, crown and foreskin, balls, Response, Total Package, and a HEAVY STATUS field offering NOT MEASUREMENT-EARNED, EARNED THROUGH LENGTH AND MASS, or EARNED THROUGH EXCEPTIONAL CIRCUMFERENCE.\n9 PILLAR FIVE — palette with SECONDARY EXPRESSION as its own field, length, first cut, texture and volume, growth mode, eyebrows, Secret Menu, refinements.\n10 INTEGRATED PREVIEW — a twelve-line review checklist and five decisions: THIS BODY IS MINE / COMPARE THE NOTED ALTERNATIVE / REVISE THE FIELDS IDENTIFIED BELOW / PAUSE WITHOUT LOCKING THE RECORD / DECLINE PROJECT NEREID.\n11 FIRST RECOGNITION AND RECOVERY — mirror IMMEDIATELY or OFFERED NOT AUTOMATICALLY PLACED or ONLY WHEN I ASK; recognition space; and a comfort list that runs clothing, time unclothed, support garments, shower or bath, food, tea, water, music, quiet, soft lighting, daylight, ASK BEFORE EACH NEW TOUCH, TOUCH ONLY AFTER I INITIATE.\n12 GUMMY SELECTION — fifteen flavours and four Mold Families.\n13 FINAL AUTHORISATION — seven attestations including EVERY OPENED SECRET MENU OPTION WAS INDEPENDENTLY UNLOCKED and I UNDERSTAND THAT AFFIRMATION BEGINS ONLY WHEN I DELIBERATELY CONSUME IT.\n\nAND HERE IS THE MECHANISM THE ARCHIVE HAD NEVER SEEN, WHICH IS THE BEST PIECE OF DESIGN IN THE DOCUMENT. THE SECRET MENU OPTIONS ARE NOT PRINTED ON THE FORM. Cheek Plump lists SUBTLE, NATURAL, PRONOUNCED and stops. Midriff lists SMOOTH, POOCHED, TONED and stops. Ball Size lists NATURAL, LARGE, PLUMP and stops. Beneath each, two checkboxes: SECRET MENU PHRASE GIVEN, YES or NO. SECRET MENU SELECTION OPENED, YES or NO. THE OPTION IS NOT HIDDEN BEHIND A PASSWORD. IT IS ABSENT FROM THE PAGE UNTIL SOMEBODY SAYS THE WORDS. Which is why the Clinic cannot offer it, why a nurse cannot hint at it, and why Bella is the sole holder of Obscene in this family: SHE WAS LOOKING AT A FORM THAT DID NOT CONTAIN IT.",
+  "rules": [
+    "THE MENU ASKS WHAT SHE RECOGNISES, not what would be easiest to dress or desire",
+    "A clinician may explain every button. SHE MAY NOT PRESS ONE ON THE WOMAN’S BEHALF",
+    "Final Authorisation permits the gummy. IT DOES NOT COMPEL HER TO EAT IT",
+    "NOT READY TO CONTINUE is a listed status, not a failure",
+    "A trusted person is admitted PER STAGE — five separate permissions",
+    "ONE PACE GOVERNS THE WHOLE BODY INCLUDING HAIR: Instant · Overnight · Gradual",
+    "Hip canvas is CARRIED FORWARD into Pillar Three, not selected twice",
+    "NATIVE FRAMING is AUTO-POPULATED by Build. The three checkboxes were a form defect",
+    "HEAVY STATUS is a form field with three answers, one of them NOT EARNED",
+    "THE SECRET MENU OPTIONS ARE ABSENT FROM THE PRINTED FORM ENTIRELY",
+    "Each gated field carries PHRASE GIVEN and SELECTION OPENED checkboxes instead",
+    "Final Authorisation attests EVERY OPENED SECRET MENU OPTION WAS INDEPENDENTLY UNLOCKED",
+    "Retained surface features include VITILIGO, STRETCH MARKS and RETAINED SCARS by choice"
+  ],
+  "seeAlso": [
+    "project-nereid",
+    "nereid-secret-menu",
+    "nereid-pillar-one",
+    "nereid-pillar-two",
+    "nereid-pillar-three",
+    "nereid-pillar-four",
+    "nereid-pillar-five",
+    "nereid-immutable-core",
+    "nereid-preview-gummy",
+    "clinic-notation"
+  ]
+}

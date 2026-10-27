@@ -1,0 +1,19 @@
+{
+  "id": "lived-evolution",
+  "kind": "system",
+  "name": "The Lived Evolution Clause",
+  "group": "Canon",
+  "state": "current",
+  "tagline": "A girl who changes is not a girl who was recorded wrong.",
+  "body": "When a girl's build expression, Pillar, body, status or dynamic shifts, the shift is filed as a canon change with an effective arc — the prior state is preserved as Historical rather than deleted. This is the clause the whole Archive is built to serve: Abbi at 9.8 inches in an early arc and 10.8 later are both true, because canon has a date. A profile records Former Expression and a one-sentence Lived Evolution naming what shifted and the arc-level cause.",
+  "rules": [
+    "Every change carries an effective arc",
+    "The superseded value is kept, marked Historical, and shown struck through beneath the current one",
+    "Current · Historical · Draft · Proposed · Disputed · Retired are six different things, and the Archive keeps them apart",
+    "A Proposed change is something you and I discussed and never adopted — it is not canon and never resolves into the current view"
+  ],
+  "seeAlso": [
+    "pillars",
+    "build-classes"
+  ]
+}

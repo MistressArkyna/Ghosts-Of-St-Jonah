@@ -1,0 +1,20 @@
+{
+  "id": "witching-hour",
+  "kind": "system",
+  "name": "The Witching Hour",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Around 3 AM the Library Tower goes quiet, and that quiet is the loudest thing in the house.",
+  "body": "ALICE HAD THE TOWER BUILT FOR LUNA. She looked at the blueprint, looked at her wife, and said SHE NEEDS A TOWER. That is the entire origin story and it is also the entire point of what happens in it at three in the morning.\n\nAROUND 3 AM THE TOWER GOES QUIET. That is when Luna takes her kitchen-brat wife up the rolling ladder and reminds her, with ritual precision and devastating tenderness, EXACTLY WHO BUILT THIS TOWER AND WHY.\n\nTHE HOUSE KNOWS. THE HOUSE SAYS NOTHING.\n\nTHE INSTRUMENT IS HER VOICE. Alice has come from nothing but Luna talking, in public, more than once — on the rooftop on 6 September she took five that way before anybody laid a hand on her, and eleven by dawn. The story is only ever the shape Luna's voice makes while it works.",
+  "rules": [
+    "3 AM, the tower, the rolling ladder",
+    "Nobody schedules it and nobody has ever interrupted it",
+    "The voice is the instrument; the story is the delivery mechanism"
+  ],
+  "seeAlso": [
+    "alice-meadows",
+    "luna-meadows",
+    "gh-library",
+    "communal-quirks"
+  ]
+}

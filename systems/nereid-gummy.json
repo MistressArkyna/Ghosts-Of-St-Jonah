@@ -1,0 +1,21 @@
+{
+  "id": "nereid-gummy",
+  "kind": "system",
+  "name": "The Nereid Gummy",
+  "group": "Body",
+  "state": "current",
+  "tagline": "One consent-locked sweet, cooked from her own authorized record. The only mystery permitted is the shape.",
+  "body": "THIS IS HOW NEREID IS DELIVERED. Not a syringe, not a drip, not a procedure she is wheeled into — A SINGLE GUMMY, prepared for one woman, from one record.\n\nIT IS COOKED FROM HER FINAL AUTHORIZATION. Before one is made for her she has completed the CONSENT MENU, reviewed the body Nereid showed her, and given FINAL AUTHORIZATION. The gummy is the last delivery of HER OWN AUTHORIZED DESIGN. It is not a sample. It is not a casual sweet. It is not a shortcut through the conversation.\n\nWHICH IS WHY THERE ARE NO GUMMY CANDIES IN THE PARLOUR. The sideboard carries wrapped chocolates, peppermints, fruit chews, hard candies, sugared almonds and caramels soft enough that Marianne has posted a handwritten warning about dental work — AND NOT ONE GUMMY. The absence is deliberate: no ordinary gummy sits in a communal bowl to blur the distinction or make the final object look like somebody's snack.\n\nTHE ONLY MYSTERY PERMITTED IN ITS PRESENTATION IS THE PARTICULAR TINY SHAPE within the mould family she chose — SHARK, DINOSAUR, ANIMAL or CAR. ITS BODILY CONSEQUENCES ARE NEVER A SURPRISE.\n\nThat sentence is the entire design philosophy of Hathaway Clinic compressed into a sweet the size of a thumbnail. The woman does not know which dinosaur. She knows EXACTLY what her body is about to become, because she authorized every line of it herself.",
+  "rules": [
+    "One gummy, one woman, cooked from her Final Authorization",
+    "No gummy candies anywhere in the parlour — the distinction is protected by absence",
+    "Mould families: shark, dinosaur, animal, car",
+    "The shape is a surprise. The body is not"
+  ],
+  "seeAlso": [
+    "consent-ladder",
+    "hathaway-clinic",
+    "project-nereid",
+    "nereid-origin"
+  ]
+}

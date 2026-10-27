@@ -1,0 +1,28 @@
+{
+  "id": "the-garden-inheritance",
+  "kind": "system",
+  "name": "The Garden Inheritance",
+  "group": "Household",
+  "state": "current",
+  "tagline": "What Sera and Bella break, Ivy plants in. Two units so far, and a method that works.",
+  "body": "THERE IS A PIPELINE AND NOBODY DESIGNED IT. Sera and Bella destroy a machine. IVY TAKES THE BODY INTO THE GARDEN. It becomes structure — beds, frames, glass, standing weight — and it WORKS, which is the part that turned an accident into a practice.\n\nFORKY McFORKLIFT WAS THE FIRST. Lord of the Toolshed, killed by the Bella Configuration on a boom left at hip height, and then PUT INTO THE BEDS, WHERE HE TOOK. A forklift is mostly frame and fork and counterweight, which is to say a forklift is mostly trellis.\n\nTHE SECOND IS BELLA’S OWN MOBILE MECHANIC WORK VAN, dead at 9:40 on the morning of 8 September, same cause, same pair, rough fucking in it as usual. IT IS A COLD FRAME NOW. Glass on three sides already and the roof comes off in one piece.\n\nAND IVY WAS NOT ANGRY EITHER TIME, which is the whole character of this. SHE HAS WANTED A NEW VEHICLE SINCE FORKY TOOK SO WELL. She did not claim a corpse out of spite or thrift; SHE COLLECTED ON A PROVEN METHOD, within the hour, with the shears still in her hand. BREAK THE NEXT ONE IN THE GARDEN, she told them, and she meant it as logistics.\n\nTHE LINEAGE IS VEHICLES. Furniture has its own ledger and a different set of culprits.",
+  "rules": [
+    "Sera and Bella kill it · Ivy takes the body · it becomes garden structure",
+    "FORKY McFORKLIFT, first inheritance. Into the beds, and he took",
+    "BELLA’S WORK VAN, second inheritance, 9:40am 8 September. A cold frame",
+    "Ivy has wanted a new vehicle since Forky took — the claim is a method, not a grudge",
+    "She claimed the van within the hour, unangry, shears in hand",
+    "BREAK THE NEXT ONE IN THE GARDEN — her words, meant as logistics",
+    "VEHICLES ONLY. Furniture deaths run on a separate ledger with different culprits"
+  ],
+  "seeAlso": [
+    "forky",
+    "bella-vargas",
+    "sera-vargas",
+    "ivy-emberose",
+    "road-fleet",
+    "gh-garden",
+    "bella-configuration",
+    "gh-recliner"
+  ]
+}

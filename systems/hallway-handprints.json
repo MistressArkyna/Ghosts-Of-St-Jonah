@@ -1,0 +1,23 @@
+{
+  "id": "hallway-handprints",
+  "kind": "system",
+  "name": "The Hallway of Handprints",
+  "group": "Places",
+  "state": "current",
+  "tagline": "A census that does not update.",
+  "body": "THE LEFT ARTERY — the EAST CHEEK corridor, running past Bryn and Torie's door at the north end toward the ground-floor Garage entry. Every Ghost and partner pressed a paint-slick palm to the wall at shoulder height on painting day. Sap green, cobalt, a dreadful mustard somebody regretted immediately, three or four pinks, a deep purple, one in gold that has flaked at the edges.\n\nBELLA'S IS NOT PAINT. She came straight off a shift with her hands black with engine oil and pressed her palm to the wall before anyone could stop her, and it is GREASE, gone matte and slightly sunk into the plaster, with every finger clean and the whorls of her fingertips still legible. SERA TRIED TO MATCH HER with motor oil so she could be beside her wife in the same medium and SMEARED — grey-brown, dragged sideways about three inches, and it has been there for years and nobody has ever touched it up.\n\nAND KATHERINE'S IS ON THAT WALL. AND WYNTER'S. They live in Specter Haven now; their old room became Ida and Mikaela's and smells of cedar instead of coconut. Their handprints are still at shoulder height in this corridor exactly where they put them, and nobody has painted over them and nobody ever will.\n\nTHE ARCHIVE CORRECTS — change records, an arc lens, six states, a verifier that shouts. THE WALL CANNOT AND DOES NOT WANT TO. It holds everyone who was ever here, not everyone who lives here. There is no field on that wall for MOVED TO SPECTER HAVEN IN ARC 10. There is a hand, and it stays.\n\nSELENE AND VIRAENA ARE NOT ON IT. Theirs are on their own timber, at Silverhorn, in the cabin at the edge of the woods behind the garden.",
+  "rules": [
+    "Left artery = East Cheek corridor, Ghost Haven",
+    "Every Ghost and partner, one palm, shoulder height",
+    "Bella's is grease and held its edges; Sera's is a smear and stays",
+    "It records residence at the moment of painting and is never updated",
+    "The foxwife and the owlwife have theirs at Silverhorn instead"
+  ],
+  "seeAlso": [
+    "ghost-haven",
+    "bella-vargas",
+    "sera-vargas",
+    "katherine-morrison",
+    "wynter-morrison"
+  ]
+}

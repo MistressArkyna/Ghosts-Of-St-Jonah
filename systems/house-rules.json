@@ -1,0 +1,29 @@
+{
+  "id": "house-rules",
+  "kind": "system",
+  "name": "The House Rules",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Five laws. Four of them are about a specific woman and one is about a raccoon.",
+  "body": "THE FIRST THING IN THIS ARCHIVE THAT IS AN ACTUAL LIST OF LAWS rather than a description of a thing. Every one of them exists because somebody did something once.\n\nONE. BRYN IS BANNED FROM THE COLOUR GREY, AND SILKEN EMBRACE NOW ENFORCES IT — the clothier will not sell it to her. The prohibition is on the COLOUR, not the garment: she lives in sweatpants, blue and black, daily, unremarked. Grey is banned because GREY REPORTS, and at eleven and a half by six point six there is a great deal to report. Silken Embrace does make grey bottoms; the cock limit on them is NINE INCHES, which most of this compound clears without trying.\n\nTWO. NO DONUTS FOR TRASHMUFFIN AFTER TEN P.M., EVEN IF HE MAKES THE SAD EYES. He will make the sad eyes.\n\nTHREE. DO NOT INTERRUPT AKANE’S TEA SERVICES.\n\nFOUR. LEAVE ALICE’S FANCY KITCHEN KNIVES ALONE. She carved every anniversary into the kitchen doorframe with one of them and she will notice.\n\nFIVE. DO NOT LEAVE RAE UNATTENDED NEAR CAFFEINE. This one was already on her record in capitals — EXPRESSLY FORBIDDEN CAFFEINE — and the other four were nowhere.\n\nENFORCEMENT IS SOCIAL AND ABSOLUTE. Nobody votes on these. The grey ban was written narrowly on the fridge by Torie, who specified MAIN FLOOR and told nobody for four years.",
+  "rules": [
+    "1 · Bryn is banned from grey. Silken Embrace enforces it",
+    "2 · No donuts for Trashmuffin after 10pm, sad eyes notwithstanding",
+    "3 · Do not interrupt Akane’s tea services",
+    "4 · Leave Alice’s fancy kitchen knives alone",
+    "5 · Do not leave Rae unattended near caffeine",
+    "Grey bottoms exist with a NINE INCH cock limit; most of the compound beats it",
+    "The grey ban is on the COLOUR. Blue and black sweatpants are daily wear",
+    "Torie wrote rule one narrowly — MAIN FLOOR only — and said nothing for four years"
+  ],
+  "seeAlso": [
+    "bryn-eriksson",
+    "torie-eriksson",
+    "sir-trashmuffin",
+    "akane-yoshizawa",
+    "alice-meadows",
+    "rae-stewart",
+    "silken-embrace",
+    "fridge-column"
+  ]
+}

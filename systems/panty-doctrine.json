@@ -1,0 +1,24 @@
+{
+  "id": "panty-doctrine",
+  "kind": "system",
+  "name": "Backup Panties",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Two spare pairs per outfit. One is for the raccoon and one is for your wife.",
+  "body": "THE PACKING RULE, ISSUED BY OWLMOM AT THE CAMPING MEETING AND ADOPTED WITHOUT DEBATE: every outfit travels with AT LEAST TWO EXTRA PAIRS OF PANTIES. It is provisioning, not superstition, and it answers two separate and entirely predictable losses.\n\nLOSS ONE — THE RACCOON. SIR TRASHMUFFIN IS COMING ON THE TRIP. Forty-eight pairs taken across nineteen years and a ZERO PERCENT RECOVERY RATE; the family formally stopped trying in Arc 3. A week away from the house does not slow him down, it relocates him. One pair per woman is simply gone, and planning otherwise is planning to be wrong.\n\nLOSS TWO — WIFE FERALITY. Some women in this family do not remove panties, and the Archive is naming the documented case: LIVI STEWART TEARS RAE'S OFF HER when she goes feral feral. The fabric does not survive it and is not meant to. That is not a problem to be solved; it is a known consumption rate, and a week-long trip with sixteen marriages on it should be stocked for it the same way it is stocked for lube.\n\nTWO SPARES PER OUTFIT. NO TUCKING, NO BOYSHORTS, AND NO NEGOTIATION.\n\nAND RAE STEWART GETS HER OWN LINE. Two spares per outfit is a rule written for women whose panties are removed. Livi's tear rate on 7 September was ONE PAIR IN TWO MINUTES FORTY, and a nine-day trip run at anything near that number needs THIRTY-PLUS EXTRA PAIRS for Rae alone. Owlmom added it to the manifest out loud and nobody laughed, because everybody did the same arithmetic.",
+  "rules": [
+    "Minimum two spare pairs per outfit, every trip",
+    "RAE STEWART IS PROVISIONED SEPARATELY: thirty-plus additional pairs for a nine-day trip, calculated off Livi's observed tear rate",
+    "Trashmuffin travels with the family. Expect one loss per woman, minimum",
+    "Wife ferality is a consumption rate: Livi tears Rae's, documented",
+    "Tangas, cheekys, Brazilian cut, thongs and G-strings only"
+  ],
+  "seeAlso": [
+    "sir-trashmuffin",
+    "livi-stewart",
+    "rae-stewart",
+    "sleipnir",
+    "lube-economy",
+    "ghost-haven"
+  ]
+}

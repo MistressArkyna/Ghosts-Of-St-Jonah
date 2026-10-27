@@ -1,0 +1,22 @@
+{
+  "id": "nglb",
+  "kind": "system",
+  "name": "No Girl Left Behind",
+  "group": "Protocol",
+  "state": "current",
+  "version": "v3.0",
+  "tagline": "Every resident registers in every scene set in her home. No girl fades into the background without intention.",
+  "body": "Before a house scene is marked complete, the roster is pulled, the scene is scanned paragraph by paragraph, a presence state is assigned to every girl, and any gap halts the scene until the missing girls are woven in naturally. Ghost Haven and Banshee Haven girls may visit a Specter Haven scene, but visitors never displace residents and never trigger the sweep on their own behalf.",
+  "rules": [
+    "Speaking — at least one line, even a single murmured word",
+    "Existing — physically present and described in the scene",
+    "Interacting — engaged with another character through touch, reaction, gesture or laughter",
+    "Minimum: one state per resident, plus at least one interaction that is not with her own partner",
+    "Only Viraena may override, and the bypass is logged"
+  ],
+  "seeAlso": [
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven"
+  ]
+}

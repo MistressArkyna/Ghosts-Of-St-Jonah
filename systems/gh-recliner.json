@@ -1,0 +1,24 @@
+{
+  "id": "gh-recliner",
+  "kind": "system",
+  "name": "The Recliner",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Bryn built the bones, Abbi forged the hinges, Lumi put a bow on the lever. Mark One died after fourteen hours of continuous service.",
+  "body": "MARK ONE. Built in Arc 11. BRYN BUILT THE BONES, ABBI FORGED THE HINGES, AND LUMINA PUT A BOW ON THE LEVER, which stayed on it for four years. It held every woman in this family through at least one bad night, and that is the part that should be said first.\n\nHOW IT DIED. Fourteen hours of continuous occupancy by Selene and Viraena, beginning the evening of 7 September. The left rear leg fractured first, the hydraulic post punched through the base, the seatback went flat, and THE FOOTREST LEFT ITS TRACK AND CROSSED SIX FEET OF RUG, taking a full cup of coffee up the wall and down the fireplace stones on its way. It did not so much collapse as LIST, then surrender.\n\nBRYN CAME DOWN WITH HER SHORTS ON BACKWARDS, crouched, put one hand flat on the broken leg like a vet on a horse's flank, said HUH, and asked one question: ARMS ON THE NEXT ONE, OR NO ARMS.\n\nMARK TWO, AS SPECIFIED ON SITE. ARMS. GOOSE FEATHER STUFFED SEATS. And the two owl feathers that came out of Viraena's scalp the morning after — glued into the cushion overnight by a rope of Selene's and standing upright out of the leather until Rae labelled them DO NOT TOUCH, HISTORIC — SET INTO THE NEW HEADREST UNDER RESIN.\n\nLIVI OWED RAE TEN DOLLARS. Rae had called it to go before winter.",
+  "rules": [
+    "Mark One: Arc 11. Bryn's bones, Abbi's hinges, Lumi's bow on the lever",
+    "Died 8 September after fourteen hours of continuous service",
+    "Mark Two: arms, GOOSE FEATHER STUFFED SEATS, and the two feathers set in the headrest under resin",
+    "Rae won ten dollars off Livi. She had called it to go before winter"
+  ],
+  "seeAlso": [
+    "bryn-eriksson",
+    "abbi-silverveil",
+    "lumina-silverveil",
+    "rae-stewart",
+    "livi-stewart",
+    "ghost-haven",
+    "forky"
+  ]
+}

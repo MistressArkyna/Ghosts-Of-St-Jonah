@@ -1,0 +1,24 @@
+{
+  "id": "gremlindex",
+  "kind": "system",
+  "name": "The Gremlindex",
+  "group": "Archive",
+  "state": "current",
+  "tagline": "084 total, numbered in global adoption order across all three Havens. Riven and Heather are the current tail.",
+  "body": "WHAT IT IS. A compact projection of the Full Living Lady Profile — NOT A SEPARATE RECORD AND NOT A SEPARATE AUTHORITY. Anything in the Gremlindex that disagrees with the full profile is the Gremlindex being wrong. It exists so a woman can be read at a glance without the archive keeping two versions of her.\n\nTHE NUMBER. Displayed as 0XX/084. THE TOTAL IS 084 AND THAT IS THE END OF THE COUNT, not a running tally — Ghost Haven 32, Specter Haven 28, Banshee Haven 24.\n\nTHE ORDER IS GLOBAL ADOPTION ORDER, ACROSS ALL THREE HAVENS AT ONCE. Not by house, not alphabetical, not by arc alone. The compound adopted women in a sequence and the sequence is the number.\n\nTHE TAIL IS CURRENTLY RIVEN AND HEATHER, adopted in Arc 15, and EVERY WOMAN ADOPTED AFTER THEM TAKES THE NEXT SEQUENTIAL NUMBER. So the ten unwritten Banshee women do not sit in the middle waiting to displace anybody — THEY QUEUE AT THE END. Numbering the existing roster does not have to wait on them.\n\nWHAT THE ARCHIVE HOLDS: 74 of 84. Ghost 32/32 complete. Specter 28/28 complete. BANSHEE 14 OF 24.",
+  "rules": [
+    "084 total · Ghost 32 · Specter 28 · Banshee 24",
+    "Numbered in GLOBAL ADOPTION ORDER across all three Havens",
+    "Riven and Heather are the current tail. Later adoptions take the next numbers",
+    "The ten unwritten Banshee women queue at the END and displace nobody",
+    "The Gremlindex is a PROJECTION of the full profile, never an authority against it",
+    "Archive currently holds 74 of 84"
+  ],
+  "seeAlso": [
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven",
+    "house-assignment",
+    "project-nereid"
+  ]
+}

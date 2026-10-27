@@ -1,0 +1,27 @@
+{
+  "id": "the-christening",
+  "kind": "system",
+  "name": "The Christening",
+  "group": "Household",
+  "state": "current",
+  "tagline": "All furniture in this house gets christened properly. Opportunity and lube nearby. Dibs is binding.",
+  "body": "EVERY PIECE OF FURNITURE IN THIS HOUSE GETS CHRISTENED and the requirements are stated plainly: OPPORTUNITY, AND LUBE NEARBY. A new piece sitting unblessed is treated as a small ongoing insult to it, and Bella will say so out loud.\n\nDIBS IS BINDING. A woman calls it and it holds. There is a QUEUE, it is remembered without being written down, and it is deep — on the night of 8 September the goose-feather recliner was claimed by DESTINY for FRIDAY, with Alice and Luna’s rematch, Rae’s standing claim on the gravity couch and Abbi all behind her, and Pandora four deep and still owed a turn at the Moon Window she never got because Alice and Luna went forty minutes. Thirty-five, per Luna.\n\nDESTINY’S CLAIM IS A HANDS-ON LAPDANCE, which is FOREPLAY WITH A STRUCTURE: seduce, dance, strip, fuck, in that order, with contact permitted. The Archive theorised that HANDS-ON must be a redundant formality between wives, since no contact restriction exists in that bedroom to lift, and that Dessie was running the club format for the shape of it. WRONG, AND CORRECTED BY DESTINY HERSELF: she specifies it BECAUSE SHE WANTS THE HANDS. It is a request phrased as a permission, and it runs both ways — Ceri gets the same clause when Dessie is the one dancing.\n\nTHE FURNITURE LEDGER IS SEPARATE FROM THE GARDEN LINEAGE. Vehicles this family destroys go to Ivy. Furniture dies on its own ledger with its own culprits, and the Archive is not merging the two to make a tidier system.",
+  "rules": [
+    "All furniture is christened — opportunity, and lube nearby",
+    "DIBS IS BINDING and the queue is remembered, not written",
+    "8 September: the goose-feather recliner is Destiny’s, Friday",
+    "A HANDS-ON LAPDANCE is seduce · dance · strip · fuck, with contact permitted",
+    "Hands-on is a REQUEST phrased as a permission, and it runs both ways",
+    "Pandora is still owed the Moon Window",
+    "Furniture and vehicles are separate ledgers"
+  ],
+  "seeAlso": [
+    "gh-recliner",
+    "dessie-clairmont",
+    "ceri-clairmont",
+    "the-garden-inheritance",
+    "gh-moon-window",
+    "pandora-everrest",
+    "bella-vargas"
+  ]
+}

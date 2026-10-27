@@ -1,0 +1,32 @@
+{
+  "id": "gh-trades",
+  "kind": "system",
+  "name": "Ghost Haven — Trades and Hobbies",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Thirty-two women, their work, and the word that comes FIRST in half of the entries.",
+  "body": "THE FULL ROSTER, AS GIVEN, WITH THE ORDER OF EACH ENTRY PRESERVED — because the order is the finding.\n\nBRYN: Jewellery. TORIE: Brat and Complaint Writer, the anonymous column. ALICE: Brat and Chef. LUNA: Tarot Reader and Goth Girl. SERA: Firebrand Chaotic Bartender. BELLA: Brat and Mechanic. NOVA: Runner. VIOLET: Cheer Captain and Coach. LIVI: Boxing Instructor AND PRIEST, who officiates the weddings. RAE: Gremlin and Punk Rock Guitarist, no band, so a hobby. EVIE: Electrician. IVY: Botanist. HARLEY: Brat and SURGEON and Rope Bunny. YVAINE: Seamstress. MADDY: Cosplayer, hobby. CORA: 3D Modeller and Game Designer. PANDORA: Perverted Software Architect and Porn Connoisseur. JADE: Volleyball Captain and Coach. SIREN: Smut Writer. CYRENA: Smug goth brat, Woodwork and Archery. DESTINY: Brat and Stripper. AKANE: Tea Maiden. GWEN: Brat, Paladin, and Fencing and Swordplay Instructor. IZZY: Brat and Painter. FIONA: Brat and Pianist and Singer. LUMINA: Belly Dancer. ABBI: Brat and Blacksmith. ISOLDE: Model and Bouncer. MIKAELA: Homemaker, unsettled — an angelic quivering goth girl who scares easily. SAGE: Planter. ZEPHI: Brat and Sock Thief.\n\nTHE FINDING IS IN THE FORMATTING. THIRTEEN OF THESE ENTRIES LEAD WITH BRAT OR ITS COUSIN — Torie, Alice, Bella, Harley, Cyrena, Destiny, Gwen, Izzy, Fiona, Abbi, Zephi, plus Rae as GREMLIN and Pandora as PERVERTED. HARLEY IS A BRAT AND THEN A SURGEON. GWEN IS A BRAT, THEN A PALADIN, THEN AN INSTRUCTOR. The temperament is written before the trade in the author’s own hand, which is the rule the Archive kept breaking all night stated as a list.\n\nTHREE ENTRIES THAT CHANGE THINGS. LIVI IS A PRIEST and has OFFICIATED THE WEDDINGS of this family — the boxing instructor with the PR chalkboard married these women. HARLEY CALDER IS A SURGEON, which the Archive would never have guessed from a woman who asks to be spun on a ceiling fan, and which is exactly why it should not have been guessing. AND ISOLDE VEYRA, the quietest and most reserved woman in the entire compound, IS A BOUNCER.\n\nAND ONE THE ARCHIVE ALREADY HELD AND NEVER READ. CORA IS A 3D MODELLER AND GAME DESIGNER. Her own room record lists a DUAL DRAFTING AND PRINT STATION and a FILAMENT STORAGE SHELF, and the Archive has been writing her as quilts and recipe cards for builds because those are also in the room. The filament was there the whole time.\n\nMIKAELA IS UNSETTLED ON PURPOSE and filed that way. Homemaker is the nearest word, not a ruling.",
+  "rules": [
+    "THE TEMPERAMENT IS WRITTEN BEFORE THE TRADE. Thirteen entries lead with brat, gremlin or perverted",
+    "LIVI IS A PRIEST and officiated this family’s weddings",
+    "HARLEY IS A SURGEON. Brat first, surgeon second, rope bunny third",
+    "ISOLDE is a MODEL AND A BOUNCER, and the quietest woman on the property",
+    "CORA is a 3D MODELLER AND GAME DESIGNER — the filament shelf was already in her room record",
+    "RAE plays punk guitar with no band, so it is a hobby, not a trade",
+    "MADDY cosplays as a hobby; CORA models professionally",
+    "YVAINE is a SEAMSTRESS, which is why she repairs what Silken Embrace makes",
+    "MIKAELA: homemaker, UNSETTLED. The nearest word, not a ruling",
+    "LUCIA IS NOT ON THE ROSTER AS GIVEN. See q-lucia-trade"
+  ],
+  "seeAlso": [
+    "communal-quirks",
+    "house-diction",
+    "build-classes",
+    "livi-stewart",
+    "harley-calder",
+    "ida-veyra",
+    "cora-ariti",
+    "lucia-wilding",
+    "mikaela-verya"
+  ]
+}

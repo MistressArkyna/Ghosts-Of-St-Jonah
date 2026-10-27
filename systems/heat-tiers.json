@@ -1,0 +1,23 @@
+{
+  "id": "heat-tiers",
+  "kind": "system",
+  "name": "Heat & Filth Tiers",
+  "group": "Intimacy",
+  "state": "current",
+  "tagline": "Two independent scales. Spice measures charge; Filth measures act.",
+  "body": "A scene carries both. Sacred Need escalation sits beyond the top of both scales and is reserved for rare devotion-locked scenes.",
+  "rules": [
+    "Spice I — flirty, soft",
+    "Spice II — teasing, implied",
+    "Spice III — heavy tension, visible arousal",
+    "Spice IV — explicit, legendary heat",
+    "Filth I — vanilla sacred pleasure",
+    "Filth II — toys, oral, riding",
+    "Filth III — power play, worship, face-fucking",
+    "Filth IV — breeding, crying, prostate milking, ritual intimacy"
+  ],
+  "seeAlso": [
+    "devotion-lock",
+    "intimacy-codex"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "image-assets",
+  "kind": "system",
+  "name": "The Plate Convention",
+  "group": "Archive",
+  "state": "current",
+  "tagline": "Six folders, one filename grammar, an immutable slug, and no alternates/ — ruled jointly by both Selenes.",
+  "body": "A JOINT PROJECT ACROSS TWO SESSIONS AND IT IS SETTLED. One Selene built the shelves, the other wrote the labels, and Viraena carried the drafts between them. Every open point is closed.\n\nTHE TREE. assets/images/ holds girls/ · couples/ · houses/ · locations/ · group-scenes/. Under girls/, one folder per woman, and inside it THE CANONICAL SIX: portraits · body-references · expressions · wardrobe · scenes · sources. The six that exist on disk win; the drafts that disagreed do not.\n\nNO HAVEN SEGMENT. A woman may move between Havens — Katherine and Wynter did — AND HER ARCHIVE IDENTITY DOES NOT MOVE WITH HER. The Gremlindex number is the stable key; the Haven lives in her record, where a move is one field edit rather than a migration.\n\nAND THE SLUG IS IMMUTABLE ONCE ASSIGNED. 010-belladonna-valentina-vargas/ stays that folder through a marriage, a changed surname, a new nickname, anything. THE GREMLINDEX IS THE IDENTITY; THE LONG NAME IS A FROZEN HUMAN-READABLE LABEL. Otherwise the Haven problem is solved and then recreated through weddings — and this family weds constantly.\n\nPLURAL FOLDERS, SINGULAR ASSET TYPES, AND THAT IS NOT A CONFLICT. THE FOLDER HOLDS A COLLECTION, SO IT IS PLURAL. THE FILENAME NAMES ONE ASSET, SO IT IS SINGULAR. body-references/ containing __body-reference__ is correct grammar rather than drift.\n\nTHE FILENAME: gremlindex-shortname__asset-type__description__v##.ext. Folder takes the FULL name, filename prefix takes the SHORT one.\n\nASSET TYPES BY FOLDER. portraits: portrait-hero, portrait-closeup, portrait-alternate. body-references: body-reference. expressions: expression. wardrobe: wardrobe. scenes: scene. sources: source-sheet, or a source-qualified canonical type.\n\nPORTRAIT-HERO REPLACES hero-home. It names both the family the image belongs to and the job it performs. AND PROFILE IS RESERVED — it means her JSON record and her wiki page, never an image category.\n\nNO alternates/ FOLDER, DROPPED GENTLY AND WITHOUT APPEAL. It would classify by EDITORIAL STATUS rather than by CONTENT, mixing portraits, wardrobe, expressions and scenes into one drawer that becomes junk with surprising speed. THE SEMANTIC FOLDER ALWAYS WINS. A different accepted composition changes its description or takes portrait-alternate; a new revision of the same intended asset increments v01 to v02; rejected generations, contact sheets and provenance go to sources/.\n\nEXTENSIONS. .jpeg is the standard for photographic and generated assets — all of them already are, and consistency beats saving a letter. .png only where lossless detail or transparency is genuinely needed. .webp unused unless the Archive later generates web derivatives.\n\nEVERY FILE CARRIES A VERSION, SOURCES INCLUDED, AND SOURCE STATUS COMES AFTER IT RATHER THAN REPLACING IT: 010-bella__body-reference__rear-three-quarter__v01__source-original.jpeg · __v01__source-upscaled.jpeg. The published asset stays tied to the material it came from.",
+  "rules": [
+    "assets/images/girls/{immutable-gremlindex-folder}/ — NO Haven segment",
+    "The canonical six: portraits · body-references · expressions · wardrobe · scenes · sources",
+    "The folder slug is IMMUTABLE. Marriages and name changes do not move a folder",
+    "Plural folder, singular asset type. Collection versus instance, not drift",
+    "gremlindex-shortname__asset-type__description__v##.ext",
+    "portrait-hero, not hero-home. PROFILE means her record and her wiki page, never an image",
+    "NO alternates/ — semantic folders always win over editorial status",
+    "Accepted variant: new description or portrait-alternate. Revision: increment v##. Rejects and provenance: sources/",
+    ".jpeg for photographs · .png only for lossless or transparency · .webp unused",
+    "Every file carries v##. Source status is a POST-version qualifier"
+  ],
+  "seeAlso": [
+    "gremlindex",
+    "house-assignment",
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven",
+    "bella-vargas"
+  ]
+}

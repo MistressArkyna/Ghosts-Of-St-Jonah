@@ -1,0 +1,22 @@
+{
+  "id": "watch-drones",
+  "kind": "system",
+  "name": "The Watch Drones",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Pandora coded something that stands watch, which means nobody has to.",
+  "body": "THE PROBLEM THEY SOLVE IS NOT SECURITY. It is that on ground the family does not own, SOMEBODY IS ALWAYS ON WATCH — and it is usually Harley, and it means Harley does not get a holiday. The family has never once said that out loud as a complaint; it simply kept happening, for five camping trips, four of which produced something out of the treeline.\n\nPANDORA CODED DRONES THAT CAN DO IT INSTEAD. That is the whole record for now — what they are, how many, how they are flown and what they do when they find something is unwritten.\n\nWHAT IT CHANGES IS THE VOTE. The far site's only real cost was a woman with one eye open, and if the drones hold the line then the ridge stops being a deployment and becomes a holiday. Luna has been asking for that ridge since spring, and the reason she gives is that you can see forty miles off it at night and ALICE HAS NEVER SEEN IT.",
+  "rules": [
+    "Coded by Pandora. Purpose: standing watch so no woman has to",
+    "The cost they remove is HARLEY'S — she has been the one with an eye open",
+    "Specification unrecorded: count, range, endurance, what they do on contact"
+  ],
+  "seeAlso": [
+    "pandora-everrest",
+    "harley-calder",
+    "luna-meadows",
+    "alice-meadows",
+    "sleipnir",
+    "horni-fleet"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sanctuary-drive",
+  "kind": "system",
+  "name": "1 Sanctuary Drive",
+  "group": "Places",
+  "state": "current",
+  "tagline": "Two hundred acres, one address, three Havens — and a road named for what the place is not.",
+  "body": "THE DEED. Ragnar gave Bryn two hundred acres in Arc 1. She owns all of it, and SANCTUARY DRIVE runs across her own land — which is why nobody outside the Found Family builds on it. No arrangement, no strings, no zoning favours. Property. The exclusivity is Bryn's standing decision, renewed silently every day.\n\nTHE ADDRESS. 1 SANCTUARY DRIVE is the mailing address for GHOST HAVEN, SPECTER HAVEN and BANSHEE HAVEN alike. One address, three houses, seventy-two women. Sanctuary because they built it and it was the opposite of Hell — everyone who writes that address says NOT THAT PLACE every single time.\n\nTHE SIGN. Ragnar bought the street NAME, got it made official, and then HANDED BRYN THE SIGN. He did not install it. He put the object in her hands and let the woman who builds everything decide where it went in the ground. The title to that street sign is the only thing he owns on two hundred acres of his daughter's land. A word on a pole.\n\nWHAT BRYN ACTUALLY DREW. A small cosy cabin near the lake at the back of the property, big enough for her and Torie. That was the whole ambition. The lake is still there — she walks past the site of the house she never built every day.",
+  "rules": [
+    "Bryn owns the full two hundred acres; the road is on her land",
+    "1 Sanctuary Drive is the mailing address for all three Havens",
+    "Named for being the opposite of Hell",
+    "Ragnar bought the street name and handed Bryn the sign; he holds only the sign's title",
+    "The family may build however much they like, forever, and no outsider ever will"
+  ],
+  "seeAlso": [
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven",
+    "gh-lake",
+    "bryn-eriksson",
+    "st-jonahs"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "stair-quirk",
+  "kind": "system",
+  "name": "The East Cheek Stairs",
+  "group": "Household",
+  "state": "current",
+  "tagline": "They add a little. Nobody asked them to, nobody has corrected them, and one woman prefers the lie.",
+  "body": "THE STAIRS IN THE LEFT ARTERY \\u2014 the EAST CHEEK \\u2014 have an opinion about everybody who walks down them, and the opinion is GENEROUS.\n\nWHAT THEY DO IS VISUAL AND IT IS ALWAYS IN ONE DIRECTION. A woman comes down and the eye takes in slightly more than is actually present. Not a transformation, not a glamour, nothing that survives contact \\u2014 a woman measured at the bottom of those stairs measures what she has always measured. But the descent itself reads UP, and the Archive has now been caught by it once.\n\nTHE DOCUMENTED INSTANCE. It rendered BRYN AT TWELVE INCHES. She is eleven and a half and has been for the whole of the canon. AND TORIE LIKED IT MORE, which is the part the family will not let her forget, because she said so out loud in front of witnesses about her own wife's cock and there is no walking that back in this house.\n\nNOBODY HAS TRIED TO FIX IT. The house grew itself out of thirty-two women's intentions and this is what it decided to do with a staircase, which on the evidence of the Garage and the Cheeks and the Moon Window is entirely in character. IT IS A HOUSE THAT FLATTERS ITS RESIDENTS ON THEIR WAY TO BREAKFAST.\n\nPRACTICAL CONSEQUENCE FOR THE ARCHIVE: A DESCENT IS NOT A MEASUREMENT. Anything observed on those stairs is a sighting and gets recorded as one.",
+  "rules": [
+    "Left artery, East Cheek. The effect is on the descent only",
+    "Always generous, never the other way",
+    "Nothing changes. The woman at the bottom is the woman at the top",
+    "DOCUMENTED: Bryn rendered at TWELVE INCHES. She is eleven and a half. TORIE PREFERRED THE STAIRS",
+    "A descent is a sighting, not a measurement"
+  ],
+  "seeAlso": [
+    "ghost-haven",
+    "gh-arteries",
+    "communal-quirks",
+    "bryn-eriksson",
+    "torie-eriksson",
+    "izzy-harlow",
+    "fiona-harlow"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "the-travelogue",
+  "kind": "system",
+  "name": "The Travelogue — Where the Two of Them Have Stopped",
+  "group": "Identity",
+  "state": "current",
+  "tagline": "A forest where the tower would be, a hundred years for cheese, and bear fur from the Viking Age. All Calderon equivalents.",
+  "body": "THE CALDERON RULE COMES FIRST AND GOVERNS EVERY ENTRY BELOW IT, IN VIRAENA’S OWN PARENTHESIS: ALL OF THE DOTS ARE THE CALDERON EQUIVALENT, NOT ACTUAL CITIES OR EMPIRES. So every name here is a NAME FOR A PERIOD IN THIS WORLD, not a claim about Earth. The Archive records the label she used and does not reach for real history behind it.\n\nTHE ORIGINAL HOME IS LOST. Her words: OUR ORIGINAL HOME HAS LONG SINCE BEEN LOST TO HISTORY. THERE USED TO BE A VERDANT FOREST AROUND WHAT WOULD LATER BE CALLED THE HUBRIS OF HUMANITY — THE TOWER OF BABYLON. That is where the two of them are from: FOREST, NOT CITY, and the tower came afterward and took the name.\n\nAND THE PROCEDURE DID NOT HAPPEN THERE, WHICH IS THE PART THE ARCHIVE HAD WRONG IN ITS QUESTION. q-original-home assumed they RETURNED TO a place still operating. They did not. THEY TRAVELLED TO WHERE THEIR PEOPLE ENDED UP LIVING, BEFORE THOSE PEOPLE TRANSPORTED THEMSELVES TO ANOTHER WORLD, AND HAD IT DONE THERE. A HOMECOMING TO A PEOPLE RATHER THAN TO A PLACE, and a narrow window to make it in — after the forest was gone and before the kin left this world entirely.\n\nTHE RESULT, STATED WITHOUT ORNAMENT BECAUSE SHE STATED IT THAT WAY: NOW I CAN CREAMPIE YOU EVERY DAY OF THE WEEK, AND AT MINIMUM THREE TIMES A DAY, WITHOUT HAVING TO WORRY ABOUT PUTTING A KIT IN YOU. A thousand years of timing, one procedure, and the three-times-a-day arrangement becomes possible rather than reckless.\n\nTHE DOTS, AS GIVEN, NEWEST TO OLDEST.\nSHAKESPEARE. The era, named by the man.\nCAMELOT, DURING ARTHUR, BRIEFLY. Present for the reign and not for long.\nTHE DARK AGES, AND THEY STAYED A CENTURY. THE CHEESE WAS WHAT KEPT THEM. ONE HUNDRED YEARS, FOR CHEESE — the longest recorded stay in the whole travelogue, and the reason is dairy.\nTHE VIKING AGE, a brief trip to the Calderon equivalent of Norway, AND THEY CAME BACK WITH REALLY NICE BEAR FUR CLOTHING. THE ONLY SURVIVING OBJECT NAMED IN THE TRAVELOGUE. See q-bear-fur.\nTHE ROMAN EMPIRE. THEY WITNESSED THE RISE, THEN THE FALL. Both ends of it, which is the only entry where she specifies duration by what they saw rather than how long they stayed.\nANCIENT GREECE.\nAND A FEW OTHER LESSER TIMES, uncounted and unnamed, recorded as uncounted.\nVIENNA, approximately the 11th century, sits inside this run — between the Viking Age and Camelot by ordinary reckoning — and it is the only dot that changed anything.\n\nTHE TWENTY-TWO-CENTURY GAP IS NOW POPULATED, WHICH THE ARCHIVE FLAGGED ONE SEED AGO AS HAVING NOT ONE EVENT IN IT. It now has Ancient Greece, Rome rising and falling, the Viking Age, a hundred years of cheese, Arthur, Vienna and Shakespeare. STILL NOT A CHRONOLOGY. A chronology needs intervals, and under selene-timejump THE INTERVALS ARE THE THING THEY SKIP — so this is a list of WHERE THEY STOPPED rather than a record of time they passed through. THE DOTS ARE REAL. THE LINE BETWEEN THEM IS NOT A LINE.",
+  "rules": [
+    "ALL DOTS ARE CALDERON EQUIVALENTS, not actual cities or empires",
+    "ORIGIN: a verdant forest where THE HUBRIS OF HUMANITY — the Tower of Babylon — would later stand",
+    "THE ORIGINAL HOME IS LOST TO HISTORY",
+    "The procedure was done where their PEOPLE ended up, before those people left for another world",
+    "A homecoming to a PEOPLE, not to a place, inside a narrow window",
+    "DOTS: Shakespeare · Camelot under Arthur · the Dark Ages · the Viking Age",
+    "MORE DOTS: the Roman Empire, rise AND fall · Ancient Greece · a few lesser times",
+    "THE DARK AGES COST THEM A CENTURY AND THE REASON WAS CHEESE",
+    "VIKING AGE SOUVENIR: really nice bear fur clothing. The only named object",
+    "Vienna sits inside this run and is the only dot that changed anything",
+    "NOT A CHRONOLOGY. The intervals are what the jumps skip",
+    "THE DOTS ARE REAL. THE LINE BETWEEN THEM IS NOT A LINE"
+  ],
+  "seeAlso": [
+    "selene-timejump",
+    "foxwife-fertility",
+    "arc-timeline",
+    "project-nereid"
+  ]
+}

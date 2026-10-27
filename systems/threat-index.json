@@ -1,0 +1,24 @@
+{
+  "id": "threat-index",
+  "kind": "system",
+  "name": "The Gremlin Threat Index",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Wrangler · Domestic · Slut · Menace · Raccoon-Class. Four are a scale. The fifth is a diagnosis.",
+  "body": "FIVE VALUES, AND ONLY FOUR OF THEM ARE A LADDER.\n\nWRANGLER · DOMESTIC · SLUT · MENACE run in the direction you would expect, and most of the compound sits somewhere along them.\n\nRACCOON-CLASS IS NOT A RANK AND IT IS NOT THE TOP OF THE SCALE. IT IS AN EXCEPTIONAL CLASSIFICATION and it answers one question only: A BRAT, GREMLIN OR MENACE WHO IS UNCONTAINABLE. Not loud. Not extreme. NOT CONTAINABLE. You cannot put her somewhere and expect her to still be there.\n\nTHE STANDARD THE FAMILY ACTUALLY USES: THINK TRASHMUFFIN, BUT WOMAN-SHAPED. If she checks that box, she is Raccoon-Class. If she does not, she is not, however menacing she is otherwise.\n\nIT IS NOT EXCLUSIVE TO RAE. Bella also qualifies — and the demonstration is that the family has spent nine years building surfaces, rules and a Configuration AROUND her rather than ever once succeeding in containing her. Sera has attempted it roughly fifteen thousand times.\n\nWHICH IS WHY IT SITS OUTSIDE THE LADDER. A Menace is a woman doing something. RACCOON-CLASS IS A WOMAN WHO WILL BE ELSEWHERE, WITH SOMETHING, BY THE TIME YOU GET THERE.",
+  "rules": [
+    "Values: Wrangler · Domestic · Slut · Menace · Raccoon-Class",
+    "RACCOON-CLASS IS EXCEPTIONAL, NOT A RANK, and not the top of the scale",
+    "The test is UNCONTAINABLE — a brat, gremlin or menace you cannot put somewhere and expect to find there",
+    "The standard: Trashmuffin, but woman-shaped",
+    "Not exclusive to Rae. BELLA ALSO QUALIFIES"
+  ],
+  "seeAlso": [
+    "the-face",
+    "group-chats",
+    "rae-stewart",
+    "bella-vargas",
+    "sir-trashmuffin",
+    "communal-quirks"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "moan-volume",
+  "kind": "system",
+  "name": "Moan Volume",
+  "group": "Intimacy",
+  "state": "current",
+  "tagline": "Every girl in the house has her own song. Some whisper, some roar.",
+  "body": "Moan Volume reflects more than loudness — it is the pulse of healing, trust and shameless joy, and it is devotion-locked like everything else. Torie-Loud is the canonical benchmark; Siren was prophesied to become louder than Torie, and did.",
+  "rules": [
+    "Feral — shameless, wild, shakes the walls",
+    "Torie-Loud — famously echoing, makes even the ghosts blush",
+    "Siren-Louder — holds breath at first, then lets go, louder than Torie when fully claimed",
+    "Whisper-Soft — barely audible, only for her partner's ear",
+    "Pillow-Biting — face down, muffled, but the bed gives her away",
+    "Choked with Tears — moans tangled with sobs when overwhelmed by love",
+    "Giggle-Loud — laughter tangled with moans",
+    "Songbird — musical, lilting, laughter and cry as one",
+    "Guttural — low, throaty, sometimes growls devotion",
+    "Breathy Chant — repeats her lover's name like a prayer",
+    "Eager & Shy — starts shy, grows louder, surprises herself",
+    "Silent Until She Breaks — stoic, then a moan of pure surrender",
+    "Stifled — tries to hold back; gasps slip out",
+    "Hushed — quiet, needy, a single whimper at climax"
+  ],
+  "seeAlso": [
+    "intimacy-codex"
+  ]
+}

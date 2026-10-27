@@ -1,0 +1,21 @@
+{
+  "id": "spirit-animals",
+  "kind": "system",
+  "name": "Spirit Animals",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Two confirmed, and both of them explain a name the Archive had already got wrong.",
+  "body": "A CATEGORY THE ARCHIVE DID NOT KNOW IT HAD. Women in this family carry a spirit animal, and in at least two cases the animal is where the name came from — which means the Archive has been inventing etymologies for epithets whose real source was sitting one field away.\n\nLUCIA WILDING — A LIONESS. She is a PLAYFUL TOP and her spirit animal is a lioness; stack those two facts and THE PLAYFUL LIONESS is finished without a single strand of hair in it. The Archive instead learned that her hair is burnt honey shot with crimson and unkempt as a mane, and reached BACKWARDS to rewrite an existing epithet as having been caused by it. A coincidence promoted to an etymology. The mane is real. It is not the reason.\n\nABIGAIL SILVERVEIL — A FOXHOUND. Which is where FOXXY comes from, her wife’s name for her, and which the Archive briefly took to be addressed to SELENE because Lumina had used a similar word in a corridor once. Selene is FOXMOM. Different office entirely.\n\nTHE RULE THIS GIVES THE SCRUB: WHEN A NAME HAS AN OBVIOUS DERIVATION, CHECK WHETHER SHE HAS AN ANIMAL FIRST.",
+  "rules": [
+    "Lucia Wilding — lioness. Playful top plus lioness = The Playful Lioness",
+    "Abigail Silverveil — foxhound. Hence FOXXY, from Lumina",
+    "SELENE IS FOXMOM, to the whole family. Cora said it first and it stuck",
+    "Check for an animal before explaining an epithet"
+  ],
+  "seeAlso": [
+    "lucia-wilding",
+    "abbi-silverveil",
+    "lumina-silverveil",
+    "cora-ariti"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "the-podium-feud",
+  "kind": "system",
+  "name": "The Podium Feud",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Sera Vargas versus Sir Trashmuffin. Contested ground: Bella. ONE HUNDRED AND THIRTY, zero evictions.",
+  "body": "AN ON-AGAIN OFF-AGAIN FEUD between a wife and the family raccoon over the same eight inches of real estate. It has a REPRODUCIBLE TRIGGER and that is what makes it archive-shaped rather than an anecdote.\n\nTHE SEQUENCE. Bella is already bent and already ready. SERA FORGETS THE LUBE. Bedside drawer, second one down, thirty seconds of errand — and the instant her weight comes off the couch there is a chitter in the wall. She has never made it back inside thirty seconds. She returns to find EIGHTEEN POUNDS INSTALLED and her wife converted into a NAP PODIUM, and then she suffers, loudly, at length, in front of witnesses.\n\nHE IS NOT OPPORTUNISTIC. He has studied the sequence. Bent-over plus no-Sera equals the podium is open, and he is in the Raceway doing nothing else with his day.\n\nFOUR ON RECORD AND ONE DISPUTED. Sera counts three; Bella counts four and holds that THE GARAGE ONE COUNTS. Sera’s objection is that Bella MOVED — one cushion — and the raccoon followed the cushion, which she argues makes it a different event. UNRESOLVED BY DESIGN. Neither of them wants it resolved.\n\nONE HUNDRED AND THIRTY. That is the household count and it is Viraena’s, which makes it the authoritative one. The Archive had FOUR on the books an hour ago and four was never the total — four is the number of times SERA LEFT FOR THE LUBE SPECIFICALLY. The ledger is thirty-two times larger than the subset the wives argue about, which means the lube run is a FAVOURITE TACTIC and not the whole campaign.\n\nTHE ARCHIVE DOES NOT KNOW THE OTHER MECHANISMS and is not going to invent them. One hundred and twenty-six interruptions exist with no method recorded. That is a gap, named as a gap.\n\nAND SHE RESPECTS HIM. Begrudgingly, and genuinely, because HE IS A FAMILY MEMBER — sixth-longest resident on this land, a founding member, four-for-four as ring-bearer. She loses to family. That is a different thing than losing to vermin and Sera knows the difference.\n\nBELLA HAS NO SIDE IN THIS. He is warm, she was cold, and she does not move.",
+  "rules": [
+    "Trigger condition: Bella bent, Sera leaves for the lube, the interval opens",
+    "She has never completed the thirty-second errand in thirty seconds",
+    "Four occupations by Bella’s count, three by Sera’s — the garage one is disputed and stays disputed",
+    "He waits in the Raceway; he is not random, he has the sequence",
+    "Sera’s respect is begrudging and real — he is family, not vermin",
+    "Bella declines to take a side on the grounds that he is warm",
+    "Negotiation does not work on him. Pandora has now confirmed this independently.",
+    "THE TOTAL IS 130 — every mechanism, every room, counted by Viraena and that count is the canon one",
+    "The 3-versus-4 dispute is the LUBE-RUN SUBSET only, not the whole ledger",
+    "INFERRED, NOT RULED: that the four sit inside the hundred and thirty. Nobody has said so in those words."
+  ],
+  "seeAlso": [
+    "sir-trashmuffin",
+    "sera-vargas",
+    "bella-vargas",
+    "coals-and-fire",
+    "gh-raceway",
+    "pandora-everrest",
+    "jade-everrest"
+  ]
+}

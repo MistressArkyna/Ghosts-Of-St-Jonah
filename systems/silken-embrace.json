@@ -1,0 +1,27 @@
+{
+  "id": "silken-embrace",
+  "kind": "system",
+  "name": "Silken Embrace",
+  "group": "Wardrobe",
+  "state": "current",
+  "tagline": "Three floors, engineered from the ground up for affirmed bodies. The only shop wired directly into the Consent Menu.",
+  "body": "WHEN A GIRL WALKS OUT OF HATHAWAY CLINIC IN A ROBE, SILKEN EMBRACE IS WAITING. Not adapted clothing. Not compromised clothing. ENGINEERED FROM THE GROUND UP for Nereid girls, and it is the natural second half of the clinic: Marianne builds the body honestly and completely, and then somebody has to have something for her to wear out of the building.\n\nTHE DESIGN PRIORITY IS FIXED AND IT IS UNUSUAL. COMFORT FIRST. EASY ACCESS SECOND. STYLE AS AN AFTERTHOUGHT. NO PINCHING, NO FLATTENING, NO TUCKING ON ANYTHING THEY MAKE — every woman leaves with her FULL OUTLINE. A house whose wardrobe protocol reads VISIBLE DESIRE IS DEVOTION was never going to buy from a company that builds garments to hide the fact that a woman has a cock.\n\nTHREE FLOORS. GROUND — everyday essentials, organised by build and then subdivided by lower-body shape: panties in every accepted cut, leggings, yoga pants, joggers, sweats, crops, hoodies cropped and oversized, camisoles, skirts, dresses, sports bras. SECOND — athletic and activewear: compression shorts, performance leggings, high-support tops, bike shorts, running gear, and swimwear cut to ACCOMMODATE A BULGE rather than pretend one is not there. THIRD — specialty: nightlife, latex and leather, micro-minis, formal gowns, tuxedos and suits cut from scratch for feminine builds with cocks rather than men's cuts awkwardly altered, and the miracle-fabric professional section that LOOKS like office wear and FEELS like leggings.\n\nTHE CONCIERGE SYSTEM. She gives her CHOSEN NAME at the front desk. Staff pull her Consent Menu. A Concierge is assigned with a tablet already carrying her full specification, and then walks the store with her talking about VIBE — because the numbers were never the conversation, they were the thing that meant the conversation could start somewhere useful. Every Concierge is trained in the whole store except what happens in the fitting rooms; that is between the customers.\n\nTHE TOUCHSCREEN, in the panty section, is the signature innovation: her specifications go in and the screen renders HER geometry, then drapes each style onto it — how the back coverage sits under her curve, how a centre seam nests into her gap, how lace stretches and satin clings and mesh hides nothing whatsoever.\n\nTHE FITTING ROOMS ARE BUILT ON ONE PRINCIPLE: AFFIRMED GIRLS NEED SPACE. Room for two. Full-length mirrors on two walls. Warm light that flatters rather than washes out. A plush bench. Floor space for movement, dancing, or enthusiasm. Staff have walked past and heard exactly what they have heard, and the policy is to SMILE, GIVE THAT PAIR AN EXTRA FEW MINUTES, and carry on helping other customers. Because for a newly affirmed woman that room is where she sees herself properly framed for the first time, feels wanted in underwear that actually fits, and sometimes stands there and cries about it. THE SHOP HONOURS ALL OF IT.\n\nFOOTWEAR. Nereid gives every woman proper feminine feet, so anything ankle-height or below can be bought anywhere. ABOVE THE ANKLE REQUIRES THEM — generic thigh-highs are cut for an average calf and an average thigh, and this family does not contain one. The section is organised by THIGH DENSITY, with grip engineering at the top end so a boot on a devotionally thick thigh does not slide.\n\nTHE NONNA PHILOSOPHY. They take the Consent Menu link AS SERIOUSLY AS A NONNA GUARDS HER FAMILY RECIPES. A nonna does not approximate a measurement in a recipe she loves; Silken Embrace does not approximate a woman's body. Every specification matters. And when an affirmed woman names a gap in what exists, they LISTEN and they BUILD IT — which is how the Open Fly Daisy Dukes happened.\n\nTHE FOUND FAMILY'S ACCOUNT IS CALLED BY VIRAENA, who orders for the Community Closet so that any woman in any Haven can put something on that fits without owning it first.",
+  "rules": [
+    "COMFORT, then EASY ACCESS, then STYLE — in that order, always",
+    "No pinching, no flattening, NO TUCKING. Full outline on every garment",
+    "Chosen name at the desk; the Consent Menu comes up under it",
+    "Concierge trained in everything except what happens in the fitting rooms",
+    "Above ankle height, only they can fit it — organised by thigh density",
+    "Fitting rooms fit two, and the staff give that pair a few extra minutes",
+    "Viraena calls the order for the Community Closet"
+  ],
+  "seeAlso": [
+    "wardrobe-protocol",
+    "consent-ladder",
+    "hathaway-clinic",
+    "nereid-gummy",
+    "project-nereid",
+    "sera-vargas",
+    "nereid-v8-stature"
+  ]
+}
