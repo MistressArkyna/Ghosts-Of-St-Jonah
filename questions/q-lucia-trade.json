@@ -1,0 +1,15 @@
+{
+  "id": "q-lucia-trade",
+  "kind": "question",
+  "subject": "gh-trades",
+  "subjectKind": "system",
+  "state": "current",
+  "q": "The roster lists ABBI TWICE with different trades — MOTORCYCLE MECHANIC in one entry and BRAT AND BLACKSMITH in another — and LUCIA WILDING is absent entirely.",
+  "detail": "NOT MERGED, NOT NORMALISED, NOT GUESSED. The Archive’s reading, stated as a reading: the roster runs couple by couple, and the MOTORCYCLE MECHANIC line sits exactly where Lucia belongs — immediately before SIREN, who is her wife. Lucia’s own row reads MECHANIC AND BUILDER and her suite holds riding gear and bike storage. SO THE LIKELY ANSWER IS THAT THE MOTORCYCLE MECHANIC ENTRY IS LUCIA’S. It is also possible Abbi does both. One line, unruled — and the Archive has learned tonight what tidying an unexplained entry costs.",
+  "links": [
+    "gh-trades",
+    "lucia-wilding",
+    "abbi-silverveil",
+    "siren-wilding"
+  ]
+}

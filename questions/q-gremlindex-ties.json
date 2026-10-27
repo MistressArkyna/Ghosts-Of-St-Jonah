@@ -1,0 +1,12 @@
+{
+  "id": "q-gremlindex-ties",
+  "kind": "question",
+  "subject": "gremlindex",
+  "subjectKind": "system",
+  "state": "retired",
+  "q": "Inside an arc, who was adopted first? Ten arcs took more than two women each, and Arc 12 took fifteen.",
+  "detail": "ANSWERED IN FULL. Viraena handed over the complete ordered list, arc by arc, and ALL 74 NUMBERS ARE WRITTEN. No gaps, no duplicates, no inference except one forced by arithmetic. See c-gremlindex-written.",
+  "links": [
+    "gremlindex"
+  ]
+}

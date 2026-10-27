@@ -1,0 +1,9 @@
+{
+  "id": "q-template",
+  "kind": "question",
+  "state": "draft",
+  "subject": "build-classes",
+  "subjectKind": "system",
+  "q": "Every imported profile is v5. The template is v7.",
+  "detail": "v7 introduced the Core × Fill build split, the Mass/Motion archetype split, Personal Vibe pillars, the Correction Dynamic field, and the Body Synergy triad of Default, Devotion-Locked and Stamina Shape. The Archive has inferred Core and Fill from the v5 hybrid strings and left the rest empty rather than inventing them."
+}
