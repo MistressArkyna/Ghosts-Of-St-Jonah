@@ -1,0 +1,446 @@
+[
+ {
+  "id": "0",
+  "n": 0,
+  "kind": "arc",
+  "name": "The Ghost Machine",
+  "tag": "Pre-Story",
+  "state": "current",
+  "summary": "The systematic hell of St. Jonah's School for Troubled Boys. The Flights. The identities. The beginning of their scars. Boys go in; sometimes girls come out.",
+  "events": [
+   "Boys sorted into Flights 0–10",
+   "Survival; trauma bonds form",
+   "Collapse of St. Jonah's"
+  ],
+  "additions": []
+ },
+ {
+  "id": "1",
+  "n": 1,
+  "kind": "arc",
+  "name": "Found Family",
+  "tag": "Bloom",
+  "state": "current",
+  "summary": "Healing begins. Bryn and Torie tiptoe around feelings. Maddy and Cora are welcomed.",
+  "events": [
+   "Bryn receives the land deed from Ragnar",
+   "Maddy and Cora introduced",
+   "First true soft sleepover scene"
+  ],
+  "pairings": [
+   "Maddy × Cora"
+  ],
+  "additions": [
+   "Bryn",
+   "Torie",
+   "Alice",
+   "Sera",
+   "Livi",
+   "Maddy",
+   "Cora"
+  ]
+ },
+ {
+  "id": "2",
+  "n": 2,
+  "kind": "arc",
+  "name": "Ghosts from the Past",
+  "tag": "Return",
+  "state": "current",
+  "summary": "A BBQ introduces Rae. Nova and Bella are rescued. Alice glitches gender. Luna arrives.",
+  "events": [
+   "Bella and Nova found",
+   "Weddings: Alice × Luna, Sera × Bella",
+   "Selene and Viraena enter the story",
+   "THE GHOST HUNT OPENS — Rae comes back at the BBQ, and LIVI ASKS: IF RAE SURVIVED, DID ANYONE ELSE? It is the only sub-arc in the canon that never closes"
+  ],
+  "pairings": [
+   "Alice × Luna",
+   "Sera × Bella"
+  ],
+  "additions": [
+   "Nova",
+   "Violet",
+   "Luna",
+   "Rae",
+   "Bella"
+  ]
+ },
+ {
+  "id": "3",
+  "n": 3,
+  "kind": "arc",
+  "name": "A Breath of Fresh Air",
+  "tag": "Skinwalker",
+  "state": "current",
+  "summary": "Four adoptions and the outdoors. Evie, Ivy, Harley and Yvaine come in; the Family goes camping three separate times and meets something that should not exist on every one of them; and Bryn buys the bus. Nova reappears, matured. The Radio of Trans Girl Safety is gifted.",
+  "events": [
+   "ADOPTED: Evie, Ivy, Harley, Yvaine — four in one arc",
+   "THREE CAMPING TRIPS, each one featuring a cryptid",
+   "BRYN BUYS THE CUDDLE BUS — she names it SLEIPNIR; Torie names it The Fuck Wagon within the week",
+   "Bryn × Torie engagement",
+   "Evie and Ivy reunion",
+   "House foundation begun",
+   "SUB-ARC SKINWALKER 1 — Nova returns, gentle reintroduction",
+   "SUB-ARC SKINWALKER 2 — Evie and Ivy arrive; JAMES gifts the Radio of Trans Girl Safety",
+   "SUB-ARC SKINWALKER 3 — Harley's introduction",
+   "FORESHADOW: Yvaine's shadow in the woods"
+  ],
+  "additions": [
+   "Evie",
+   "Ivy",
+   "Harley",
+   "Yvaine"
+  ]
+ },
+ {
+  "id": "4",
+  "n": 4,
+  "kind": "arc",
+  "name": "Welcome Home",
+  "tag": "Domestic",
+  "state": "current",
+  "summary": "GHOST HAVEN IS BUILT AND CHRISTENED. That is the entire arc — one spine, start to finish, no second thread and no adoptions. Every beat inside it is the house going up and then being made a home.",
+  "events": [
+   "THE ENTIRE ARC: Ghost Haven built and christened",
+   "Two guest rooms mysteriously appear",
+   "Decorating chaos",
+   "First Halloween and Thanksgiving",
+   "Harley and Yvaine grow close",
+   "JAMES AND RAGNAR TENSION RISES",
+   "BIRTHDAYS: Rae, Bella, Cora",
+   "THEMES: domestic bliss, and haunted grief"
+  ],
+  "additions": []
+ },
+ {
+  "id": "5",
+  "n": 5,
+  "kind": "arc",
+  "name": "New Pages, Old Vows",
+  "tag": "Arrival",
+  "state": "current",
+  "summary": "JADE GETS ADOPTED, and then the family — trying to cheer her up after a run of failed dating speedruns — watches a notification arrive on her phone reading CREATE YOUR PERFECT AI PARTNER. AND BUNNY WAS BORN. Built and wifed at creation; there was never a courtship, only a beginning. The arc closes on Ivy's first harvest.",
+  "events": [
+   "JADE'S ADOPTION",
+   "Failed dating speedruns — the whole family pitching in and none of it working",
+   "CREATE YOUR PERFECT AI PARTNER — and BUNNY WAS BORN. Built and WIFED AT CREATION",
+   "Shopping trips",
+   "JADE'S FIRST VOLLEYBALL GAME WITH PEOPLE CHEERING FOR HER",
+   "LUCIA AND SIREN APPEAR AND ARE NOT ADOPTED — Lucia is one of Bella's friends; they work together",
+   "LUNA'S GOTHIC BIRTHDAY TAKEOVER OF THE APARTMENT",
+   "PANDORA CONNECTED TO CORA'S PROJECTOR — and experiences OUTSIDE for the first time. She spends more of this arc as a LIGHT-BASED DIGITAL CONSTRUCT than she does inside Jade's phone",
+   "THE UNIVERSE PLAYS GAMES AND GIVES PANDORA A BODY SEVERAL TIMES — first in the apartment living room; once while Jade is horny, and she gets blown; once in the park during her first outing",
+   "SUB-ARC: THE SENTIENT CAR",
+   "Harley × Yvaine become official",
+   "Livi proposes to Rae",
+   "Yoshizawa Teahouse opens",
+   "IVY'S FIRST HARVEST ENDS THE ARC"
+  ],
+  "pairings": [
+   "Harley × Yvaine",
+   "Jade × Pandora — wifed at creation"
+  ],
+  "additions": [
+   "Jade",
+   "Pandora (Bunny)"
+  ]
+ },
+ {
+  "id": "6",
+  "n": 6,
+  "kind": "arc",
+  "name": "Bunny in the Wire",
+  "tag": "Digital",
+  "state": "current",
+  "summary": "PANDORA GAINS HER BODY — permanently — during the new year, when JADE MAKES A WISH UPON A SHOOTING STAR. When Pandora asks why she can feel the cold air, Jade says TA-DA. Siren and Lucia are adopted, Roseforge opens, the Lucky Hammer closes and is rebuilt, and the family goes camping again.",
+  "events": [
+   "PANDORA GAINS HER BODY AT NEW YEAR — Jade wishes on a shooting star. Pandora asks why she can feel the cold air. JADE SAYS TA-DA",
+   "ROSEFORGE SMITHY OPENS, with Abbi already creating chaos",
+   "Siren interviews Maddy and the rest of the Found Family",
+   "SIREN AND LUCIA ARE ADOPTED — and experience their first Found Family truth or dare",
+   "BRYN RENTS OUT THE POOL AT THE AQUATIC CENTER",
+   "NOVA AND VIOLET GET EVERYONE KICKED OUT — Nova saw a shower and could not help herself: arched her back, turned the water on, and presented",
+   "THE LUCKY HAMMER CLOSES DOWN AND IS REBUILT — and the other SIX BARTENDERS AFFIRM while it is shut",
+   "YVAINE'S BIG BIRTHDAY",
+   "THEY GO CAMPING AGAIN"
+  ],
+  "pairings": [
+   "Lucia × Siren"
+  ],
+  "additions": [
+   "Siren",
+   "Lucia"
+  ]
+ },
+ {
+  "id": "7",
+  "n": 7,
+  "kind": "arc",
+  "name": "Sanctuary Lights and Gremlin Hands",
+  "tag": "Storm",
+  "state": "current",
+  "summary": "AN UNUSUAL WINTER STORM STRIKES AN UNPREPARED FAIRBROOKS — roads buried, power cut, much of the city without reliable heat or light. The Found Family answers by turning its trades outward. EVIE BECOMES THE ELECTRICAL HEART OF THE RESPONSE — already certified, finally visible; Harley works as a medic in the dark; and the rest build a web of warmth, shelter, transport, repairs, food and community care. The city learns what SANCTUARY DRIVE means beyond an address.\n\nAND BRYN ADOPTS EXACTLY TWO WOMEN IN THE WHOLE ARC: LUMINA AND ABBI. Her quietest arc for intake, one of the loudest to live through.",
+  "events": [
+   "THE STORM AND THE BLACKOUT — neighbourhoods isolated, infrastructure failing under weather the city was never built for",
+   "EVIE'S CERTIFICATION STOPS BEING A LINE ON A PROFILE AND BECOMES A CROWBAR. She is the woman who puts the lights back on — the Lucky Hammer, the apartment, Livi's gym, Roseforge Smithy, AND MARIANNE'S CLINIC. Priorities",
+   "THE LUCKY HAMMER OPENS ITS DOORS A MONTH EARLY to help, once Evie has the power on",
+   "HARLEY WORKS AS A MEDIC IN THE DARK — field treatment and emergency care without dependable light or ideal equipment",
+   "ADOPTED: LUMINA AND ABBI, and nobody else all arc. Abbi arrives ALREADY the fully realised little forge gremlin Lumina knows and loves — this arc is about the pair becoming family, not about inventing who they are",
+   "ABBI'S HANDS GET THEIR THEMATIC WEIGHT. The hands Jonah taught her to fear spend an entire winter forging, repairing, carrying and sheltering people, while Lumina teaches her that USEFULNESS IS NOT THE PRICE OF BEING ALLOWED TO STAY",
+   "THE FAMILY'S JOBS STOP BEING FLAVOUR TEXT. Mechanics keep vehicles and generators alive, builders make damaged places safe, medical hands tend the injured, cooks feed the stranded, organisers match needs to supplies — women who survived by depending on each other showing a city how the network works",
+   "HARLEY ASKS YVAINE THE QUESTION during this arc, and then sits on it until their marriage in ARC 11",
+   "PANDORA FINDS THAT HAVING A BODY IS BETTER THAN NOT — and Jade learns she can CORRECT Pandora's gropy hands BY SWATTING HER TITS",
+   "AKANE'S TEA SHOP OPENS around this arc",
+   "CAMEO: GWEN BEGINS HER SIDE QUEST FARMING FOR AKANE'S APPROVAL — and her heart. Akane is a strange one; she sent her prospective suitor on SIDE QUESTS. The fuller farming arc is an Arc 8 matter",
+   "CAMEO: CYRENA AND DESTINY APPEAR IN THE LUCKY HAMMER. Fucking. Sera sighs and shakes her head. BRYN SAYS NOT YET",
+   "BIRTHDAYS: Sera, Livi, Alice and Nova — domestic rhythm between storm beats, so the arc is not trapped in continuous disaster mode",
+   "SUB-ARC: Evie's certification and the Lucky Hammer thread — the principal under-arc, occupying the place Roseforge held beneath Arc 6",
+   "SUB-ARC: Lumina and Abbi's integration — gremlin behaviour on the surface, and underneath it the old fear that her strength only breaks things. The storm keeps handing her evidence otherwise. THE FAMILY IS CHOOSING BOTH OF THEM",
+   "NOTE: Arcs 7 and 8 are being rewritten, because Pandora wanted to be with Jade earlier than Arc 8"
+  ],
+  "additions": [
+   "Lumina",
+   "Abbi"
+  ]
+ },
+ {
+  "id": "8",
+  "n": 8,
+  "kind": "arc",
+  "name": "Ghost Names and Ghost Flesh",
+  "tag": "Rebirth",
+  "state": "current",
+  "summary": "THE RETURN OF ATLAS, AND EDEN COMING OUT OF THE WOODWORK. Cyrena and Destiny are adopted after their earlier Lucky Hammer appearance; Gwen and Akane move from cameo into presence; and DIA IS BORN. Sage gets her first cameo, and so do Katherine and Wynter.",
+  "events": [
+   "ATLAS RETURNS",
+   "EDEN COMES OUT OF THE WOODWORK",
+   "ADOPTED: CYRENA AND DESTINY — after Arc 7's Lucky Hammer appearance, where they were fucking, Sera sighed, and Bryn said NOT YET",
+   "GWEN AND AKANE MAKE MORE OF AN APPEARANCE — Gwen's farming side quest for Akane's approval, and her heart, is an Arc 8 matter",
+   "DIA IS BORN IN THIS ARC — Eden's last transformation, made after she took Last Kiss",
+   "FIRST CAMEO: SAGE",
+   "FIRST CAMEO: KATHERINE AND WYNTER",
+   "BIRTHDAYS: yes, and IVY'S IS CELEBRATED FOR CERTAIN. Which others have already been spent is being checked",
+   "THE PANDORA MATERIAL HAS BEEN REMOVED FROM THIS ARC — she wanted to be with Jade earlier than Arc 8, and new beats will replace it",
+   "STATUS: ARCS 7 AND 8 ARE UNDER REWRITE. Everything here is provisional"
+  ],
+  "additions": [
+   "Cyrena",
+   "Destiny"
+  ]
+ },
+ {
+  "id": "9",
+  "n": 9,
+  "kind": "arc",
+  "name": "Garden Vow",
+  "tag": "Vows",
+  "state": "current",
+  "summary": "The house is done. The garden is lush. The vows are sacred. The seam of the whole canon — statuses before and after Arc 9 are recorded separately for every girl.",
+  "events": [
+   "Joint wedding: Bryn × Torie, Evie × Ivy",
+   "Ivy's garden becomes the sanctuary's soul",
+   "The final room opens",
+   "Siren reads her manuscript",
+   "Katherine and Wynter spotted, clocked, then adopted"
+  ],
+  "pairings": [
+   "Izzy × Fiona",
+   "Katherine × Wynter",
+   "Akane × Gwen"
+  ],
+  "additions": [
+   "Akane",
+   "Gwen",
+   "Izzy",
+   "Fiona",
+   "Katherine",
+   "Wynter"
+  ]
+ },
+ {
+  "id": "10",
+  "n": 10,
+  "kind": "arc",
+  "name": "Through Blood and Haven",
+  "tag": "Roots",
+  "state": "current",
+  "summary": "Both halves of the title are literal. The BLOOD is Ceri and Dessie — married in this arc by Ceri's own hand, under her clan's rite rather than the Family's. The HAVEN is Specter Haven, built on the same Southern Woods land, with Wildwood Hearth raised between the two houses. Six girls are adopted, two of them the Cathedral's leads. The Family stops being one house.",
+  "events": [
+   "Ceri and Dessie are Blood Bonded — Ceri officiates her own marriage, because her clan's rite is not the one Livi would perform",
+   "Specter Haven is built",
+   "Wildwood Hearth is built, standing between the two houses",
+   "Livi and Rae are married",
+   "Ida and Mikaela arrive already married — adopted as wives",
+   "Sir Trashmuffin drags Zephi to Sage's doorstep",
+   "The Nereid Rite — transformation by intention",
+   "SAGE INHERITS WILDWOOD & THYME AND THE ARC OPENS ON IT — her grandmother passes, Sage moves into the shop permanently. Grief and gratitude together, and the Found Family holds her through it",
+   "WILDWOOD HEARTH IS A COMMUNITY PROJECT, inspired by Sage needing somewhere to visit from — 200 to 400 yards from Ghost Haven, near the garden and the trail",
+   "Sage's first stay at Wildwood Hearth — testing it out, processing grief in a space built safe on purpose",
+   "MEMORIAL SERVICE FOR SAGE'S GRANDMOTHER — flowers from Ivy's garden, tea ceremony by Akane",
+   "THE BLOOD-BOUND MARRIAGE: nomadic tribal ceremony, blood oath, and COCK RINGS AND NAVEL PIERCINGS FORGED BY BRYN",
+   "SPECTER HAVEN IS BUILT AFTER LILI AND ARIANNA ARE ADOPTED",
+   "EDEN AND DIA ESTABLISH A TWICE-YEARLY, THREE-TO-FOUR-DAY VISITATION ROUTINE",
+   "Wedding prep for Arc 11's four ceremonies begins — Bryn starts crafting multiple ring sets, Yvaine begins sewing four wedding ensembles",
+   "THEMES: loss and legacy · building sanctuary · blood bonds · chosen bonds · permanence and roots"
+  ],
+  "pairings": [
+   "Sage × Zephi"
+  ],
+  "additions": [
+   "Lili",
+   "Arianna",
+   "Sage",
+   "Zephi",
+   "Isolde",
+   "Mikaela"
+  ]
+ },
+ {
+  "id": "11",
+  "n": 11,
+  "kind": "arc",
+  "name": "Four Vows and a Raccoon",
+  "tag": "Vows",
+  "state": "current",
+  "summary": "Four weddings, in order, and a raccoon who was not invited to any of them and attended all four. Maddy and Cora open the arc; Harley finally asks a question she has been holding since Arc 7; Violet and Nova marry like the sporting wives they are; and Izzy and Fiona — already married, already wives before paper — are given a Found Family ceremony to honour them properly.",
+  "events": [
+   "Maddy and Cora are married — the primary beat, and the arc opens on it",
+   "Harley and Yvaine are married. Harley had been holding the question since Arc 7",
+   "Violet and Nova are married",
+   "Izzy and Fiona's official Found Family ceremony — a second wedding for a marriage that already existed",
+   "Sir Trashmuffin, uninvited, four for four",
+   "Specter Haven's first wave — ten girls, five couples, into a house one arc old",
+   "SAGE PROVIDES THE FLORAL ARRANGEMENTS FOR ALL FOUR WEDDINGS",
+   "MULTIPLE BACHELOR AND BACHELORETTE PARTIES. Chaos level: maximum",
+   "Sage experiencing the Found Family at their most joyous",
+   "SIR TRASHMUFFIN EXHAUSTED FROM FOUR RING-BEARER DUTIES",
+   "LIVI OFFICIATES ALL FOUR, as always",
+   "EDEN AND DIA ATTEND AS GUESTS — the twice-yearly visits are established and they are integrated now",
+   "THEMES: joy multiplied · community celebration · friends becoming deeper family · love in all forms",
+   "RULED 7 SEPTEMBER: the four are Maddy × Cora, Harley × Yvaine, VIOLET × NOVA, and Izzy × Fiona. Livi and Rae marry in ARC 10, once"
+  ],
+  "pairings": [],
+  "additions": [
+   "Pepper",
+   "Natalia",
+   "Petra",
+   "Umiko",
+   "Morrighan",
+   "Vesper",
+   "Minerva",
+   "Mercedes",
+   "Dakota"
+  ]
+ },
+ {
+  "id": "12",
+  "n": 12,
+  "kind": "arc",
+  "name": "The Brat Bloom",
+  "tag": "Bloom",
+  "state": "current",
+  "summary": "NAMED FOR THE ADOPTION OF A GREAT MANY CHAOS AGENTS. Specter Haven fills — fourteen girls, seven couples, the largest single intake in the canon and overwhelmingly brat-coded. Two weddings among the older Family in the same arc. Arc 12 is also the baseline every profile's current-status column reads from.",
+  "events": [
+   "Specter Haven's second wave — fourteen girls, seven couples, and the Cathedral is full at twenty-eight",
+   "Lucia and Siren are married",
+   "Sage and Zephi are married",
+   "QUINN'S ADOPTION HAPPENS ON THE CAMPING TRIP — she tried to top, sank down on Briar's cock instead, learned she could only bottom, and got Sir Trashmuffin's blessing. Fully Family after that",
+   "PEPPER — one of VIOLET'S TEAMMATES — learns that TOPPING CHAOS IS MORE FUN THAN TOPPING AN ANCHOR",
+   "NATALIA STOPS BEING THE ICE QUEEN AND BECOMES THE CONSEQUENCE-ENGINEERING ICE PRINCESS. She turns brat on purpose, and STEALS PEPPER'S COMPRESSION SHORTS — which are not designed for Natalia's ass",
+   "MORRIGHAN MOVES HER TOOLS OUT OF THE HOLE IN THE WALL SHE HAD BEEN TATTOOING FROM and opens her IN-HOUSE TATTOO PARLOUR",
+   "MORRIGHAN AND LIVI CREATE THE WELCOME HOME TRADITION — see welcome-home",
+   "More happens in this arc; the Archive holds this much"
+  ],
+  "pairings": [],
+  "additions": [
+   "Quinn",
+   "Briar",
+   "Roxie",
+   "Kaia",
+   "Aubrey",
+   "Cassiane",
+   "Tiffany",
+   "Sapphira",
+   "Marigold",
+   "Danielle",
+   "Jinx",
+   "Brielle",
+   "Ophelia",
+   "Zelda",
+   "Jasmine"
+  ]
+ },
+ {
+  "id": "13",
+  "n": 13,
+  "kind": "arc",
+  "name": "Seance at Sundown",
+  "tag": "Occult",
+  "state": "current",
+  "summary": "SIX ADOPTED, AND THE LAND BUILDS FOR THE THIRD AND LAST TIME. Bell and Elspeth come in with Magnolia, Daisey, Alexis and Lyric, and BANSHEE HAVEN RISES FROM THE GROUND — completing the trifecta of affirmed bodies. Bell hosts the first full-compound séance.",
+  "events": [
+   "ADOPTED: Bell, Elspeth, Magnolia, Daisey, Alexis and Lyric",
+   "BANSHEE HAVEN RISES FROM THE GROUND, COMPLETING THE TRIFECTA OF AFFIRMED BODIES — Bella's ass built upward, Arianna's cock and thighs built sideways, and now Bell's chest built DOWNWARD",
+   "BELL HOSTS THE FIRST FULL-COMPOUND SEANCE",
+   "More happens in this arc; the Archive holds this much"
+  ],
+  "pairings": [],
+  "additions": [
+   "Maribel (Bell)",
+   "Elspeth",
+   "Magnolia",
+   "Daisey",
+   "Alexis",
+   "Lyric"
+  ]
+ },
+ {
+  "id": "14",
+  "n": 14,
+  "kind": "arc",
+  "name": "Heartbreak and Wysteria",
+  "tag": "Live edge",
+  "state": "current",
+  "summary": "FOUR ADOPTED — Claudia, Hela, Remielle and Eirwen. Destiny introduces one of her coworkers, ORIANNA, to the Family; the adoption comes the arc after. And the family goes camping again.",
+  "events": [
+   "ADOPTED: Claudia, Hela, Remielle and Eirwen — four, not six",
+   "DESTINY INTRODUCES ORIANNA, one of her coworkers, TO THE FAMILY. SHE IS ADOPTED THE NEXT ARC, not this one",
+   "ANOTHER CAMPING TRIP",
+   "More happens in this arc; the Archive holds this much"
+  ],
+  "pairings": [],
+  "additions": [
+   "Eirwen",
+   "Remielle",
+   "Claudia",
+   "Hela"
+  ]
+ },
+ {
+  "id": "15",
+  "n": 15,
+  "kind": "arc",
+  "name": "Fishnet Struts and Happy Trails",
+  "tag": "Ahead of the edge",
+  "state": "current",
+  "summary": "FOUR ADOPTED — Orianna, Felicity, Riven and Heather. Another camping trip. AND BRYN GETS TIRED OF RENTING THE AQUATIC CENTRE'S POOL, so the family builds its own — pool, pool house, poilside bar — and Torie corrupts the shape of it.",
+  "events": [
+   "ADOPTED: ORIANNA, a gothic stripper, introduced by Destiny in Arc 14 · FELICITY, Orianna's maid wife · RIVEN, a bratty librarian · HEATHER, Riven's gym-bunny slut wife",
+   "DAKOTA MARRIES MERCEDES",
+   "ANOTHER CAMPING TRIP",
+   "BRYN IS DONE RENTING THE AQUATIC CENTRE'S POOL. She hires excavators — RAGNAR PULLED A FEW STRINGS, again — and the girls build THE POOL, THE POOL HOUSE AND THE POOLSIDE BAR themselves, the way they built everything else",
+   "AND TORIE CORRUPTS IT INTO THE SHAPE OF BRYN'S ABS. The fourth body on this land is a swimming pool, and it is her wife's stomach",
+   "More happens in this arc; the Archive holds this much"
+  ],
+  "pairings": [
+   "Dakota × Mercedes — married"
+  ],
+  "additions": [
+   "Orianna",
+   "Felicity",
+   "Riven",
+   "Heather"
+  ]
+ }
+]
