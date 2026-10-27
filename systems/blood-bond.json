@@ -1,0 +1,22 @@
+{
+  "id": "blood-bond",
+  "kind": "system",
+  "name": "The Blood Bond",
+  "group": "Fidelity",
+  "state": "current",
+  "tagline": "A marriage rite that is not the Family's. Older, nomadic, occult, and consummated rather than officiated.",
+  "body": "Ceri comes from a nomadic clan that reads marriage differently. There is no officiant standing apart from the couple, because the rite is not a thing done TO two people by a third — it is a thing the two of them do to each other. They Blood Bond: sharing their blood with their chosen mate during intimacy. The vow and the consummation are the same act.\n\nWhich is why Ceri officiated her own marriage to Dessie in Arc 10, and why that is not the strangeness it looks like from outside. Livi would have performed a wedding. Ceri performed a bond, and the only two people qualified to perform it were already in the room.\n\nThe Family recognises it fully. It is not a lesser marriage or a placeholder for one, and Ceri and Dessie have never needed a second ceremony — a distinction worth holding against Izzy and Fiona, who were also married before the Family knew it, and who chose a Found Family ceremony in Arc 11 anyway. Two couples, two answers, both correct.",
+  "rules": [
+    "No officiant — the couple perform the rite on each other",
+    "Blood is shared with the chosen mate during intimacy; vow and consummation are one act",
+    "Recognised by the Found Family as a full marriage, requiring no second ceremony",
+    "Ceri × Dessie, Arc 10 — the only Blood Bond in the canon so far, and the Blood in Through Blood and Haven"
+  ],
+  "seeAlso": [
+    "ceri-clairmont",
+    "dessie-clairmont",
+    "ceri-dessie",
+    "devotion-lock",
+    "10"
+  ]
+}

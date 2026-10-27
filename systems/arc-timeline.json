@@ -1,0 +1,28 @@
+{
+  "id": "arc-timeline",
+  "kind": "system",
+  "name": "The Arc Timeline",
+  "group": "St. Jonah’s",
+  "state": "current",
+  "tagline": "Fifteen arcs across twelve years. The first instrument in this Archive that can catch an invented duration.",
+  "body": "ARC 15 IS THE PRESENT. Measured backwards from it:\n\nARC 14 — 1 year ago. ARC 13 — 1.5. ARC 12 — 2. ARC 11 — 3. ARC 10 — 3.5. ARC 9 — 4. ARC 8 — 5.5. ARC 7 — 6. ARC 6 — 7. ARC 5 — 8. ARC 4 — 9. ARC 3 — 10. ARC 2 — 11. ARC 1 — 12 YEARS AGO.\n\nTWELVE YEARS, FIFTEEN ARCS, AND THE GAPS ARE NOT EVEN. Arcs 12 through 15 run roughly one year apart; arcs 13 and 10 sit at half-years; arcs 1 through 7 are a steady year each. The clustering is the story getting denser as the family got bigger.\n\nWHAT IT MEASURES. How long the girls have been with their partners. How long they have been dealing with, teasing, and giving each other shit. Every duration in this Archive is now checkable against it, which matters more than anything else on this record.\n\nSERA AND BELLA MET IN ARC 2. THAT IS ELEVEN YEARS, NOT SIX. The Archive has written SIX YEARS about that marriage repeatedly and at length, and was corrected on it once before and kept doing it. GHOST HAVEN WAS RAISED IN ARC 4, NINE YEARS AGO. The gravity couch came off a lawn in ARC 6, SEVEN YEARS AGO. PANDORA HAS HAD GIFS OF JADE BOUNCING IN SPANDEX ON HER PHONE, PC AND LAPTOP SINCE ARC 7 — SIX YEARS, on three devices, not since some recent spring.\n\nTHE TIMELINE IS AN AUDIT INSTRUMENT AND IT SHOULD BE USED AS ONE. A number of durations in the live record and in recent prose were generated freehand and cannot survive it. They are listed in c-invented-durations.",
+  "rules": [
+    "ARC 15 = now. Arc 1 = twelve years ago",
+    "14:1 · 13:1.5 · 12:2 · 11:3 · 10:3.5 · 9:4 · 8:5.5 · 7:6 · 6:7 · 5:8 · 4:9 · 3:10 · 2:11 · 1:12",
+    "SERA AND BELLA: ARC 2, ELEVEN YEARS. NOT SIX",
+    "Ghost Haven raised in Arc 4, nine years ago",
+    "The gravity couch: bought secondhand in Arc 6, seven years ago",
+    "Pandora’s Jade GIFs: Arc 7, six years, on phone, PC and laptop",
+    "CHECK EVERY DURATION AGAINST THIS BEFORE WRITING IT"
+  ],
+  "seeAlso": [
+    "gremlindex",
+    "ghost-haven",
+    "sera-vargas",
+    "bella-vargas",
+    "pandora-everrest",
+    "jade-everrest",
+    "gh-recliner",
+    "forky"
+  ]
+}

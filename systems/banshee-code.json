@@ -1,0 +1,25 @@
+{
+  "id": "banshee-code",
+  "kind": "system",
+  "name": "The Banshee Code",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Seven rules, none of them posted on a wall. They are felt.",
+  "body": "1 \\u00b7 CRYING IS NOT A WEAKNESS. IT IS A RITE. Tears are welcome \\u2014 whispered into laps, poured into arms, choked out under tender hands. NO GIRL HAS EVER BEEN SHAMED FOR CRYING IN THIS HOUSE. Several have been held through it until the tears became laughter became tears again became sleep.\\n\\n2 \\u00b7 SEX AND HEALING ARE ALLOWED TO COEXIST. Not required. Not assumed. BRAIDED \\u2014 the way Bell braids catharsis and desire, until every girl who walks through the door discovers that the body that breaks is the same body that arches AND SHE DOES NOT HAVE TO CHOOSE.\\n\\n3 \\u00b7 IF BELL LIGHTS THE CANDLES, THE ROOM LISTENS. No exceptions. Even LILI, who respects approximately nothing, goes quiet when Bell's candles flicker.\\n\\n4 \\u00b7 IF ELSPETH SAYS EAT SOMETHING, YOU EAT SOMETHING. Her thighs will reward you later.\\n\\n5 \\u00b7 NO ENTERING ANOTHER GIRL'S RITUAL UNLESS INVITED. Consent is sacred, emotionally AND erotically.\\n\\n6 \\u00b7 NOTHING GOES UNHEARD \\u2014 BUT NOTHING IS REPEATED. This house keeps secrets like saints keep relics.\\n\\n7 \\u00b7 THE GHOSTS MAY COMMENT, BUT THEY MAY NOT INTERFERE. They watch. They judge. They occasionally possess the toaster. They do not touch a girl in grief without Bell's permission and they do not touch a girl in heat without the girl's invitation.",
+  "rules": [
+    "Crying is a rite, not a weakness",
+    "Sex and healing coexist \\u2014 braided, never required",
+    "Bell's candles silence the room, Lili included",
+    "Elspeth's EAT SOMETHING is not a suggestion",
+    "No entering another girl's ritual uninvited",
+    "Nothing unheard, nothing repeated",
+    "Ghosts may comment, never interfere"
+  ],
+  "seeAlso": [
+    "banshee-haven",
+    "bell-maribel",
+    "elspeth",
+    "lili-seraphine",
+    "banshee-ghosts"
+  ]
+}

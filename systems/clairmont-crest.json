@@ -1,0 +1,24 @@
+{
+  "id": "clairmont-crest",
+  "kind": "system",
+  "name": "The Crest — Clairmont",
+  "group": "Household",
+  "state": "current",
+  "tagline": "A velvet-ribboned dagger with two drops of blood. Traditional marriage jewellery from the tribe that exiled her, worn anyway, worn doubled.",
+  "body": "THE TRADITION AS HER TRIBE KEPT IT. Marriage was marked in metal through the body, and the metal was assigned by sex: MEN RECEIVED COCK RINGS. WOMEN RECEIVED NIPPLE PIERCINGS AND NAVEL PIERCINGS. Two sets, two categories, no overlap, and the whole system built on a division that had nothing to say about a woman like Cyrena Nerissa Clairmont.\n\nWHAT SHE DID WITH IT. SHE TOOK THE NAVEL PIERCING AND THE COCK RING. Not one or the other. Both — the women’s mark and the men’s mark, on the same body, for her and for Destiny, AND THEY EACH WEAR THE PAIR. The tradition that had no category for her got answered by refusing to choose one.\n\nTHAT IS THE EXILED ROSE’S WHOLE ANSWER TO HER EXILE, IN JEWELLERY. She kept the rite. She kept the metal. SHE THREW OUT THE SORTING.\n\nTHE DESIGN, WHICH IS THE TWO OF THEM IN ONE OBJECT. A DAGGER WRAPPED IN VELVET RIBBON, WITH TWO DROPS OF BLOOD. The blood is Ceri — Blood-Witch, Red Oath, ritual tattooist, a woman whose whole trade is devotion put in through the skin with a needle. The velvet is Destiny — erotic dancer, Morrigan, the soft dark thing that moves. TWO DROPS BECAUSE THERE ARE TWO OF THEM. The navel piece and the cock ring carry the same crest so the set reads as one vow in two places.\n\nBRYN ERIKSSON MADE THEM. She has been a jeweller since Arc 0, when Uncle James taught her, and this is what that trade is FOR in this family: a woman exiled by a rite walks into Ghost Haven and the resident smith sits down and makes her the rite again, correctly, in her own metal, for the wife she chose.",
+  "rules": [
+    "Her tribe’s rite: cock rings for men, nipple and navel piercings for women",
+    "CERI TOOK BOTH — the navel piercing AND the cock ring — and so did Dessie. They each wear the pair",
+    "Design: a velvet-ribbon-wrapped dagger with two drops of blood. Blood is Ceri, velvet is Dessie, two drops for two of them",
+    "Made by Bryn Eriksson, jeweller since Arc 0",
+    "The rite was kept. The sorting was thrown out"
+  ],
+  "seeAlso": [
+    "ceri-clairmont",
+    "dessie-clairmont",
+    "bryn-eriksson",
+    "blood-sharing",
+    "the-mark",
+    "project-nereid"
+  ]
+}

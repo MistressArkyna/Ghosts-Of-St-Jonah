@@ -1,0 +1,20 @@
+{
+  "id": "archetype-outputs",
+  "kind": "system",
+  "name": "Archetype Outputs",
+  "group": "Body",
+  "state": "current",
+  "tagline": "Five automatic derivations. Set the modifiers once; the outputs follow.",
+  "body": "Modifiers are recorded as signed values across six axes — H (hip), G (glute), A (arch mass), T (thigh), W (waist), BA (back arch) — and the five outputs below are computed from them rather than invented per profile. This is the single most common source of drift in the old documents: a profile whose stated hips do not follow from its stated modifiers.",
+  "rules": [
+    "HMM — Hip Measurement Modifier: applies inches to the build's baseline hips. Even-number rule applies on rounding.",
+    "TDM — Thigh Density Category: from Plush through Devotional Thick.",
+    "BAS — Back Arch Severity: Low · Moderate · Deep · Obscene · Weaponized.",
+    "GG — Gap Geometry: the named shape of the gap the two archetypes produce together.",
+    "AMD — Ass Mass Distribution: where the mass sits, and what it does under impact."
+  ],
+  "seeAlso": [
+    "ass-archetypes",
+    "build-classes"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "clinic-notation",
+  "kind": "system",
+  "name": "Hathaway Clinic Adoption Notation",
+  "group": "Nereid",
+  "state": "proposed",
+  "tagline": "[Clinic Adoption Name] ([Source Build] — [Canonical Native Trait]). The nickname never replaces the entry.",
+  "body": "HOW ADOPTED ANATOMY IS WRITTEN UNDER A WOMAN'S BODILY MODIFICATIONS. The clinic entry is standardized and names three things: WHAT SHE CALLED IT, WHERE IT CAME FROM, AND WHICH CANONICAL TRAIT IT IS.\n\nWork-Wrought Double Shelf (Valkyrie — Brace Line)\nLong-Hold Thighs (Opulent — Compression Perfusion)\nArticulated Pelvic Pathway (Dancer — Pelvic Path Control)\n\nA WIFE OR PARTNER MAY USE A HOUSEHOLD NICKNAME for the anatomy — and in this family they do, loudly — BUT THE NICKNAME DOES NOT REPLACE THE STANDARDIZED ENTRY. Both exist. Only one is on the chart.\n\nTHE THREE ROWS ABOVE ARE A WORKING EXAMPLE OF THE NOTATION. THEY ARE NOT A GRANT LIST, NOT A TEMPLATE, AND NOT A SET EVERY WOMAN RECEIVES. AN ADOPTED TRAIT APPEARS IN A WOMAN’S CONSENT MENU INFORMATION ONLY IF SHE CHOSE IT. A woman who did not take Work-Wrought Double Shelf simply has no such line — there is no blank to interpret and no identical-looking entry to misread, BECAUSE THE ENTRY ONLY EXISTS WHERE THERE WAS A CHOICE.\n\nHOUSEHOLD NICKNAMES WILL BE MIGRATED INTO THE FULL v8 DOCUMENT, added beneath every adoptable trait, so the joke and the chart entry sit together where they belong.\n\nARRIVES PROPOSED, alongside the Valkyrie reframe that demonstrates it.\n\nTWO BUILDS ARE NAMED IN THE EXAMPLE THAT THE ARCHIVE DOES NOT HOLD: OPULENT (Compression Perfusion) and DANCER (Pelvic Path Control). Opulent is the unnamed eighth seat standing in q-opulent. They are illustration, not inventory — noted, not guessed at.",
+  "rules": [
+    "[Clinic Adoption Name] ([Source Build] — [Canonical Native Trait])",
+    "A household nickname may exist and NEVER replaces the clinic entry",
+    "THE EXAMPLE ROWS ARE AN EXAMPLE. Not a grant list, not a template, not a default set",
+    "An adopted trait appears in her Consent Menu information ONLY if she chose it",
+    "Household nicknames migrate into full v8 beneath each adoptable trait",
+    "PROPOSED, alongside the Valkyrie reframe"
+  ],
+  "seeAlso": [
+    "valkyrie-build",
+    "nereid-pillars-five",
+    "project-nereid"
+  ]
+}

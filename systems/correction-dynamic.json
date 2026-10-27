@@ -1,0 +1,17 @@
+{
+  "id": "correction-dynamic",
+  "kind": "system",
+  "name": "Correction Dynamic",
+  "group": "Identity",
+  "state": "current",
+  "tagline": "Who catches her. Filled only when the Relationship Dynamic reads brat.",
+  "body": "A brat's profile names her corrector. The corrector's profile may carry the mirror field. Leaving it unfilled on a brat is a gap, not a neutral state — an uncorrected brat has no one to escalate toward, and the dynamic collapses into noise.",
+  "rules": [
+    "Filled only if Relationship Dynamic reads brat; otherwise N/A",
+    "Optional anchor mirror: the corrector's profile carries Corrects: [name]"
+  ],
+  "seeAlso": [
+    "pillars",
+    "devotion-lock"
+  ]
+}

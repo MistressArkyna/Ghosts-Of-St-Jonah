@@ -1,0 +1,24 @@
+{
+  "id": "banshee-ghosts",
+  "kind": "system",
+  "name": "The Ghosts of Banshee Haven",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Ghost Haven has ghosts in its name and lives in metaphor. Banshee Haven has actual ghosts.",
+  "body": "NOT FRIGHTENING. NOT MALEVOLENT. JUST PRESENT. Former residents of the Southern Woods, lingering dead who never left, spirits who found Bell's candles and came to listen BECAUSE THE LIVING WORLD FORGOT TO HOLD THEM.\\n\\nThey watch. They comment. THEY STEAL BELL'S SHAWLS. They critique her s\\u00e9ance technique. THEY START HAUNTED BOOK CLUBS. They possess the toaster with alarming regularity and nobody has figured out why.\\n\\nTHEY ARE WHY THE WALLS CARRY EMOTION. The dead understand grief better than the living BECAUSE THEY HAVE FINISHED WITH IT, and they lend that understanding to the architecture. When a girl cries in the communal bath, the vibration reaching a corridor wall three rooms away is partly acoustics and PARTLY THE DEAD HOLDING THE SOUND GENTLY AS IT TRAVELS, softening it into warmth rather than noise.\\n\\nThey water the Greenhouse. They complain, but comply.\\n\\nAND THEY RESPECT SIR TRASHMUFFIN, which is notable, because the ghosts respect almost nothing.\\n\\nBell speaks to them regularly and conversationally. She scolds them for stealing her shawls; they scold her for dramatic lighting choices; everyone pretends this is normal, because in Banshee Haven it is.",
+  "rules": [
+    "Real, present, non-malevolent. Former dead of the Southern Woods",
+    "They lend the architecture its emotional resonance",
+    "They water the Greenhouse and steal Bell's shawls",
+    "They possess the toaster. Cause unknown",
+    "They respect the raccoon"
+  ],
+  "seeAlso": [
+    "banshee-haven",
+    "bell-maribel",
+    "bh-seance",
+    "bh-greenhouse",
+    "sir-trashmuffin",
+    "banshee-code"
+  ]
+}

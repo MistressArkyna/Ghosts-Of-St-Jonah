@@ -1,0 +1,25 @@
+{
+  "id": "flight-system",
+  "kind": "system",
+  "name": "The Flight System",
+  "group": "St. Jonah's",
+  "state": "current",
+  "tagline": "Eleven flights. A survivor carries a flight and an ID for life.",
+  "body": "Flights were numbered by age and arrival at St. Jonah's. THREE STATES, kept apart: SURVIVOR (she went through those walls, with or without a recorded flight), CIVILIAN (she never did, and that is an authored fact), and UNRECORDED (the Archive does not know). The Archive previously read every blank as CIVILIAN and said so at the top of this page, which asserted a fact about roughly forty women on no evidence at all. A blank now means only that it is blank.",
+  "rules": [
+    "0 — Criminal Transfers: high-risk, from state or military; isolated, tracked",
+    "1 — The Lapdogs: Enforcers 300–399, Pleasures 200–299; obedience and feminisation; disappeared",
+    "2 — Ghost Room: broken survivors, records wiped, expendable",
+    "3 — Workhorses: obedient, physically strong; labour and maintenance",
+    "4 — Failed Trials: experimentation; most died or disappeared",
+    "5 — Dealmakers: manipulation and loyalty tests; coerced betrayal",
+    "6 — Porcelain Dolls: Pleasures selection ground; aesthetics and silence training",
+    "7 — Wanderers / Floaters: unstable, moved between roles; bait and informants",
+    "8 — Painted Ones: investor and showcase success stories",
+    "9 — New Bloods: fresh arrivals, broken fastest",
+    "10 — Discards: demoted, marked failures, often solitary"
+  ],
+  "seeAlso": [
+    "id-ranges"
+  ]
+}

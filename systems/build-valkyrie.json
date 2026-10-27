@@ -1,0 +1,27 @@
+{
+  "id": "build-valkyrie",
+  "kind": "system",
+  "name": "Build 07 — Valkyrie, The Shieldmaiden",
+  "group": "Project Nereid",
+  "state": "current",
+  "tagline": "Physical Root: Load-Bearing Continuity. Trait Gate: Oathbound Temperament. The chassis standard every other Build follows.",
+  "body": "TYPICAL SILHOUETTE. Soft but visibly capable muscular lines, a wider softly sloped shoulder frame, a deeper and thicker core, reinforced hips, and substantial load-bearing thighs. SHE READS DENSE WITHOUT BECOMING BLOCKY: an hourglass built to carry, shield, brace — and occasionally send a beloved to Valhalla by means the sagas were too cowardly to record.\n\nPHYSICAL ROOT — LOAD-BEARING CONTINUITY. Bone, joint position, muscle, fascia, breath, pressure and chosen tissue let force received by one region be SHARED THROUGH THE BODY AND ANSWERED FROM A STABLE BASE. IT IS NOT MAXIMUM STRENGTH: it is the connected path that lets shoulders receive, core transfer, pelvis direct and legs anchor WITHOUT APPOINTING ONE JOINT AS HEROIC COLLATERAL.\n\nTRAIT GATE — OATHBOUND TEMPERAMENT. She must recognise in herself an enduring instinct to STAND BETWEEN DANGER AND SOMEONE IN HER CARE, then remain until the danger has passed. Stature, profession, solemnity, leadership, competence and STATUS AS A CHAOS AGENT ARE IRRELEVANT. The Gate requires protective orientation, not virtue, recklessness or martyrdom.\n\nWORKING BIAS. Carrying, catching, sustained pressure, positional control, receiving external weight. Costlier: rapid reversal and delicate isolated movement, from her denser frame.\n\nSTAMINA SHAPE — GUARDED RESERVE. Expenditure opens in layers, recruiting enough strength for the present load while preserving deeper output for sustained or repeated demand. Sustained work produces ACCUMULATING HEAT AND MUSCULAR HEAVINESS rather than one immediate peak. Reserve may steady the next deliberate action; it does not make the body inexhaustible or excuse unsafe continuation.\n\nFAILURE STATE — LOSS OF CLEAN LOAD TRANSFER, when shoulders, core, pelvis and legs stop distributing force as one continuous chain and a single group or joint begins compensating. She may still have strength and can no longer apply it safely. PRESENTS AS: accumulating heat, deep muscular heaviness, tremor, shortening breath. Remaining reserve may keep her steady long enough to FINISH THE CARRY, TEND HER BELOVED, OR MAKE ONE LAST DELIBERATE MOVEMENT.\n\nMOVEMENT GRAMMAR — SET, RECEIVE, CARRY. PLACEMENT BEFORE EXPENDITURE, SHARED LOADING BEFORE DRIVE. It appears in lifts, catches, interposition, held stillness and steady thrusting. The grammar describes how her body organises movement, NOT HOW SHE ACTS.",
+  "rules": [
+    "TRAIT GATE: OATHBOUND TEMPERAMENT. Recognition, never assignment. Chaos agents qualify",
+    "NATIVE · BRACE LINE (glutes, lateral hips): under meaningful load the upper glutes, gluteus medius and lateral stabilizers recruit into A TEMPORARY RIDGE above the chosen cheek fullness, steadying the pelvis and transferring force into the thighs, then settling back. Selects no ass Shape, Scale or Motion",
+    "NATIVE · CATHEDRAL CORE (midriff, spine, pelvic floor): a pressure-managing cylinder around her chosen waist. Firms during carrying, shielding, sustained thrusting or receiving heavy pressure, THEN RELEASES rather than leaving her permanently clenched or block-thickened",
+    "NATIVE · PILLAR RECRUITMENT (hips, legs, footing): one grounded chain for standing, kneeling, driving, catching or holding. Thighs may stay soft at rest and become unmistakably dense FROM WITHIN under demand, each joint sharing the work INSTEAD OF SACRIFICING ONE HEROIC KNEE TO THE SAGA",
+    "ADOPTED · Work-Wrought Double Shelf (Valkyrie — Brace Line)",
+    "ADOPTED · Load-Bearing Center (Valkyrie — Cathedral Core)",
+    "ADOPTED · Grounded Leg Chain (Valkyrie — Pillar Recruitment)",
+    "ANNOTATION: staff found no surviving text supporting a second route to Valhalla, yet wives of Valkyries have repeatedly been heard saying TAKE ME TO VALHALLA, BELOVED immediately before placing their heads between their wives’ thighs. THE CLINIC RECOGNISES THIS AS A COMPELLING ORAL TRADITION and has declined all requests for further peer review. Household nickname on record: ALL DOUBLE-CHEEKED UP BEFORE COFFEE",
+    "THIS BUILD IS THE CHASSIS STANDARD. Supersedes the earlier valkyrie-build record"
+  ],
+  "seeAlso": [
+    "nereid-pillar-one",
+    "build-classes",
+    "project-nereid",
+    "clinic-notation",
+    "valkyrie-build"
+  ]
+}

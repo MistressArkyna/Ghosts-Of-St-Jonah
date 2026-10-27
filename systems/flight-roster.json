@@ -1,0 +1,27 @@
+{
+  "id": "flight-roster",
+  "kind": "system",
+  "name": "The Flight Roster",
+  "group": "St. Jonah's",
+  "state": "current",
+  "tagline": "Eighteen names, eighteen numbers, and a column header that reads (I'm Sorry).",
+  "body": "THE DEFINITIVE LIST, DELIVERED BY VIRAENA ON 7 SEPTEMBER, AND THE ARCHIVE WAS ALREADY RIGHT ABOUT SIXTEEN OF EIGHTEEN.\\n\\nBRYN 03-101 Workhorses \\u00b7 LIVI 03-094 Workhorses \\u00b7 BELLA 03-048 Workhorses \\u00b7 ABBI 03-117 Workhorses \\u00b7 RAE 04-188 Failed Trials \\u00b7 DESSIE 04-077 \\u2192 10-058 Failed Trials to Discards \\u00b7 SERA 05-063 Dealmakers \\u00b7 NOVA 07-088 Floaters \\u00b7 LUMINA 07-117 Floaters \\u00b7 MADDY 09-055 \\u2192 10-008 New Bloods to Discards \\u00b7 IVY 06-203 Porcelain Dolls \\u00b7 EVIE 00-100 Criminal Transfers \\u00b7 HARLEY 00-101 Criminal Transfers \\u00b7 YVAINE 02-011 Ghost Room \\u00b7 AKANE 01-399 Lapdogs, Enforcer pool \\u00b7 CERI 01-203 Lapdogs, Pleasures \\u00b7 ZEPHI 01-211 Lapdogs, Pleasures \\u00b7 GWEN 08-115 Painted Ones.\\n\\nTHREE CORRECTIONS: Nova was 07-005 and is 07-088. Maddy was 09-099 and is 09-055. DESSIE HAD ONLY HER DISCARD NUMBER AND SHE HAD A FLIGHT BEFORE IT \\u2014 04-077, FAILED TRIALS, THE EXPERIMENTATION CLASS, before she was demoted to Discards.\\n\\nEVIE 00-100 AND HARLEY 00-101 ARE CONSECUTIVE. Two Criminal Transfers, numbered back to back, who ended up in the same house on the same land two decades later and have never made anything of it.\\n\\nTHE TABLE CARRIES A DEADNAME COLUMN AND ITS HEADER IS AN APOLOGY: DEADNAME (I'M SORRY). The Archive has recorded that the column exists and what it says at the top. IT HAS NOT WRITTEN ANY WOMAN'S DEADNAME INTO HER OWN RECORD, because those fields already hold what each of them chose to say instead \\u2014 DEAD, GONE, BURIED \\u00b7 BURNED OUT OF MEMORY IN SILENCE \\u00b7 LEFT IN A PUDDLE UNDERNEATH AN ENGINE \\u00b7 DELETED WITHOUT BACKUP, EVEN RECOVERY SOFTWARE KNOWS BETTER \\u2014 and overwriting a woman's own sentence with the name she buried is not filing, it is exhumation. Viraena rules on that one, not the Archive.\\n\\nIDA VEYRA IS NOT ON THIS TABLE. The Archive carries her at 05-117, Dealmakers, and the Survivors list names her. Eighteen rows, nineteen Ghost Haven survivors. HELD OPEN.",
+  "rules": [
+    "Eighteen rows. Sixteen matched the Archive exactly",
+    "CORRECTED: Nova 07-005 \\u2192 07-088 \\u00b7 Maddy 09-099 \\u2192 09-055 \\u00b7 Dessie gains 04-077 before her Discard number",
+    "Evie 00-100 and Harley 00-101 are consecutive Criminal Transfers",
+    "The deadname column header reads (I'm Sorry). No deadname has been written into any girl's own record",
+    "OPEN: Ida Veyra is absent from the table and present on the Survivors list"
+  ],
+  "seeAlso": [
+    "st-jonahs",
+    "flight-system",
+    "id-ranges",
+    "ida-veyra",
+    "evie-emberose",
+    "harley-calder",
+    "dessie-clairmont",
+    "nova-bennet",
+    "maddy-ariti"
+  ]
+}

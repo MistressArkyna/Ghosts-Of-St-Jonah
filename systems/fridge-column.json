@@ -1,0 +1,25 @@
+{
+  "id": "fridge-column",
+  "kind": "system",
+  "name": "The Column by the Fridge",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Torie airs her grievances anonymously, in writing, taped to the wall beside the fridge. Everyone knows. Nobody says.",
+  "body": "SHE WAS AN ANONYMOUS COLUMNIST BEFORE ST. JONAH’S AND SHE NEVER STOPPED. Victoria Solace Eriksson writes up her complaints — household grievances, petty injustices, rulings she disagrees with — and posts them ON THE HALLWAY WALL BY THE FRIDGE, unsigned.\n\nTHE ANONYMITY IS LOAD-BEARING AND ENTIRELY FICTIONAL. Everyone in three Havens knows exactly who writes it. It is her handwriting. It is her vocabulary. It is frequently about her own wife. NOBODY HAS EVER SAID SO OUT LOUD, because saying so would end it, and the column is beloved.\n\nIT IS THE SAME INSTINCT AS THE BELLA CONFIGURATION AND THE FEIGNED INNOCENCE ON IT: AN OFFER DRESSED AS AN ACCIDENT, WHICH BOTH SIDES AGREE TO PRETEND IS ONE.\n\nAND IT IS WHERE THIS FAMILY ARGUES. Not at the board — the board never assembles. Somebody does something, somebody objects in eight hundred words taped by the fridge, and the household reads it over breakfast and rules on it by consensus while eating.\n\nTHE STANDING GRIEVANCE. One piece gets REPOSTED, over and over, in substantially the same words: KEEP IT DOWN IN THE GARAGE. WE ARE TIRED OF HEARING YOU TWO GOING AT IT LIKE RABBITS UNTIL THE WEE HOURS. It is aimed at Sera and Bella and it has never once been ambiguous about that.\n\nAND THE OFFENDING COUPLE READS IT. Every time. They stand in the hallway with coffee and read the whole thing, out loud, TO EACH OTHER, AND THEN THEY GO AND DO IT AGAIN THAT NIGHT. Bella has been known to annotate it. The column has changed their behaviour EXACTLY ZERO TIMES in nine years.\n\nWHICH IS WHY IT KEEPS GOING UP. IT IS NOT A REQUEST. It is a ritual with a complaint-shaped cover on it, run by a brat who writes for the pleasure of writing and a couple who get read about for the pleasure of being read about, AND NOBODY INVOLVED WANTS THE PROBLEM SOLVED.\n\nTHE WEEK OF 7 SEPTEMBER, FOR THE RECORD. Monday: ON THE BREAD QUESTION, AND WHO EXACTLY DECIDED — somebody has been buying store-brand garlic bread against a written standing order for Beatrice Aglio’s. Tuesday: A TRIBUNAL IS OVERDUE — four weeks of panty-loss figures by Haven, and a demand that Sir Trashmuffin face oversight; Yvaine wrote HE IS A CREATURE OF THE HOUSE AND OWES US NOTHING in the margin in red pen and signed it, and somebody wrote HE OWES ME ELEVEN PAIRS underneath. Wednesday: ON BEING PICKED UP WITHOUT WARNING — four lines, filed under complaints, universally understood to be a request form. And the chair piece, posted the afternoon the Recliner died, which argued that FOUR CUPHOLDERS IS NOT ENOUGH and carried the day at SIX.",
+  "rules": [
+    "Unsigned, taped by the fridge, in her own unmistakable handwriting",
+    "Everyone knows. NOBODY SAYS. Saying so would end it",
+    "Frequently about Bryn. Occasionally about the potatoes",
+    "It is where the household actually argues, because the board never assembles",
+    "THE STANDING GRIEVANCE: keep it down in the garage. Aimed at Sera and Bella, reposted endlessly",
+    "THEY READ IT TO EACH OTHER IN THE HALLWAY AND THEN GO DO IT AGAIN. Nine years, zero behavioural change",
+    "Nobody involved wants the problem solved. That is what makes it a ritual and not a request"
+  ],
+  "seeAlso": [
+    "torie-eriksson",
+    "bryn-eriksson",
+    "communal-quirks",
+    "bella-configuration",
+    "meeting-rules"
+  ]
+}

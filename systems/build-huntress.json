@@ -1,0 +1,24 @@
+{
+  "id": "build-huntress",
+  "kind": "system",
+  "name": "Build 02 — Huntress, The Artemisian",
+  "group": "Project Nereid",
+  "state": "current",
+  "tagline": "Physical Root: Adaptive Economy. She changes method before the first plan eats everything.",
+  "body": "TYPICAL SILHOUETTE. Durable, forward-carrying lines through mobile shoulders, a breath-ready ribcage, an economical waist, a stable pelvis, and legs whose strength continues visibly into the calves and footing. Leanly apparent or softened beneath chosen abundance, THE BODY READS BUILT FOR ACCUMULATED DISTANCE RATHER THAN ONE DRAMATIC EXPENDITURE: joints responsive, weight easily redirected, no single region carrying the whole trail. THE ARTEMISIAN ALWAYS SEEMS TO POSSESS ANOTHER SAFE WAY FORWARD.\n\nPHYSICAL ROOT — ADAPTIVE ECONOMY. Gait, posture, muscle, fascia, breath, circulation, temperature, balance and chosen tissue organise to PRESERVE A SELECTED OBJECTIVE WHILE CONDITIONS CHANGE AROUND IT. She adjusts method and expenditure before the first plan consumes everything, so persistence stays mechanically honest instead of becoming STUBBORNNESS WITH EXCELLENT THIGHS.\n\nWORKING BIAS. Sustained pursuit, changing terrain, variable pace, repeated downshift and return, environmental adjustment, effort that must stay recoverable. Costlier: maximal static loading, explosive reversal, prolonged high-intensity isolation.\n\nSTAMINA SHAPE — PATIENT RETURN. She spends through pacing, downshift and reacquisition, settling into the most economical band conditions permit. REST DOES NOT ERASE THE TRAIL: breath, circulation, orientation and sensorimotor organisation keep enough of the unfinished pattern that continuing need not pay the full cost of beginning again.\n\nFAILURE STATE — LOSS OF SUSTAINABLE PACE, when adjustment can no longer keep expenditure recoverable and continuing spends more function than it preserves. PRESENTS AS: heat that no longer settles, progressively shortened stride, heavy breath resisting downshift, late footing corrections, spreading tremor, narrowing attention, and local soreness beginning to govern the route. Patient Return preserves continuity, NOT exemption from food, sleep, weather, soreness, or the ancient requirement that somebody pack snacks.\n\nMOVEMENT GRAMMAR — TRACK, ADAPT, CLOSE. She tracks relevant change through gaze, head stability, proprioception, balance, terrain and remembered direction; adapts stance, route, pace, breath and recruitment; then closes when ranging has become less useful than arrival, interception, stillness or decisive effort. It may govern broken ground, a long search, an extended shift, OR THE REACQUISITION OF THE EXACT INTIMATE RHYTHM INTERRUPTED BY BREATH AND TREMBLING LEGS. Tracking is organised attention, not supernatural perception.",
+  "rules": [
+    "NATIVE · TERRAIN-RESPONSIVE CHAIN (feet, ankles, knees, hips): stores, distributes and returns force while making small corrections across slope, unstable ground, crouch, climb and descent. Grants no speed, navigation or stealth",
+    "NATIVE · SENSORY-MOTOR ALIGNMENT (head, spine, footing): gaze stabilisation, balance, spinal organisation, proprioception and foot placement stay coordinated through change. Improves no eyesight, hearing or scent, AND NOT THE ACCURACY OF CONCLUSIONS REACHED WHILE DISTRACTED BY A BELOVED’S ASS",
+    "NATIVE · RESIDUAL PATTERN MEMORY (muscle, breath, circulation): a working chain can downshift and reacquire a recently used pattern after interruption. Reduces the cost of returning; erases no fatigue, tremor or refractory response",
+    "ADOPTED · All-Terrain Leg Chain (Huntress — Terrain-Responsive Chain)",
+    "ADOPTED · Oriented Motion Pathway (Huntress — Sensory-Motor Alignment)",
+    "ADOPTED · Trail-Holding Recovery (Huntress — Residual Pattern Memory)",
+    "ANNOTATION: the Clinic has rejected the claim that resting with one’s face between a beloved’s thighs constitutes shelter, hydration and nutrition simultaneously. Staff concede it may satisfy one category exceptionally well. PATIENT RETURN STILL REQUIRES WATER AND SOMEBODY REMAINS RESPONSIBLE FOR THE SNACKS. Household nickname on record: SHE ALWAYS FINDS THE GOOD ANGLE AGAIN"
+  ],
+  "seeAlso": [
+    "nereid-pillar-one",
+    "build-classes",
+    "project-nereid",
+    "clinic-notation"
+  ]
+}

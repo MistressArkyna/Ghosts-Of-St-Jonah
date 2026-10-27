@@ -1,0 +1,23 @@
+{
+  "id": "first-morning-ritual",
+  "kind": "system",
+  "name": "The First Morning Ritual",
+  "group": "Household",
+  "state": "current",
+  "tagline": "When a couple moves in AFTER construction, the kitchen makes breakfast without being asked.",
+  "body": "EVERY OTHER COUPLE BUILT THIS HOUSE BEFORE LIVING IN IT. You cannot be welcomed into a place you raised with your own hands — you ARE the welcome. Bryn and Torie are the heroines; nobody throws them a first morning.\n\nSO THE RITUAL ONLY FIRES FOR ARRIVALS. Whoever wakes first starts the coffee. Whoever wakes second starts the eggs. By the time the new couple stumbles downstairs the whole kitchen smells like belonging and there is a plate with their names on it.\n\nUSED TWICE IN GHOST HAVEN'S HISTORY. Once for Sage and Zephi. Once for Isolde and Mikaela.\n\nBOTH TIMES IVY TUCKED A SMALL PRESSED FLOWER UNDER THE FORK — unannounced, unrequested, not part of anybody's instructions. Mikaela cried. Ida held her. The kitchen pretended not to watch.",
+  "rules": [
+    "Only for couples who arrive after the walls are already warm",
+    "First awake makes coffee; second awake makes eggs",
+    "Nobody organises it and nobody has ever had to"
+  ],
+  "seeAlso": [
+    "sage-hawthorne",
+    "zephi-hawthorne",
+    "ida-veyra",
+    "mikaela-verya",
+    "ivy-emberose",
+    "communal-quirks",
+    "gh-kitchen"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "age-cap",
+  "kind": "system",
+  "name": "The Age Cap",
+  "group": "Project Nereid",
+  "state": "current",
+  "tagline": "Twenty-eight, and then it stops. Alice held twenty-eight for four years.",
+  "body": "EVERY NEREID PROFILE IN THE FILE CARRIES A LINE READING AGE CAP: 28, and the Archive had been treating it as a character-sheet formality. It is not. It is the observable thing.\\n\\nALICE MEADOWS WAS TWENTY-EIGHT FOR FOUR YEARS. That is the plain recorded case: a woman arriving at the cap and then simply staying there while four calendar years went past around her.\\n\\nTHE MECHANISM IS UNRECORDED and the Archive is not going to invent one. It does not know whether the cap is chosen, granted, biological, a property of the Immutable Core, or something the Hathaways built in on purpose. It does not know whether it applies from affirmation or from arrival at twenty-eight. It does not know what happens to a woman affirmed older than the cap.\\n\\nWHAT IS ON THE RECORD IS THE FIGURE AND ONE WORKED EXAMPLE, and everything past that is a question waiting for Viraena.",
+  "rules": [
+    "Every profile carries AGE CAP: 28",
+    "DOCUMENTED: Alice Meadows held 28 for four years",
+    "Mechanism unrecorded. Not inferred, not filed"
+  ],
+  "seeAlso": [
+    "alice-meadows",
+    "project-nereid",
+    "nereid-v8-stature",
+    "hathaway-clinic"
+  ]
+}

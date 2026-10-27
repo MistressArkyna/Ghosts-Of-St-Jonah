@@ -1,0 +1,23 @@
+{
+  "id": "consent-ladder",
+  "kind": "system",
+  "name": "The Consent Ladder",
+  "group": "Body",
+  "state": "current",
+  "tagline": "Entering was not consent. Sitting was not consent. Tea was not consent. Reading page one is not consent.",
+  "body": "THE ORDER IS FIXED AND EVERY RUNG IS REVERSIBLE.\n\nONE — THE IMMUTABLE CORE. The first pages she is ever handed, offered only AFTER she has chosen whether to drink, chosen where to sit, and heard her name said correctly. These are the conditions NEREID CANNOT CHANGE, explained BEFORE she is asked to choose within them. Reading them does not bind her to the system.\n\nTWO — THE CONSENT MENU. The choosing proper. A QUESTION DOES NOT COMMIT HER TO A SELECTION.\n\nTHREE — THE REVIEW. Nereid shows her the whole body her selections produce, and she reviews it entire. A SELECTION DOES NOT REPLACE THE REVIEW OF THE BODY IT HELPS CREATE.\n\nFOUR — FINAL AUTHORIZATION. Hers alone. REVIEW DOES NOT BECOME FINAL AUTHORIZATION MERELY BECAUSE THE CLINIC THINKS THE DESIGN SUITS HER.\n\nTHE DIVISION OF LABOUR IS THE WHOLE ETHIC. THE CLINIC WILL BUILD HONESTLY AND COMPLETELY. THE WOMAN WILL DECIDE WHETHER THAT FINISHED BODY IS HERS TO RECEIVE. And afterward the record describes WHAT SHE AUTHORIZED — it does not follow her home to judge what she does with it.\n\nWHY IT IS BUILT AS A LADDER AND NOT A FORM. Every woman who walks through that door came out of somewhere that treated arrival as agreement, silence as permission and fear as noncompliance. So the clinic states the negative at every rung, out loud, in writing: ENTERING WAS NOT CONSENT. SITTING DOWN WAS NOT CONSENT. ACCEPTING TEA WAS NOT CONSENT. READING THE FIRST PAGE IS NOT CONSENT.\n\nTHE DOOR BROUGHT HER INSIDE. EVERY DOOR AFTER IT REMAINS HERS.",
+  "rules": [
+    "Immutable Core → Consent Menu → Review of the whole body → FINAL AUTHORIZATION",
+    "Reading does not bind. A question does not commit. A selection does not replace the review",
+    "Review never converts to authorization by the clinic's satisfaction",
+    "The record states what she authorized, and does not follow her home",
+    "Tea, seat and name come BEFORE page one, always"
+  ],
+  "seeAlso": [
+    "hathaway-clinic",
+    "nereid-gummy",
+    "project-nereid",
+    "universal-traits",
+    "nereid-origin"
+  ]
+}

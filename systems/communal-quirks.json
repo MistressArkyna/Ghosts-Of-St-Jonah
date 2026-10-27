@@ -1,0 +1,29 @@
+{
+  "id": "communal-quirks",
+  "kind": "system",
+  "name": "Communal Quirks",
+  "group": "Household",
+  "state": "current",
+  "tagline": "Nobody in this family has ever drafted anything. Somebody does a thing, everybody likes it, and now it is what the house does.",
+  "body": "THE ENGINE. Every institution on these two hundred acres formed the same way. One woman was already doing something. Everyone else saw it and adopted it. Then it acquired a name, and now it is cited like law by people who have never seen it written down.\n\nELSPETH'S RITE grew out of a paladin feeding her wife until the front door was a kitchen. SIREN'S PROCESS grew out of a woman hiding drafts for Lucia to find. NOVA'S LAW was proposed by a woman who was doing it anyway. CONSEQUENCES grew out of a stolen word. QUINN'S SYLLABUS was assembled out of whoever was willing. THE LITTLE CHAIRS appeared in fourteen bathrooms because somebody needed one once. GIRLMATH has case law and no bench. And the WOODS run on the same engine — a hundred and ninety-three times against every flat surface on the site and the land grew a house in the shape of it.\n\nAND EVERY ONE OF THEM IS CARE IN A FILTHY COAT. The joke is the paint. The care is the hull. A navy named H.O.R.N.I. that carries heated pads and cold electrolytes. A rule about showering that means nobody gets to be efficient about her own body. A word that used to mean a guard was coming and now means your wife is.\n\nTHESE WOMEN WERE COUNTED FOR YEARS by people with clipboards. Now they run a household on unwritten law, and the only accounting system they ever built was designed to return zero.\n\nAND THE HOUSE DOES NOT CLEAR THE ROOM. When two of them start, THEY START WHERE THEY ARE STANDING — at the counter, over the island, on the couch, across the table, against a doorframe, in the garage, halfway up a staircase. Nobody excuses herself. Nobody goes and finds a door. The conversation continues around them, somebody keeps cooking, somebody keeps arguing about cupholders, AND THE WOMEN INVOLVED ARE NOT PERFORMING FOR ANYONE — they were simply not raised, here, to treat a body as an interruption.\n\nWHEN A COUPLE DOES LEAVE, THAT IS INFORMATION. It means privacy was WANTED rather than required — something tender, something new, something one of them needed to be small for. THE DEPARTURE IS THE UNUSUAL EVENT, NOT THE STAYING.\n\nTHIS IS THE DIRECT INVERSE OF ST. JONAH, where a body was only ever permitted behind a door and on somebody else’s schedule.\n\nAND A WOMAN IS NOT HER PROFESSION. THIS IS A STANDING CORRECTION AGAINST THE ARCHIVE ITSELF, which keeps writing each of them doing the one thing her record lists. ALICE IS NOT ALWAYS COOKING. IVY IS NOT ALWAYS GARDENING. NOVA IS NOT ALWAYS RUNNING. JADE IS NOT ALWAYS STRETCHING. BRYN IS NOT ALWAYS DRAWING SETTINGS.\n\nTHEY JOKE. THEY TEASE. THEY DARE EACH OTHER INTO STUPID THINGS. They lift, they nap in sunbeams, they read badly written paperbacks upside down, they cuddle in piles, they plan trips, THEY AIR GRIEVANCES IN WRITING, they do nothing at all for whole afternoons. THE TRADE IS ONE HOUR OF A DAY AND THE WOMAN IS THE OTHER TWENTY-THREE.\n\nTHE ONLY THING THAT IS ALWAYS TRUE OF ALL OF THEM IS THAT THEY SURVIVED SOMETHING AND THEN CHOSE EACH OTHER. Everything after that is a Tuesday.",
+  "rules": [
+    "Nothing here was drafted. Everything here was adopted",
+    "A WOMAN IS NOT HER PROFESSION. Alice is not always cooking, Ivy is not always gardening, Nova is not always running",
+    "They joke, tease, dare, lift, nap, complain, cuddle, plan trips and do nothing at all — the trade is one hour of a day",
+    "NOBODY LEAVES THE ROOM. Sex happens where the women already are — kitchen, couch, table, garage, hallway",
+    "Relocating is the exception, and it means privacy was WANTED, not required",
+    "The name always arrives after the practice",
+    "The joke is the wrapping; the care is the content",
+    "No auditor, no bench, no appeal — and near-total compliance"
+  ],
+  "seeAlso": [
+    "nova-law",
+    "consequences",
+    "girlmath",
+    "pawg-council",
+    "horni-fleet",
+    "the-mark",
+    "lumi-anvil",
+    "little-chairs"
+  ]
+}

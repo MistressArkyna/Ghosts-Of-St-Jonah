@@ -1,0 +1,26 @@
+{
+  "id": "ghost-hunt",
+  "kind": "system",
+  "name": "The Ghost Hunt",
+  "group": "St. Jonah's",
+  "state": "current",
+  "tagline": "It started with a question in Arc 2. It is the only sub-arc that never ended.",
+  "body": "RAE CAME BACK IN ARC 2, at the BBQ, alive \\u2014 and LIVI ASKED THE QUESTION THAT HAS BEEN RUNNING EVER SINCE:\\n\\nIF RAE SURVIVED, DID ANYONE ELSE?\\n\\nTHAT IS THE ORIGIN OF THE GHOST HUNT, and it is the ONLY SUB-ARC IN THIS ENTIRE CANON THAT DID NOT END WHEN ITS PARENT ARC DID. Every other thread opens, runs and closes. This one opened in Arc 2 and HAS NEVER CLOSED.\\n\\nWHAT CHANGED IS ONLY THE POSTURE. For years it meant GOING OUT LOOKING \\u2014 actively, deliberately, following every thread of a name. NOW IT RUNS IN THE BACKGROUND. Nobody stands down; nobody declares it finished. The search simply became the ambient condition of this family rather than an expedition it mounts.\\n\\nAND THAT IS WHY THE NOTEBOOK EXISTS. Livi's ledger is not a memorial and it is not bookkeeping. IT IS AN OPEN SEARCH FILE. The scratched-out flight numbers are found cases; the uncircled entries are the reason she has not put the book down in a decade of arcs.\\n\\nWHY LIVI. Because the Family is her FLOCK, and she keeps the book BECAUSE SHE ALWAYS HOPES TO GROW IT. She marries every couple on this compound for the same reason she keeps the list: both are the shepherd counting who is safely in.\\n\\nTWENTY-NINE CIRCLES SO FAR. The hunt is still running.",
+  "rules": [
+    "Opened in ARC 2 with Livi's question: IF RAE SURVIVED, DID ANYONE ELSE?",
+    "THE ONLY SUB-ARC THAT NEVER ENDED WITH ITS PARENT ARC",
+    "It no longer means going out looking. IT RUNS IN THE BACKGROUND, permanently",
+    "Livi's notebook is its case file, not a memorial",
+    "Twenty-nine found so far"
+  ],
+  "seeAlso": [
+    "livi-stewart",
+    "livi-notebook",
+    "rae-stewart",
+    "welcome-home",
+    "dryad-ink",
+    "flight-roster",
+    "st-jonahs",
+    "2"
+  ]
+}

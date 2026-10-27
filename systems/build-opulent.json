@@ -1,0 +1,24 @@
+{
+  "id": "build-opulent",
+  "kind": "system",
+  "name": "Build 05 — Opulent, The Sovereign",
+  "group": "Project Nereid",
+  "state": "current",
+  "tagline": "Physical Root: Pressure Equilibrium. A body built to inhabit its own weight before anyone else earns the privilege of resting there.",
+  "body": "TYPICAL SILHOUETTE. Deep-set, luxuriantly supported lines through rounded shoulders, a ribcage with generous front-to-back depth, a torso given slightly more of the chosen height, a deep stable pelvis, and limbs meeting the body through broad support rather than long exposed leverage. Narrow or broad in measurement, modest or abundant in chosen softness, STRUCTURE AND TISSUE APPEAR LAYERED INSTEAD OF PERCHED UPON ONE SHALLOW PLANE. At every Stature the Sovereign READS SETTLED WITHOUT LOOKING INERT.\n\nPHYSICAL ROOT — PRESSURE EQUILIBRIUM. Bone, joint position, deep muscle, fascia, circulation, temperature, skin and chosen tissue keep SHARING SETTLED PRESSURE AS NOVELTY BECOMES DURATION. The body widens usable contact, preserves breath and blood flow, and makes quiet corrections beneath stillness so no single joint, nerve, muscle or patch of flesh stays the unwilling foundation of the whole position.\n\nWORKING BIAS. Sitting, reclining, kneeling, sustained compression, slow pressure, long contact, tangled sleep, and positions that must remain INHABITABLE AFTER THEIR FIRST COMFORTABLE MINUTE. Costlier: explosive movement, rapid repeated reversal, narrow point-loading, unsupported suspension, abrupt departure from deep settlement.\n\nSTAMINA SHAPE — SLOW FLOOD. Expenditure distributes broadly through posture, muscle, circulation, heat, pressure and chosen tissue instead of letting one dominant system spend itself first. Fatigue rises as accumulating warmth, heaviness, compression and diffuse loss of comfort, and recovery recedes through the same broad body — possibly continuing after she looks entirely settled again.\n\nFAILURE STATE — PRESSURE POOLING, when weight, heat, circulation or muscular duty stops redistributing and starts concentrating. The position may still LOOK comfortable while remaining there purchases stillness with numbness, strain or tissue irritation. PRESENTS AS: numbness, tingling, trapped heat, deep local ache, skin irritation, restricted breath, joint restlessness, creeping brace, and one compressed region becoming impossible to ignore. COMFORT IS DURABLE ONLY WHILE THE BODY REMAINS ALLOWED TO REVISE IT.\n\nMOVEMENT GRAMMAR — SETTLE, REDISTRIBUTE, REMAIN. A shoulder glides, ribs change around breath, the pelvis rolls a fraction, thighs broaden their contact, and deep muscles exchange duty beneath apparent stillness. It appears in a long chair, folded work, a beloved sleeping across her lap, or slow sex becoming a warm occupation WHOSE ORIGINAL POSITION NO LONGER QUITE EXISTS. REMAINING MEANS KEEPING COMFORT CURRENT, NOT ACCEPTING PAIN, COMPULSORY CAREGIVING, OR ANOTHER PERSON’S WEIGHT WITHOUT CONSENT.",
+  "rules": [
+    "NATIVE · CONTACT LOAD SPREAD (named soft-tissue region): distributes accepted pressure across a broader usable area instead of letting chosen tissue bottom out against one hard point. Adds no mass; changes no Shape, Scale, Handfeel, Carriage or Kinetics",
+    "NATIVE · COMPRESSION PERFUSION (named region): circulation, venous return, nerve clearance and temperature exchange stay organised under sustained pressure. May delay numbness; grants no desensitisation and cancels no eventual request to move",
+    "NATIVE · LOW-TONE SUPPORT (named muscle chain): long-duration recruitment alternates among fibers and neighbouring stabilizers without one continuous hard brace. No infinite positional endurance",
+    "ADOPTED · Broad-Bed Cushioning (Opulent — Contact Load Spread)",
+    "ADOPTED · Long-Hold Thighs (Opulent — Compression Perfusion)",
+    "ADOPTED · Rest-Bearing Support (Opulent — Low-Tone Support)",
+    "ANNOTATION: AN OPULENT LAP DOES NOT BECOME PUBLIC SEATING. Cassandra objected that Marianne sits in hers whenever she likes; MARIANNE CLARIFIED THAT MARRIAGE IS NOT MUNICIPAL ZONING and privately held throne rights remain enforceable. Household nickname on record: THE WIFE-WARMING DEPARTMENT"
+  ],
+  "seeAlso": [
+    "nereid-pillar-one",
+    "build-classes",
+    "project-nereid",
+    "clinic-notation"
+  ]
+}

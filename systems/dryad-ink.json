@@ -1,0 +1,24 @@
+{
+  "id": "dryad-ink",
+  "kind": "system",
+  "name": "Dryad Ink",
+  "group": "Places",
+  "state": "historical",
+  "tagline": "Where the tradition happened before there was a tradition. Morrighan would see Bryn, and nod, and start her needles.",
+  "body": "THE TATTOO PARLOUR MORRIGHAN WORKED AT BEFORE SHE WAS ADOPTED, and the site of every Welcome Home that happened before Welcome Home had a name.\\n\\nTHE NAME IS IRONIC AND THE IRONY IS HERS. Morrighan's DRUIDIC FAMILY is earth and nature \\u2014 dryads, groves, growing things. HER SOUL, ACCORDING TO HER TRIBE, IS FIRE. She spent years inking people under a sign naming the half of her heritage that is not what she is.\\n\\nWHAT USED TO HAPPEN: a survivor would be found and adopted, and BRYN, LIVI AND THE SURVIVORS WOULD ALL GO. All of them. Every time.\\n\\nMORRIGHAN WOULD SEE BRYN, NOD, AND GET HER NEEDLES STARTED. No booking, no explanation, no conversation about what was wanted. A blacksmith walks into a parlour with a crowd behind her and a tattoo artist starts setting up, because she already knows.\\n\\nLIVI WOULD DO HER NOTEBOOK WHILE THE NEEDLES RAN. Old name scratched, flight number scratched, chosen name written beside it and CIRCLED.\\n\\nAND THEN THEY WOULD GO HOME AND WELCOME HER INTO GHOST HAVEN.\\n\\nARC 12 DID NOT CREATE THIS RITUAL. It brought it INSIDE \\u2014 Morrighan moved her tools out of the hole in the wall she had been working from and opened her in-house parlour, and the thing the family had been driving across town to do for years became something that happens at home, with a party after.",
+  "rules": [
+    "Morrighan's pre-adoption workplace",
+    "IRONIC NAME: her druidic family is earth and nature; HER SOUL IS FIRE, per her tribe",
+    "Bryn, Livi and the survivors attended EVERY TIME",
+    "She would see Bryn, nod, and start her needles. No booking, no conversation",
+    "Arc 12 did not invent Welcome Home. It brought it indoors and added the party"
+  ],
+  "seeAlso": [
+    "morrighan-eithne",
+    "bryn-eriksson",
+    "livi-stewart",
+    "welcome-home",
+    "livi-notebook",
+    "12"
+  ]
+}
