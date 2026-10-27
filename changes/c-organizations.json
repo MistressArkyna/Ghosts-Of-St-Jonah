@@ -1,0 +1,21 @@
+{
+  "id": "c-organizations",
+  "kind": "change",
+  "subject": "group-chats",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Six chats and nobody founded any of them",
+  "field": "The Found Family · the Organizations",
+  "from": "Not in the record at all",
+  "to": "SIX GROUP CHATS, FULL ROSTERS, CURRENT TO ARC 15.",
+  "note": "BRAT BRIGADE · GREMLIN DEFENSE LEAGUE · WITCHES COVEN · HARD STAFF · MUSES AND MOANS · LET’S GO TEAM!\n\nAND THE STRUCTURE SAYS SOMETHING THE ROSTERS DO NOT SAY OUT LOUD: NOT ONE OF THEM IS ORGANISED BY HAVEN. Every single list crosses Ghost, Specter and Banshee. THREE HOUSES, ONE FAMILY, AND THE GROUP CHATS ARE THE PROOF — they sorted themselves by temperament and trade and nobody thought to sort them by address.\n\nTHE GREMLIN DEFENSE LEAGUE IS NOT A DEFENCE. Its own description is that the wives SIGH, AND COORDINATE HOW TO DEAL WITH THE CHAOS THEY ARE GOING TO LET HAPPEN. Nobody in it is stopping anything. It is a chat for arranging the aftercare of a disaster that has been approved in advance.\n\nAND THE SWITCHES HOLD MEMBERSHIP IN BOTH, BY THE DAY. Izzy and Fiona: whichever of them is topping sits in the GDL, the other sits in Brat Brigade, and the roster reshuffles without an announcement. Ceri, Jinx, Pepper and Alexis also appear on both lists.\n\nPANDORA IS IN MUSES AND MOANS ON A TECHNICALITY, ON THE GROUNDS THAT SHE DOES WRITE. She writes code. The chat accepted it.\n\nJINX IS IN FOUR OF THE SIX.",
+  "links": [
+    "group-chats",
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c-isolde-quietest",
+  "kind": "change",
+  "subject": "ida-veyra",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The stillest woman on the land",
+  "field": "Isolde Cerise Veyra · the compound superlative",
+  "from": "THE WINTER KIRIN — a still hearth in human form, with no ranking attached",
+  "to": "QUIETEST AND MOST RESERVED WOMAN IN THE ENTIRE COMPOUND. All three Havens.",
+  "note": "A COMPOUND-WIDE SUPERLATIVE, which is a rarer kind of fact than a trait: it holds her against eighty-three other women across Ghost, Specter and Banshee, several of whom are professionally loud. RULED BY VIRAENA.\n\nSHE STILL HAS HER OWN THINGS. Reserved is a temperament, not an absence, and the Archive is not to write her as furniture in a room full of noise.\n\nNOTE ON THE NAME, SO NO LATER SWEEP TRIPS ON IT: ISOLDE AND IDA ARE ONE WOMAN. Isolde Cerise Veyra, who goes by Ida, filed at id ida-veyra, 05-117, the survivor of the pair. Mikaela’s entry calls her Isolde and Ida’s own row calls her Ida, and both are correct. THE ARCHIVE CHECKED THIS BEFORE FLAGGING IT AS A DEFECT, and it was not one.",
+  "links": [
+    "ida-veyra",
+    "mikaela-verya",
+    "gremlindex",
+    "gh-rm-ida-mikaela"
+  ]
+}

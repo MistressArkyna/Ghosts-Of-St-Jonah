@@ -1,0 +1,25 @@
+{
+  "id": "c-house-themes",
+  "kind": "change",
+  "subject": "banshee-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The Third House gets its name",
+  "field": "Epithet and theme",
+  "from": "Banshee Haven — THE THIRD HOUSE. No theme recorded for any of the three.",
+  "to": "THE HOUSE OF CATHARSIS AND RESONANCE — and all three houses take their theme from their lead couple",
+  "note": "GHOST HAVEN — DEVOTION AND HEARTH. Bryn holds both; Torie doubles Devotion. SPECTER HAVEN — CHAOS AND AMBITION, the Cathedral of Chaos. Lili is the chaos, Arianna is the ambition that keeps it contained. BANSHEE HAVEN — CATHARSIS AND RESONANCE. Bell leads the seances, the thing that lets a woman scream; Elspeth is the resonance, the baking and the food that come before a woman can process anything.\n\nTHE PAIRS ARE NOT ARGUMENTS. Each holder is a function and its vessel. Chaos without ambition is only weather.\n\nWINGS ARE NAMED BY ANATOMY. Ghost Haven has CHEEKS, Specter Haven has THIGHS, Banshee Haven has RIBS. Nobody on Sanctuary Drive lives in a building; they live inside the shape they fought to have.\n\nAND THE ONLY DOOR INTO BANSHEE HAVEN IS THE LEFT TITTY — Elspeth's kitchen. Nobody reaches the seance or the stairs down until she has fed them. The house is physically incapable of letting a woman scream on an empty stomach.",
+  "links": [
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven",
+    "bell-maribel",
+    "elspeth",
+    "lili-seraphine",
+    "arianna-solene",
+    "elspeth-rite"
+  ]
+}

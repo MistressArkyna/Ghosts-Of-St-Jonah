@@ -1,0 +1,20 @@
+{
+  "id": "c-luna-pillar",
+  "kind": "change",
+  "subject": "luna-meadows",
+  "subjectKind": "girl",
+  "arc": 2,
+  "state": "current",
+  "mode": "correction",
+  "label": "Goth (Ritualist)",
+  "field": "Personal Vibe",
+  "path": "vibe.primary",
+  "from": "Unrecorded",
+  "to": "Goth",
+  "note": "Confirmed. Her secondary Pillar is still unwritten and is now the only gap on her identity block. Her Goth coding also puts her under the 6-inch girth floor, which at 7.2 she clears comfortably.",
+  "links": [
+    "pillars",
+    "cock-standards",
+    "alice-luna"
+  ]
+}

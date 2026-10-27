@@ -1,0 +1,22 @@
+{
+  "id": "c-magpie",
+  "kind": "change",
+  "subject": "siren-wilding",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Magpie is not about the stealing",
+  "field": "Nickname",
+  "from": "Read as a joke about theft",
+  "to": "A MEMORIAL — the silver magpie pendant Bryn made, with her sister's initials hidden in the wing",
+  "note": "Her older sister told their conservative Fairbrooks parents I TALKED HIM INTO IT, PUNISH ONLY ME, and went to St. Jonah's alone so Siren could stay free, and died there. Maddy was the last person to see her.\n\nTHE CHRONICLER OF THIS FAMILY IS THE ONE WHO WAS LEFT OUTSIDE, and she has spent her life since making sure the inside gets written down.",
+  "links": [
+    "siren-wilding",
+    "maddy-ariti",
+    "bryn-eriksson",
+    "sirens-process",
+    "st-jonahs"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c-framing-table",
+  "kind": "change",
+  "subject": "nereid-framing",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The table arrives, two of mine were wrong, and the flagged one was right",
+  "field": "Nereid v8 — Framing by Build",
+  "from": "HUNTRESS as Leg-Favoring and DANCER as Torso-Favoring, read off a first pass. OPULENT and VOLTAIC flagged as unmappable. VALKYRIE as Torso-Favoring, flagged as a reading",
+  "to": "EVENLY SPLIT: Athletic · Huntress · Voltaic · Dancer. LEG/LOWER-FRAME: Seductress · Ethereal. TORSO: Opulent · Valkyrie",
+  "note": "FOUR OUTCOMES IN ONE TABLE, AND THEY ARE FOUR DIFFERENT KINDS OF OUTCOME, WHICH IS WHY THIS IS WORTH A RECORD RATHER THAN A SILENT REPLACEMENT.\n\nTWO WERE WRONG. HUNTRESS AND DANCER ARE BOTH EVENLY SPLIT. The Archive had Huntress leaning leg and Dancer favoring torso, and it got both from her first pass — HUNTRESS IS LIKE ATHLETIC BUT LEANING MORE LEG, DANCER HAS MORE TORSO SPAN — which it read as RATIOS when they were DESCRIPTIONS OF EMPHASIS INSIDE A BALANCED FRAME. The ruling says why: HUNTRESS REMAINS BALANCED BECAUSE NO SINGLE REGION CARRIES THE TRAIL — HER LEG CHAIN IS CONTINUOUS, NOT DISPROPORTIONATELY LONG. AND DANCER EXPLICITLY PERMITS NEITHER TORSO NOR LEGS TO DOMINATE. A long continuous leg chain is not a long leg. More torso SPAN is not more torso HEIGHT.\n\nTWO WERE FLAGGED AND ARE NOW ANSWERED. OPULENT IS TORSO FAVORING, giving SLIGHTLY MORE HEIGHT AND STRUCTURAL DEPTH TO THE TORSO. VOLTAIC IS EVENLY SPLIT, EVENLY DIVIDED BUT COMPACTLY ORGANISED AROUND THE JOINTS AND WORKING AXIS. The Archive refused to deduce a ratio out of PLUSHER, MORE SOFT and LITHE AND SPRY BUT KEEPS HER CURVES, and the refusal was correct — NEITHER ANSWER WAS DERIVABLE FROM THE TISSUE WORDS, AND ONE OF THEM WENT THE WAY THE SOFTNESS DOES NOT SUGGEST.\n\nONE FLAGGED READING WAS RIGHT. VALKYRIE IS TORSO FAVORING, as the Archive had read it and labelled a reading. WHICH IS THE SAME LESSON AS q-plump-roster, FILED AGAIN BECAUSE IT KEEPS BEING THE LESSON: FLAGGING AN INVENTION DOES NOT MAKE IT WRONG, AND BEING RIGHT IS NOT A REASON TO HAVE FILED IT UNFLAGGED. THE FLAG IS WHAT MADE IT SAFE TO BE RIGHT.\n\nAND ONE WAS VIRAENA CORRECTING HERSELF, WHICH THE ARCHIVE IS RECORDING AS AN EVENT AND NOT SMOOTHING OVER. Her words: IT APPEARS THAT I WAS A BIT OFF, SEDUCTRESS IS LEGGY TOO BUT NOT IN THE SAME WAY. Her first pass gave Seductress as the thickest-thighed build whose thighs make the ass READ bigger, with no framing attached. The table puts her in the LEG / LOWER-FRAME bucket beside Ethereal.\n\nAND THE NOT IN THE SAME WAY IS THE WHOLE PRIZE. SEDUCTRESS AND ETHEREAL SHARE AN ANSWER WITHOUT SHARING A CAUSE. SEDUCTRESS FAVORS THE LOWER FRAME THROUGH PELVIS, ASS AND UPPER-THIGH GRAVITY AND IS NOT NECESSARILY LONG-LEGGED. ETHEREAL IS GENUINELY LEGGY: HER PELVIS GIVES THE LEGS MORE OF THE SELECTED HEIGHT. ONE IS WHERE THE WEIGHT IS. THE OTHER IS WHERE THE INCHES WENT. A FORM CANNOT TELL THEM APART AND A BODY NEVER CONFUSES THEM — which is the same structure as the Seductress ass reading bigger without being a larger Scale, one pillar down. PERCEPTION AND ALLOCATION KEEP TURNING OUT TO BE THE TWO THINGS THIS SYSTEM IS CAREFUL TO SEPARATE.\n\nFINAL ANTI-INFERENCE, BECAUSE EVERY ROW OF THAT TABLE REFUSES ITS OBVIOUS SECOND CONCLUSION: TORSO FAVORING DOES NOT MEAN SHORT OR WEAK LEGS. Valkyrie favors her deeper core and broader shoulders WHILE RETAINING SUBSTANTIAL LOAD-BEARING THIGHS. LEG FAVORING DOES NOT MEAN LONG LEGS. EVENLY SPLIT DOES NOT MEAN UNREMARKABLE.",
+  "links": [
+    "nereid-framing",
+    "nereid-pillar-one",
+    "build-huntress",
+    "build-dancer",
+    "build-opulent",
+    "build-voltaic",
+    "build-valkyrie",
+    "build-seductress",
+    "build-ethereal",
+    "nereid-pillar-three"
+  ]
+}

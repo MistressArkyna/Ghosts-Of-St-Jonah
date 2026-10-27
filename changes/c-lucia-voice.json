@@ -1,0 +1,20 @@
+{
+  "id": "c-lucia-voice",
+  "kind": "change",
+  "subject": "lucia-wilding",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The Playful Lioness is not quiet",
+  "field": "Voice",
+  "from": "Written in Archive prose as the one who never makes a sound",
+  "to": "SHE TALKS THE WHOLE WAY THROUGH. Half of Siren's best dialogue is transcription",
+  "note": "SAMPLES SIREN KEEPS: I LIKE WHERE THIS IS GOING, against a throat, punctuated with a thrust. WHICH SCENE, GORGEOUS — THE BOOKSHELF? THE ARCHIVE? THE ONE WHERE THE HISTORIAN GETS BENT OVER HER OWN DESK? And the one pinned above the desk: SIREN. YOU STOPPED WRITING.\n\nAND SHE IS A DISASTER LESBIAN, because Siren is the first and only woman she has ever been with. The lioness purrs like she has done this a hundred times and has in fact done it with exactly one person, ever, and still short-circuits when Siren looks at her over the top of a page.\n\nGENERAL RULE ESTABLISHED AT THE SAME TIME: NOBODY IN THIS FAMILY IS STOIC AND SILENT. Not Evie, not Bryn, not Lucia. Quiet in the Archive has been shorthand for characters who were busy, and it is wrong every time.",
+  "links": [
+    "lucia-wilding",
+    "siren-wilding",
+    "gh-rm-siren-lucia"
+  ]
+}

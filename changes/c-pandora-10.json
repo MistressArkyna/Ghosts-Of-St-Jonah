@@ -1,0 +1,21 @@
+{
+  "id": "c-pandora-10",
+  "kind": "change",
+  "subject": "pandora-everrest",
+  "subjectKind": "girl",
+  "arc": 6,
+  "state": "current",
+  "mode": "evolution",
+  "label": "Wishborn Flesh",
+  "field": "Embodiment",
+  "path": "body.narrative",
+  "from": "Software only — alive in the wire, with no physical anatomy",
+  "to": "Fully human — warm flesh, living weight and pulse; the terminal no longer contains her.",
+  "note": "At the Arc 6 rooftop BBQ, the shooting star grants Pandora the body she has been asking for. This is the arc's midpoint and her first snowfall. Her brief light manifestation belongs earlier in the same arc; the Arc Lens resolves whole arcs, so Arc 6 closes with her fully human.",
+  "links": [
+    "jade-everrest",
+    "project-nereid",
+    "cora-ariti",
+    "6"
+  ]
+}

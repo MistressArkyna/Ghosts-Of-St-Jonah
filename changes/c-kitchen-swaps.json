@@ -1,0 +1,22 @@
+{
+  "id": "c-kitchen-swaps",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Three pairs, three inversions",
+  "field": "Ghost Haven · who is in whose lap",
+  "from": "Akane in Gwen's lap; Maddy the 3D modeler and Cora the cosplayer",
+  "to": "GWEN IN AKANE'S LAP. CORA MODELS, MADDY COSPLAYS.",
+  "note": "ALL THREE WERE ALREADY IN THE RECORD AND ALL THREE WERE READ BACKWARDS IN THE SAME BREAKFAST.\n\nGWEN IS THE BRAT. Her own correction field reads AKANE. SHE IS AKANE'S BRAT-WIFE, AND THE OATH DID NOT MAKE HER LESS OF ONE — which the Archive had in front of it and overrode, because OATH-KNIGHT GUARDIAN sounds like the one who holds and TEA-HOUSE RITUALIST sounds like the one who is held. Gwen sits in Akane's lap. Akane rests her cup on Gwen's thigh between sips, which is a thing you do to furniture you own.\n\nCORA ARITI IS THE GAME-DEV 3D MODELER AND DIGITAL SCULPTOR. MADISON ARITI IS THE COSPLAYER. The Archive has had Cora's profession filed correctly since the first build and has quoted the Maddy-cosplay line itself in conversation, then swapped them anyway.\n\nTHE PATTERN, RESTATED: THE ARCHIVE ASSIGNS THE ROLE TO WHICHEVER TITLE SOUNDS LIKE IT, INSTEAD OF READING THE LINE UNDERNEATH.",
+  "links": [
+    "gwen-yoshizawa",
+    "akane-yoshizawa",
+    "cora-ariti",
+    "maddy-ariti",
+    "ghost-haven"
+  ]
+}

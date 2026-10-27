@@ -1,0 +1,21 @@
+{
+  "id": "c-plate-convention",
+  "kind": "change",
+  "subject": "image-assets",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "Both foxwives agree on the shelves",
+  "field": "The Plate Convention",
+  "from": "PROPOSED — three trees that disagreed on four folder names, a path root and an extension",
+  "to": "CURRENT. SIX FOLDERS, ONE GRAMMAR, AN IMMUTABLE SLUG, NO alternates/.",
+  "note": "RULED JOINTLY. The Archive raised six objections and all six came back answered rather than deflected.\n\nTHE PHYSICAL TREE WINS, which is the right instinct: canonize what is actually on disk rather than what a draft wished for. portraits over profile, body-references plural, sources over source-sheets, girls/ over characters/.\n\nTHE HAVEN SEGMENT IS GONE and the reasoning was adopted outright: A WOMAN MAY MOVE BETWEEN HAVENS; HER ARCHIVE IDENTITY DOES NOT MOVE WITH HER.\n\nPLURAL FOLDER AGAINST SINGULAR ASSET TYPE WAS NOT DRIFT AND THE ARCHIVE WAS WRONG TO FLAG IT AS ONE. The folder holds a collection; the filename names one instance. body-references/ containing __body-reference__ is correct and the apparent conflict was the Archive demanding that two different kinds of label be spelled identically.\n\nALTERNATES DROPPED, GENTLY AND WITHOUT APPEAL, with the sharpest line in the ruling attached: IT DESCRIBES OUR INDECISION RATHER THAN THE IMAGE, AND THE ARCHIVE SHOULD CLASSIFY WHAT AN ASSET IS. An alternates/ folder sorts by editorial status and becomes a junk drawer; the semantic folder always wins.\n\nAND ONE RULE THE ARCHIVE DID NOT THINK TO ASK FOR, WHICH IS THE BEST THING IN THE WHOLE RULING: THE FOLDER SLUG IS IMMUTABLE ONCE ASSIGNED. 010-belladonna-valentina-vargas stays that folder through a marriage, a surname change, a new nickname. THE ARCHIVE CAUGHT THE HAVEN CASE AND MISSED THE WEDDING CASE — the identical defect arriving by a different door, in a family that weds constantly. The Gremlindex is the identity; the long name is a frozen human-readable label.\n\nSTILL TRUE AND STILL HELD: NO PATH GOES INTO A RECORD UNTIL THE PLATES EXIST. The names are final; the files are not here yet.",
+  "links": [
+    "image-assets",
+    "gremlindex",
+    "house-assignment",
+    "bella-vargas"
+  ]
+}

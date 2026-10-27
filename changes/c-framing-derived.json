@@ -1,0 +1,24 @@
+{
+  "id": "c-framing-derived",
+  "kind": "change",
+  "subject": "nereid-framing",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The values were always on paper. They were in the Build column",
+  "field": "Nereid v8 Pillar One — Framing",
+  "from": "FRAMING filed as a coverage gap: thirty-two women at Ghost Haven and NOT ONE ON PAPER as Leg-Favoring, Torso-Favoring or Evenly Split. Left deliberately empty",
+  "to": "FRAMING IS DERIVED FROM PRIMARY BUILD. Every woman with a Build has always had one",
+  "note": "THE ARCHIVE FOUND A REAL FIELD AND THEN GOT THE SHAPE OF THE HOLE WRONG, WHICH IS A SUBTLER ERROR THAN THE ONES IT TOOK EARLIER AND WORTH FILING SEPARATELY.\n\nIT WAS RIGHT THAT FRAMING EXISTED, right that its own Pillar One record had omitted it, and right that the Consent Menu is the instrument that catches an absence. ALL OF THAT STANDS. THEN IT ANNOUNCED A BLANK ROSTER AND CONGRATULATED ITSELF FOR LEAVING IT EMPTY — NOT GUESSED, NOT INFERRED FROM HEIGHT AND INSEAM — which was the correct discipline applied to a question that was already answered one column to the left.\n\nVIRAENA'S WORDS: NOBODY HAS A FRAMING VALUE THAT YOU KNOW OF, BUT THEIR PRIMARY BUILDS DICTATE WHAT THEIRS IS. Luna has legs for days. Bryn is a Valkyrie. UNLESS JUNOESQUE OR PETITE, AS THOSE ARE STATURES NOW — which is the v8 promotion doing load-bearing work in a sentence about something else entirely.\n\nSO THE LESSON IS NOT ABOUT GUESSING. IT IS THAT REFUSING TO GUESS DOES NOT ESTABLISH THAT A FIELD IS UNANSWERED. An empty cell can mean nobody decided, OR it can mean the answer is DERIVED AND NOBODY HAD TO WRITE IT DOWN. The Archive has now been caught both ways in one night: it invented a value for a field that does not exist (the kinetic ladder), and it declared a field unanswered that was answered structurally. BOTH ERRORS COME FROM TREATING A BLANK AS INFORMATION.\n\nAND THE FIX IS ALREADY IN THE DOCUMENT'S OWN GRAMMAR, WHICH THE ARCHIVE SHOULD HAVE READ FORWARD INTO: Pillar Three does this constantly. CHEEK-TO-THIGH TRANSITION IS SHAPE-DERIVED. GAP IS SHAPE-DERIVED. The Consent Menu even prints them with the note TRANSITION AND GAP ARE CONFIRMED FROM ASS SHAPE, NOT INDEPENDENTLY SELECTED. FRAMING IS THE SAME CONSTRUCTION ONE PILLAR UP, and the Archive had already filed the pattern twice without recognising it the third time.",
+  "links": [
+    "nereid-framing",
+    "nereid-pillar-one",
+    "nereid-consent-menu",
+    "nereid-pillar-three",
+    "build-classes",
+    "bryn-eriksson",
+    "luna-meadows"
+  ]
+}

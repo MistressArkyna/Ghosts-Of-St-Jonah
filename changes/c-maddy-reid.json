@@ -1,0 +1,19 @@
+{
+  "id": "c-maddy-reid",
+  "kind": "change",
+  "subject": "maddy-ariti",
+  "subjectKind": "girl",
+  "arc": 11,
+  "state": "current",
+  "mode": "status",
+  "label": "Reid → Ariti",
+  "field": "Surname",
+  "from": "Maddison Orion Reid",
+  "to": "Maddison Orion Ariti",
+  "note": "Her maiden name is REID. She took ARITI from Cora — recorded on Cora's own status line, which runs Dating Maddison Orion Reid, then Engaged to Maddy Orion Reid, then Married to Maddison Orion Ariti. The Archive had her surname without ever knowing it was borrowed. Note also the spelling: MADDISON, two d's, which the import got as Madison.",
+  "links": [
+    "cora-ariti",
+    "maddy-cora",
+    "11"
+  ]
+}

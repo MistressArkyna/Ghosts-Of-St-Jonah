@@ -1,0 +1,21 @@
+{
+  "id": "c-livi-trade",
+  "kind": "change",
+  "subject": "livi-stewart",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Boxing coach, not jeweler",
+  "field": "Profession",
+  "from": "Archive prose had her asking for a loupe and finishing stone settings",
+  "to": "BOXING COACH AND GYM TRAINER. The gym is right next to her and Rae's room",
+  "note": "THE JEWELER IS BRYN. The two get crossed because they both have the hands and they talk over coffee every morning at seven — about BOXING, which is Bryn's subject, along with weightlifting, jewelry, minor house maintenance she learned watching her dad, and what she thinks Torie is about to cause.\n\nLIVI'S CHALKBOARD tracks everyone's PRs in handwriting precise enough to print. Nova warms up in her gym before dawn trails; Jade conditions for volleyball there; Gwen shadowboxes at 2 AM and nobody mentions it.\n\nFILED WITH THE SAME NOTE AS c-alice-name: misreading is correctable, INVENTING is the failure mode.",
+  "links": [
+    "livi-stewart",
+    "rae-stewart",
+    "bryn-eriksson",
+    "gh-gym"
+  ]
+}

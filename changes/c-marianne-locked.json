@@ -1,0 +1,19 @@
+{
+  "id": "c-marianne-locked",
+  "kind": "change",
+  "subject": "project-nereid",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "label": "Why v7 was flawed from the start",
+  "field": "Design Authorship",
+  "from": "A system that asked bodies to do too many things at once",
+  "to": "Written by a woman locked out of it, in love with the only body wearing it",
+  "note": "TIMELESS. Marianne is cis and NOT BY CHOICE — Eden's lock puts the prostate key in the Immutable Core and Nereid cannot take on her. She could never test a single result on herself.\n\nAnd her greatest weakness is CASSANDRA LIVING IN THAT BODY. Five foot eleven, thirteen inches, E-cups, the first affirmed woman and the only sample she had. Every early decision was made by a woman looking at the one body she had already made, and being wrecked by it.\n\nThe failure was never care. She could reason about an outcome beautifully and never once FEEL where two of her own systems collided — so Core and Fill overlapped, and five mechanisms ended up describing the same hips, and from outside every one of them still looked like a gift. The corrections now come from the women who actually wear it, and get slipped back to her in the past, where they turn out to have always been there.",
+  "links": [
+    "nereid-origin",
+    "nereid-versioning",
+    "universal-traits"
+  ]
+}

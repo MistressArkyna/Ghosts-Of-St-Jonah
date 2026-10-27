@@ -1,0 +1,20 @@
+{
+  "id": "c-harley-ring",
+  "kind": "change",
+  "subject": "harley-calder",
+  "subjectKind": "girl",
+  "arc": 7,
+  "state": "current",
+  "label": "She had the ring the whole time",
+  "field": "Key Arcs",
+  "from": "Held the question from Arc 7 to Arc 11",
+  "to": "Commissioned the ring in Arc 7 and carried it four arcs",
+  "note": "Harley and her parents were part of a government black-ops programme; she was trained from childhood and ranked among the top child assassins. Then she got a little freedom, explored the facility, overheard something, and was dropped at St. Jonah's under one word: FAILED. Assigned 00-101, directly after Evie's 00-100.\n\nShe escaped years later after the heebie-jeebies from EDEN, lived off-grid, and was found by Ragnar and James after they watched her kill one of the Hounds they were tracking. In Arc 4 she got tangled in construction rope on the Ghost Haven build and discovered her entire sexuality. In Arc 7's WINTER STORM she worked as a field surgeon in the dark — and asked Bryn for a ring. She then carried it, finished, for four arcs, unable to make her mouth work.",
+  "links": [
+    "yvaine-calder",
+    "bryn-eriksson",
+    "evie-emberose",
+    "4",
+    "11"
+  ]
+}

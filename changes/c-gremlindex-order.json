@@ -1,0 +1,21 @@
+{
+  "id": "c-gremlindex-order",
+  "kind": "change",
+  "subject": "gremlindex",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The tail queues at the end",
+  "field": "Gremlindex · numbering",
+  "from": "Numbering blocked — the Archive assumed ten unwritten women would displace every number after them",
+  "to": "084 IS THE END OF THE COUNT. RIVEN AND HEATHER ARE THE TAIL. LATER ADOPTIONS TAKE THE NEXT NUMBERS.",
+  "note": "THE ARCHIVE CALLED THIS A BLOCKER AND IT IS NOT ONE. It reasoned that global adoption order meant an unfiled adoption would shift every number after it — true only if those women adopted EARLY. THEY DO NOT. RIVEN AND HEATHER, ARC 15, ARE THE CURRENT TAIL, and every woman adopted after them takes the next sequential number. THE TEN UNWRITTEN BANSHEE WOMEN QUEUE AT THE END AND DISPLACE NOBODY.\n\nSO THE EXISTING 74 CAN BE NUMBERED NOW.\n\nAND THERE IS A REAL OBSTACLE, WHICH IS A DIFFERENT ONE. ARC ALONE DOES NOT PRODUCE A SEQUENCE. Every woman carries an arcAdopted and not one is missing — but TEN ARCS ADOPTED MORE THAN TWO WOMEN AT ONCE and the order inside those arcs is nowhere in the record: Arc 1 (7) · Arc 2 (5) · Arc 3 (4) · Arc 9 (6) · Arc 10 (6) · Arc 11 (9) · Arc 12 (15) · Arc 13 (6) · Arc 14 (4) · Arc 15 (4).\n\nARC 12 ALONE IS FIFTEEN WOMEN IN ONE UNORDERED BLOCK. Arcs are a coarse sort; they fix the blocks and not the seats inside them. SEE q-gremlindex-ties — the Archive is not inventing an order for sixty-six of seventy-four women.",
+  "links": [
+    "gremlindex",
+    "ghost-haven",
+    "specter-haven",
+    "banshee-haven"
+  ]
+}

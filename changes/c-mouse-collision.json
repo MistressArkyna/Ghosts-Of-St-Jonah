@@ -1,0 +1,21 @@
+{
+  "id": "c-mouse-collision",
+  "kind": "change",
+  "subject": "torie-eriksson",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Torie is not Mouse. Mouse is Ophelia",
+  "field": "What Bryn calls her",
+  "from": "The Archive had Bryn calling Torie MOUSE, repeatedly, across an entire afternoon",
+  "to": "BRAT QUEEN (title) · TORIE (name) · MINX (nickname). MOUSE BELONGS TO OPHELIA CROFT",
+  "note": "A NAME COLLISION ACROSS TWO HOUSES, AND THE ARCHIVE RAN IT INTO THE GROUND BEFORE ANYBODY STOPPED IT — eight or nine uses in a single scene, in Bryn's mouth, none of them right.\n\nBRYN HAS EXACTLY THREE FORMS FOR HER WIFE. BRAT QUEEN is the title. TORIE is the name. MINX is the nickname, and it is the warm one. Full-name GWENDOLYN-register for Bryn is VICTORIA, and that is a separate instrument with its own threshold.\n\nMOUSE IS OPHELIA CROFT'S, over in Specter Haven — Zelda's wife, the speedrunner, the woman who actually gets called that. It is hers and the Archive handed it to somebody in another building.\n\nTHE FAILURE IS WORTH NAMING PRECISELY: this is not a fact the Archive got wrong, it is a WORD IT LIKED. It found a soft affectionate two-syllable noun, decided it suited the marriage, and used it forty times without once checking whether it was already assigned. Endearments are owned. Check the owner before you spend one.",
+  "links": [
+    "torie-eriksson",
+    "bryn-eriksson",
+    "ophelia-croft",
+    "zelda-hale"
+  ]
+}

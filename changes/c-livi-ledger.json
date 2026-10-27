@@ -1,0 +1,18 @@
+{
+  "id": "c-livi-ledger",
+  "kind": "change",
+  "subject": "livi-stewart",
+  "subjectKind": "girl",
+  "arc": 0,
+  "state": "current",
+  "label": "The ledger of names",
+  "field": "Important Possessions",
+  "from": "Journals of lost numbers",
+  "to": "A notebook of REAL NAMES — crossed out, and rewritten",
+  "note": "Inside, Livi kept a book of every boy she could not save, written under their REAL NAMES rather than their flight IDs, in a place whose entire method was replacing people with numbers. Every crossing-out took a piece of her. She still has it, and it is now mostly REWRITES — boys she knew inside, beside the names they chose after. She is the first person every new survivor meets: she takes their story and asks for their new name so she can change the ledger.\n\nThe Ghost Haven library entry calls them the journals of LOST NUMBERS. They were never numbers. That is the entire point of them.",
+  "links": [
+    "gh-library",
+    "the-ghosts",
+    "st-jonahs"
+  ]
+}

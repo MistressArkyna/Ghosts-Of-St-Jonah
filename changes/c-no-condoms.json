@@ -1,0 +1,22 @@
+{
+  "id": "c-no-condoms",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "There have never been condoms",
+  "field": "Supplies",
+  "from": "Condoms, invented by the Archive inside a joke it also invented",
+  "to": "NONE. EVER. Lube, six gallons a day, bought by the drum",
+  "note": "THE ARCHIVE MADE ONE UP AND IT DID NOT SURVIVE THE HOUR. Writing the camping prep, it put a line in Torie's mouth about a packing list reading FORTY-ONE CONDOMS AND A WILL. The joke was invented whole — no source, no beat behind it, nothing but a plausible-sounding shape — and Viraena struck it down at the table the moment she read it.\n\nTHE FAMILY HAS NEVER USED A CONDOM. Not on any trip, not in any house, not once. The largest condom manufactured fits SIX INCHES; Ivy, who carries the smallest cock on the compound at 7.0\", clears it by an inch. The product does not exist in a size any woman here could use, and nothing in this house is done for prevention in the first place.\n\nWHAT THE SENTENCE SHOULD HAVE SAID is lube. A week off-property needs A WEEK'S SUPPLY, and the daily figure is six gallons.\n\nFILED AS THE SAME CLASS OF ERROR AS c-universe-four: the Archive assembled a category that sounded right and then furnished it. It has now done this twice in one week, both times inside a joke, which is where it seems to happen.",
+  "links": [
+    "lube-economy",
+    "ivy-emberose",
+    "torie-eriksson",
+    "c-universe-four",
+    "ghost-haven"
+  ]
+}

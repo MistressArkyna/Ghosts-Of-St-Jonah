@@ -1,0 +1,18 @@
+{
+  "id": "c-livi-sold",
+  "kind": "change",
+  "subject": "livi-stewart",
+  "subjectKind": "girl",
+  "arc": 0,
+  "state": "historical",
+  "label": "A priest sold her",
+  "field": "Origin",
+  "from": "Orphan",
+  "to": "Sold to St. Jonah's for defending the boys smaller than her",
+  "note": "The priest who ran her orphanage abused the boys younger than Livi and left her alone because he knew she would fight back. She got in his way, repeatedly, loudly — so he sold her. Her dream out of that was to become a PRIESTESS with a flock, running an orphanage done properly, teaching the children to box in case she was ever not in the room. RUN, NOVA. WE'LL BE HERE IN CASE is the same sentence she has been saying her whole life.",
+  "links": [
+    "st-jonahs",
+    "nova-bennet",
+    "bryn-eriksson"
+  ]
+}

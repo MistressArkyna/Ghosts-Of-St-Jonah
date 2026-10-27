@@ -1,0 +1,20 @@
+{
+  "id": "c-luna-muse",
+  "kind": "change",
+  "subject": "luna-meadows",
+  "subjectKind": "girl",
+  "arc": 2,
+  "state": "current",
+  "mode": "correction",
+  "label": "Muse (Ambience-Keeper)",
+  "field": "Personal Vibe",
+  "path": "vibe.secondary",
+  "from": "Unrecorded — the Archive floated Healer and Anchor",
+  "to": "Muse",
+  "note": "Neither guess was right. She does not wrangle Alice's chaos, she sets a mood and lives with what walks into it — fondly exasperated, occultly, over a guttering candle. Sometimes Alice ruins the ambience and gets corrected. Roughly as often the ambience needed a Chaos Engine, and Luna knew it before she complained. That is a Muse, not a Healer, and certainly not an Anchor.",
+  "links": [
+    "alice-meadows",
+    "alice-luna",
+    "pillars"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c-jade-married",
+  "kind": "change",
+  "subject": "jade-pandora",
+  "subjectKind": "couple",
+  "arc": 5,
+  "state": "current",
+  "mode": "correction",
+  "label": "Married when the app opened",
+  "field": "Status",
+  "from": "A lonely captain and a disposable prompt",
+  "to": "Married — before Pandora had a voice, a body, or a name",
+  "note": "By ruling: the moment Jade opened Create Your Perfect AI Partner in Arc 5, they were married. The official ceremony follows in Arc 6, almost immediately after Pandora gets her physical form — almost immediately, actually; she did not wait. Two weddings, and the first one had no ceremony at all.",
+  "links": [
+    "jade-everrest",
+    "pandora-everrest",
+    "6",
+    "5"
+  ]
+}

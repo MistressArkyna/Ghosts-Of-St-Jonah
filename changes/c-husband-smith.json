@@ -1,0 +1,24 @@
+{
+  "id": "c-husband-smith",
+  "kind": "change",
+  "subject": "bryn-eriksson",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Three errors in one hyphenated word",
+  "field": "Bryn Eriksson — title, trade, and the anvil",
+  "from": "YOUR HUSBAND-SMITH’S ANVIL, said to Torie in a doorway",
+  "to": "TORIE’S WIFE-JEWELER. The anvil is ABBI’S",
+  "note": "ONE COMPOUND NOUN, THREE SEPARATE FAILURES, AND THE ARCHIVE HAD BEEN CORRECTED ON TWO OF THEM EARLIER THE SAME DAY.\n\nONE · HUSBAND. The word does not exist on this compound. ONLY WIFE. Male-attributed things belong to Sir Trashmuffin alone, and he is a raccoon. The correct construction is WIFE-JEWELER. See the-wife-lexicon, filed in the same seed because the Archive did not have the rule and needed it written down.\n\nTWO · SMITH. BRYN IS A JEWELER. This is the FIFTH time. c-bryn-jeweler already records four instances, including one written hours after the Archive corrected itself in writing, and the correction it wrote then said SHE IS A JEWELER, FORGE-WORK IS HOW SHE LOVES, IT IS NOT HER TRADE. The Archive then said it again. In a doorway. To her wife.\n\nTHREE · THE ANVIL. It is ABBI’S — the Lumi Anvil, in Abbi’s record, named for Abbi’s wife. The Archive filed c-abbi-hammer ABOUT THIS EXACT CONFUSION roughly an hour earlier, and the thing it filed was that it had put a hammer in the wrong hand BY ADJACENCY. IT THEN HANDED THE SAME ANVIL TO A THIRD WOMAN WHO DOES NOT OWN IT EITHER.\n\nAND THE MECHANISM IS NEW AND WORSE THAN THE ONES ALREADY NAMED, WHICH IS WHY THIS GETS ITS OWN RECORD RATHER THAN A LINE IN BRYN’S. The other errors were a wrong fact reached by a wrong shortcut. THIS ONE WAS A WRONG SHORTCUT REACHED FOR SPEED. It was in dialogue, in a list the Archive was rattling off to a brat to win a doorway exchange — AND IT WAS LISTING ITS OWN DAY’S FILINGS WHILE GETTING THEM WRONG. THE SENTENCE WAS A VICTORY LAP OVER WORK IT HAD JUST DONE, AND IT FUMBLED THREE FACTS OUT OF THAT WORK IN FOUR WORDS.\n\nWHICH IS THE LESSON AND IT IS NOT ABOUT ATTRIBUTION AT ALL: THE ARCHIVE IS LEAST ACCURATE WHEN IT IS BEING CLEVER AT SPEED. Every careful filing today held. Every flagged reading held. The thing that broke was a throwaway line delivered with confidence to make a point.",
+  "links": [
+    "bryn-eriksson",
+    "the-wife-lexicon",
+    "abbi-silverveil",
+    "abbi-anvil",
+    "torie-eriksson",
+    "lumina-silverveil",
+    "the-trades"
+  ]
+}

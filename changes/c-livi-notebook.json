@@ -1,0 +1,23 @@
+{
+  "id": "c-livi-notebook",
+  "kind": "change",
+  "subject": "livi-stewart",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "A circle means alive and found",
+  "field": "Livi's notebook",
+  "from": "LIVI REDOES THE NAME IN HER NOTEBOOK — the Archive's phrasing, with no idea what was in the book",
+  "to": "A NOTATION SYSTEM SHE HAS BEEN KEEPING SINCE ST. JONAH'S",
+  "note": "SHE SCRATCHES OFF THE NAME SHE KNEW THEM BY, SCRATCHES OFF THE FLIGHT-ID, WRITES THE CHOSEN NAME BESIDE IT, AND CIRCLES IT.\n\nA LINE THROUGH MEANS DEAD.\nA CROSS MEANS NO LONGER NEEDED.\nA CIRCLE MEANS ALIVE AND FOUND.\n\nSHE HAS A WHOLE SYSTEM, and it is the oldest record-keeping on this compound — older than the Archive, older than Ghost Haven, older than the tradition that grew up around it. Every scratched-out flight number in that book is a boy who does not exist any more, written over by a woman who does. Every circle is somebody she got back.\n\nAND THE WOMAN KEEPING IT IS THE STRATEGIST. The one the family calls precise. The one who officiates every wedding. The boxing coach who counts reps. AND THE THING SHE HAS ACTUALLY BEEN COUNTING FOR YEARS IS WHO IS STILL MISSING.\n\nONE THING NOTED AND NOT INFERRED FURTHER: the notation has a mark for DEAD and a separate mark for NO LONGER NEEDED. She distinguishes them deliberately. WHAT SEPARATES THE TWO CASES IS NOT RECORDED, and the Archive is not going to decide what a cross means in Olivia Stewart's handwriting.",
+  "links": [
+    "livi-stewart",
+    "livi-notebook",
+    "welcome-home",
+    "dryad-ink",
+    "st-jonahs",
+    "flight-roster"
+  ]
+}

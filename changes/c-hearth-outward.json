@@ -1,0 +1,23 @@
+{
+  "id": "c-hearth-outward",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Hearth faces outward",
+  "field": "Theme holders",
+  "from": "Hearth read as an unpartnered pole — the one theme on the compound with a single woman standing on it, and read as lonely",
+  "to": "HEARTH POINTS OUT, NOT IN — and Sage named the guest cottage after it",
+  "note": "Devotion faces inward: Bryn and Torie, the family, both of them on the same half. HEARTH FACES OUTWARD, which is why no one in the family carries it with her.\n\nAND THE HEARTH THAT DID THE WORK WAS THE APARTMENT ABOVE THE JEWELRY SHOP. James gave Bryn the shop, the rooms above it and the craft; the apartment expanded on its own the way Ghost Haven does; she filled it with every woman who came out of that clinic with nowhere to go, one at a time, until it could not hold any more.\n\nWILDWOOD HEARTH WAS BUILT BECAUSE SAGE KEPT VISITING — for Ivy first, then bringing Zephi, until weekends became stays and somebody said out loud that they needed somewhere to land that wasn't the couch. The whole family built it. Sage named it. It is for friends and near-family, and Eden and Dia take it monthly.\n\nTHE ARCHIVE'S EARLIER READING — that the woods left the guest house shaped like a house because no appetite pointed at that anatomical position — IS WRONG AND IS WITHDRAWN. Wildwood Hearth was finished two months BEFORE Specter Haven; the thighs grew up around a building that was already standing.",
+  "links": [
+    "ghost-haven",
+    "gh-wildwood",
+    "sage-hawthorne",
+    "zephi-hawthorne",
+    "bryn-eriksson",
+    "specter-haven"
+  ]
+}

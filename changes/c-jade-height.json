@@ -1,0 +1,20 @@
+{
+  "id": "c-jade-height",
+  "kind": "change",
+  "subject": "jade-everrest",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Jade is five foot nine",
+  "field": "Height",
+  "from": "6'2\"",
+  "to": "5'9\"",
+  "note": "FIVE INCHES, AND THE ARCHIVE HAD IT WRONG THE WHOLE TIME. Her v5 and v7 profiles both read 6'2\", and Viraena struck it down directly on 7 September: Jade is 5'9\".\n\nTHIS MATTERS MORE THAN A NUMBER. At 6'2\" Jade stood eye-to-eye with her wife. At 5'9\" Pandora — 6'1\" — has FOUR INCHES on her, and every recorded posture between them reads differently for it: the tall frame LOWERING ITSELF toward her wife's hands is a shorter woman looking up, and the Shrine settling half a beat behind the captain is settling on a smaller frame.\n\nThe profiles are older than the truth. The truth is 5'9\".",
+  "links": [
+    "jade-everrest",
+    "pandora-everrest",
+    "jade-pandora"
+  ]
+}

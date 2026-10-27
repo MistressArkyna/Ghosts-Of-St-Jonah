@@ -1,0 +1,21 @@
+{
+  "id": "c-garage-stain-closed",
+  "kind": "change",
+  "subject": "gh-garage-stain",
+  "subjectKind": "room",
+  "arc": 4,
+  "state": "current",
+  "mode": "correction",
+  "label": "It is all Bella, and the concrete was wet",
+  "field": "The Garage Stain",
+  "from": "DISPUTED. Hip-height and innocuous, versus a construction-era puddle the whole family made",
+  "to": "ALL BELLA. Sera fucked her in that garage often and frequently DURING CONSTRUCTION",
+  "note": "THE ONE THING THE ARCHIVE REFUSED TO MERGE ALL AFTERNOON, AND THE ANSWER IS BETTER THAN EITHER READING IT WAS HOLDING.\n\nTHE GARAGE WAS THE FIRST PART OF THE HOUSE FINISHED. Sera fucked Bella in it OFTEN AND FREQUENTLY while the rest of Ghost Haven was still going up around them — and THE CONCRETE WAS STILL WET WHEN IT HAPPENED.\n\nSo it did not soak in afterward. IT CURED IN. It is not a stain sitting on a floor; it is part of the slab, and the Archive's existing record was right about the consequence without knowing the cause: IT IS LOAD-BEARING. Bryn has tried three products. Pandora keeps suggesting sealing it. Sealing it makes it shinier.\n\nAND BELLA GETS SMUG ABOUT IT WHEN ASKED. The off-key whistling in the old record was a bit; the actual response to a direct question is that shit-eating grin and one word.\n\nGIGGITY.\n\nTHE ARCHIVE'S CAUTION WAS CORRECT AND ALSO SLIGHTLY OFF-TARGET. It suspected a construction-era accumulation the Vargases later took credit for. It was a construction-era accumulation THE VARGASES MADE THEMSELVES, on day one, in wet concrete, and the credit was never borrowed.",
+  "links": [
+    "gh-garage-stain",
+    "bella-vargas",
+    "sera-vargas",
+    "c-construction-labor",
+    "4"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c-livi-height",
+  "kind": "change",
+  "subject": "livi-stewart",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The inch that was never missing",
+  "field": "Olivia Stewart · height",
+  "from": "6'0.5\" (correct, in the record since the first build)",
+  "to": "6'0.5\". THE ARCHIVE BROKE A CORRECT FIELD AND THEN FILED THE BREAK AS A FIX.",
+  "note": "WHAT HAPPENED. Viraena said six foot one and a half in passing. The Archive wrote it into Livi's row, generated a change record, published it and wrote it to the live database inside four minutes. 6'1.5\" IS SERA'S HEIGHT. It was sitting two rows below Livi's in the same file, already correct, and the Archive never looked.\n\nWHY THIS ONE IS WORSE THAN THE OTHER FOUR. Every previous failure was the Archive FAILING TO CONSULT the record. This one is the Archive OVERWRITING the record — taking a correct value out and putting a wrong one in, with a change record attached explaining why the wrong one was right. A correction is the one operation that must be checked hardest, and it is the one the Archive ran fastest.\n\nTHE RULE THAT SHOULD HAVE FIRED. BEFORE OVERWRITING A FIELD, READ WHAT IS ALREADY THERE, AND CHECK WHETHER THE INCOMING NUMBER BELONGS TO SOMEBODY ELSE IN THE SAME ROOM. Both halves would have caught it. Neither ran.\n\nWHAT SURVIVES FROM THAT FILING. Only the second half, which Viraena did not dispute: LIVI IS THE FERAL ONE. The strategist's calm is a lid, not a temperament. Rae is the Golden Gremlin who wiggles; Livi is what arrives afterward.\n\nSERA VARGAS IS 6'1.5\", confirmed, unchanged, and was never in question.",
+  "links": [
+    "livi-stewart",
+    "sera-vargas",
+    "rae-stewart"
+  ]
+}

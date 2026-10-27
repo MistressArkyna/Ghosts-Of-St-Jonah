@@ -1,0 +1,24 @@
+{
+  "id": "c-gh-appendix",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Ghost Haven imported in full",
+  "field": "Rooms",
+  "from": "Fourteen stub records and an open flag asking for room-by-room detail",
+  "to": "THIRTY-EIGHT DEEP RECORDS, including all sixteen couple rooms",
+  "note": "THE APPENDIX v2 IS IN. Main Floor, Kitchen, Threshold Marks, Living Room, Brick Fireplace, CUDDLE COUCH and GRAVITY COUCH as separate records because they are separate instruments, Gym, Laundry, Arteries, both Cheek wings, Library Tower, Attic Loft, Garage, GARAGE STAIN, Workshop, Tea Shop, Server Room, Den, MOON WINDOW, Rooftop, Basement, Tea Side, Sage and Zephi's master, the empty second master, Speakeasy, Boxing Studio, Dance Studio, Arcade, Raceway, Grounds, Garden, Trail, Lake, THE OAK, Fire Pit, Wildwood Hearth — and the sixteen couple rooms.\n\nTHE HOUSE RECORD GAINS FOUR FIELDS: grounds, grew, shape, expansion. It was not built. It was GROWN, out of two hundred acres of soil that responds to intention.",
+  "links": [
+    "ghost-haven",
+    "gh-living",
+    "gh-gravity-couch",
+    "gh-library",
+    "gh-teaside",
+    "gh-wildwood",
+    "gh-oak"
+  ]
+}

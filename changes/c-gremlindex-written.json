@@ -1,0 +1,25 @@
+{
+  "id": "c-gremlindex-written",
+  "kind": "change",
+  "subject": "gremlindex",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "All seventy-four numbered",
+  "field": "Gremlindex · the roster",
+  "from": "Blocks firm, seats unknown. Sixty-six of seventy-four women in unordered arc blocks",
+  "to": "001 THROUGH 074 WRITTEN. NO GAPS, NO DUPLICATES.",
+  "note": "RULED BY VIRAENA AND WRITTEN INTO EVERY RECORD. Ghost Haven 001–032 · Specter Haven 033–060 · Banshee Haven 061–074, with 075–084 reserved for the ten unwritten Banshee women, who queue at the end. LEADING ZEROES ARE IMPLIED.\n\nVERIFIED: 74 numbered, zero duplicates, zero gaps, and every house block lands exactly on its stated range.\n\nTWO THINGS WORTH KEEPING IN THE FILE BECAUSE THEY WILL LOOK LIKE ERRORS LATER AND ARE NOT.\n\nONE — THE HOUSE BLOCKS ARE NOT STRICTLY ADOPTION-ORDERED INSIDE THEMSELVES. Katherine (035) and Wynter (036) were adopted in ARC 9, ahead of Lili (033) and Arianna (034) in ARC 10 — and they still sit behind them, because LILI AND ARIANNA ANCHOR SPECTER HAVEN AS ITS FOUNDERS and Katherine and Wynter MOVED there afterward. The number records where she belongs, then when she arrived. HOUSE FIRST, ARC SECOND.\n\nTWO — SEAT 016 IS THE ARCHIVE’S ONE INFERENCE AND IT WAS FORCED, NOT CHOSEN. The handed list named AKANE twice, once at 016 in Arc 3 and once at 025 in Arc 9, and named 73 women for 74 seats. Exactly one woman in the archive had no number: YVAINE CALDER — Arc 3, Ghost Haven, Harley’s wife, and Harley is 015. One free seat, one unplaced woman, and the two match on arc, house and marriage. The Archive assigned it and is saying so out loud. ONE WORD REVERSES IT.\n\nAND THE FILE FOUGHT BACK ON THE WAY IN. Five women would not take a number because STUB_EXTRA CARRIES DUPLICATE KEYS — yvaine-calder and pandora-everrest appear twice each, and in a JavaScript object literal the LAST one silently wins. Same defect already found on Ceri, whose entry carries CLAN twice. THE SOURCE HAS A CLASS OF SILENT OVERWRITE IN IT AND IT DESERVES A SWEEP.",
+  "links": [
+    "gremlindex",
+    "yvaine-calder",
+    "harley-calder",
+    "akane-yoshizawa",
+    "katherine-morrison",
+    "wynter-morrison",
+    "lili-seraphine",
+    "arianna-solene"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c-garage-first",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": 4,
+  "state": "current",
+  "label": "The woods had an opinion",
+  "field": "Construction Order",
+  "from": "A house shaped like Belladonna Vargas",
+  "to": "A verdict — and the Garage finished first",
+  "note": "The woods were saturated enough to FORM OPINIONS. They watched what Sera does every time Bella bends over a car, considered the matter, and concluded: OOH YES, WE SEE WHAT NEEDS TO BE DONE. That is why Ghost Haven took Bella's shape, and why THE GARAGE was the first room fully built — before bedrooms, before the kitchen. The house is a wingman. The workbench has history.",
+  "links": [
+    "bella-vargas",
+    "sera-vargas",
+    "gh-garage",
+    "sera-bella",
+    "4"
+  ]
+}

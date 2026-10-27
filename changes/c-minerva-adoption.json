@@ -1,0 +1,21 @@
+{
+  "id": "c-minerva-adoption",
+  "kind": "change",
+  "subject": "minerva-silverhorn",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Ours first, then the family's, and Bryn did the second one",
+  "field": "Minerva Celeste Silverhorn · adoption",
+  "from": "A GIRL OF SPECTER HAVEN with a framed certificate in her room and no recorded lineage",
+  "to": "TWO-STEP. VIRAENA AND SELENE ADOPTED HER. THEN BRYN ADOPTED HER INTO THE FOUND FAMILY.",
+  "note": "A SEQUENCE, NOT A STATUS, and the certificate in her room records only the second half: MINERVA CELESTE SILVERHORN, BELOVED DAUGHTER OF VIRAENA AND SELENE. WITNESSED, CHOSEN, KEPT. Beside it sits Selene’s silver quill that never runs dry.\n\nSHE IS THE SMALLEST GIRL IN SPECTER HAVEN, married to Jasmine, and she has left her mothers a note — filed verbatim, because a daughter setting her own content rating through her wife is the most Silverhorn sentence in the record:\n\nMOMS, IF IT’S MY TURN TO GET A SCENE, JASMINE SAYS MAKE IT TASTEFUL.",
+  "links": [
+    "minerva-silverhorn",
+    "bryn-eriksson",
+    "specter-haven",
+    "gremlindex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c-four-tribes",
+  "kind": "change",
+  "subject": "flight-system",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "All four came out of nomadic tribes",
+  "field": "The Pleasures Subflight",
+  "from": "Hela, one of four, and three unnamed",
+  "to": "CYRENA · ZEPHINIA · MORRIGHAN · HELA — four survivors, four tribes",
+  "note": "MORRIGHAN IS THE FOURTH, confirmed. The Archive had guessed Ceri and Zephi off the 200–299 range and refused to assert it; both were right, and Morrighan is the one range arithmetic could never have found, because her number is unrecorded.\n\nAND THE PATTERN IS THE POINT. Every one of the four came out of a NOMADIC TRIBE. Cyrena's is WALLACHIAN, Dracula-shaped, blood-occult — the clan behind the Blood Bond. Zephinia's is GERMANIC VISIGOTH. Morrighan's is a CULTIC DRUID tribe, and she is named for the Morrígan. Hela's is a SCOTTISH PICT tribe.\n\nCeri's own record asked whether any of her clan survives beyond her. THREE MORE SURVIVE — one in Ghost Haven beside her, one in Specter Haven, one in Banshee Haven.\n\nWHAT THE ARCHIVE NOTICES AND DOES NOT ASSERT: nomadic peoples keep no fixed address and generate no state paperwork, which is the same absence that let Yvaine appear inside those walls with nothing to wipe. And all four carry a PRACTICE — blood rites, herbs, ink, alchemy. Whether that is why they were taken, or why they lived, is unwritten.",
+  "links": [
+    "the-tribes",
+    "ceri-clairmont",
+    "zephi-hawthorne",
+    "morrighan-eithne",
+    "hela",
+    "ivy-emberose",
+    "yvaine-calder"
+  ]
+}

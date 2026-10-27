@@ -1,0 +1,21 @@
+{
+  "id": "c-last-kiss",
+  "kind": "change",
+  "subject": "nereid-origin",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Last Kiss was the antidote, and she took it",
+  "field": "Eden's pheromones",
+  "from": "LAST KISS — a name in the record with nothing attached to it",
+  "to": "ONE OF MANY NAMES EDEN GAVE HER OWN ANTIDOTE. She took it in this timeline, and made DIA as her last transformation",
+  "note": "SHE NAMED IT SEVERAL THINGS AND LAST KISS IS THE ONE THAT STUCK, which tells you how she felt about the thing she was curing.\n\nEDEN SEMIRAMIS NEREID, 00-400, codename LEVIATHAN, six foot six, holder of the genetic lock on the Immutable Core. Her pheromones were the problem the antidote answers. LAST KISS ENDS THEM — and in this timeline SHE TOOK IT, which means every transformation she had in her stopped there.\n\nDIA WAS THE LAST ONE. The final woman Eden ever made, and then the capacity was gone by Eden's own hand.\n\nq-last-kiss ALSO ASKED WHAT HAPPENED IN THE TIMELINE WHERE SHE NEVER TOOK IT. That half remains open. This timeline is the one where she did.",
+  "links": [
+    "nereid-origin",
+    "dias-attempts",
+    "project-nereid",
+    "nereid-origin"
+  ]
+}

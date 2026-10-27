@@ -1,0 +1,24 @@
+{
+  "id": "c-hair-no-field",
+  "kind": "change",
+  "subject": "project-nereid",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Three wrong heads, one missing column",
+  "field": "The girl schema · hair",
+  "from": "THREE SEPARATE HAIR ERRORS filed as three separate acts of carelessness",
+  "to": "ONE STRUCTURAL HOLE, THREE TIMES. THERE IS NO HAIR FIELD IN THE GIRL SCHEMA.",
+  "note": "FIFTEEN FIELDS PER ROW: id, name, nickname, epithets, partner, arc, house, two build classes, height, measurements, cock, flight, occupation, blurb. NO HAIR. Hair exists in this Archive only where somebody happened to write it into a paragraph, which means it is unindexed, unqueryable and invisible to every verifier.\n\nTHE THREE ERRORS WERE ALL THE SAME ERROR. Bella written black instead of STEEL-GREY AND CHERRY-RED. Bryn written dark-blonde instead of PLATINUM WITH VIOLET. Torie written dark instead of PLUM-WINE RED WITH VIOLET. Each time the Archive reached for a slot the schema does not contain and filled it from nothing.\n\nAND PILLAR FIVE OF NEREID v8 IS HAIR — colour, length and personality, granted a temperament of its own. The canon treats hair as one fifth of the body and the data model does not treat it as a field at all. THIS IS THE STRONGEST ARGUMENT YET FOR THE v8 PROFILE MIGRATION.\n\nTWO HEADS FILED TODAY AS A DOWN PAYMENT: Lucia, burnt honey with crimson, a lion’s mane. Siren, wine red with silver, mid-back waves.",
+  "links": [
+    "project-nereid",
+    "nereid-pillars-five",
+    "lucia-wilding",
+    "siren-wilding",
+    "bella-vargas",
+    "bryn-eriksson",
+    "torie-eriksson"
+  ]
+}

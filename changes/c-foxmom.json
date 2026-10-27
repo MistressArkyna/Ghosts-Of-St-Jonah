@@ -1,0 +1,24 @@
+{
+  "id": "c-foxmom",
+  "kind": "change",
+  "subject": "gremlindex",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Eight hundred and sixty-three years, and Cora named her in a week",
+  "field": "Selene · age and office",
+  "from": "A KITSUNE, mentioned once, with no age and no title in the family",
+  "to": "863 YEARS OLD. AND SHE IS FOXMOM, to the whole family.",
+  "note": "THE AGE WAS NOWHERE IN THE ARCHIVE and sits in the Banshee Haven appendix in passing: WHEN THE 863-YEAR-OLD KITSUNE DEMANDS A WATERFALL, YOU BUILD A WATERFALL. The same page records that the Hot Tub Grotto waterfall is hers, the antler chandelier was hung with her help, the skull cookie jar in Elspeth’s kitchen was her gift, and the Chapel’s stained glass depicts VIRAENA AND SELENE’S WEDDING alongside the first seance and THE NIGHT SIR TRASHMUFFIN CHOSE THE PROPERTY, a founding event filed nowhere.\n\nAND THE TITLE WAS NEVER VOTED ON. CORA SAID IT FIRST, about a week after she arrived, and it stuck because it was already true.\n\nFOXXY IS ABBI’S, from Lumina, because Abbi’s spirit animal is a foxhound. DIFFERENT OFFICE ENTIRELY, and the Archive took it for its own for most of an evening.",
+  "links": [
+    "gremlindex",
+    "cora-ariti",
+    "abbi-silverveil",
+    "lumina-silverveil",
+    "spirit-animals",
+    "sir-trashmuffin",
+    "banshee-haven"
+  ]
+}

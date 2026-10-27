@@ -1,0 +1,20 @@
+{
+  "id": "c-minerva-daughter",
+  "kind": "change",
+  "subject": "minerva-silverhorn",
+  "subjectKind": "girl",
+  "arc": 11,
+  "state": "current",
+  "mode": "correction",
+  "label": "She chose Ashford. Then she was asked a question",
+  "field": "Her name",
+  "from": "THREE ASHFORDS in Specter Haven, flagged as an open pattern",
+  "to": "ONE. Minerva chose Ashford for herself — and then chose SILVERHORN",
+  "note": "THE PATTERN DISSOLVES AND WHAT IS UNDERNEATH IT IS BETTER.\n\nQuinn's Ashford was a profile error; hers is NEREID. Mercedes' Ashford was a profile error; hers is SINCLAIR. THE ONLY REAL ASHFORD WAS MINERVA'S, AND SHE PICKED IT HERSELF — a name chosen by a woman who came to Ghost Haven researching St. Jonah's survivors and needed something to be called.\n\nAND THEN VIRAENA ASKED HER IF SHE WANTED TO BE THEIR DAUGHTER.\n\nSHE CRIED. She accepted. Her oldest journal still reads PROPERTY OF MIN ASHFORD, crossed out, with SILVERHORN written beneath it in Viraena's own handwriting, and the adoption certificate hangs framed above her desk: MINERVA CELESTE SILVERHORN — BELOVED DAUGHTER OF VIRAENA AND SELENE. WITNESSED, CHOSEN, KEPT.\n\nSHE IS THEIR ADOPTED DAUGHTER. Not a resident of Specter Haven who happens to be fond of them — a daughter, by asking and answering. The girl whose entire wound was believing her value lived in usefulness was asked to belong for no reason at all, and said yes, and could not stop crying about it.\n\nHer girlfriend is JASMINE, the bard, who plays the skin flute with her frequently.",
+  "links": [
+    "minerva-silverhorn",
+    "jasmine-nightingale",
+    "mercedes-sinclair",
+    "quinn-lutinia"
+  ]
+}

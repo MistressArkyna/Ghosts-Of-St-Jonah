@@ -1,0 +1,22 @@
+{
+  "id": "c-ghost-haven-grown",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": 4,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The woods overruled the blueprint",
+  "field": "Structure",
+  "from": "A sensible timber-framed manor, drawn by a jeweler",
+  "to": "A HOUSE SHAPED LIKE BELLADONNA VARGAS, grown by the land out of what kept happening on the frame",
+  "note": "Thirty-two pairs of hands built a proper manor. Then every couple broke in every room two or three times before the furniture arrived, and the Southern Woods soil responded to intention.\n\nBELLA BENT OVER A WORKBENCH AND SERA HAPPENED, and then Bella did it again, and then a hundred and ninety-two more times, and Sera answered every one. THE WOODS WATCHED AND GREW A HOUSE AROUND THE SHAPE OF IT over Bryn's tidy pencil lines. The Garage finished in an hour and the concrete cured suspiciously fast.\n\nTHAT IS NOT ARCHITECTURE, IT IS TESTIMONY. ONE HUNDRED AND NINETY-THREE TIMES somebody was wanted on that frame and somebody came running every time, and the land decided that was the true shape of the building.\n\nAND IT CAPPED. Sixteen couples, thirty-two girls. When the walls stopped shifting the family understood: not crowded. COMPLETE.\n\nTHERE IS NO DOOR-NAME because Torie tried to give it one and Bryn reached her first and made thinking optional for about an hour. Specter Haven is the only Haven with a nickname because of it.",
+  "links": [
+    "ghost-haven",
+    "bella-vargas",
+    "sera-vargas",
+    "bryn-eriksson",
+    "torie-eriksson",
+    "specter-haven"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c-meeting-halflife",
+  "kind": "change",
+  "subject": "meeting-rules",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Five minutes",
+  "field": "How long the rule holds",
+  "from": "No penetration for the duration of a house meeting",
+  "to": "NO PENETRATION FOR APPROXIMATELY FIVE MINUTES, and then the meeting continues around it",
+  "note": "THE ARCHIVE FILED THE RULE AN HOUR AGO AND WATCHED IT LAPSE IN THE SAME SCENE.\n\nEvery woman named complied instantly and completely — Pandora out of Jade, Sera out of Bella, Sage up off Zephi, on one sentence, no argument, no sulking. Five minutes later Pandora was rolling back into her wife, Sera was inside Bella and failing to keep it slow, Sage had gone back down and taken Zephi TO THE ROOT, and Siren — who had not been named, because she had not been doing anything — used the window to sink onto Lucia.\n\nNOBODY WAS NAMED TWICE. That is the part that matters and it is why this is a correction rather than a failure. The rule was never about abstinence; it is about whether a woman can stop on one word from Owlmom, and all three of them did, in front of thirty-one witnesses, without a beat of resistance. Having proved it, they went back to what they were doing, and the vote carried on over the top of them.\n\nTHE RULE IS HONOURED RATHER THAN OBEYED. File it that way.",
+  "links": [
+    "meeting-rules",
+    "pandora-everrest",
+    "jade-everrest",
+    "sera-vargas",
+    "bella-vargas",
+    "sage-hawthorne",
+    "zephi-hawthorne",
+    "siren-wilding",
+    "lucia-wilding"
+  ]
+}

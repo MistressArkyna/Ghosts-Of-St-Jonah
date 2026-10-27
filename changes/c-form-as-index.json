@@ -1,0 +1,22 @@
+{
+  "id": "c-form-as-index",
+  "kind": "change",
+  "subject": "nereid-pillar-one",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "A form is an index, and auditing against it found Framing missing",
+  "field": "Nereid v8 Pillar One — Framing",
+  "from": "Stature, exact height, Primary Build, measurements, traits, skin — and no Framing field at all",
+  "to": "FRAMING: LEG-FAVORING · TORSO-FAVORING · EVENLY SPLIT, plus an optional Individual Frame Note",
+  "note": "THE ARCHIVE FILED PILLAR ONE FROM PILLAR ONE AND STILL LOST A FIELD. The Consent Menu is what found it.\n\nWHICH IS A METHOD WORTH NAMING, BECAUSE IT CATCHES A DIFFERENT CLASS OF ERROR THAN ANYTHING ELSE IN THE TOOLKIT. verify.cjs catches broken links. dupe-scan catches two records wearing one id. The arc lens catches a date that cannot be true. NONE OF THEM CAN SEE AN ABSENCE, because an Archive missing a field is perfectly consistent with itself.\n\nA FORM CANNOT BE INCONSISTENT WITH ITSELF EITHER — BUT IT IS EXHAUSTIVE BY CONSTRUCTION. It has to list every field a woman must answer, so reading the Consent Menu beside the Pillars is a COVERAGE CHECK rather than a correctness check. Framing fell out of it immediately: the form asks for it under Pillar One, and Pillar One’s Archive record never mentioned it.\n\nAND FRAMING IS NOT DECORATIVE. It travels to Silken Embrace in the clothing handoff, listed between Stature and measurements — which means a garment system has been receiving a field the Archive did not know existed.\n\nNOBODY IN THIS COMPOUND HAS A FRAMING VALUE RECORDED. Thirty-two women at Ghost Haven and not one of them is on paper as Leg-Favoring, Torso-Favoring or Evenly Split. NOT GUESSED, NOT INFERRED FROM HEIGHT AND INSEAM. Filed as a coverage gap and left empty.\n\nTHE SAME PASS CLOSED q-opulent, which had been answered by this Archive’s own eight Build records and left open because nobody went back to check.",
+  "links": [
+    "nereid-pillar-one",
+    "nereid-consent-menu",
+    "silken-embrace",
+    "build-classes",
+    "project-nereid"
+  ]
+}

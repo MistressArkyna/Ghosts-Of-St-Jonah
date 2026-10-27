@@ -1,0 +1,28 @@
+{
+  "id": "c-horni-seven",
+  "kind": "change",
+  "subject": "horni-fleet",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Seven women built the navy",
+  "field": "Who made the H.O.R.N.I. Fleet",
+  "from": "Pandora's project, with art commissioned from Cora and blanket styles specified by Yvaine",
+  "to": "A JOINT OPERATION OF SEVEN, each on her own trade",
+  "note": "THE ARCHIVE FILED THE FLEET AS ONE WOMAN'S HOBBY WITH TWO CONTRACTORS, AND IT WAS THE HOUSE BUILDING SOMETHING TOGETHER.\n\nPANDORA — the code. EVIE — the electrical. BRYN — the construction. ABBI — every metal piece on every hull. CORA — the art. YVAINE — the blankets and the heating-pad covers. ALICE — the drinks and snacks menus.\n\nREAD THAT LAST ONE AGAIN. Alice Meadows wrote the menus, which means the woman who plates a smaller portion for the raccoon at every meal is also the woman who decided what a wrecked girl gets offered at two in the morning. That is not a decorative credit. THE COOLING BAY IS THE MEDICINE, and Alice chose what goes in it.\n\nAND THE HULL NAMES RESOLVE. CONSIDERABLE GIRTH, SPARKLE TITS, STRADDLE RIDE, BOOTY QUEEN — Straddle Ride, not Riding Queen, which was the Archive mishearing a name and then filing an open question about a collision it had manufactured itself.\n\nTHE PINUPS ARE THE LABELS. Each one shows what the boat is: Sparkle Tits pushed up and glittered; CONSIDERABLE GIRTH MODELLED ON LUNA; BOOTY QUEEN MODELLED ON BELLA; and STRADDLE RIDE IS JADE OR ABBI DEPENDING ON WHICH WAY YOU VIEW HER, because Cora built one piece that resolves two ways and has never told anybody which was intended.",
+  "links": [
+    "horni-fleet",
+    "pandora-everrest",
+    "evie-emberose",
+    "bryn-eriksson",
+    "abbi-silverveil",
+    "cora-ariti",
+    "yvaine-calder",
+    "alice-meadows",
+    "luna-meadows",
+    "bella-vargas",
+    "jade-everrest"
+  ]
+}

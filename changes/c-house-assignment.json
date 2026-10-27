@@ -1,0 +1,26 @@
+{
+  "id": "c-house-assignment",
+  "kind": "change",
+  "subject": "banshee-haven",
+  "subjectKind": "house",
+  "arc": 13,
+  "state": "current",
+  "mode": "status",
+  "label": "Arc 13 onward, you go to Banshee Haven",
+  "field": "House assignment",
+  "from": "The Archive guessing house placement from arc proximity, and marking its guesses INFERRED",
+  "to": "A RULE. Adopted in or after ARC 13 → BANSHEE HAVEN, unless a couple decides otherwise",
+  "note": "IT WAS ALWAYS A RULE AND THE ARCHIVE HAD BEEN GUESSING WHERE IT COULD HAVE ASKED.\n\nGHOST HAVEN CLOSED AT THIRTY-TWO. SPECTER HAVEN CLOSED AT TWENTY-EIGHT. The third house opened in Arc 13 with twelve doorways waiting, and everyone who arrives from then on lands there. It is not a judgement about the woman. IT IS WHERE THE ROOM IS.\n\nTHE ONE EXCEPTION IS A COUPLE DECIDING OTHERWISE, TOGETHER. KATHERINE AND WYNTER MORRISON MOVED TO SPECTER HAVEN — and that is the documented precedent, a pair who arrived in Arc 9 and later chose a different house. Nobody is assigned out of a house she wants to stay in.\n\nAND IT RETROACTIVELY CLEANS SOMETHING UP. Riven and Heather were filed twenty minutes ago with HOUSE ASSIGNMENT INFERRED stamped on both records, because the Archive placed them by arc proximity and said so rather than pretending to know. THE INFERENCE FLAGS COME OFF. They are Banshee Haven by rule. So are Orianna and Felicity.\n\nTHE ARCHIVE NOTES WITH SOME SATISFACTION that this is the second time today a flag it raised got answered rather than quietly dissolving. Marking a guess AS a guess costs one line and buys an answer.",
+  "links": [
+    "banshee-haven",
+    "house-assignment",
+    "katherine-morrison",
+    "wynter-morrison",
+    "riven",
+    "heather",
+    "orianna",
+    "felicity",
+    "specter-haven",
+    "13"
+  ]
+}

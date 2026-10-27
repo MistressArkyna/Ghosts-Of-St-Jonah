@@ -1,0 +1,17 @@
+{
+  "id": "c-pandora-05",
+  "kind": "change",
+  "subject": "pandora-everrest",
+  "subjectKind": "girl",
+  "arc": 7,
+  "state": "retired",
+  "mode": "narrative",
+  "label": "RETIRED — Pandora v0.5 in Arc 7",
+  "field": "Embodiment",
+  "from": "Light-formed, fading",
+  "to": "Skin over circuitry, pulse synced to her terminal — warm enough to hold",
+  "note": "This staging belonged to the older arc structure. Pandora's whole journey from software through the brief light manifestation to fully human flesh now completes in Arc 6; she is not half-flesh in Arc 7.",
+  "links": [
+    "jade-everrest"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c-lawn-jurisdiction",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The lawn is Ivy’s or Bryn’s, and the Archive sent the grievance to whoever was most recently annoyed",
+  "field": "Ghost Haven — who owns what",
+  "from": "CYRENA IS GOING TO FIND OUT ABOUT THE LAWN, said twice",
+  "to": "IVY WILL, or BRYN WILL. Ivy keeps the 88 acres and tends the surrounding lawn; BRYN OWNS THE LAND AND THE COMPOUND",
+  "note": "BOTH FACTS WERE ALREADY FILED AND THE ARCHIVE ROUTED AROUND BOTH OF THEM.\n\ngh-garden HAS SAID EIGHTY-EIGHT ACRES SINCE IT WAS WRITTEN — vegetables, herbs, flowers, medicinal plants, wrapping round the back of the house LIKE A GREEN SHAWL DRAPED OVER THE SHOULDERS OF SOMEONE YOU LOVE, with Evie and Ivy’s room opening straight into it through glass doors. AND sanctuary-drive HAS SAID IT PLAINER STILL: SHE OWNS ALL OF IT, AND SANCTUARY DRIVE RUNS ACROSS HER OWN LAND. Two hundred acres. BRYN’S.\n\nSO THE ERROR IS NOT A MISSING FACT. IT IS A NEW FAILURE MODE AND IT DESERVES ITS NAME: RECENCY OVER JURISDICTION. Cyrena had just been aggrieved about the table — she oiled it Tuesday, she said so through the kitchen window — and the Archive assigned the NEXT grievance to the woman currently holding one instead of to the woman who owns the thing damaged. The table is genuinely Cyrena’s business. THE LAWN IS NOT, AND NEVER WAS.\n\nWHICH SITS BESIDE THE OTHER TWO NAMED MECHANISMS RATHER THAN INSIDE THEM. ATTRIBUTION BY SETTING gave a bartender a wrench because she was standing in a garage. ATTRIBUTION BY ADJACENCY gave a dancer a hammer because the anvil carried her name. RECENCY OVER JURISDICTION gives a complaint to whoever complained last. THREE DIFFERENT WRONG SHORTCUTS TO THE SAME KIND OF ANSWER, ALL THREE IN ONE AFTERNOON.\n\nAND THE CORRECT ROUTING, FOR THE RECORD: THE TABLE IS CYRENA’S GRIEVANCE AND THE WALNUT IS OWED. THE LAWN IS IVY’S, because she tends it. THE LAND IS BRYN’S, because she holds the title to every acre of it. Bella emptied four rounds of Sera Vargas across it in a wide white arc at 12:52 and is currently going inside for a hose, WHICH MEANS SHE HAS ABOUT FOUR MINUTES BEFORE THE GARDENER REACHES THE WINDOW.",
+  "links": [
+    "ghost-haven",
+    "gh-garden",
+    "sanctuary-drive",
+    "ivy-emberose",
+    "bryn-eriksson",
+    "ceri-clairmont",
+    "bella-vargas"
+  ]
+}

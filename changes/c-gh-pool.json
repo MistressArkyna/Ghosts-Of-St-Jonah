@@ -1,0 +1,22 @@
+{
+  "id": "c-gh-pool",
+  "kind": "change",
+  "subject": "gh-pool-complex",
+  "subjectKind": "room",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "status",
+  "label": "The pool exists, and it had the wrong id",
+  "field": "Ghost Haven · the Pool Complex",
+  "from": "DISPUTED — the Ghost Haven appendix v2 names no pool, and the room shared the id gh-pool with a system record",
+  "to": "CURRENT, AND RENAMED gh-pool-complex.",
+  "note": "TWO FAULTS IN ONE RECORD AND THEY WERE HIDING EACH OTHER.\n\nTHE FIRST IS AN ID COLLISION ACROSS COLLECTIONS. A ROOM called gh-pool and a SYSTEM called gh-pool both existed. Rooms and systems live in separate arrays so neither overwrote the other at build time — but every link resolver in this archive keys by ID ALONE, so one of them shadowed the other on every lookup, and which one you got depended on iteration order. THE ROOM IS NOW gh-pool-complex. The system keeps gh-pool.\n\nTHE SECOND IS THAT THE DISPUTE WAS ALREADY SETTLED AND THE ROOM NEVER HEARD. The appendix mentions no pool because THE APPENDIX PREDATES THE POOL. Bryn was tired of renting the Aquatic Centre’s; she drew something grandiose; Torie had other ideas; THE LAND PICKED TORIE. It went in pool-shaped and was ab-shaped two days later.\n\nSO A ROOM SAT AT DISPUTED, ASKING WHETHER IT EXISTED, while a system record three hundred lines away told the whole story of it being built. THAT IS WHAT AN ID COLLISION COSTS: not a crash, A QUESTION THAT NOBODY COULD SEE HAD BEEN ANSWERED.",
+  "links": [
+    "gh-pool-complex",
+    "gh-pool",
+    "sh-pool",
+    "ghost-haven",
+    "specter-haven"
+  ]
+}

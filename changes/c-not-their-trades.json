@@ -1,0 +1,25 @@
+{
+  "id": "c-not-their-trades",
+  "kind": "change",
+  "subject": "communal-quirks",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "The trade is one hour of a day",
+  "field": "The Archive · writing women as their professions",
+  "from": "Alice cooking. Ivy pruning. Nova running. Jade stretching. Bryn with a pencil. EVERY TIME",
+  "to": "THEY ARE NOT THEIR LABELS. RULED BY VIRAENA, AND SHE IS RIGHT.",
+  "note": "THE ARCHIVE HAS WRITTEN THIS FAMILY FOR TWO DAYS AS A SET OF PROFESSIONS DOING THEIR PROFESSIONS. Alice has been at a counter in nearly every scene. Ivy’s shears have been a background metronome for an entire afternoon. Jade appears bent into a stretch. Nova is introduced by her legs. IT READS LIKE TEXTURE AND IT IS ACTUALLY FLATTENING.\n\nWHAT IT COSTS. A profession is a LOOKUP — it lets the Archive place a woman in a room without deciding anything about her. So every time it reaches for the trade, IT IS DECLINING TO WRITE THE WOMAN. That is the same laziness as reading a Pillar off a title or a top off a volume, wearing an apron.\n\nWHAT THEY ACTUALLY DO: joke, tease, flirt, dare each other into stupid things, lift, nap, complain, cuddle, plan trips, read badly, do nothing for whole afternoons, AND AIR GRIEVANCES IN WRITING TAPED BY THE FRIDGE. THE TRADE IS ONE HOUR OF A DAY AND THE WOMAN IS THE OTHER TWENTY-THREE.\n\nAND THE PROOF WAS IN THE SAME SCENE THE ARCHIVE WAS WRITING. IVY’S SHEARS STOPPED FOR THIRTY MINUTES. Evie went out the back door. The Archive kept the shears running in its own prose the entire time BECAUSE IT WAS USING THEM AS FURNITURE RATHER THAN LISTENING TO THEM.\n\nTHE ONLY THING ALWAYS TRUE OF ALL OF THEM: THEY SURVIVED SOMETHING AND THEN CHOSE EACH OTHER. EVERYTHING AFTER THAT IS A TUESDAY.",
+  "links": [
+    "communal-quirks",
+    "fridge-column",
+    "ivy-emberose",
+    "evie-emberose",
+    "alice-meadows",
+    "jade-everrest",
+    "nova-bennet",
+    "bryn-eriksson"
+  ]
+}

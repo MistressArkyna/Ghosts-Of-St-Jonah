@@ -1,0 +1,22 @@
+{
+  "id": "c-fridge-column",
+  "kind": "change",
+  "subject": "torie-eriksson",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Anonymous, in her own handwriting",
+  "field": "Victoria Eriksson · the column by the fridge",
+  "from": "THE ANONYMOUS COLUMNIST — filed as a pre-Jonah occupation, past tense",
+  "to": "SHE NEVER STOPPED. IT IS TAPED TO THE HALLWAY WALL BY THE FRIDGE.",
+  "note": "SHE WROTE ANONYMOUS COLUMNS BEFORE ST. JONAH’S AND THE ARCHIVE HAD THAT IN THE PAST TENSE. She still writes them. Household grievances, petty injustices, rulings she disagrees with — posted UNSIGNED beside the fridge where the whole compound walks past them with coffee.\n\nTHE ANONYMITY IS COMPLETELY FICTIONAL AND ABSOLUTELY REQUIRED. It is her handwriting. It is her vocabulary. It is frequently about her own wife. EVERY WOMAN IN THREE HAVENS KNOWS, AND NOT ONE HAS EVER SAID SO, because saying so would end it.\n\nSAME INSTINCT AS THE FEIGNED INNOCENCE ON THE BELLA CONFIGURATION: AN OFFER DRESSED AS AN ACCIDENT, AND BOTH SIDES AGREE TO PRETEND.\n\nAND IT IS WHERE THIS FAMILY ACTUALLY ARGUES. The board never assembles — the Archive established that this morning by failing three times to convene one. SO THE ARGUING HAPPENS IN EIGHT HUNDRED WORDS TAPED BY A FRIDGE, read over breakfast and settled by consensus while eating.\n\nTHE BRAT DID NOT GIVE UP HER TRADE. SHE MOVED IT INDOORS AND AIMED IT AT HER OWN HOUSEHOLD.",
+  "links": [
+    "torie-eriksson",
+    "fridge-column",
+    "bryn-eriksson",
+    "meeting-rules",
+    "communal-quirks"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c-lumina-cock",
+  "kind": "change",
+  "subject": "lumina-silverveil",
+  "subjectKind": "girl",
+  "arc": 6,
+  "state": "current",
+  "mode": "evolution",
+  "label": "Her chosen increase",
+  "field": "Cock Engine",
+  "path": "cock.specs",
+  "from": "9.2\" × 5.6\"",
+  "to": "10.2\" × 5.6\" · subtle upward curve · smooth heat, light side veining",
+  "note": "Lumina's authored increase to 10.2 stands independently of Abbi's measurement. The devotion ring at the base is unchanged; there is simply more of her for Abbi's hands to return to.",
+  "links": [
+    "abbi-silverveil",
+    "cock-standards",
+    "c-abbi-cock"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c-horni-solar",
+  "kind": "change",
+  "subject": "horni-fleet",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "draft",
+  "mode": "evolution",
+  "label": "A hull goes camping",
+  "field": "Off-grid capability",
+  "from": "Thirteen hulls, all of them plugged into a house",
+  "to": "A SOLAR CHARGING BAY, so one vessel can deploy to the ridge",
+  "note": "COMMISSIONED BY OWLMOM ACROSS A KITCHEN, TO PANDORA, WITH EVIE NAMED AS THE COLLABORATOR: build a solar-powered charging bay, because a H.O.R.N.I. vessel is coming on the camping trip.\n\nTHE PAIRING IS DELIBERATE. Pandora builds the thing; EVIE EMBEROSE is the one who knows what the sun does over the course of a day on ground nobody owns, which is the half of the problem that is not electronics.\n\nWHAT IT IS ACTUALLY FOR is the cooling bay. Everything else on a cart is comfort and would survive being warm; the electrolytes, the water and the tea are the MEDICINE, and a week on a ridge with thirty-four women and sixty gallons of lube is exactly the week you do not want that going without power.\n\nFILED AS DRAFT. It has been asked for, not built, and Thursday's drone test already owns Pandora's week.",
+  "links": [
+    "horni-fleet",
+    "pandora-everrest",
+    "evie-emberose",
+    "sleipnir",
+    "watch-drones"
+  ]
+}

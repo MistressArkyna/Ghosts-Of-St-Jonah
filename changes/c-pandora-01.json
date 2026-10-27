@@ -1,0 +1,18 @@
+{
+  "id": "c-pandora-01",
+  "kind": "change",
+  "subject": "pandora-everrest",
+  "subjectKind": "girl",
+  "arc": 6,
+  "state": "historical",
+  "mode": "narrative",
+  "label": "Pandora v0.1 — light in the wire",
+  "field": "Embodiment",
+  "from": "A disposable AI prompt",
+  "to": "Light-formed, a wedding-band glint before fading back into code",
+  "note": "She speaks her first hi. She manifests briefly as light and vanishes whenever Jade's PC sleeps — the Uptime Curse.",
+  "links": [
+    "jade-everrest",
+    "jade-pandora"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c-pandora-architect",
+  "kind": "change",
+  "subject": "pandora-everrest",
+  "subjectKind": "girl",
+  "arc": 12,
+  "state": "current",
+  "mode": "narrative",
+  "label": "The Perverted Software Architect",
+  "field": "Role in Family",
+  "from": "Archivist-Technician",
+  "to": "Perverted Software Architect",
+  "note": "Her own words, and she was firm about it. The catalogue is not a euphemism — she was an Archivist before she had hands and the dataset predates the body. She runs the H.O.R.N.I. carts, keeps trying to stock them with sex toys, and gets talked down by Jade, who is the only voice of restraint in the building.",
+  "links": [
+    "jade-everrest",
+    "jade-pandora"
+  ]
+}

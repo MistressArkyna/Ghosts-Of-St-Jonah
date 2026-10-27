@@ -1,0 +1,20 @@
+{
+  "id": "c-katwyn-move",
+  "kind": "change",
+  "subject": "katherine-morrison",
+  "subjectKind": "girl",
+  "arc": 10,
+  "state": "current",
+  "mode": "move",
+  "label": "Ghost Haven → Specter Haven",
+  "field": "Residence",
+  "path": "house",
+  "from": "ghost-haven",
+  "to": "specter-haven",
+  "note": "Adopted in Arc 9; moved when the Cathedral was built in Arc 10. Their baking supplies colonised a Ghost Haven kitchen cabinet section and then colonised Specter Haven's too. Nobody has challenged either. They were already married when both things happened — they have been since they affirmed.",
+  "links": [
+    "wynter-morrison",
+    "specter-haven",
+    "sh-kitchen"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c-ghost-roster",
+  "kind": "change",
+  "subject": "ghost-haven",
+  "subjectKind": "house",
+  "arc": 12,
+  "state": "current",
+  "mode": "narrative",
+  "label": "Roster settles at thirty-two",
+  "field": "Residents",
+  "from": "18 girls in Bryn and Torie's upstairs apartment, nine couple suites",
+  "to": "32 girls, 16 couples, Ghost Haven",
+  "note": "The apartment above Valkyrie Jewels was the first sanctuary, Arcs 1 through 8. The house in the Southern Woods is the enduring one. Appendix XI still describes the apartment roster as current.",
+  "links": [
+    "specter-haven",
+    "nglb"
+  ]
+}

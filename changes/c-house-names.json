@@ -1,0 +1,21 @@
+{
+  "id": "c-house-names",
+  "kind": "change",
+  "subject": "ceri-clairmont",
+  "subjectKind": "girl",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "mode": "correction",
+  "label": "Cyrena is Ceri; Destiny is Dessie",
+  "field": "Names",
+  "from": "Two unlinked names appearing in household conversation",
+  "to": "CYRENA CLAIRMONT is ceri-clairmont. DESTINY CLAIRMONT is dessie-clairmont. They are the main-floor couple",
+  "note": "CYRENA: carpenter and woodworker taught by her clan, archer, smug goth brat top who is loud in every room she enters. She is being called about the kitchen table.\n\nDESTINY: brat and stripper. THE POLE IN THE BASEMENT DANCE STUDIO IS HERS, mounted with hardware Abbi forged personally. Half the house uses it. On certain Friday nights the studio becomes a stage and the only rule is YOU HAVE TO CHEER.\n\nTheir room keeps a small knotted cord that is retied each month to mark a promise neither of them has ever explained to anyone.",
+  "links": [
+    "ceri-clairmont",
+    "dessie-clairmont",
+    "gh-rm-ceri-dessie",
+    "gh-dance"
+  ]
+}

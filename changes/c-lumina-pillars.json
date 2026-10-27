@@ -1,0 +1,30 @@
+{
+  "id": "c-lumina-pillars",
+  "kind": "change",
+  "subject": "lumina-silverveil",
+  "subjectKind": "girl",
+  "arc": 7,
+  "state": "current",
+  "mode": "correction",
+  "label": "Muse (Dancer) / Slut (Courtesan)",
+  "field": "Personal Vibe",
+  "path": "vibe",
+  "from": {
+    "primary": "Muse",
+    "primaryFlavor": "coaxing hunger",
+    "secondary": "Slut",
+    "secondaryFlavor": "dancer-shameless"
+  },
+  "to": {
+    "primary": "Muse",
+    "primaryFlavor": "Dancer",
+    "secondary": "Slut",
+    "secondaryFlavor": "Courtesan"
+  },
+  "note": "Named directly. The flavours the import guessed at were close but not hers; Dancer and Courtesan are. Dated to her arrival rather than the present, because this is who she has been the whole time.",
+  "links": [
+    "pillars",
+    "abbi-lumina",
+    "c-cock-rule-scope"
+  ]
+}

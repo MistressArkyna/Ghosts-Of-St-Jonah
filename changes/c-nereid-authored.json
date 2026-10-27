@@ -1,0 +1,19 @@
+{
+  "id": "c-nereid-authored",
+  "kind": "change",
+  "subject": "project-nereid",
+  "subjectKind": "system",
+  "arc": null,
+  "timeless": true,
+  "state": "current",
+  "label": "Nereid gets its author",
+  "field": "Origin",
+  "from": "Subject 00-400, Leviathan — modified by Dr. Hathaway to be consent-based",
+  "to": "CREATED by Dr. Marianne Hathaway, out of Leviathan, FOR Cassandra",
+  "note": "TIMELESS — no arc, in force at every lens position, because Nereid facts do not sit at a point in the story. Marianne Hathaway is the Dr. Hathaway the Archive already carried in three places without ever joining them up: the one who made Leviathan's pathogen consent-based, the one Abbi transitioned with, and — it turns out — the author of the whole thing. She built it for Cassandra, who became the first affirmed woman and then her wife. The Archive had the creator filed as a modifier of her own work.",
+  "links": [
+    "nereid-origin",
+    "abbi-silverveil",
+    "universal-traits"
+  ]
+}
