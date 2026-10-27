@@ -1,0 +1,16 @@
+{
+  "id": "gh-pool-complex",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Pool Complex",
+  "zone": "Grounds",
+  "state": "current",
+  "body": "ANSWERED, AND THE ROOM EXISTS. The Archive held this as DISPUTED because THE GHOST HAVEN APPENDIX v2 MENTIONS NO POOL ANYWHERE ON THE PROPERTY — true, and the appendix simply predates it. BRYN GOT TIRED OF RENTING THE AQUATIC CENTRE'S POOL and drew something grandiose; Torie had other ideas; THE LAND PICKED TORIE. Ragnar produced the excavators, as he did in Arc 4, and the family built the pool house and the poolside bar above the dirt themselves.\n\nIT WENT IN POOL-SHAPED AND WAS AB-SHAPED TWO DAYS LATER. See gh-pool, the system record, for the whole story and for what Torie did about Bryn's six-pack.\n\nSPECTER HAVEN HAS ITS OWN, reached by the waterproof staircase, and that was never in question.",
+  "seeAlso": [
+    "gh-pool",
+    "sh-pool",
+    "ghost-haven",
+    "bryn-eriksson",
+    "torie-eriksson"
+  ]
+}

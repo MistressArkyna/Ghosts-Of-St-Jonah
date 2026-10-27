@@ -1,0 +1,13 @@
+{
+  "id": "gh-rm-akane-gwen",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Akane & Gwen's Room",
+  "zone": "Right Cheek",
+  "state": "current",
+  "body": "Near the Tea Shop, their tatami room unfolds with sliding panels and ritual precision. One side hosts training mats and a blade rack polished until the steel gleams. The other holds a low table and tea set for quiet recovery.\n\nAkane's incense and Gwen's armour polish sit side by side, their scents strangely harmonising into something that smells like DISCIPLINE SOFTENED BY DEVOTION. After practice Gwen sits cross-legged while Akane pours — sweat and serenity blending into ritual.\n\nDesigned for practice, ceremony, and the slow deliberate restoration of two women who learned that stillness can be love.",
+  "residents": [
+    "Akane & Gwen"
+  ],
+  "depth": "deep"
+}

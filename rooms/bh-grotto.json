@@ -1,0 +1,13 @@
+{
+  "id": "bh-grotto",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Hot Tub Grotto",
+  "zone": "Underground Midriff — beneath the space between",
+  "state": "current",
+  "body": "WARM WATER IN THE BELLY OF THE EARTH. Steam, moody lighting, built-in bench seating, floating snack trays (Elspeth insisted), and A WATERFALL SELENE DEMANDED AND NOBODY QUESTIONED, because when the eight-hundred-and-sixty-three-year-old kitsune demands a waterfall, you build a waterfall.\n\nThe ceiling is low, curved, WOMB-LIKE, and a single skylight shows a disc of sky through the earth — moon or sun or cloud — a reminder that the surface exists even when you are deep enough to forget.\n\nTHE STEAM RISES THROUGH VENTS THAT FEED THE GREENHOUSE ABOVE, which means the plants are watered by the same warm mist that carries the sound of girls laughing and sighing and confessing things they would never say dry.\n\nWaterproof lingerie is mandatory. Selene's rule: BIKINIS WITH STOCKINGS COUNT. Viraena's response: GOOD.",
+  "seeAlso": [
+    "bh-greenhouse"
+  ],
+  "depth": "deep"
+}

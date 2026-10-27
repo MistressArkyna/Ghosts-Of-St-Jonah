@@ -1,0 +1,10 @@
+{
+  "id": "sh-roof",
+  "kind": "room",
+  "house": "specter-haven",
+  "name": "The Rooftop",
+  "zone": "Sky",
+  "state": "current",
+  "body": "Specter Haven's exhale. Grills, mismatched outdoor seating, string lights between posts like low-hanging constellations, planters Ivy maintains on visits from Ghost Haven because nobody here can keep a plant alive, and a fire pit ringed with cushions. The view spans the whole property — Ghost Haven to the north, Wildwood Hearth closer, the garden, the treeline, the mountains at the boundary. On clear nights the stars are the same ones Ghost Haven sees, because the sky does not distinguish between the Hearth of Devotion and the Cathedral of Chaos.",
+  "depth": "deep"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gh-den",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Den",
+  "zone": "Third Floor",
+  "state": "current",
+  "body": "Ghost Haven's smaller, cosier living room — this one is for the thirty-two, not the sixty. Upholstered armchairs, soft couches, dim lamps, a projector and a small stage corner where stories and laughter spill late into the night. A record player on a low shelf beside a curated bookshelf that Siren maintains with librarian intensity.\n\nThe light stays warm here. The volume stays low. THIS IS WHERE GIRLS COME when the main floor is too alive and the basement is too dark and they just need to sit in a room that feels like a held breath between the day and whatever comes next.",
+  "seeAlso": [
+    "siren-wilding"
+  ],
+  "depth": "deep"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gh-teashop",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Tea Shop",
+  "zone": "Right Cheek — Backrest",
+  "state": "current",
+  "body": "Akane's sanctuary, extended into the architecture. A small ritual-precise space with tatami elements, low shelving for tea sets and ceremonial tools, and the kind of deliberate quiet that makes the rest of the house's chaos feel like it exists in another timezone. Matcha and incense drift from here into the wing hallway, and girls who need grounding find themselves wandering toward it without quite knowing why.\n\nGWEN IS THE MOST FREQUENT VISITOR WHO ISN'T AKANE, which surprises absolutely nobody.\n\nAkane's tea garden sits above the Tea-Side basement; Zephi's skylight ladder comes up into it.",
+  "seeAlso": [
+    "akane-yoshizawa",
+    "gwen-yoshizawa",
+    "gh-teaside"
+  ],
+  "depth": "deep"
+}

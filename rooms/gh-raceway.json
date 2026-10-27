@@ -1,0 +1,14 @@
+{
+  "id": "gh-raceway",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Raccoon Raceway",
+  "zone": "Everywhere",
+  "state": "current",
+  "body": "Connecting every room, threaded through walls and floors like veins through a living body — a full carpeted tunnel system with built-in nesting areas that Sir Trashmuffin has claimed as sovereign territory. He can reach any bedroom, any kitchen, any barstool without ever touching open air.\n\nNOT THAT HE NEEDS IT. Trashmuffin still patrols on foot like the round entitled landlord he believes himself to be, accepting belly rubs and demanding raspberry cream donuts from whoever he waddles past. The Raceway is simply his second option. His stealth network. HIS PANTY-THIEF SUPERHIGHWAY.\n\nThe family built it because they love him. HE USES IT BECAUSE HE HAS NO SHAME and forty-seven pairs of stolen panties to show for it. The tunnels extend out through Wildwood Hearth and into Specter Haven; the origin of that stretch is officially unexplained.",
+  "seeAlso": [
+    "sir-trashmuffin",
+    "sh-raceway"
+  ],
+  "depth": "deep"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sh-pelvic",
+  "kind": "room",
+  "house": "specter-haven",
+  "name": "The Pelvic Floor",
+  "zone": "Hub",
+  "state": "current",
+  "body": "Where cock meets thighs — the architectural crossroads where both wings converge and the shared spaces that keep twenty-eight girls fed and occasionally civil are concentrated. Two couples live here: Petra and Umiko, positioned for the Library and the shaft staircase, and Minerva and Jasmine, positioned for the Pool. Their rooms anchor the centre with a scholarly, chronicling warmth that balances the thigh wings' competing energies of fire and chaos.",
+  "residents": [
+    "Petra & Umiko",
+    "Minerva & Jasmine"
+  ],
+  "depth": "deep"
+}

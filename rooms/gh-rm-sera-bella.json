@@ -1,0 +1,13 @@
+{
+  "id": "gh-rm-sera-bella",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Sera & Bella's Room",
+  "zone": "Right Cheek — above the Garage",
+  "state": "current",
+  "body": "The suite above the Garage, connected vertically by BELLA'S DROP-DOWN LADDER. One half smells faintly of oil and metal, the other of citrus polish and Sera's particular brand of chaos. Their bed sits between workshop and hospitality — engine grease tangling with perfume and the sharp sweetness of citrus soap.\n\nBella's tool bench is always littered with parts. Sera keeps one stool reserved in the basement speakeasy below — BELLA'S SEAT, carved into the wood, always waiting for her girl after a long shift.\n\nIndustrial-pipe four-poster. Bar shelf for cocktail experiments. Grease-resistant bedside mat. Walk-in closet split between bartending wardrobe and mechanic gear with shared lingerie in the middle.\n\nTHEIR ROOM IS LOUD EVEN WHEN IT IS QUIET, because these two have never once been subtle about anything.",
+  "residents": [
+    "Sera & Bella"
+  ],
+  "depth": "deep"
+}

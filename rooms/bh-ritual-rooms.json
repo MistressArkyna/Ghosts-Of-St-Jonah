@@ -1,0 +1,14 @@
+{
+  "id": "bh-ritual-rooms",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Private Ritual Rooms",
+  "zone": "Underground — Resonance Hall",
+  "state": "current",
+  "body": "Smaller spaces for individual or couple work. Candles, cushions, and THE PARTICULAR EMPTINESS THAT SAYS FILL ME WITH WHATEVER YOU NEED TO RELEASE.\n\nBANSHEE CODE, RULE FIVE: no entering another girl's ritual unless invited. Consent is sacred, emotionally AND erotically.",
+  "seeAlso": [
+    "bh-resonance",
+    "banshee-code"
+  ],
+  "depth": "deep"
+}

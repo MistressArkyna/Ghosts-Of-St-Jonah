@@ -1,0 +1,10 @@
+{
+  "id": "gh-living",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Living Room",
+  "zone": "Main Floor",
+  "state": "current",
+  "body": "Vast, high-ceilinged, the largest shared space in the house — big enough to hold all sixty-plus girls when both houses gather, sprawling enough for daily chaos when it is only the thirty-two. Sectional sofas and layered throw rugs for smaller piles. A media alcove with the big screen and the consoles, movie-night command centre and site of Rae's legendary Mario Kart losing streak, which she insists is rigged. Bay windows line one wall with built-in seats where Torie, Luna and Livi curl with tea and paperbacks on slow mornings.",
+  "depth": "deep"
+}

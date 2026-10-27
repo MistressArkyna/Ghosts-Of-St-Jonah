@@ -1,0 +1,14 @@
+{
+  "id": "gh-oak",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Oak",
+  "zone": "Beside the Lake",
+  "state": "current",
+  "body": "BRYN AND TORIE'S CHILDHOOD OAK. Massive, ancient, patient, and treated by the family with a reverence that borders on sacred because it IS.\n\nTHIS IS WHERE IT ALL BEGAN. This is where the first promise was made. This is where the idea of FAMILY took root before anyone had a house to put it in.",
+  "seeAlso": [
+    "bryn-eriksson",
+    "torie-eriksson"
+  ],
+  "depth": "deep"
+}

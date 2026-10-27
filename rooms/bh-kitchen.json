@@ -1,0 +1,14 @@
+{
+  "id": "bh-kitchen",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "Elspeth's Kitchen",
+  "zone": "Cottage — Surface",
+  "state": "current",
+  "body": "IT SMELLS LIKE BREAD. ALWAYS — not because she bakes constantly, though she does, but because the house absorbed her warmth during construction the way it absorbed Bell's grief, and the walls themselves exhale yeast and cinnamon.\n\nTWO OVENS, because a house full of girls who cry for healing also cry for cookies and ONE OVEN CANNOT SERVE BOTH CONGREGATIONS. Deep farmhouse sink. Butcher-block worn smooth. A communal table seating twenty-four with room for guests, EVERY CHAIR DIFFERENT, because Banshee girls choose their own seats and their own grief and their own chairs and Elspeth respects all three. A chalkboard menu in her handwriting — today: CATHARSIS CASSEROLE.\n\nTHE SKULL-SHAPED COOKIE JAR WAS SELENE'S GIFT AND IS NEVER EMPTY.\n\nEMERGENCY SNACK STASHES EXIST IN EVERY ROOM IN THIS HOUSE. Under ferns, behind books, in corridor alcoves. Elspeth placed every one, because a girl falling apart at three in the morning in a corridor needs to eat something and GRIEF DOES NOT WAIT FOR BUSINESS HOURS.",
+  "seeAlso": [
+    "elspeth",
+    "bh-pantry"
+  ],
+  "depth": "deep"
+}

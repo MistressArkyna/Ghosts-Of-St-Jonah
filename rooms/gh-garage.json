@@ -1,0 +1,16 @@
+{
+  "id": "gh-garage",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Garage",
+  "zone": "Right Cheek — Backrest",
+  "state": "current",
+  "body": "BELLA'S DOMAIN. Three bays tucked under the wing — grease, engines and tools kept in order by hands that speak more honestly in wrenches than words. It smells like oil, steel and the faintest ghost of Sera's perfume, because Sera CANNOT stay out of this space when Bella is bent over an engine block, which is always.\n\nTHE DROP-DOWN LADDER from Sera and Bella's room above connects directly into the first bay. Bella designed it herself, because efficiency matters and also because sometimes a girl needs to go from sleeping to soldering in under thirty seconds.\n\nBELLA'S TOOL BENCHES ARE WHERE THEY ARE ON PURPOSE AND SHE WILL SAY SO OUT LOUD TO A ROOM. Set at the height she works at, which is also the height Sera rails her at, AND THOSE ARE THE SAME REQUIREMENT. Anybody moving a bench in this garage gets hollered at from the couch, by name, mid-sentence, with a glass of water in hand.\n\nTHE ENTRANCE IS JUST PAST THE KITCHEN, at the opposite end of the hall from Bryn and Torie's bedroom — which is a deliberate distance and everyone pretends it is about noise.\n\nTHE GIRLS CALL IT THE BIRTHPLACE OF GHOST HAVEN. The Garage finished in an hour. The concrete cured suspiciously fast. Nobody asks questions.",
+  "seeAlso": [
+    "bella-vargas",
+    "sera-vargas",
+    "gh-garage-stain",
+    "vargas-incident"
+  ],
+  "depth": "deep"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gh-rm-violet-nova",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Violet & Nova's Room",
+  "zone": "Left Cheek",
+  "state": "current",
+  "body": "Wide windows facing the grounds with a direct path to the patio for Nova's dawn runs — the trail that threads a hundred and forty acres deep to the lake and the Oak, where it all began. Fairy lights twine along the walls leading out to the lake path.\n\nVIOLET LEAVES CHALK MESSAGES ON THE STONES — hearts, jokes, song lyrics — that Nova finds on her way back every morning, breathless and grinning. Their dresser is scattered with polaroids, many blurred from laughter. A shoebox under the bed hides Violet's love notes folded into origami hearts, each one slipped secretly into Nova's shoes or pockets.\n\nAthletic trophies and running gear sit beside softer décor and the evidence of two women who never stop finding small ways to say I love you. Nova proposed the Law. She was already doing it.",
+  "residents": [
+    "Violet & Nova"
+  ],
+  "seeAlso": [
+    "nova-law"
+  ],
+  "depth": "deep"
+}

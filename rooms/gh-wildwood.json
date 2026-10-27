@@ -1,0 +1,17 @@
+{
+  "id": "gh-wildwood",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Wildwood Hearth — Guest Cottage",
+  "zone": "Between the houses",
+  "state": "current",
+  "arcOpened": 10,
+  "arcBuilt": 10,
+  "body": "Two to four hundred yards from the main house, near a section of Nova's trail and adjacent to a peaceful stretch of Ivy's garden — secluded enough for privacy, close enough for safety and community. Roughly three hundred feet from Specter Haven.\n\nWILDWOOD HEARTH WAS BUILT BECAUSE SAGE KEPT VISITING. She came for Ivy first — flower projects, garden collaborations, the slow-growing friendship of two women who speak the same botanical language. Then she started bringing Zephi, and extended visits turned into weekend stays turned into somebody quietly saying THEY NEED SOMEWHERE TO LAND THAT ISN'T THE COUCH.\n\nThe Found Family built it together: Bryn's strength on the framing, Bella's mechanics on plumbing and fixtures, Abbi's metalwork on hinges and hardware, Evie's electrical through the walls, everyone else contributing whatever their hands carried.\n\nA cosy cottage, distinct from the main house's grandeur — two bedrooms, one bathroom, a kitchenette, a reading corner, a small living room with large windows over the garden and the trail, and a front porch for morning tea and evening quiet. The kettle is always ready. The beds are always made. IT EXISTS BECAUSE THIS FAMILY REMEMBERS WHAT IT FELT LIKE TO NEED A DOOR THAT OPENED SOFTLY.\n\nWHO USES IT: anyone the family views as friend or near-family, plus-ones welcome with fair warning about the chaos. No duration limits, honour system. EDEN AND DIA stay once monthly, three to four days. Sage used it for extended stays before she and Zephi joined permanently. And always, always, it remains a potential emergency safe house for new rescues who need a softer landing before facing thirty-two girls who love too loudly.\n\nHOUSE RULES: ask anyone to reserve, it is communal and not just Bryn's. Respect main house boundaries and do not wander in unannounced. Clean up after yourself. Sir Trashmuffin has unrestricted access, obviously. AND IF DIA VISITS: NEVER APPROACH THE MAIN HOUSE ALONE. Eden enforces this. Nobody questions it.",
+  "seeAlso": [
+    "sage-hawthorne",
+    "zephi-hawthorne",
+    "specter-haven"
+  ],
+  "depth": "deep"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bh-chapel",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Chapel",
+  "zone": "Cottage — Living Room",
+  "state": "current",
+  "body": "STAINED GLASS DEPICTING SAPPHIC SAINTS — not ironic, not camp, DEVOTIONAL. Bell commissioned them during construction and the saints are from this family's own mythology: VIRAENA AND SELENE'S WEDDING. THE FIRST SEANCE. THE NIGHT SIR TRASHMUFFIN CHOSE THE PROPERTY.\n\nVelvet couches, too many blankets, and a CONFESSION BOOTH REPURPOSED AS A MAKEOUT BOOTH which functions beautifully as both. The fireplace is always lit — not magically; Elspeth builds it every morning with the methodical devotion of a woman who believes warmth is an act of love, which it is. The shelves hold smut disguised as hymnals and hymnals disguised as smut and nobody remembers which was which.\n\nHER VELVET COUCH HAS HELD MORE CRYING GIRLS THAN ANY FURNITURE IN THE FOUND FAMILY, GHOST HAVEN'S GRAVITY COUCH INCLUDED — and unlike the Gravity Couch it does not TRAP you. It INVITES you. This is where girls sit when they are not ready to descend.",
+  "seeAlso": [
+    "elspeth",
+    "bell-maribel",
+    "gh-gravity-couch",
+    "sir-trashmuffin"
+  ],
+  "depth": "deep"
+}

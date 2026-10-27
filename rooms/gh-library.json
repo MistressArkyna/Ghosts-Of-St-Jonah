@@ -1,0 +1,14 @@
+{
+  "id": "gh-library",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Library Tower",
+  "zone": "Right Cheek — Corner Piece",
+  "state": "current",
+  "body": "ALICE HAD IT BUILT FOR LUNA. That is the whole origin story. Alice looked at the blueprint, looked at her wife — quiet, goth, book-devouring, hands always tangled in thread, eyes always half-lost in someone else's story — and said SHE NEEDS A TOWER. So the Library Tower anchors the corner of the Couch like a lighthouse made of paper and devotion.\n\nFloor-to-ceiling shelves, ALL BOLTED to the walls, because Rae makes Livi go feral sometimes and nobody wants a bookshelf casualty. Rolling ladder. Window seats cushioned deep enough to disappear into. The light is beautiful here — tall windows throwing long gold rectangles across hundreds of spines, dust drifting like lazy confetti. Luna practically lives in it: reads here, sews here, sketches here, naps here with a half-finished dress across her lap and a needle still threaded between her fingers.\n\nTorie, Livi and Siren drift in and out like regulars at a café they never have to pay for. The rolling ladder has been used for reading access, dramatic declarations, and at least one ill-advised game of chicken that Rae started and Gwen finished.\n\nNO BATHROOM IN THE TOWER. Around 3 AM the tower goes quiet, and that is the Witching Hour.",
+  "seeAlso": [
+    "alice-meadows",
+    "luna-meadows"
+  ],
+  "depth": "deep"
+}

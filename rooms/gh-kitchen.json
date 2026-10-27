@@ -1,0 +1,10 @@
+{
+  "id": "gh-kitchen",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Kitchen",
+  "zone": "Main Floor",
+  "state": "current",
+  "body": "Industrial bones made soft by the hands that use them. Three stoves along the back wall, two fridges side by side, two meat freezers anchoring the pantry corridor, double sinks under windows that catch the garden light. Cupboards run deep enough for thirty-two girls' worth of snack hoarding, tea collections and Cora's ever-expanding spice library. The counters are long and scarred with love and almost always dusted with flour from whatever Alice decided to stress-bake at midnight. A butcher-block island with barstools; a long harvest table with mixed chairs, no two alike, because every girl picked her own.\n\nIT HAS FED SIXTY GIRLS AT ONCE and made it look easy. It has also hosted fistfights over the last slice of pie, three proposals — two planned, one accidental — and at least one incident where Torie sat on the counter in nothing but a hoodie and Bryn forgot how stoves work.\n\nIT SMELLS LIKE FRESH BREAD. ALWAYS.",
+  "depth": "deep"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sh-shaft",
+  "kind": "room",
+  "house": "specter-haven",
+  "name": "The Shaft",
+  "zone": "Entrance",
+  "state": "current",
+  "body": "The main entrance extends forward like intention made architectural — a narrowing corridor of warm wood and ambient lighting that draws visitors inward. Lined with hooks, shoe cubbies and coat storage, and the kind of organised chaos that suggests Petra tried very hard to impose order and Lili immediately undermined it. At its deepest point a waterproof staircase spirals down to the pool level, which is accessed through the cock, and that is a sentence everyone in this family has learned to say with a straight face.",
+  "depth": "deep"
+}

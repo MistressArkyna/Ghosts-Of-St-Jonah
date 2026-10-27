@@ -1,0 +1,17 @@
+{
+  "id": "bh-workshop",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Heart-Rebuilder's Workshop",
+  "zone": "Underground — Cathedral lower levels",
+  "state": "current",
+  "body": "ELSPETH'S CRAFTING AND CARE SPACE, positioned in the lower levels BECAUSE REBUILDING HAPPENS AFTER BREAKING AND BREAKING HAPPENS UNDERGROUND. This is where she stitches girls back together after Bell pulls the hurt out — not metaphorically, though sometimes that too, but PRACTICALLY. Weighted blankets. Heating pads. Massage oils. Grounding tools — smooth stones, textured fabrics, scented sachets. It smells like vanilla and clean linen.\n\nSHE KEEPS A PERSONALISED EMERGENCY KIT FOR EVERY GIRL IN THE HOUSE, updated, containing that specific woman's comfort items for when the grief cracks open unexpectedly. She knows every girl's grounding preferences THE WAY PETRA KNOWS EMOTIONAL PATTERNS AND BRYN KNOWS RING SIZES — by paying attention so carefully it becomes devotion.",
+  "seeAlso": [
+    "elspeth",
+    "bell-maribel",
+    "petra-caine",
+    "bryn-eriksson",
+    "horni-fleet"
+  ],
+  "depth": "deep"
+}

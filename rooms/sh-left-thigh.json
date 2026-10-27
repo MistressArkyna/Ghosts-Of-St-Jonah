@@ -1,0 +1,18 @@
+{
+  "id": "sh-left-thigh",
+  "kind": "room",
+  "house": "specter-haven",
+  "name": "Left Thigh — Chaos Agent Wing",
+  "zone": "Wing",
+  "state": "current",
+  "body": "Specter Haven's adrenaline. Six couples, every one of them containing at least one girl whose default setting is too much, and a partner who either matches that energy or grounds it into something the house can survive. The hallway curves at an architectural knee. Arianna and Lili anchor it from the first master bedroom — chaos and restraint, spark and steel, the girl who steals chapstick and the girl who forges cuffs.",
+  "residents": [
+    "Arianna & Lili",
+    "Katherine & Wynter",
+    "Natalia & Pepper",
+    "Danielle & Goldie",
+    "Zelda & Ophelia",
+    "Jinx & Brielle"
+  ],
+  "depth": "deep"
+}

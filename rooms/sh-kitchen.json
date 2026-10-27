@@ -1,0 +1,10 @@
+{
+  "id": "sh-kitchen",
+  "kind": "room",
+  "house": "specter-haven",
+  "name": "The Kitchen",
+  "zone": "Lower Midriff",
+  "state": "current",
+  "body": "The anatomical lower midriff — the warm functional core where nourishment originates. Two commercial stoves, double fridge, deep freezer, butcher-block island, a communal table seating twenty-eight in twenty-eight mismatched chairs, and enough counter space to prep for the whole house or stage a flour war. Katherine and Wynter's baking supplies have colonised an entire cabinet section despite their room being in the Chaos Agent Wing; nobody has challenged this, because Katherine's cinnamon rolls could broker peace between nations. It smells like whatever Katherine decided to stress-bake at midnight.",
+  "depth": "deep"
+}

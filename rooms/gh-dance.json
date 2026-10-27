@@ -1,0 +1,15 @@
+{
+  "id": "gh-dance",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Dance Studio",
+  "zone": "Basement — West",
+  "state": "current",
+  "body": "Polished wood floors, floor-to-ceiling mirrors, a professional sound system, and — centrepiece, crown jewel, Destiny's pride — a STRIPPER POLE mounted with the kind of structural integrity that suggests Abbi forged the hardware personally, because she did.\n\nThis is Destiny's domain, but the pole has seen use from half the house. Lumina practises ribbon work here. Cyrena stretches. And on certain Friday nights the studio becomes a stage and the family becomes an audience and the only rule is YOU HAVE TO CHEER.",
+  "seeAlso": [
+    "dessie-clairmont",
+    "ceri-clairmont",
+    "lumina-silverveil"
+  ],
+  "depth": "deep"
+}

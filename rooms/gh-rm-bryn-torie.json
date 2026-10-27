@@ -1,0 +1,13 @@
+{
+  "id": "gh-rm-bryn-torie",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Bryn & Torie's Room",
+  "zone": "Main Floor",
+  "state": "current",
+  "body": "Near the workshop access and the kitchen, making late-night soldering and snack runs a matter of bare feet and a short hallway. Practical and warm — Bryn's jeweler's tools and polishing trays sharing desk space with Torie's tidy ledgers and a kettle that is never fully cold. A low storage bench under the window holds small parts, spare wire, and a patchwork quilt Torie stitched from scraps of Bryn's old shirts.\n\nIt smells faintly of smoke and lavender detergent. Sunlight pools in the corner where Torie reads while Bryn works, and the sound of tiny hammer taps is the room's lullaby. Industrial-brass four-poster with clean lines and a forge-warm finish.",
+  "residents": [
+    "Bryn & Torie"
+  ],
+  "depth": "deep"
+}

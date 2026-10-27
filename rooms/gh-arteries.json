@@ -1,0 +1,13 @@
+{
+  "id": "gh-arteries",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Artery Hallways",
+  "zone": "Circulation",
+  "state": "current",
+  "body": "Both wings connect to the central house through hallway arteries — architectural bloodflow that keeps the cheeks from ever feeling like separate buildings. The COUCH SIDE ARTERY on the Right Cheek runs past the Library Tower corner and threads into the main living area. THE LEFT CHEEK'S ARTERY mirrors it on the opposite curve, a warm corridor lined with the Hallway of Handprints — every Ghost and partner's paint-slick palm pressed to the wall in a rainbow of belonging that greets you every time you walk between wing and heart.\n\nThe Left artery is the EAST CHEEK.",
+  "seeAlso": [
+    "hallway-handprints"
+  ],
+  "depth": "deep"
+}

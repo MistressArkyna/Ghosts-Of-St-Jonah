@@ -1,0 +1,14 @@
+{
+  "id": "gh-server",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Server Room",
+  "zone": "Left Cheek",
+  "state": "current",
+  "body": "Anchors the wing. Pandora's archive glowing soft behind Jade's volleyball trophies — two server racks, UPS mounting, maintenance desk, cable trays, ventilation and mini-split cooling, in a sealed chamber connected directly to the Jade and Pandora suite.\n\nThe Ghosts' digital archive lives here. So does three hundred and thirty-four terabytes of material Pandora would describe as REFERENCE. The whole Left Cheek sleeps to the sound of the fans.",
+  "seeAlso": [
+    "pandora-everrest",
+    "jade-everrest"
+  ],
+  "depth": "deep"
+}

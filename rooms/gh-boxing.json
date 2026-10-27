@@ -1,0 +1,14 @@
+{
+  "id": "gh-boxing",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Fencing & Boxing Studio",
+  "zone": "Basement — West",
+  "state": "current",
+  "body": "Clean lines, padded floors, mirrored walls. Punching bags from reinforced ceiling mounts, fencing lanes striping the floor, wall-mounted weapon racks. This room echoes with footwork and controlled breathing — Gwen shadowboxing at 2 AM, Livi's heavy-bag sessions after a long day, and the occasional sparring match that draws a small audience of girls pretending they came downstairs for water.",
+  "seeAlso": [
+    "livi-stewart",
+    "gwen-yoshizawa"
+  ],
+  "depth": "deep"
+}

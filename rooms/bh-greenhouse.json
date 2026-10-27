@@ -1,0 +1,16 @@
+{
+  "id": "bh-greenhouse",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Greenhouse",
+  "zone": "Underground Midriff — largest skylight",
+  "state": "current",
+  "body": "A glass-ceilinged chamber between the two buildings' root systems, under the largest skylight in the house, flooding the underground with GREEN-FILTERED DAYLIGHT THAT MAKES PLANTS AND GIRLS AND GRIEF ALL LOOK LIKE THEY ARE GROWING.\n\nVictorian glasshouse architecture reimagined for subterranean growth: ivy on the walls, fairy lights in the beams, herbs that may or may not be for séances beside flowers that are definitely for beauty and possibly for crying over. Stone benches draped in blankets for sitting, kissing, crying, or lewd picnics. A hidden door to the Library.\n\nTHE GREENHOUSE IS WAITING FOR ITS GIRL. The FLOWER GIRL who will tend it, name the plants, grow her remedies and her secrets in soil the Southern Woods magic has already blessed. SHE HAS NOT ARRIVED YET. The greenhouse grows anyway — THE GHOSTS WATER THE PLANTS. They complain, but comply.\n\nEmergency snack stash under a potted fern. Elspeth's doing. Always.",
+  "seeAlso": [
+    "bh-dirge-library",
+    "bh-grotto",
+    "elspeth",
+    "banshee-ghosts"
+  ],
+  "depth": "deep"
+}

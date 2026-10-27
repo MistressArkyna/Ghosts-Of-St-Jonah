@@ -1,0 +1,14 @@
+{
+  "id": "gh-speakeasy",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Sera's Speakeasy",
+  "zone": "Basement — West",
+  "state": "current",
+  "body": "Polished wood counter, vintage bottles, string lights, and a neon sign hidden under velvet that Sera unveils with entirely too much ceremony every single time. Barstools line the counter — one carved BELLA'S SEAT — and the back-bar fridge hums with things Sera insists are recipes in progress but are mostly cocktails she is perfecting to make Bella blush.\n\nTHE BAR DOUBLES AS THE THIRD LIVING ROOM. Low lounge seating curves round the edges; fairy lights and blankets turn it to cosy-lounge mode when movie night migrates downstairs or somebody just needs soft light and Sera's quiet company. The lounge is not separate — it is woven into the bar's bones, because Sera understood that a good bar is not just where you drink. IT IS WHERE YOU LAND.\n\nOne bathroom serves the bar — accessible, warm-tiled, perpetually stocked with mints and hair ties, because Sera thinks of everything.",
+  "seeAlso": [
+    "sera-vargas",
+    "bella-vargas"
+  ],
+  "depth": "deep"
+}

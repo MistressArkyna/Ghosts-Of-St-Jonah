@@ -1,0 +1,14 @@
+{
+  "id": "bh-pantry",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Pantry",
+  "zone": "Cottage — Surface",
+  "state": "current",
+  "body": "Snacks. Everywhere. IN QUANTITIES THAT DEFY SPATIAL LOGIC — less a storage space than a physical manifestation of Elspeth's conviction that food is love and love should be available at all hours in all forms, INCLUDING BROWNIES LABELLED WARDING which do not ward against anything except hunger and despair, which is the same thing.",
+  "seeAlso": [
+    "elspeth",
+    "bh-kitchen"
+  ],
+  "depth": "deep"
+}

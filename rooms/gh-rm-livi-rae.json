@@ -1,0 +1,13 @@
+{
+  "id": "gh-rm-livi-rae",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Livi & Rae's Room",
+  "zone": "Main Floor",
+  "state": "current",
+  "body": "ADJACENT TO THE GYM, with Library Tower access a short walk away. Made for late study sessions and recovery — stacks of books and scattered notebooks sharing floor space with a rolled training mat and candle jars safely contained on the desk.\n\nSTICKY NOTES COVER EVERY SURFACE: Rae's messy poems bleeding into the margins of Livi's carefully drawn charts. A vase of wildflowers sits by the bed, replaced weekly without fail, and NEITHER OF THEM WILL SAY WHO STARTED THE TRADITION.\n\nReinforced timber four-poster. Bolted bookshelves. A walk-in closet shared between gym bags and poetry notebooks. Livi is 6'0.5\"; Rae is 5'9.5\", and folds into her anyway.",
+  "residents": [
+    "Livi & Rae"
+  ],
+  "depth": "deep"
+}

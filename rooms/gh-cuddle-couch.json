@@ -1,0 +1,13 @@
+{
+  "id": "gh-cuddle-couch",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Cuddle Couch",
+  "zone": "Living Room",
+  "state": "current",
+  "body": "Dominates the wall opposite the fireplace. One enormous continuous couch engineered to seat all thirty-two at once — not piled, not tangled, just CLOSE. Shoulder to shoulder. Thigh against thigh. Rae's head tipped onto Livi's shoulder while Torie's bare feet tuck under Bryn's leg three cushions down.\n\nPROXIMITY WITHOUT PRESSURE — the architectural version of I love you but I need my own breathing room tonight. On any given evening you can find the whole family in one long unbroken line of warmth, fire-lit and quiet, just being.\n\nTHE CUDDLE COUCH HOLDS YOU. The Gravity Couch traps you. Both are necessary. Both are loved.",
+  "seeAlso": [
+    "gh-gravity-couch"
+  ],
+  "depth": "deep"
+}

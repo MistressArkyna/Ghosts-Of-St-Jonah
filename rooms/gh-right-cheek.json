@@ -1,0 +1,17 @@
+{
+  "id": "gh-right-cheek",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Right Cheek Wing — The Couch Side",
+  "zone": "Wing",
+  "state": "current",
+  "body": "Where craft meets devotion and every girl has grease, ink or tea under her nails. If Ghost Haven's shape is Bella's ass then the Right Cheek is the side Sera cannot stop staring at.\n\nTHE COUCH extends from this wing like the house decided to sit down and get comfortable — Library Tower anchoring the corner piece like an armrest, the Garage, Workshop and Tea Shop forming the backrest where the girls who BUILD THINGS spend their days elbow-deep in engines, metal and matcha.\n\nFive couples nest here, stacked through the wing's floors, each tethered to the functional spaces below and beside them by love, proximity, and the fact that Bella genuinely cannot be more than one staircase from her Garage without getting twitchy.",
+  "residents": [
+    "Alice & Luna",
+    "Sera & Bella",
+    "Akane & Gwen",
+    "Abigail & Lumina",
+    "Siren & Lucia"
+  ],
+  "depth": "deep"
+}

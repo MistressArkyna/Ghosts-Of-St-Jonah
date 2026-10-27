@@ -1,0 +1,10 @@
+{
+  "id": "gh-basement",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Basement — The Underbelly",
+  "zone": "Basement",
+  "state": "current",
+  "body": "Where the quiet ones rest, the loud ones play, and the bar never really closes. Upstairs is sunlight and kitchen chaos and brats engineering wardrobe malfunctions in the hallway — down here the light drops low, the music gets softer or louder depending which room you are in, and the house lets its girls be whatever they need to be at 2 AM.\n\nDivided into the TEA SIDE, east, and the WEST SIDE, which holds the Speakeasy, the arcade, the dance studio and the boxing room.",
+  "depth": "deep"
+}

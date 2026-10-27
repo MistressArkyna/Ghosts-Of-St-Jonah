@@ -1,0 +1,17 @@
+{
+  "id": "gh-left-cheek",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Left Cheek Wing — The Quiet Side",
+  "zone": "Wing",
+  "state": "current",
+  "body": "Where shadow meets devotion and the walls hold secrets like prayer. If the Right Cheek hums with craft and engine noise and the sharp clarity of tea ceremonies, the Left Cheek BREATHES. The softer wing — not weaker, never weaker, but tuned to a lower frequency. The couples here run toward shadow, ritual, art, and the kind of love that speaks in glances rather than shouts.\n\nNeon glows behind one door, charcoal dust drifts under another, and somewhere in the walls Pandora's servers hum like a digital heartbeat the whole wing has learned to sleep to.",
+  "residents": [
+    "Izzy & Fiona",
+    "Isolde & Mikaela",
+    "Jade & Pandora",
+    "Harley & Yvaine",
+    "Violet & Nova"
+  ],
+  "depth": "deep"
+}

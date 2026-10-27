@@ -1,0 +1,13 @@
+{
+  "id": "bh-bath",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Communal Bath",
+  "zone": "Underground — Resonance Hall",
+  "state": "current",
+  "body": "Obsidian-tiled, steam-warm, with a soaking pool large enough for a dozen girls and INTIMATE ENOUGH THAT VULNERABILITY FEELS NATURAL RATHER THAN EXPOSED. The water is always warm. The lighting is always kind.",
+  "seeAlso": [
+    "bh-resonance"
+  ],
+  "depth": "deep"
+}

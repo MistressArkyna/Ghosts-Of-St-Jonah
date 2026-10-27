@@ -1,0 +1,18 @@
+{
+  "id": "bh-bedrooms",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Bedroom Corridors",
+  "zone": "Underground — Resonance Hall spiral",
+  "state": "current",
+  "body": "TWELVE COUPLE ROOMS WHEN FULL, spiralling outward through the earth, each doorway arched in gothic softness, each room soundproofed for privacy AND STILL CONNECTED TO THE HOUSE'S EMOTIONAL PULSE THROUGH THE STONE ITSELF.\n\nTHREE CLAIMED IN THE v0 APPENDIX: Bell and Elspeth in the master suite; Alexis and Lyric; Magnolia and Daisey. NINE DOORWAYS WAITING — candlelit, warm, holding their shape like a house keeping chairs empty at the table.\n\nGIRLS DO NOT RUSH TO THE HOUSE WHERE YOU ARE ALLOWED TO FALL APART. THEY DRIFT THERE. They find it when they need it.",
+  "seeAlso": [
+    "bell-maribel",
+    "elspeth",
+    "alexis",
+    "lyric",
+    "magnolia",
+    "daisey"
+  ],
+  "depth": "deep"
+}

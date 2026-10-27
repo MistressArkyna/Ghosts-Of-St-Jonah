@@ -1,0 +1,13 @@
+{
+  "id": "gh-garage-stain",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Garage Stain",
+  "zone": "Garage — first bay, back wall",
+  "state": "current",
+  "body": "Near the back wall of the first bay, at about hip height against the workbench, there is a stain. WHITE. INNOCUOUS. Visible in daylight if you know where to look. UNDER UV LIGHTING IT GLOWS LIKE A CONFESSION.\n\nSera and Bella, when questioned, produce identical off-key whistling and sudden intense interest in the ceiling. The family has stopped asking.\n\nTHE STAIN HAS NOT BEEN CLEANED. IT WILL NEVER BE CLEANED. Bryn has tried three products on it and made peace. Pandora keeps suggesting sealing it; Bryn keeps pointing out that sealing it makes it shinier. IT IS LOAD-BEARING.",
+  "seeAlso": [
+    "vargas-incident"
+  ],
+  "depth": "deep"
+}

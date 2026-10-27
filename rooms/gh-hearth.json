@@ -1,0 +1,10 @@
+{
+  "id": "gh-hearth",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Brick Fireplace",
+  "zone": "Living Room",
+  "state": "current",
+  "body": "Massive, built from reclaimed brick, with a hearth wide enough and deep enough for all thirty-two to gather round — cross-legged on the floor, perched on cushions, leaning into each other's shoulders with marshmallow sticks extended toward the flame. INDOOR MARSHMALLOW ROASTING IS A YEAR-ROUND ACTIVITY.\n\nTHE MANTEL holds small things the family has collected: a painted stone, a bent nail from construction, and one of Trashmuffin's stolen socks that nobody had the heart to take back.\n\nThe fire is lit through the cold months, and even in summer the hearth radiates something warm that has nothing to do with temperature.",
+  "depth": "deep"
+}

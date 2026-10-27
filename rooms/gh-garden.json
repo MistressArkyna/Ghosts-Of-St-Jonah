@@ -1,0 +1,15 @@
+{
+  "id": "gh-garden",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Ivy's Garden — 88 Acres",
+  "zone": "Grounds — South",
+  "state": "current",
+  "arcOpened": 9,
+  "body": "Ivy's pride, and the sanctuary's soul, opened at the Garden Vow. Wrapping round the back of the house like a green shawl draped over the shoulders of someone you love — eighty-eight acres of vegetables, herbs, flowers, medicinal plants, and whatever else Ivy decides to coax out of the soil that season. Evie and Ivy's room opens straight into it through glass doors, rows stretching toward the treeline. Cora tucks recipe cards into the soil between plantings like love letters to the earth.\n\nTHE GARDEN IS NOT ORNAMENTAL. IT FEEDS THIRTY-TWO GIRLS. It is also beautiful, because Ivy does not know how to grow things that are not.\n\nTrauma turned to soil; beauty grown where despair lived. THERE ARE NO VEGETARIANS AND NO VEGANS IN THIS COMPOUND — the gardener eats meat like everybody else.",
+  "seeAlso": [
+    "ivy-emberose",
+    "evie-emberose"
+  ],
+  "depth": "deep"
+}

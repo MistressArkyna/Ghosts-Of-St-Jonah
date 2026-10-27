@@ -1,0 +1,15 @@
+{
+  "id": "gh-workshop",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Workshop",
+  "zone": "Right Cheek — Backrest",
+  "state": "current",
+  "body": "Bryn and Abigail's shared kingdom. Heavy benches, toolboards, modular stations where jewelry craft overlaps with blacksmithing overlaps with general fixes — sparks, polish and grease mingling in the air. Bryn's delicate wirework sits inches from Abbi's heavier forge pieces and somehow neither of them has ever damaged the other's work.\n\nTHE HOUSE ITSELF CARRIES ABBI'S FINGERPRINTS in every hinge, handle and hook — she forged the practical bones of Ghost Haven, and Lumina paints the handles and ties them with bows.\n\nThis space hums. Always. Small hammers and heated metal are as much a part of the ambient soundtrack as laughter from the kitchen.",
+  "seeAlso": [
+    "bryn-eriksson",
+    "abbi-silverveil",
+    "lumina-silverveil"
+  ],
+  "depth": "deep"
+}

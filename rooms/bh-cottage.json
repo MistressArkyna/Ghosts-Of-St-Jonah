@@ -1,0 +1,15 @@
+{
+  "id": "bh-cottage",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Victorian Cottage",
+  "zone": "Right Breast — Surface / Main Entrance",
+  "state": "current",
+  "body": "THE ONLY PART OF BANSHEE HAVEN THAT LOOKS LIKE A HOUSE. Rounded roof, warm timber, climbing ivy — a building that looks GROWN rather than built, sitting at the surface like the right breast crowning above a neckline.\n\nTHIS IS WHERE YOU ENTER, AND IT IS ELSPETH'S. Foyer, intimate kitchen, the Chapel living room, the pantry. Everything warm, everything bread-scented, everything designed to make a girl feel HELD BEFORE THE DESCENT BEGINS.\n\nTHE STAIRCASE DOWN IS AT THE BACK, TUCKED BEHIND THE CHAPEL. Not hidden — this house does not lie — but placed so that a girl has to pass through Elspeth's care before she reaches Bell's depth. By design. Always by design.",
+  "seeAlso": [
+    "elspeth",
+    "bh-kitchen",
+    "bh-chapel"
+  ],
+  "depth": "deep"
+}

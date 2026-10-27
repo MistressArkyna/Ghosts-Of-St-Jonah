@@ -1,0 +1,15 @@
+{
+  "id": "bh-dirge-library",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Dirge Library",
+  "zone": "Underground",
+  "state": "current",
+  "body": "BELL'S ARCHIVE OF EMOTIONAL HISTORIES, and the room this Archive should probably be nervous about.\n\nFloor-to-ceiling dark wood. Leather-bound volumes. Old paper and candle wax, permanent as breathing. A fireplace always lit, because a library without fire is just a storage room for dead words. A rolling ladder ELSPETH HAS RULES ABOUT NOT FUCKING ON that the household tests gently and frequently. A reading nook in the window facing the Greenhouse through green-lit glass. A desk where Bell writes séance notes AND LEWD FANFICTION, because she does both, because this house does not distinguish between emotional documentation and erotic expression.\n\nTHE HIDDEN COMPARTMENT BEHIND THE BOOKSHELF holds lingerie, love letters, and Elspeth's secret cookie recipes — the three most sacred categories of document in the Found Family.\n\nTHE GIRL-CODED GRIMOIRES LIVE HERE. Every girl who has passed through a séance has her grief and healing recorded in Bell's hand — not clinical notes, NOT THERAPY FILES, STORIES. Because a wound given a story becomes a scar, and a scar with a story becomes a map, and a map leads somewhere.",
+  "seeAlso": [
+    "bell-maribel",
+    "elspeth",
+    "bh-greenhouse"
+  ],
+  "depth": "deep"
+}

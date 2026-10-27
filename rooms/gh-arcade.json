@@ -1,0 +1,13 @@
+{
+  "id": "gh-arcade",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Arcade & Game Room",
+  "zone": "Basement — West",
+  "state": "current",
+  "body": "Pinball machines, retro arcade cabinets, a DDR pad that has caused more competitive chaos than any sporting event in Fairbrooks history, a small multiplayer table with board and card storage underneath, a mini fridge stocked with snacks and sodas.\n\nLaughter does not die in this room. It ECHOES. Rae holds the DDR high score. She will fight you about it.",
+  "seeAlso": [
+    "rae-stewart"
+  ],
+  "depth": "deep"
+}

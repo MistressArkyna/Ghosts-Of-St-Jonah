@@ -1,0 +1,15 @@
+{
+  "id": "bh-pathways",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Fairy-Lit Pathways",
+  "zone": "Underground Midriff",
+  "state": "current",
+  "body": "Underground corridors threading between the Cottage descent and the Cathedral descent. SKYLIGHTS AT INTERVALS casting columns of daylight into the passages; FAIRY LIGHTS stringing the walls between them; warm sconces at the intersections.\n\nTHE EFFECT IS DELIBERATE AND IT IS THE WHOLE THESIS OF THE HOUSE: you are underground, but you are not in darkness. YOU ARE BURIED, BUT YOU ARE NOT FORGOTTEN.\n\nThe corridors CURVE LIKE RIBS, following the midriff's anatomy, creating alcoves and pauses — small benches, candle niches, places where a girl descending between the cottage's warmth and the Cathedral's depth can sit and BREATHE before choosing which direction her grief needs to go.\n\nThey also connect to passages surfacing near Ghost Haven, Specter Haven and Wildwood Hearth. Girls walk between houses THE WAY BLOOD FLOWS BETWEEN ORGANS. Sir Trashmuffin's network extends here naturally, because even a sacred raccoon respects consistent engineering.",
+  "seeAlso": [
+    "sir-trashmuffin",
+    "gh-raceway",
+    "bh-greenhouse"
+  ],
+  "depth": "deep"
+}

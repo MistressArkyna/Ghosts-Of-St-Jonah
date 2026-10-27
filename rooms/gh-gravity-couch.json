@@ -1,0 +1,14 @@
+{
+  "id": "gh-gravity-couch",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Gravity Couch",
+  "zone": "Living Room",
+  "state": "current",
+  "body": "Not the biggest, not the softest, not the best positioned — but something about it PULLS. Assembled out of yard-sale finds. Girls sit down intending to stay five minutes and wake three hours later in a cuddle pile they did not consent to and absolutely needed. The family calls the lost hours TIME TRAVEL.\n\nTHEORIES range from enchantment to superior cushion engineering to the simple fact that Trashmuffin naps on it more than anyone and his chaotic energy has seeped permanently into the upholstery. NOBODY HAS EVER SUCCESSFULLY SAT ON IT ALONE FOR MORE THAN TEN MINUTES. Two attempts to stand is the documented minimum. It gets hungrier when you are hungry.\n\nONLY ONE COUCH IN THIS HOUSE HAS TRASHMUFFIN'S ASS PRINT PERMANENTLY EMBEDDED IN THE CENTRE CUSHION, and it is this one. He gets out on the first try. Nobody else does.",
+  "seeAlso": [
+    "gh-cuddle-couch",
+    "sir-trashmuffin"
+  ],
+  "depth": "deep"
+}

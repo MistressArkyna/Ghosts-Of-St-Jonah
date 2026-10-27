@@ -1,0 +1,14 @@
+{
+  "id": "gh-trail",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Nova's Running Trail",
+  "zone": "Grounds",
+  "state": "current",
+  "body": "A packed-earth trail threading from the house deep into the property — through meadow, past wildflower patches, under tree canopy, along ridgelines — winding a hundred and forty acres in before arriving at the lake.\n\nNova runs it at dawn. VIOLET'S CHALK MESSAGES dot the stones along the first stretch: hearts, jokes, song lyrics, found on the way back every morning, breathless and grinning. The trail is quiet and private and smells like pine and morning dew, and the only sound is footfall and birdsong and whatever Nova has in her earbuds.",
+  "seeAlso": [
+    "nova-bennet",
+    "violet-bennet"
+  ],
+  "depth": "deep"
+}

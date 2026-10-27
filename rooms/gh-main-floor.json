@@ -1,0 +1,17 @@
+{
+  "id": "gh-main-floor",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Main Floor — The Heartbeat",
+  "zone": "Ground",
+  "state": "current",
+  "body": "The first thing every girl sees coming downstairs barefoot and half-awake, and the last thing she hears before bed — pans clattering, someone laughing too loud, Trashmuffin's claws clicking across tile on his evening rounds. Five couples live on this floor and their rooms orbit the shared spaces like moons around a warm, chaotic sun. Kitchen, living room, gym and laundry all open off it, which is why nothing private has ever successfully happened here.",
+  "residents": [
+    "Bryn & Torie",
+    "Evie & Ivy",
+    "Cyrena & Destiny",
+    "Cora & Maddy",
+    "Livi & Rae"
+  ],
+  "depth": "deep"
+}

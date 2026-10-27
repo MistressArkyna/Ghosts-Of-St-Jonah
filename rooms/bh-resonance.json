@@ -1,0 +1,15 @@
+{
+  "id": "bh-resonance",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Resonance Hall",
+  "zone": "Underground — beneath the Cathedral",
+  "state": "current",
+  "body": "THE HOUSE'S EMOTIONAL HEART, and the reason the architecture exists. Corridors spiral outward from a central atrium; the walls are soundproofed and yet CARRY EMOTIONAL RESONANCE WITHOUT VOLUME.\n\nYOU DO NOT HEAR THE WORDS. YOU FEEL THE WEIGHT. A girl sobbing three rooms away arrives as a gentle vibration in the stone, a warmth in the wall if you press your palm to it — a reminder that YOU ARE NOT ALONE IN YOUR BREAKING.\n\nPart of that is architectural acoustics. Part of it is the dead holding the sound gently as it travels, softening it into warmth rather than noise.",
+  "seeAlso": [
+    "bh-cathedral",
+    "bh-bedrooms",
+    "bh-bath"
+  ],
+  "depth": "deep"
+}

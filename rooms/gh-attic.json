@@ -1,0 +1,10 @@
+{
+  "id": "gh-attic",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Attic Loft",
+  "zone": "Above the Library",
+  "state": "current",
+  "body": "Accessible by ladder. Couples sneak up here to nap, whisper secrets, or do things they pretend they did not do when they come back down with mussed hair and bitten lips. Nobody schedules it. Nobody books it. The ladder being up is the only signal anyone needs.",
+  "depth": "deep"
+}

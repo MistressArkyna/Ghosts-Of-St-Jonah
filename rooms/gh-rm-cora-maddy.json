@@ -1,0 +1,13 @@
+{
+  "id": "gh-rm-cora-maddy",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Cora & Maddy's Room",
+  "zone": "Main Floor",
+  "state": "current",
+  "body": "Central and warm, near the kitchen and living room, exactly where they belong. The space glows with quilt frames and handmade blankets stitched from scraps of their old lives. Recipe cards fill a corkboard — some in Cora's neat handwriting, others in Maddy's shaky scrawl — THE MEALS THAT SAVED THEM, now immortalised.\n\nA ceramic jar on the dresser collects tiny survivor treasures: pebbles, dried flowers, a coin found on the garden path.\n\nTHEIR ROOM IS THE GENTLEST ROOM IN THE HOUSE, and everyone knows it.",
+  "residents": [
+    "Cora & Maddy"
+  ],
+  "depth": "deep"
+}

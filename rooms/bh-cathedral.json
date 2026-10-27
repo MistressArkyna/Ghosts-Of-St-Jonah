@@ -1,0 +1,15 @@
+{
+  "id": "bh-cathedral",
+  "kind": "room",
+  "house": "banshee-haven",
+  "name": "The Cathedral",
+  "zone": "Left Breast — Partially Above Ground",
+  "state": "current",
+  "body": "A DOME OF STONE AND DARK TIMBER AND GOTHIC ARCHES, rising higher than the cottage, the above-ground portion larger and more visible THE WAY THE LEFT BREAST SOMETIMES SITS DIFFERENTLY FROM THE RIGHT.\n\nBelow the Parlor it plunges into the earth, and its underground mass is vast — the Resonance Hall radiating out beneath the dome LIKE THE ROOTS OF A CATHEDRAL PLANTED IN SOIL RATHER THAN STONE. The deepest rooms in Banshee Haven sit beneath it, where the earth is oldest and the walls have been absorbing grief long enough to have learned to carry sound THE WAY A MOTHER CARRIES A CHILD: gently, with both hands, without asking it to be quiet.",
+  "seeAlso": [
+    "bell-maribel",
+    "bh-seance",
+    "bh-resonance"
+  ],
+  "depth": "deep"
+}

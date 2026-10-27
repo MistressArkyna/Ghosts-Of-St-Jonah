@@ -1,0 +1,14 @@
+{
+  "id": "gh-moon-window",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Moon Window",
+  "zone": "Third Floor landing",
+  "state": "current",
+  "body": "On the third floor landing, just before the stairs to the rooftop, a single circular window frames the moon perfectly on clear nights.\n\nNOBODY PLANNED IT. The architects did not design it. IT APPEARED DURING CONSTRUCTION, right around the time Lumina danced on the unfinished third floor under open sky and Abbi watched from the stairwell with tears she will never admit to.\n\nTHE GIRLS CALL IT LUMINA'S WINDOW. She does not know this.",
+  "seeAlso": [
+    "lumina-silverveil",
+    "abbi-silverveil"
+  ],
+  "depth": "deep"
+}

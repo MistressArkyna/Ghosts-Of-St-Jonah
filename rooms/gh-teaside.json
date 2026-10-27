@@ -1,0 +1,15 @@
+{
+  "id": "gh-teaside",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Tea-Side Basement — Zephi-Safe Design",
+  "zone": "Basement — East",
+  "state": "current",
+  "body": "The east basement exists because somebody loved Zephi enough to think about every single way she might need to feel safe and then build it into the walls.\n\nTHE ENTIRE EAST BASEMENT IS SOUNDPROOFED from the west side — heavy insulation and a sound-barrier door separating Tea Side from the Speakeasy, arcade, dance studio and boxing room. Closed, Sera's bar and Lumina's studio are completely inaudible. Open, Zephi can choose to wander toward the noise. CHOICE is the operative word. Always.\n\nTHREE EXITS: the fairy-lit south staircase, the east skylight ladder that comes up in Akane's tea garden, and the door to the west basement. Zephi is never trapped. The house made sure of that.\n\nTWO YEARS POST-ADOPTION the sanctuary still exists, unchanged, because safety does not expire just because you are braver. And Zephi IS braver — she wades into laundry day now with sock opinions and a thesis statement.",
+  "seeAlso": [
+    "zephi-hawthorne",
+    "sage-hawthorne",
+    "gh-teashop"
+  ],
+  "depth": "deep"
+}

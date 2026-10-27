@@ -1,0 +1,15 @@
+{
+  "id": "gh-dia-board",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "Dia's Attempts",
+  "zone": "Main Floor — over the hole",
+  "state": "current",
+  "body": "A WHITEBOARD, HUNG OVER A HOLE. Eight inches of wall, punched through by Brynnhildr Eriksson at speed, two inches to the left of a woman's head. Nobody patched it. Somebody hung a board on it instead.\n\nIT READS DIA'S ATTEMPTS. Every woman in Ghost Haven is listed down the side, with a tally of attempts across each Eden-and-Dia visit. The numbers are cheerful and the plaster behind them is not repaired, and both of those facts are on purpose.\n\nTHIS FAMILY DOES THIS WITH EVERYTHING. A word that meant a guard was coming now means your wife is. A stain in the garage is load-bearing. And the only moment anyone has ever genuinely frightened somebody on these two hundred acres is now a scoreboard with a marker tied to it.",
+  "seeAlso": [
+    "dias-attempts",
+    "bryn-eriksson",
+    "torie-eriksson"
+  ],
+  "depth": "deep"
+}

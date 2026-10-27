@@ -1,0 +1,14 @@
+{
+  "id": "gh-lake",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Lake",
+  "zone": "Grounds — 140 acres deep",
+  "state": "current",
+  "body": "Past the end of Nova's trail the lake sits still and silver. Lanterns reflect across the water on calm nights. The family swims here in summer, skates the edges in deep winter when the freeze holds, and builds bonfires on the shore that throw light across the surface like scattered gold.",
+  "seeAlso": [
+    "gh-oak",
+    "gh-trail"
+  ],
+  "depth": "deep"
+}

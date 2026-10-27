@@ -1,0 +1,10 @@
+{
+  "id": "gh-firepit",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Outdoor Fire Pit",
+  "zone": "Grounds",
+  "state": "current",
+  "body": "Closer to the house than the lake, nestled where the garden's edge meets wilder land. Bonfires where secrets spill, marshmallows char, and Ghosts laugh loud enough to echo into the trees. Stones ring the pit; the seating is mismatched — stumps, blankets, dragged-out chairs — because nobody cares what she is sitting on when the fire is warm and the people are warmer.",
+  "depth": "deep"
+}

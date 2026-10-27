@@ -1,0 +1,14 @@
+{
+  "id": "gh-gym",
+  "kind": "room",
+  "house": "ghost-haven",
+  "name": "The Gym",
+  "zone": "Main Floor",
+  "state": "current",
+  "body": "RIGHT NEXT TO LIVI AND RAE'S ROOM — practically an extension of their life. Rubber performance flooring, steel rig, free weight rack, plyo boxes, boxing bags, a wall of mirrors, and a wall-mounted chalkboard where Livi tracks everyone's PRs in handwriting so precise it could be printed. The air always smells faintly of clean sweat and determination.\n\nLIVI'S SECOND HOME. She is a boxing coach and a gym trainer — not a jeweler; that is Bryn, and the two get confused because they both have the hands. Rae stretches here after late study sessions, Nova warms up before dawn trails, and Jade uses the space for volleyball conditioning. Gwen has been caught shadowboxing at 2 AM more than once and absolutely nobody mentions it.\n\nTHE BAR IS RACKED AT HIP HEIGHT more often than the programme calls for, and the household has drawn its own conclusions.",
+  "seeAlso": [
+    "livi-stewart",
+    "rae-stewart"
+  ],
+  "depth": "deep"
+}
