@@ -1,0 +1,42 @@
+{
+  "id": "roxanne-valeheart",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Roxanne Jacklyn Valeheart",
+  "short": "Roxie",
+  "sort": "Roxanne",
+  "titles": [
+    "The Consent Engine",
+    "DTS Infrastructure",
+    "The Brat-Breaker"
+  ],
+  "partner": "kaia-valeheart",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Producer · DTS Co-Founder",
+  "essence": "She looked at Mercedes's sacred fire and said let me build you a temple that does not burn down. Understands that surrender is only sacred when the infrastructure supports it.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Junoesque",
+    "fillBuild": "Athletic",
+    "height": "5'6\"",
+    "measurements": "34–24–42"
+  },
+  "cock": {
+    "specs": "7.9\" × 5.2\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 51
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dakota-bellamy",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Dakota Rhiannon Bellamy",
+  "short": "Dakota",
+  "sort": "Dakota",
+  "titles": [
+    "The Huntress",
+    "The Watcher",
+    "The Girl Built to Find Her"
+  ],
+  "partner": "mercedes-sinclair",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "—",
+  "essence": "Controlled, precise, intentional. She watched Mercedes from the shadows for years before Nereid gave her the body worthy of hunting. Her tracking notes would be unsettling if they were not written with such devastating devotion.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Huntress",
+    "fillBuild": "Athletic",
+    "height": "5'11\"",
+    "measurements": "38–26–40"
+  },
+  "cock": {
+    "specs": "10.6\" × 6.0\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 46
+}

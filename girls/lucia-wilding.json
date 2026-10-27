@@ -1,0 +1,46 @@
+{
+  "id": "lucia-wilding",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Lucia Rhea Wilding",
+  "short": "Lucia",
+  "sort": "Lucia",
+  "titles": [
+    "The Playful Lioness",
+    "The Mechanic's Shadow",
+    "Siren's First Love"
+  ],
+  "partner": "siren-wilding",
+  "arcAdopted": 6,
+  "arcIntroduced": 6,
+  "profession": "Mechanic · Builder",
+  "essence": "Sun-warm confidence shaped by a grandmother's love and sharpened by early abandonment. Siren becomes her first real gravity. She learns love not by performance but by presence, joy, and chosen family.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Junoesque",
+    "height": "5'10\"",
+    "measurements": "36–28–40"
+  },
+  "cock": {
+    "specs": "9.1\" × 5.8\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "HAIR — PILLAR FIVE. Shoulder-length BURNT HONEY shot through with CRIMSON STREAKS, the colour of a sunrise, and usually unkempt — A LION’S MANE.",
+    "THE PLAYFUL LIONESS IS NOT ABOUT HER HAIR. She is a PLAYFUL TOP and her SPIRIT ANIMAL IS A LIONESS; put the two together and the epithet is already built. The mane is a coincidence that happens to sit on the right woman.",
+    "SOLE DRIVER OF HER MOTORCYCLE. Not a preference, a rule. Siren has the pillion seat and nobody else is offered it."
+  ],
+  "gremlindex": 19
+}

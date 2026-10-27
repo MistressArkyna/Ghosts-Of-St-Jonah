@@ -1,0 +1,42 @@
+{
+  "id": "natalia-everly",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Natalia Garnet Everly",
+  "short": "Natalia",
+  "sort": "Natalia",
+  "titles": [
+    "The Icy Consequence Brat",
+    "The Ice Queen",
+    "The 47-Minute Streak"
+  ],
+  "partner": "pepper-halliwell",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "—",
+  "essence": "Composed, elegant, controlled — until Pepper opens her mouth. Her composure streaks end exclusively because of cheer puns.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Junoesque",
+    "height": "5'10\"",
+    "measurements": "36–26–44"
+  },
+  "cock": {
+    "specs": "9.5\" × 5.7\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 38
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mikaela-verya",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Mikaela Nocturne Verya",
+  "short": "Micah",
+  "sort": "Mikaela",
+  "titles": [
+    "The Quiet Halo",
+    "The Angelic Darkness",
+    "The Girl Who Haunts With Softness"
+  ],
+  "partner": "ida-veyra",
+  "arcAdopted": 10,
+  "arcIntroduced": 10,
+  "profession": "Archivist of Lost Things",
+  "essence": "A dusk-born girl carved from stillness and longing. She enters rooms like a held breath and loves like a soft revelation. Her presence soothes; her surrender devastates.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Athletic",
+    "height": "5'9\"",
+    "measurements": "38–26–40"
+  },
+  "cock": {
+    "specs": "8.7\" × 5.3\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Arrived already married to Isolde and was adopted as a wife. Their marriage predates the Family entirely.",
+    "CITIZEN. She never went through those walls — ISOLDE is the survivor of the pair, at 05-117."
+  ],
+  "gremlindex": 32
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sera-vargas",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Seraphine Camilla Vargas",
+  "short": "Sera",
+  "sort": "Seraphine",
+  "titles": [
+    "The Chaos Latina",
+    "The Bartender",
+    "The Quake of Love"
+  ],
+  "partner": "bella-vargas",
+  "arcAdopted": 1,
+  "arcIntroduced": 1,
+  "profession": "Bartender",
+  "essence": "Fire turned tender, chaos refined into devotion; she moves like laughter sharpened by survival. Beneath the blaze sits a girl who learned her flame could be holy.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "05 — Dealmakers",
+    "id": "05-063"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Junoesque",
+    "height": "6'1.5\"",
+    "measurements": "38–26–42"
+  },
+  "cock": {
+    "specs": "10.3\" × 5.6\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [],
+  "gremlindex": 4
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ivy-emberose",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Ivoria Serene Emberose",
+  "short": "Ivy",
+  "sort": "Ivoria",
+  "titles": [
+    "The Gardener",
+    "The Heartstring",
+    "The Emotional Bloom"
+  ],
+  "partner": "evie-emberose",
+  "arcAdopted": 3,
+  "arcIntroduced": 3,
+  "profession": "Gardener",
+  "essence": "Softness outlasting winter. Her tenderness holds quiet endurance, growing where cruelty tried to uproot her. She blooms brightest in safety, transforming Evie's wildfire into warmth.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "06 — Porcelain Dolls",
+    "id": "06-203"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Ethereal",
+    "height": "5'5\"",
+    "measurements": "36–26–42"
+  },
+  "cock": {
+    "specs": "7.0\" × 4.8\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "SHE HAS WANTED A NEW VEHICLE SINCE FORKY TOOK SO WELL IN THE GARDEN. Forky McForklift was the last thing Sera and Bella killed, he went into the beds, and he WORKED — which is why Ivy claimed Bella’s dead work van within the hour and was not angry about it. IT IS A COLD FRAME NOW. Glass on three sides already and the roof comes off in one piece."
+  ],
+  "gremlindex": 14,
+  "note": "THE ONLY HEART PAWG IN GHOST HAVEN, fourth on the Council, and the most dangerous seat on it. Bella bends to be SEEN — trained signal, deployed with intent. IVY BENDS BECAUSE THERE ARE CARROTS. No lure, no intent, a woman in a swooshy dress crouching into a row and humming to herself, four hours a day across eighty-eight acres, and Evie's higher functions come clean off. Torie calls CRITICAL HIT from windows, because a crit is not skill, a crit is the dice.\n\nAND HARLEY HAS NEVER ONCE STARTLED HER. She is the single exception on the compound, and the reason has something to do with the humming."
+}

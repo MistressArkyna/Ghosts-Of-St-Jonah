@@ -1,0 +1,45 @@
+{
+  "id": "nova-bennet",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Novalee Elira Bennet",
+  "short": "Nova",
+  "sort": "Novalee",
+  "titles": [
+    "The Second Sunrise",
+    "The Phoenix Girl",
+    "The Runner Reborn"
+  ],
+  "partner": "violet-bennet",
+  "arcAdopted": 2,
+  "arcIntroduced": 2,
+  "profession": "Runner · Assistant Trainer",
+  "essence": "Reborn girl forged in gentle fire; survivor with a sunrise soul; runs like she's thanking life for letting her stay.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "07 — Floaters",
+    "id": "07-088"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Athletic",
+    "height": "5'7.5\"",
+    "measurements": "32–24–36"
+  },
+  "cock": {
+    "specs": "8.2\" × 4.9\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [],
+  "gremlindex": 11,
+  "note": "NOVA'S LAW IS HERS. Don't shower alone; shower with your partner; both of you come before either of you gets clean. She proposed it mostly because she was already doing it — she has a getting-fucked-in-the-shower kink — and the household looked at what she was doing and adopted it. It is cited by name across all three Havens and almost never recited, which is how you know it is real law."
+}

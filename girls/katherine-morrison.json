@@ -1,0 +1,44 @@
+{
+  "id": "katherine-morrison",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Katherine Elise Morrison",
+  "short": "Kat",
+  "sort": "Katherine",
+  "titles": [
+    "The Breeder",
+    "The Mom-Friend",
+    "The Sunrise Ritual"
+  ],
+  "partner": "wynter-morrison",
+  "arcAdopted": 9,
+  "arcIntroduced": 9,
+  "profession": "Baker — Morrison's Pastries",
+  "essence": "Warm-hearted anchor; soft top, messy lover; sunrise breeder. Loves making Wynter boneless and adored. Her cinnamon rolls could broker peace between nations.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Junoesque",
+    "fillBuild": "Athletic",
+    "height": "5'8\"",
+    "measurements": "42–28–42"
+  },
+  "cock": {
+    "specs": "9.8\" × 5.8\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [
+    "Married to Wynter since they affirmed — long before Arc 9, and long before Specter Haven existed to move into."
+  ],
+  "gremlindex": 35
+}

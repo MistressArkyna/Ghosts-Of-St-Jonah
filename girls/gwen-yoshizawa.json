@@ -1,0 +1,54 @@
+{
+  "id": "gwen-yoshizawa",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Gwendolyn Isolde Yoshizawa",
+  "short": "Gwen",
+  "sort": "Gwendolyn",
+  "titles": [
+    "The Shield",
+    "The Holy Brat",
+    "Guardian of Boundaries"
+  ],
+  "partner": "akane-yoshizawa",
+  "arcAdopted": 9,
+  "arcIntroduced": 6,
+  "profession": "Oath-Knight Guardian",
+  "essence": "A knight carved from survival and sanctified by mischief. Every vow she breaks invites Akane to claim her deeper. She carries rebellion as worship and discipline as love.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "08 — Painted Ones",
+    "id": "08-115"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Huntress",
+    "height": "5'9\"",
+    "measurements": "38–26–40"
+  },
+  "cock": {
+    "specs": "8.0\" × 5.2\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Her PALADIN OATH forbids her a marriage in the legal sense. The Arc 10 Oath ceremony is what they had instead, and they are married common-law — the only form available, held completely.",
+    "She took Akane's name anyway. Astremere became Yoshizawa with no certificate anywhere in it. A knight who cannot sign, signing herself over in the only ink she has."
+  ],
+  "gremlindex": 26,
+  "status": {
+    "pre9": "Together with Akane",
+    "arc9": "Together with Akane",
+    "arc10": "Married common-law by Oath",
+    "arc12": "Married — common-law; her paladin oath forbids the legal kind"
+  },
+  "correction": "Akane. She is Akane's brat-wife, and the Oath did not make her less of one."
+}

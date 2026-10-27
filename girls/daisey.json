@@ -1,0 +1,42 @@
+{
+  "id": "daisey",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Daisey",
+  "short": "Daisey",
+  "sort": "Daisey",
+  "titles": [
+    "The Goth Cowgirl",
+    "The Submissive",
+    "Magnolia's Wife"
+  ],
+  "partner": "magnolia",
+  "arcAdopted": 13,
+  "arcIntroduced": 13,
+  "profession": "",
+  "essence": "Magnolia's submissive goth cowgirl wife. Goth and cowgirl at once, which should not work and does.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 64
+}

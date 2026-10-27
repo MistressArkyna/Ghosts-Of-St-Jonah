@@ -1,0 +1,42 @@
+{
+  "id": "pepper-halliwell",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Pepper Sage Halliwell",
+  "short": "Pepper",
+  "sort": "Pepper",
+  "titles": [
+    "The Pompom Menace",
+    "The Cheer Chaos",
+    "Banned From The DJ Booth"
+  ],
+  "partner": "natalia-everly",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "Cheerleader",
+  "essence": "Electric pink pompoms, sacred and untouchable. Bounces twice before every brat attempt. Banned from the DJ booth twice; has accessed it three times.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Petite",
+    "height": "5'11.5\"",
+    "measurements": "34–24–36"
+  },
+  "cock": {
+    "specs": "10.7\" × 6.2\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 37
+}

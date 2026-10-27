@@ -1,0 +1,42 @@
+{
+  "id": "kaia-valeheart",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Kaia Rowana Valeheart",
+  "short": "Kaia",
+  "sort": "Kaia",
+  "titles": [
+    "The Whipped Brat",
+    "The Storm-Violet",
+    "The Collapse"
+  ],
+  "partner": "roxanne-valeheart",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "—",
+  "essence": "Sharp-hipped bratting evidence on every surface, and at least one item of clothing removed specifically to provoke correction. Fucks with brat-force momentum and collapses beautifully.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Petite",
+    "height": "5'6\"",
+    "measurements": "34–24–36"
+  },
+  "cock": {
+    "specs": "10.4\" × 6.0\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 52
+}

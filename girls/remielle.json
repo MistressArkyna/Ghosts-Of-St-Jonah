@@ -1,0 +1,44 @@
+{
+  "id": "remielle",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Remielle",
+  "short": "Remielle",
+  "sort": "Remielle",
+  "titles": [
+    "The Accidental Heartbreaker",
+    "Eirwen's",
+    "The Unwitting"
+  ],
+  "partner": "eirwen",
+  "arcAdopted": 14,
+  "arcIntroduced": 14,
+  "profession": "",
+  "essence": "The accidental heartbreaker — accidental being the operative word, and dating a cathedral about it.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "06 — Porcelain Dolls",
+    "id": "06-089"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 67
+}

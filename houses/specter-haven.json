@@ -1,0 +1,31 @@
+{
+  "id": "specter-haven",
+  "kind": "house",
+  "name": "Specter Haven",
+  "epithet": "The Cathedral of Chaos",
+  "state": "current",
+  "arcOpened": 10,
+  "arcOccupied": 10,
+  "color": "specter-haven",
+  "theme": "CHAOS and AMBITION.",
+  "themeHolders": "Lili is the chaos; Arianna is the ambition that keeps the chaos contained. Chaos needs a vessel or it is only weather.",
+  "wings": "THIGHS — four bathrooms in each thigh, one in the pelvis, one in the entry shaft. TEN in total.",
+  "residents": 28,
+  "couples": 14,
+  "thesis": "Shaped by the land into Arianna Vesperia Solene's cock and thighs. Ghost Haven settled. Specter Haven stands.",
+  "location": "Same 200-acre Southern Woods property as Ghost Haven, roughly 300 feet from Wildwood Hearth. Close enough to raid Ghost Haven's kitchen, far enough to deny involvement.",
+  "lead": "Lilith Alessandra Seraphine leads the noise; Arianna Vesperia Solene holds it still. If Lili is the spark, Arianna is the structure the spark lives inside.",
+  "mood": "Specter Haven is the church that fucks you holy. It shouts that you are wanted. Both houses are saying the same thing: you survived, now live.",
+  "plan": "Viewed from above the footprint is unmistakable. The Shaft extends forward as the main entrance, narrowing, where a waterproof staircase descends to the pool level. The Pelvic Floor is the central hub where kitchen, living room and library anchor the daily chaos. Two thigh wings spread from the centre, each bending at an architectural knee.",
+  "seasons": {
+    "winter": "The pool level becomes the warmest sanctuary — steam rising, hot tub perpetually full. The Nightclub runs more often, Vesper's mixes moodier. Katherine's baking output doubles. Goldie builds a blanket fort and dares anyone to dismantle it.",
+    "spring": "Ivy's garden visits increase and the rooftop planters bloom under her care, watched with the suspicious admiration of people who have killed every houseplant they ever owned. Morrighan inks more — spring inspires devotion.",
+    "summer": "Rooftop BBQs every weekend, the pool in constant use, the Nightclub doors open to cross-house parties. The house at its loudest, its most shameless, its most gloriously alive.",
+    "fall": "The forge glows amber as nights cool. Tattoo sessions lengthen. Katherine's kitchen turns to pumpkin everything. Tournament season in the Game Room; Briar and Pepper form a chaos alliance."
+  },
+  "smells": "Myrrh and hot iron from the forge, copper smoke, cinnamon from a midnight bake, chlorine drifting up the shaft staircase.",
+  "depth": "deep",
+  "open": [
+    "Built in Arc 10 alongside Wildwood Hearth, with Arianna and Lili adopted in the same arc. The other twenty-six residents have no recorded adoption arc — the Archive holds them at 12 as a placeholder and marks every one of those datings as inferred."
+  ]
+}

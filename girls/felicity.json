@@ -1,0 +1,42 @@
+{
+  "id": "felicity",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Felicity",
+  "short": "Felicity",
+  "sort": "Felicity",
+  "titles": [
+    "The Lewd Maid",
+    "Orianna's Undoing",
+    "The Uniform"
+  ],
+  "partner": "orianna",
+  "arcAdopted": 15,
+  "arcIntroduced": 15,
+  "profession": "Maid",
+  "essence": "A lewd maid, which is unfortunate for a wife who folds to maids.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 72
+}

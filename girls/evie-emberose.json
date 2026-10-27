@@ -1,0 +1,60 @@
+{
+  "id": "evie-emberose",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Evelyn Dawn Emberose",
+  "short": "Evie",
+  "sort": "Evelyn",
+  "titles": [
+    "The Protector",
+    "The Firebrand",
+    "The Haven Built by a Wildfire"
+  ],
+  "partner": "ivy-emberose",
+  "arcAdopted": 3,
+  "arcIntroduced": 3,
+  "profession": "Electrician",
+  "essence": "Fire shaped into shelter; rage tempered into devotion; safety carried in warm hands.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "00 — Transfers",
+    "id": "00-100"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Junoesque",
+    "height": "5'8\"",
+    "measurements": "36–26–38"
+  },
+  "cock": {
+    "specs": "8.2\" × 5.4\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "HER PROFILE WAS THE ONE MISSING FROM THE NEREID FILE. Thirty-one profiles, thirty-two residents, and Evie was the absence — with her wife's complete. Delivered whole by Viraena on 7 September and filed the same hour.",
+    "MOVEMENT: moves like controlled flame held gently in cupped hands. EMBER-PACED GUARDIAN. Molten amber eyes that flare bright under emotion and soften to honey for Ivy. Ember-orange hair with golden streaks, mid-back, heavy density. Spirit animal: THUNDERBIRD — storm-forged wings carrying vows that never burn out.",
+    "v8 LOWER BODY: BUBBLE BUTT · FIRM GRAB-READY FULLNESS. Her v5 pair was Anchor + Bubble — grounded mass and tender plushness, the Warm-Recoil Haven. Forty-inch hips.",
+    "COCK: 8.2\" × 5.4\", warm and thick, upward-curved, smooth — and it carries A SINGLE BLACK-INK LIGHTNING TATTOO COILED AT THE BASE. Every stroke she gives is slow-burn devotion, never dominance.",
+    "HER CORE WOUND IS NOT ABSTRACT. She was PUNISHED FOR PROTECTING IVY, over and over, and the pain point she carries is four words long: I FAILED HER ONCE. THE SHIELD — she took every punishment meant for Ivy across Jonah's walls. THE TUNNEL RESCUE — she went down into Jonah's depths ALONE to get her back.",
+    "POSSESSIONS: a matchbox from her last Jonah night, once a panic anchor and now a symbol of mastery · a fireproof photo of Ivy, edges worn from being held · the engagement ring Bryn forged, kept close until her hands stopped trembling · the spark-plug necklace Ivy gave her, worn on every repair.",
+    "SHE IS AN ELECTRICIAN, which is why Pandora recruited her for the solar bay without either of them making anything of it.",
+    "SIGNATURE TELL: her breath hitches BEFORE she touches.",
+    "Arc 7's Evie thread — the certifications and the Lucky Hammer — is confirmed and unrecorded. Full summaries pending."
+  ],
+  "gremlindex": 13,
+  "nicknames": "Emberheart (Ivy only) · Evie (Family)",
+  "deadname": "Burned out of memory in silence",
+  "agePre9": 23,
+  "ageCurrent": 25,
+  "transition": "Refined by Dr. Hathaway and Nereid; body shaped slowly into warm, protective fire.",
+  "note": "Arc 7 runs an arc of her own around Evie: her Electrician certifications, and the Lucky Hammer. The profession line on this record is not decoration — it is a thread with its own beats, and the beats have not been written down yet."
+}

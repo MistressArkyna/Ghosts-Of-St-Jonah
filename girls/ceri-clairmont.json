@@ -1,0 +1,56 @@
+{
+  "id": "ceri-clairmont",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Cyrena Nerissa Clairmont",
+  "short": "Ceri",
+  "sort": "Cyrena",
+  "titles": [
+    "The Blood-Witch",
+    "The Red Oath",
+    "The Exiled Rose"
+  ],
+  "partner": "dessie-clairmont",
+  "arcAdopted": 8,
+  "arcIntroduced": 6,
+  "profession": "Woodworker · Archery Trainer",
+  "essence": "Exile carved shame into her hunger; Nereid rewrote it into ritual. She marks devotion through touch, teeth, and vow. Her love is a scar kissed clean.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "01 — Lapdogs",
+    "id": "01-203"
+  },
+  "body": {
+    "coreBuild": "Huntress",
+    "fillBuild": "Seductress",
+    "height": "6'3\"",
+    "measurements": "40–28–40"
+  },
+  "cock": {
+    "specs": "9.5\" × 5.6\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "She officiated her own marriage to Dessie in Arc 10. Not a strangeness — her clan's rite has no officiant standing apart, so the only two people qualified to perform it were already in the room.",
+    "Her clan is WALLACHIAN, Dracula-shaped. And it survives beyond her — she is one of FOUR Pleasures subflight survivors, and all four came out of nomadic tribes."
+  ],
+  "gremlindex": 23,
+  "nicknames": "VAMPY (Dessie — was BLOOD ROSE) · My Little Vampire (Dessie, when teasing)",
+  "note": "WOODWORKER AND ARCHERY TRAINER, with a hobby for hunting. Actual joinery, learned from her clan. RITUAL TATTOOIST WAS A DRIFT AND IT IS GONE — the same way Cora was always a 3D modeller and never a femme fatale. Two profile drifts, both about OCCUPATION, and both times the woman underneath was exactly who she always was. Two accidents, not a systemic tilt.\n\nSMUG GOTH BRAT TOP, married to a stripper brat, and if she goes quiet she is either plotting something or asleep. There is no third state.",
+  "clan": "A nomadic, blood-occult WALLACHIAN clan that marries by Blood Bond rather than by ceremony — the couple share blood with their chosen mate during intimacy, and vow and consummation are one act. There is no officiant, because the rite is not something a third party performs. One of four Pleasures subflight survivors, 01-203.",
+  "status": {
+    "pre9": "Dating Destiny",
+    "arc9": "Dating Destiny",
+    "arc10": "Blood Bonded — married under her clan's rite",
+    "arc12": "Married by Blood Bond"
+  }
+}

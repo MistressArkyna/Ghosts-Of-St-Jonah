@@ -1,0 +1,46 @@
+{
+  "id": "lili-seraphine",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Lilith Alessandra Seraphine",
+  "short": "Lili",
+  "sort": "Lilith",
+  "titles": [
+    "The Halo-Breaker Brat",
+    "The Thief",
+    "House Lead"
+  ],
+  "partner": "arianna-solene",
+  "arcAdopted": 10,
+  "arcIntroduced": 10,
+  "profession": "Menace · House Lead",
+  "essence": "She steals everything she touches because she spent years being invisible, and taking means existing. Every stolen item on the living-room shelf is a girl saying I am not nothing anymore.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "07 — Floaters",
+    "id": "07-099"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Athletic",
+    "height": "5'4\"",
+    "measurements": "34–22–38"
+  },
+  "cock": {
+    "specs": "8.05\" × 6.0\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [
+    "Adopted in Arc 10, the same arc she and Arianna built Specter Haven in."
+  ],
+  "gremlindex": 33
+}

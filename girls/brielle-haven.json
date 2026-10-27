@@ -1,0 +1,42 @@
+{
+  "id": "brielle-haven",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Brielle Annabelle Haven",
+  "short": "Brielle",
+  "sort": "Brielle",
+  "titles": [
+    "The Wandering Brat",
+    "The Curious Fox",
+    "The Unreturned Souvenir"
+  ],
+  "partner": "jinx-walker",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "—",
+  "essence": "Curiosity made spatial. She does not break rules to provoke — she breaks them because she forgot they existed, and gets pinned by someone who knew exactly where she would end up.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Seductress",
+    "height": "5'6\"",
+    "measurements": "36–26–42"
+  },
+  "cock": {
+    "specs": "8.2\" × 5.5\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 57
+}

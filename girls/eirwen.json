@@ -1,0 +1,46 @@
+{
+  "id": "eirwen",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Eirwen",
+  "short": "Eirwen",
+  "sort": "Eirwen",
+  "titles": [
+    "The Goth Cathedral",
+    "The Valkyrie",
+    "Remielle's Steady"
+  ],
+  "partner": "remielle",
+  "arcAdopted": 14,
+  "arcIntroduced": 14,
+  "profession": "",
+  "essence": "A goth cathedral. VALKYRIE-BUILT, the way Bryn is — the second one in the canon.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "06 — Porcelain Dolls",
+    "id": "06-091"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [
+    "DISPUTE RESOLVED BY EVIDENCE. She was listed a survivor in one pass and a citizen in the next; a flight and an ID settle it. SURVIVOR."
+  ],
+  "gremlindex": 68
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lyric",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Lyric",
+  "short": "Lyric",
+  "sort": "Lyric",
+  "titles": [
+    "The Seeker",
+    "The Eight-Armed Curiosity",
+    "Alexis's Wanting"
+  ],
+  "partner": "alexis",
+  "arcAdopted": 13,
+  "arcIntroduced": 13,
+  "profession": "",
+  "essence": "Seeks knowledge the way an octopus seeks food — with all of her limbs and her entire being. Which is why Alexis withholding half a sentence works on her at all.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 65
+}

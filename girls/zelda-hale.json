@@ -1,0 +1,42 @@
+{
+  "id": "zelda-hale",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Zelda Artemis Hale",
+  "short": "Zelda",
+  "sort": "Zelda",
+  "titles": [
+    "The Steady Pin",
+    "The One Who Waits",
+    "The Asterisk"
+  ],
+  "partner": "ophelia-croft",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Cosplayer · Boxer",
+  "essence": "Quiet predatory patience from the corner chair, waiting for the exact moment Lia's guard drops. She always follows. She always waits. Charcoal sketches of Ophelia pinned above the desk with the care of someone who memorised every freckle.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Huntress",
+    "fillBuild": "Athletic",
+    "height": "5'11\"",
+    "measurements": "38–26–40"
+  },
+  "cock": {
+    "specs": "10.4\" × 6.5\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 54
+}

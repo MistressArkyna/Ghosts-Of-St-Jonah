@@ -1,0 +1,40 @@
+{
+  "id": "riven",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Riven",
+  "short": "Riven",
+  "sort": "Riven",
+  "titles": [
+    "The Bratty Librarian"
+  ],
+  "partner": "heather",
+  "arcAdopted": 15,
+  "arcIntroduced": 15,
+  "profession": "Librarian",
+  "essence": "ADOPTED IN ARC 15, Fishnet Struts and Happy Trails. A BRATTY LIBRARIAN. Married to Heather. Nothing else recorded — house assignment INFERRED from arc proximity to the other Banshee arrivals and NOT given.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 73
+}

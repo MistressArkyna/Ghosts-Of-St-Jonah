@@ -1,0 +1,43 @@
+{
+  "id": "minerva-silverhorn",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Minerva Celeste Silverhorn",
+  "short": "Minerva",
+  "sort": "Minerva",
+  "titles": [
+    "The Star-Map Scholar",
+    "The Chronicler's Nest",
+    "Beloved Daughter"
+  ],
+  "partner": "jasmine-nightingale",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "Chronicler",
+  "essence": "The smallest girl in the house, held by the girl whose voice makes her feel seen. Her adoption certificate hangs framed above the desk — beloved daughter of Viraena and Selene, witnessed, chosen, kept.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Ethereal",
+    "height": "5'3\"",
+    "measurements": "34–24–36"
+  },
+  "cock": {
+    "specs": "9.5\" × 5.8\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 43,
+  "maiden": "Ashford — chosen by her, then replaced by SILVERHORN on adoption"
+}

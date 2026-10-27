@@ -1,0 +1,42 @@
+{
+  "id": "magnolia",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Magnolia",
+  "short": "Magnolia",
+  "sort": "Magnolia",
+  "titles": [
+    "The Southern Belle",
+    "The Hospitality Queen",
+    "The Curator"
+  ],
+  "partner": "daisey",
+  "arcAdopted": 13,
+  "arcIntroduced": 13,
+  "profession": "Museum Curator",
+  "essence": "Southern belle and hospitality queen, and a museum curator — which makes her another of this family's many keepers, hers being objects behind glass with cards beside them.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 63
+}

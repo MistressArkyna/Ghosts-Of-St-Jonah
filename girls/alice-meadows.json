@@ -1,0 +1,55 @@
+{
+  "id": "alice-meadows",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Alice Faye Meadows",
+  "short": "Ali",
+  "sort": "Alice",
+  "titles": [
+    "The Older Sister",
+    "The Chaos Guardian",
+    "Knife-in-Heels"
+  ],
+  "partner": "luna-meadows",
+  "arcAdopted": 1,
+  "arcIntroduced": 1,
+  "profession": "Chef · Chaos Guardian",
+  "essence": "Flame wrapped around a knife; chaos shaped into protection; tenderness hidden behind swagger. She loves loudly, protects fiercely, and softens only for Luna.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Junoesque",
+    "fillBuild": "Athletic",
+    "height": "5'9\"",
+    "measurements": "38–26–42"
+  },
+  "cock": {
+    "specs": "8.9\" × 5.4\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Secondary Pillar unrecorded.",
+    "Sister to Torie Eriksson — the sibling link lives in the master index and on neither profile."
+  ],
+  "gremlindex": 5,
+  "agePre9": 28,
+  "ageCurrent": 28,
+  "note": "ALICE MEADOWS — no Cassidy anywhere in this family, and the Archive said it twice before anyone corrected it. THE BRATTY CHEF: she is why thirty-four people eat home-cooked instead of takeaway, every day, and every restaurant-grade appliance crowding the long counter is something she asked for. SHE PLATES A SMALLER PORTION FOR SIR TRASHMUFFIN because he is a resident and does not get counted in the thirty-four, and she will deny it. SHE CARVED EVERY ANNIVERSARY into the kitchen doorframe with her own knife because nobody else's handwriting was precise enough; Luna corrected two with a pen and nobody talks about it. SHE HAD THE LIBRARY TOWER BUILT FOR LUNA — looked at the blueprint, looked at her wife, said SHE NEEDS A TOWER — and at three in the morning Luna takes her up the rolling ladder in it and reminds her exactly who built it and why. AND SHE CARRIES THE MARK: she is a citizen, she never went through those walls, and in Arc 1 Livi gave her the whole account of what Bryn did in there and Alice went and asked to be marked as one of hers.",
+  "vibe": {
+    "primary": "Chaos Agent",
+    "primaryFlavor": "Knife-in-Heels",
+    "secondary": null,
+    "secondaryFlavor": null
+  },
+  "correction": "Luna — situationally, and only when the ambience needed saving. Roughly half the time the ambience needed Alice."
+}

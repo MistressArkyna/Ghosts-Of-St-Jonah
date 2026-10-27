@@ -1,0 +1,41 @@
+{
+  "id": "ghost-haven",
+  "kind": "house",
+  "name": "Ghost Haven",
+  "epithet": "The Hearth of Devotion",
+  "state": "current",
+  "arcOpened": 4,
+  "arcOccupied": 9,
+  "color": "ghost-haven",
+  "theme": "DEVOTION and HEARTH.",
+  "themeHolders": "Bryn holds both halves; Torie doubles Devotion. Nobody else in the family carries Hearth — that half faces OUTWARD, to whoever is not family yet, and Sage named the guest cottage after it.",
+  "wings": "CHEEKS — two sweeping wings, Shrine on one side and Bubble on the other. The house is Belladonna Vargas's ass and the wings are the cheeks of it.",
+  "orientation": "Faces north/south. The garden is the SOUTH side. The LEFT artery is the EAST CHEEK.",
+  "bathrooms": "FOURTEEN — 3 main floor, 3 Right Cheek, 3 Couch section, 2 basement (one private for Zephi, one for the Speakeasy), 3 Left Cheek. NONE in the Library Tower.",
+  "cap": "Sixteen couples, thirty-two girls. The house expanded on every adoption and then stopped. Not crowded. COMPLETE.",
+  "nickname": "None. Torie tried to give it one and Bryn reached her first and made thinking optional for about an hour. Specter Haven is the only house with a door-name because of it.",
+  "residents": 32,
+  "couples": 16,
+  "thesis": "Shaped by the land into Belladonna Vargas's body — warmth, curves, gravity. Built beam by beam by the girls who live in it.",
+  "location": "Southern Woods, 200-acre property. Wildwood Hearth stands between it and Specter Haven.",
+  "lead": "Brynnhildr Eriksson — the jeweler, the steady hands, the heroine who holds the world together with wire and devotion.",
+  "mood": "Ghost Haven is the hearth that holds you. It whispers that you are safe. Every stair, every door, every floorboard carries their fingerprints — this house was not given, it was made.",
+  "seasons": {
+    "winter": "Hearthfire crackling, windows frosted. Blankets piled high in the lounge, cocoa steaming. The gym echoes as the lake freezes; laughter spills into snowball fights.",
+    "spring": "Ivy's garden bursts green, herbs pressing the glass. Muddy boots by the door, laundry lines heavy with pastel and ribbon. Rae reads on the porch while Violet braids flowers into hair.",
+    "summer": "Rooftop BBQs, lake swims at dusk, music across the water. Windows wide, air rich with lavender and grilled food. Cuddle piles under the stars, fireflies in Lumina's ribbons.",
+    "fall": "Leaves tracked into the entry hall, pumpkin soup and spiced bread from the kitchen. Movie nights grow longer. The fire pit glows in crisp air, Ghosts laughing against the dark."
+  },
+  "smells": "Fresh bread still warm, oil and steel from the garage, lavender drifting in from Ivy's garden.",
+  "grounds": "TWO HUNDRED ACRES of Southern Woods land, mountain-backed and tree-flanked, six miles from Fairbrooks' centre. Eighty-eight acres of it is Ivy's garden. A hundred and forty acres deep sits the lake and the Oak. NOT ONE SOUL OUTSIDE THE FOUND FAMILY SETS FOOT ON IT.",
+  "grew": "IT WAS NOT BUILT. IT WAS GROWN. Thirty-two pairs of hands that had never owned a home before raised a timber-frame manor, and every room got christened before the furniture arrived — at least two or three times per couple. The Southern Woods soil is old magic and it responds to INTENTION. The structure absorbed every kiss pressed into wet plaster and every moan that echoed down an unfinished hallway, and what began as a rectangle shifted, curved and swelled until the footprint was unmistakable.\n\nTHE DOORFRAMES ARE EIGHT FEET. Bryn Eriksson does not design a frame she has to duck through, and nobody in this house ducks — not Sera at 6'1.5\", not Livi, not anyone. The Archive once had Sera dipping her chin under a beam in her own kitchen, which is the sort of detail that sounds like texture and is actually an insult to the woman who drew the plans.\n\nAND THE HORIZONTAL SURFACES RUN THE OTHER WAY ENTIRELY. Eight feet overhead and BELLA'S HIP HEIGHT underhand, everywhere but the beds and the tubs. Generous above, deliberate below.",
+  "shape": "GHOST HAVEN IS SHAPED LIKE BELLADONNA VARGAS'S ASS. In Nereid v8 terms: a PLIANT PAWG BUBBLE with OBSCENE Cheek Plump — Obscene being the name Extreme now carries. Two sweeping wings curve outward as cheeks; a third floor flattens the upper curves into the rooftop patio. Bella threatened to kill whoever pointed it out first. Sera framed the original blueprint with a handwritten note: YOU'RE WELCOME.",
+  "expansion": "Like the apartment above the jewelry shop where Bryn and Torie first built a home, Ghost Haven EXPANDS when a new couple is adopted — the magic reshaping rooms, growing walls, breathing new space into existence. Unlike the apartment, the house knows its limits. It capped at sixteen couples, thirty-two girls. When the walls stopped shifting the family understood: not crowded. COMPLETE. One master bedroom on the Tea Side stands empty, waiting.",
+  "depth": "deep",
+  "open": [
+    "Ghost Haven Appendix v2 fully imported 7 September — thirty-eight room records including all sixteen couple rooms, plus the Vargas Incident, the First Morning Ritual, the Spin Cycle and the Witching Hour as systems.",
+    "GH-POOL IS DISPUTED. The appendix names no pool anywhere on the two hundred acres. Held rather than retired.",
+    "Katherine and Wynter migrated to Specter Haven; their old Left Cheek room is now Isolde and Mikaela's.",
+    "Eden and Dia stay at Wildwood Hearth once monthly. The rule about Dia and the main house is recorded and NOT explained."
+  ]
+}

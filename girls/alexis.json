@@ -1,0 +1,42 @@
+{
+  "id": "alexis",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Alexis",
+  "short": "Alexis",
+  "sort": "Alexis",
+  "titles": [
+    "The Priestess Brat",
+    "The Withholder",
+    "Lyric's Tease"
+  ],
+  "partner": "lyric",
+  "arcAdopted": 13,
+  "arcIntroduced": 13,
+  "profession": "",
+  "essence": "A priestess brat who tops Lyric and teases her with INCOMPLETE INFORMATION, which is the most specific cruelty in this canon and aimed at exactly the right woman.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 66
+}

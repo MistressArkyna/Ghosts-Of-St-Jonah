@@ -1,0 +1,53 @@
+{
+  "id": "dessie-clairmont",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Destiny Morrigan Clairmont",
+  "short": "Dessie",
+  "sort": "Destiny",
+  "titles": [
+    "The Velvet Sanctuary",
+    "The Porcelain Flame",
+    "The Blood-Bloom Consort"
+  ],
+  "partner": "ceri-clairmont",
+  "arcAdopted": 8,
+  "arcIntroduced": 6,
+  "profession": "Erotic Dancer",
+  "essence": "Turned spectacle into power, shame into silk, scars into bloom. Teases with abandon, yields with devotion, loves with trembling surrender.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "04 → 10",
+    "id": "04-077, 10-058"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Seductress",
+    "height": "5'10\"",
+    "measurements": "38–26–42"
+  },
+  "cock": {
+    "specs": "8.1\" × 5.25\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Blood Bonded to Ceri in Arc 10 under Ceri's clan rite. The Family recognises it fully; they have never needed a second ceremony."
+  ],
+  "gremlindex": 24,
+  "nicknames": "VELVET (Ceri — was VELVET PETAL)",
+  "status": {
+    "pre9": "Dating Cyrena",
+    "arc9": "Dating Cyrena",
+    "arc10": "Blood Bonded — married under Cyrena's clan rite",
+    "arc12": "Married by Blood Bond"
+  }
+}

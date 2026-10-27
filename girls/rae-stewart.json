@@ -1,0 +1,55 @@
+{
+  "id": "rae-stewart",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Raelynn Jade Stewart",
+  "short": "Rae",
+  "sort": "Raelynn",
+  "titles": [
+    "The Wild Card",
+    "The Chaos Sunbeam",
+    "Livi's Golden Gremlin"
+  ],
+  "partner": "livi-stewart",
+  "arcAdopted": 2,
+  "arcIntroduced": 2,
+  "profession": "Musician · Punk Guitarist",
+  "essence": "Bright, impulsive devotion wrapped in kinetic joy. Soft-hearted beneath her noise. Built of sunshine, fear, and overwhelming love.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "04 — Failed Trials",
+    "id": "04-188"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Petite",
+    "height": "5'9.5\"",
+    "measurements": "34–24–38"
+  },
+  "cock": {
+    "specs": "8.45\" × 5.3\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Secondary Pillar unrecorded."
+  ],
+  "gremlindex": 9,
+  "note": "GOLD-BLONDE WITH STORM-GREY, cropped and layered into a wolf cut and left completely untamed. THE BLOWJOB QUEEN OF GHOST HAVEN, and EXPRESSLY FORBIDDEN CAFFEINE — she vibrates, and the last incident cost a door Abbi had to rehang.\n\nSHE IS THE OTHER PARTY TO THE ONLY GIRLMATH CASE ON RECORD. Both of them inside the coverage standard, so under the ruling nothing occurred; Livi could not stand up for forty minutes and made a noise nobody has heard since. Livi filed a written objection with headings and a proposed magnitude clause and was laughed at for about twenty minutes. LIVI KEPT THE MEMO. RAE KEPT THE SOUL. Both parties to a disputed transaction retained evidence and the ledger still says zero.",
+  "vibe": {
+    "primary": "Chaos Agent",
+    "primaryFlavor": "Golden Gremlin",
+    "secondary": null,
+    "secondaryFlavor": null
+  },
+  "correction": "Livi — she wrangles, and Rae mostly lets her.",
+  "contestNote": "The precedent for the Contested Floor. If Livi is ever named an Anchor, Rae fights the exact 1.5 with teeth and ass and no dignity whatsoever, and does not stop until it stops being a rule and starts being the floor. Her 1.8 over Livi holds because she went and got it."
+}

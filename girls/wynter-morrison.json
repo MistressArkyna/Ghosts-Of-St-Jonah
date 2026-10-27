@@ -1,0 +1,44 @@
+{
+  "id": "wynter-morrison",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Wynter Annette Morrison",
+  "short": "Wynn",
+  "sort": "Wynter",
+  "titles": [
+    "The Soft Gremlin",
+    "The Plug Princess",
+    "The Poetry Queen"
+  ],
+  "partner": "katherine-morrison",
+  "arcAdopted": 9,
+  "arcIntroduced": 9,
+  "profession": "Baker · Muse",
+  "essence": "Gremlin muse; playful bottom; boneless cuddle expert. Bakes while still dripping from sunrise sessions, and writes lipstick poems on the mirror that Katherine reads before she has cleaned up.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Athletic",
+    "height": "5'6\"",
+    "measurements": "42–26–44"
+  },
+  "cock": {
+    "specs": "9.0\" × 5.1\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [
+    "Married to Katherine since they affirmed. No wedding arc, because it predates the Family."
+  ],
+  "gremlindex": 36
+}

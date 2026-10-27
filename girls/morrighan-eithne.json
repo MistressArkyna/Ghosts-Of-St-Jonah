@@ -1,0 +1,46 @@
+{
+  "id": "morrighan-eithne",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Morrighan Cinderella Eithne",
+  "short": "Mori",
+  "sort": "Morrighan",
+  "titles": [
+    "The Ember Throne",
+    "The Succubus Queen",
+    "Thigh Lead"
+  ],
+  "partner": "vesper-ashwood",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "Tattoo Artist",
+  "essence": "She knows what it is to carry marks she did not choose, so she makes new ones. Every piece she inks is an act of overwriting — the needle saying your body is a canvas and I will make it holy.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "01 — Pleasures",
+    "id": "01-269"
+  },
+  "body": {
+    "coreBuild": "Seductress",
+    "fillBuild": "Junoesque",
+    "height": "5'10\"",
+    "measurements": "42–26–44"
+  },
+  "cock": {
+    "specs": "10.2\" × 6.1\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 39,
+  "clan": "A CULTIC DRUID tribe, and she is named for the Morrígan. One of four Pleasures subflight survivors.",
+  "note": "Her leather-bound ink list — date, design, recipient, and ONE WORD for the emotion present during the session — reads as a record of rites rather than a work log. The book is sacred and nobody touches it without permission."
+}

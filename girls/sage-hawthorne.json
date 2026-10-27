@@ -1,0 +1,43 @@
+{
+  "id": "sage-hawthorne",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Sage Juniper Hawthorne",
+  "short": "Sage",
+  "sort": "Sage",
+  "titles": [
+    "The Green Witch",
+    "The Ritual Keeper",
+    "The Sanctuary-Maker"
+  ],
+  "partner": "zephi-hawthorne",
+  "arcAdopted": 10,
+  "arcIntroduced": 10,
+  "profession": "Tea Witch · Herbkeeper",
+  "essence": "A hearth rebuilt from grief. Ritual is her language, sanctuary her offering, intimacy her slow-burning devotion. With Zephi she becomes gravity — warm, patient, anchoring mischief into bloom.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Petite",
+    "height": "5'8\"",
+    "measurements": "38–28–42"
+  },
+  "cock": {
+    "specs": "9.3\" × 5.5\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [],
+  "gremlindex": 29,
+  "note": "WILDWOOD HEARTH EXISTS BECAUSE SHE KEPT VISITING. She came for Ivy first — flowers, gardens, two women who speak the same botanical language — then started bringing Zephi, and weekends turned into stays until somebody said out loud that they needed somewhere to land that wasn't the couch. The whole family built it: Bryn on the framing, Bella on the plumbing, Abbi on the hinges, Evie threading the electrical. AND SAGE NAMED IT. She named the house that exists because of her, and she named it Hearth."
+}

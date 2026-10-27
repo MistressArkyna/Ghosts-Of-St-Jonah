@@ -1,0 +1,49 @@
+{
+  "id": "livi-stewart",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Olivia Maren Stewart",
+  "short": "Livi",
+  "sort": "Olivia",
+  "titles": [
+    "The Strategist",
+    "The Quiet Glue",
+    "Soft Chaos"
+  ],
+  "partner": "rae-stewart",
+  "arcAdopted": 1,
+  "arcIntroduced": 1,
+  "profession": "Boxing Coach · Tactical Planner",
+  "essence": "A wolf dressed in scholar's calm. Her silence carries weight; her decisions carve direction. Her love is slow-burning, precise, inevitable — always Rae-centered.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "03 — Workhorses",
+    "id": "03-094"
+  },
+  "body": {
+    "coreBuild": "Huntress",
+    "fillBuild": "Athletic",
+    "height": "6'0.5\"",
+    "measurements": "34–24–38"
+  },
+  "cock": {
+    "specs": "10.25\" × 6.0\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Pillar unrecorded and genuinely uncertain. She wrangles Rae, which reads Anchor-adjacent, but Anchor may not be the right label for a strategist-huntress — Viraena has not called it.",
+    "The stakes on that ruling are now low. If Livi is named an Anchor, Rae contests the exact figure and the 1.5 converts to a floor for this pairing. Rae's 8.45 holds either way.",
+    "She is the first person every new survivor meets. She takes their story and asks for their new name so she can change the ledger. Nobody ordained her; she started at fourteen and never stopped."
+  ],
+  "gremlindex": 3,
+  "note": "THE LANTERN IS HER. Bryn tried to remove herself from the equation inside those walls a great many times and Livi kept the flame lit through all of it — both hands round the glass, the wind at it constantly. Every Ghost wears a picture of that on her right shoulder. And in ARC 1 Livi sat Torie's sister down and gave her the whole account of what Bryn did in there, unsoftened, because softening it would have insulted both of them. Alice went and asked for the Mark.\n\nSTEWART, ARC 9. She filed a written objection to Girlmath. It had headings and a proposed amendment: the standard tests FABRIC and not OUTCOME, and an act producing total physiological collapse cannot rationally be recorded as a null, so she proposed a MAGNITUDE CLAUSE. She read it out at dinner and the table laughed for about twenty minutes. Nobody overruled her, because there is nobody to do it. She was right, being right did not help, and SHE STILL HAS THE DOCUMENT.\n\nShe also intercepts Sera roughly twice a week and has stopped pretending it is anything other than a standing duty.\n\nOrphan, raised in an orphanage whose priest abused the boys smaller than her and left her alone because she fought back. She got in his way until he SOLD HER to St. Jonah's. Her dream was to be a priestess with a flock, running an orphanage done properly, teaching the children to box in case she was ever not in the room. She keeps a notebook: the real names of the boys she could not save, never their flight IDs, and now mostly rewrites — the names they chose after."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "vesper-ashwood",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Vesper Nocturne Ashwood",
+  "short": "Ves",
+  "sort": "Vesper",
+  "titles": [
+    "The Twilight Blade",
+    "The Switch-Soul Brat",
+    "The DJ"
+  ],
+  "partner": "morrighan-eithne",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "DJ · Bartender",
+  "essence": "Dusk to Morrighan's fire. Dance shoes beside combat boots, and the glowing script mine on her hip that Morrighan put there one steady line at a time.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "02 — Ghost Room",
+    "id": "02-013"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Ethereal",
+    "height": "5'7\"",
+    "measurements": "38–26–42"
+  },
+  "cock": {
+    "specs": "8.4\" × 6.1\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 40
+}

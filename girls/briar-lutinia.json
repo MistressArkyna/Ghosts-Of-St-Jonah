@@ -1,0 +1,42 @@
+{
+  "id": "briar-lutinia",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Briar Wren Lutinia",
+  "short": "Briar",
+  "sort": "Briar",
+  "titles": [
+    "The Voltage Brat",
+    "The Lightning Strike",
+    "The Desk Dent"
+  ],
+  "partner": "quinn-lutinia",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Chaos Coordinator",
+  "essence": "Kinetic energy of a lightning strike, and hips that find horizontal surfaces the way water finds low ground. The classroom desk and the bedroom desk share a dent profile. She is not sorry.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Petite",
+    "height": "5'10\"",
+    "measurements": "34–24–36"
+  },
+  "cock": {
+    "specs": "10.5\" × 6.0\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 48
+}

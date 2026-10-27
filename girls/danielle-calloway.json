@@ -1,0 +1,42 @@
+{
+  "id": "danielle-calloway",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Danielle Juliette Calloway",
+  "short": "Dani",
+  "sort": "Danielle",
+  "titles": [
+    "The Ironheart Coach",
+    "The Measured Patience",
+    "The Woman Being Played"
+  ],
+  "partner": "goldie-lumine",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Gym Coach",
+  "essence": "Clean, organised, functional — resistance bands hung with military precision. She watches Goldie with the particular patience of a woman who knows she is being played and cannot stop finding it devastating.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Junoesque",
+    "height": "5'8\"",
+    "measurements": "34–26–36"
+  },
+  "cock": {
+    "specs": "9.2\" × 5.4\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 50
+}

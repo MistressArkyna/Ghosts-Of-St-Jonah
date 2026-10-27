@@ -1,0 +1,42 @@
+{
+  "id": "jasmine-nightingale",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Jasmine Ceridwen Nightingale",
+  "short": "Jasmine",
+  "sort": "Jasmine",
+  "titles": [
+    "The Musical Poet",
+    "The Warm Voice",
+    "The Nest-Builder"
+  ],
+  "partner": "minerva-silverhorn",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Musician",
+  "essence": "Sheet music on every surface and the faint honey of her voice lingering in the air after practice. Her warmth turns a constellation-draped four-poster into a nest.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Junoesque",
+    "height": "5'7\"",
+    "measurements": "36–26–42"
+  },
+  "cock": {
+    "specs": "9.8\" × 6.1\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 44
+}

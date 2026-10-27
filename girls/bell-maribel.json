@@ -1,0 +1,45 @@
+{
+  "id": "bell-maribel",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Maribel Grace Holloway",
+  "short": "Bell",
+  "sort": "Maribel",
+  "titles": [
+    "The Oracle of Seances",
+    "The Goth Girl",
+    "Part-Time Chaos Agent"
+  ],
+  "partner": "elspeth",
+  "arcAdopted": 13,
+  "arcIntroduced": 13,
+  "profession": "Oracle · House Lead",
+  "essence": "House lead of Banshee Haven and the reason Arc 13 is called Seance at Sundown. Goth girl, part-time chaos agent, full-time oracle. The house grew around HER — see the house record.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "08 — Painted Ones",
+    "id": "08-013"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 61,
+  "note": "Married to Elspeth Clara Holloway. Banshee Haven took its shape from her chest, because Elspeth could not keep her hands or her cock off it during construction. She is the Seance the arc is named for."
+}

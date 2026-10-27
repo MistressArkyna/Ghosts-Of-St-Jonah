@@ -1,0 +1,44 @@
+{
+  "id": "orianna",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Orianna",
+  "short": "Orianna",
+  "sort": "Orianna",
+  "titles": [
+    "The Goth Stripper",
+    "The One Who Folds",
+    "Felicity's Wife"
+  ],
+  "partner": "felicity",
+  "arcAdopted": 15,
+  "arcIntroduced": 15,
+  "profession": "Stripper",
+  "essence": "Goth girl stripper who folds to maids — and married one.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [
+    "Not to be confused with the Orianna used as a deadname example in the v7 profile template. No connection is recorded."
+  ],
+  "gremlindex": 71
+}

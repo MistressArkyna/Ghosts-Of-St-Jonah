@@ -1,0 +1,48 @@
+{
+  "id": "ida-veyra",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Isolde Cerise Veyra",
+  "short": "Ida",
+  "sort": "Isolde",
+  "titles": [
+    "The Winter Kirin",
+    "The Living Vow",
+    "The Keeper of Fragile Things"
+  ],
+  "partner": "mikaela-verya",
+  "arcAdopted": 10,
+  "arcIntroduced": 10,
+  "profession": "Winter Apothecary",
+  "essence": "A still hearth in human form. A woman who catches what trembles, protects what shakes, and holds what fears being seen. With Mikaela her silence becomes devotion.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "05 — Dealmakers",
+    "id": "05-117"
+  },
+  "body": {
+    "coreBuild": "Junoesque",
+    "fillBuild": "Ethereal",
+    "height": "5'10\"",
+    "measurements": "38–28–42"
+  },
+  "cock": {
+    "specs": "9.2\" × 5.7\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Arrived already married to Mikaela and was adopted as a wife. Their marriage predates the Family entirely and has no wedding arc, because it did not happen here.",
+    "THE QUIETEST WOMAN IN THE COMPOUND. Not of Ghost Haven — of all three Havens and every woman in them. The most reserved of the whole family, and she holds that against eighty-three other women, several of whom are professionally loud.",
+    "RESERVED IS NOT EMPTY. She has her own things and they are hers; the stillness is a temperament and not an absence. A STILL HEARTH IN HUMAN FORM, which the record already said before anybody counted."
+  ],
+  "gremlindex": 31
+}

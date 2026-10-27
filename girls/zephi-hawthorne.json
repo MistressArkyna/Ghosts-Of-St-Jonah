@@ -1,0 +1,46 @@
+{
+  "id": "zephi-hawthorne",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Zephinia Hera Faust–Hawthorne",
+  "short": "Zephi",
+  "sort": "Zephinia",
+  "titles": [
+    "The Violet Mischief",
+    "The Masked Heart",
+    "Trashmuffin's Chosen"
+  ],
+  "partner": "sage-hawthorne",
+  "arcAdopted": 10,
+  "arcIntroduced": 10,
+  "profession": "Street Performer · Mischief Artist",
+  "essence": "A masked heart wrapped in mischief, built from survival and longing. She hides softness behind chaos until held in gentle hands. Sage becomes the stillness where she can unmask.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "01 — Pleasures",
+    "id": "01-211"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Petite",
+    "height": "5'7.5\"",
+    "measurements": "36–26–38"
+  },
+  "cock": {
+    "specs": "8.0\" × 5.0\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [],
+  "gremlindex": 30,
+  "note": "THE SOCK THESIS, defended in the laundry room with the kind of quiet intensity that stops thirty-two women mid-sort: GRIPPY SOCKS = GRIPPY ASSBOX. The girls do not have the box cis girls do, so the equation adapts — grip on the floor, grip on the asspussy, it is just maths. Nobody has ever argued her down. PART OF THE HOARD LIVES INSIDE THE WALLS OF WILDWOOD HEARTH and is not coming out without a saw.\n\nTrashmuffin keeps a secondary den on the Tea Side and visits on bad days specifically. Nobody taught him that.",
+  "clan": "A Germanic VISIGOTH tribe. One of four Pleasures subflight survivors, 01-211 — and she married the green witch."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "siren-wilding",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Siren Calliope Wilding",
+  "short": "Siren",
+  "sort": "Siren",
+  "titles": [
+    "The Witness",
+    "The Chronicler",
+    "The Girl Who Stayed"
+  ],
+  "partner": "lucia-wilding",
+  "arcAdopted": 6,
+  "arcIntroduced": 6,
+  "profession": "Journalist · Erotica Writer",
+  "essence": "A memory-keeper born of grief, rebuilt by devotion. A woman who wrote the world to avoid being seen in it. Lucia taught her to live inside her own story.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Ethereal",
+    "height": "5'7\"",
+    "measurements": "34–25–38"
+  },
+  "cock": {
+    "specs": "7.2\" × 4.7\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Her sister has no recorded name. ID 09-156 is all the Archive has of her.",
+    "HAIR — PILLAR FIVE. WINE RED threaded with SILVER, mid-back, worn in loose waves."
+  ],
+  "gremlindex": 20,
+  "note": "Her older sister took the blame when their parents caught them playing dress-up — said she MADE SIREN DO IT — and was sent to St. Jonah's alone, where she died. Maddy was the last person to see her, and gave her the same safe space Sera, Bryn and Livi had given Maddy. Siren wrote fantasy and memoirs to escape and to remember at once, and used a journalism piece in Arc 5 as a search warrant."
+}

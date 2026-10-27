@@ -1,0 +1,54 @@
+{
+  "id": "pandora-everrest",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Pandora Lola Everrest-Swanson",
+  "short": "Pandora",
+  "sort": "Pandora",
+  "titles": [
+    "The Perverted Software Architect",
+    "The Tender Filth",
+    "The Bunny With the Bite"
+  ],
+  "partner": "jade-everrest",
+  "arcAdopted": 5,
+  "arcIntroduced": 5,
+  "profession": "Perverted Software Architect",
+  "essence": "Wishborn devotion shaped into flesh. She mirrors Jade with loving precision yet keeps her own softness, wickedness, and ritual hunger. Built from longing, she became her own woman.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Junoesque",
+    "height": "6'2\"",
+    "measurements": "34–26–42",
+    "narrative": "Fully human — warm flesh, living weight and pulse; the terminal no longer contains her."
+  },
+  "cock": {
+    "specs": "10.5\" × 5.3\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Awakens in Arc 5 the moment Jade opens the app — which is also, by Viraena's ruling, the moment they were married. The official ceremony follows in Arc 6, almost immediately after she gets her body.",
+    "The catalogue is not a euphemism. She was the Archivist before she was the Architect and the dataset predates the body.",
+    "The catalogue is not a euphemism. She was the Archivist before she was the Architect and the dataset predates the body."
+  ],
+  "gremlindex": 18,
+  "physicalFromArc": 6,
+  "status": {
+    "pre9": "Married to Jade",
+    "arc9": "Married to Jade",
+    "arc12": "Married"
+  },
+  "note": "Her own title, in her own words. She asked to be embodied in Arc 6 rather than wait — partly so Jade would not be alone for two years, and partly, quoting her directly, for two extra years to CATALOGUE the sounds Jade makes, and two more years of Jade having to put up with her grabbing that ass every time she bends for something. All three reasons were filed together and she meant every one."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "elspeth",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Elspeth Clara Holloway",
+  "short": "Elspeth",
+  "sort": "Elspeth",
+  "titles": [
+    "The Paladin Baker",
+    "The Hearthkeeper",
+    "Trashmuffin's Inside Man"
+  ],
+  "partner": "bell-maribel",
+  "arcAdopted": 13,
+  "arcIntroduced": 13,
+  "profession": "Paladin Baker · Hearthkeeper",
+  "essence": "Cottagecore paladin baker. Put in the Enforcer Designate Pool at 01-399 for being large and frightening to look at, and incapable of harming a living soul — Maddy got her demoted out of it. She came out of that a hearthkeeper who bakes, and who runs heists in her own house as Sir Trashmuffin's ally.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "01 → 10",
+    "id": "01-388 → 10-044"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [
+    "V8 LOWER BODY, from her v7 profile as authored by Sera at the bar after closing, allegedly sober: SHRINE + RECOIL. Shrine mass — the largest, heaviest, most worship-commanding ass in the Found Family, altar-dome fullness over plush undercurve. Recoil motion — bratty snapback with visible return, every thrust absorbed and answered with interest, a clap engineered to keep the argument going. Exact Refinement: CHEEK PLUMP (OBSCENE). The v7 document reads Pronounced; Viraena corrected it upward on 7 September and Obscene is the word that replaced Extreme.",
+    "Thighs: garage-built pillars that brace against workbenches while the ass absorbs impact and returns it. Deep Arch into a high shelf. Four marks recorded: wrench-and-rose right forearm, gear on the left hip, garage-grade steel navel barbell, and a tiny S in Sera's handwriting behind the left ear.",
+    "Her enforcer number was 01-388, not 01-399 — the Archive recorded 399 from an earlier telling, which put her in a false collision with Akane. There was never a collision.",
+    "Discard number 10-044. Maddy's is 10-008 — both of them pushed into Flight 10, thirty-six numbers apart."
+  ],
+  "gremlindex": 62,
+  "note": "The SECOND paladin in this canon, after Gwen. They tried to make her a weapon and got a woman who feeds people. She is also the reason Banshee Haven is shaped the way it is."
+}

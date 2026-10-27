@@ -1,0 +1,50 @@
+{
+  "id": "maddy-ariti",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Madison Orion Ariti",
+  "short": "Maddy",
+  "sort": "Madison",
+  "titles": [
+    "The Quiet Flame",
+    "The Survivor",
+    "Hidden Strength"
+  ],
+  "partner": "cora-ariti",
+  "arcAdopted": 1,
+  "arcIntroduced": 1,
+  "profession": "Café Assistant",
+  "essence": "A gentle rebellion of softness; a survivor who remade herself through tenderness; a girl who chose love after a world that chose cruelty.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "09 → 10",
+    "id": "09-055, 10-008"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Ethereal",
+    "height": "5'8\"",
+    "measurements": "32–24–36"
+  },
+  "cock": {
+    "specs": "7.25\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Her full name is MADDISON Orion Ariti, two d's, per Cora's profile; the Archive imported it as Madison.",
+    "Maiden name REID — she took Ariti from Cora."
+  ],
+  "gremlindex": 6,
+  "nicknames": "BABYGIRL (Cora, exclusively) · Maddy (Family)",
+  "note": "ASH BLONDE WITH ROSE-GOLD RUNNING THROUGH IT, since Arc 1 — cool and pale with the warm strands catching when she turns her head. Thirty-two, twenty-four, thirty-six, and slightly bottom-heavy: no breadth anywhere, all of it in the drop from that narrow waist out into the hips. The Archive invented chestnut hair and broad shoulders for her once and was corrected inside the hour.",
+  "maiden": "Reid"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cassiane-lockhart",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Cassiane Tera Lockhart",
+  "short": "Cassie",
+  "sort": "Cassiane",
+  "titles": [
+    "The Basilisk",
+    "The Stillness",
+    "The Gaze That Ends Arguments"
+  ],
+  "partner": "aubrey-melody",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "—",
+  "essence": "Devastating stillness. Every object placed with intention, no excess, no noise. A top who never rushes, meeting a brat who needs to be witnessed.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Huntress",
+    "fillBuild": "Ethereal",
+    "height": "6'0\"",
+    "measurements": "40–28–42"
+  },
+  "cock": {
+    "specs": "8.7\" × 5.6\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 56
+}

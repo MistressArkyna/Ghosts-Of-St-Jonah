@@ -1,0 +1,42 @@
+{
+  "id": "goldie-lumine",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Marigold Ember Luminé",
+  "short": "Goldie",
+  "sort": "Marigold",
+  "titles": [
+    "The Glittering Fox",
+    "The Pastel Conspiracy",
+    "The Fort Builder"
+  ],
+  "partner": "danielle-calloway",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "—",
+  "essence": "A glitter-dusted minefield of cunning disguised as cuteness. Amber-gold eyes tracking everything from behind feigned innocence. There is glitter on every surface. Every surface. Permanently.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Seductress",
+    "height": "5'4\"",
+    "measurements": "34–24–36"
+  },
+  "cock": {
+    "specs": "8.4\" × 5.4\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 49
+}

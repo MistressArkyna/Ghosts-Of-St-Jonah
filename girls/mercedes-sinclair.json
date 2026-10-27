@@ -1,0 +1,43 @@
+{
+  "id": "mercedes-sinclair",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Mercedes Soleil Sinclair",
+  "short": "Mercy",
+  "sort": "Mercedes",
+  "titles": [
+    "The Pleasure Priestess",
+    "DTS Co-Founder",
+    "The Sermon"
+  ],
+  "partner": "dakota-bellamy",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "Camgirl · DTS Co-Founder",
+  "essence": "She clawed out of shame deep enough to have texture, and understood her hunger was not a wound but a sermon. She reclaimed the body shame tried to steal and built an altar where the camera could watch her worship with it.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Seductress",
+    "fillBuild": "Junoesque",
+    "height": "5'8\"",
+    "measurements": "38–26–40"
+  },
+  "cock": {
+    "specs": "8.8\" × 5.5\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 45,
+  "maiden": "Sinclair"
+}

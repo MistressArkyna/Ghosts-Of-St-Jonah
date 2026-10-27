@@ -1,0 +1,40 @@
+{
+  "id": "heather",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Heather",
+  "short": "Heather",
+  "sort": "Heather",
+  "titles": [
+    "Riven's Gym-Bunny Slut Wife"
+  ],
+  "partner": "riven",
+  "arcAdopted": 15,
+  "arcIntroduced": 15,
+  "profession": "—",
+  "essence": "ADOPTED IN ARC 15. RIVEN'S GYM-BUNNY SLUT WIFE. Nothing else recorded — house assignment INFERRED, not given.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 74
+}

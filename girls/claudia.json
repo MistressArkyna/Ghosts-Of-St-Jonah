@@ -1,0 +1,43 @@
+{
+  "id": "claudia",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "banshee-haven",
+  "full": "Claudia",
+  "short": "Claudia",
+  "sort": "Claudia",
+  "titles": [
+    "The Goth Airhead",
+    "The Moonbeam",
+    "The Compliment Machine"
+  ],
+  "partner": "hela",
+  "arcAdopted": 14,
+  "arcIntroduced": 14,
+  "profession": "",
+  "essence": "Goth airhead bimbo and Hela's dumbass moonbeam. Platform boots, sentences that go missing halfway through, and compliments for your tits or whatever else is in front of her.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "",
+    "fillBuild": "",
+    "height": "",
+    "measurements": ""
+  },
+  "cock": {
+    "specs": ""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "banshee-haven"
+  ],
+  "open": [],
+  "gremlindex": 70,
+  "note": "ASKS CONSENT THREE TIMES. Every time. The airhead is the most careful woman in the building."
+}

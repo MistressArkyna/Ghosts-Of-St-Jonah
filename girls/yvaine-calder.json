@@ -1,0 +1,49 @@
+{
+  "id": "yvaine-calder",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Yvaine Delphinia Calder",
+  "short": "Vaine",
+  "sort": "Yvaine",
+  "titles": [
+    "The Seamstress",
+    "The Echo",
+    "The Keeper of Forgotten Things"
+  ],
+  "partner": "harley-calder",
+  "arcAdopted": 3,
+  "arcIntroduced": 3,
+  "profession": "Seamstress",
+  "essence": "The ghost who refused erasure, stitching fragments into identity. Her tenderness is deliberate and haunting. She turns Harley's chaos into clarity through ritual, rope, and remembrance.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "02 — Ghost Room",
+    "id": "02-011"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Junoesque",
+    "height": "5'11\"",
+    "measurements": "37–26–38"
+  },
+  "cock": {
+    "specs": "9.8\" × 5.6\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "The Dual-Domme / Sub Reversal label in the old appendix is retired. Yvaine tops; Harley bottoms.",
+    "No Girl Left Behind is hers. Speaking, Existing, Interacting — and EXISTING being a registered state is her wound written as house law."
+  ],
+  "gremlindex": 16,
+  "note": "Nobody knows how or when she arrived at St. Jonah's. She appeared, and was assigned Flight 02 by default — filed under records-wiped because there was nothing to wipe. The room she slept in got barricaded for not being supposed to exist, with her inside it, and she DUG HER WAY OUT. Codename SPIDER. She now handles Eden, reporting to James and Ragnar, as the price of Eden walking free — and she makes sure every woman Bryn adopts knows she is real.",
+  "dynamic": "The top, unambiguously. A ritualist who shapes intimacy through breath, rope and deliberate ceremony, and guides Harley into surrender through precision, silence, and touch-made-meaning."
+}

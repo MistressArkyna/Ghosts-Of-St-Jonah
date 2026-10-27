@@ -1,0 +1,52 @@
+{
+  "id": "akane-yoshizawa",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "ghost-haven",
+  "full": "Akane Scarlet Yoshizawa",
+  "short": "Akane",
+  "sort": "Akane",
+  "titles": [
+    "The Tea-House Siren",
+    "Keeper of Ritual Presence",
+    "Social Temperature Setter"
+  ],
+  "partner": "gwen-yoshizawa",
+  "arcAdopted": 9,
+  "arcIntroduced": 6,
+  "profession": "Tea-House Ritualist",
+  "essence": "Forged in obedience, reborn through ritual. Presence is her command; stillness is her blade. With Gwen she becomes heat wrapped in silk — devotion shaped into ceremony.",
+  "survivor": {
+    "y": true,
+    "state": "survivor",
+    "flight": "01 — Lapdogs",
+    "id": "01-399"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Junoesque",
+    "height": "5'10\"",
+    "measurements": "40–26–42"
+  },
+  "cock": {
+    "specs": "8.4\" × 5.5\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "ghost-haven"
+  ],
+  "open": [
+    "Married common-law, by Oath ceremony in Arc 10. Gwen's paladin oath forbids a legal marriage, so this is the form the vow took — chosen, not settled for."
+  ],
+  "gremlindex": 25,
+  "status": {
+    "pre9": "Together with Gwen",
+    "arc9": "Together with Gwen",
+    "arc10": "Married common-law by Oath",
+    "arc12": "Married — common-law; her Knight cannot sign"
+  }
+}

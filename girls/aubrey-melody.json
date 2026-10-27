@@ -1,0 +1,42 @@
+{
+  "id": "aubrey-melody",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Aubrey Vixen Melody",
+  "short": "Aubrey",
+  "sort": "Aubrey",
+  "titles": [
+    "The Velvet Cam-Goth",
+    "The Confessor",
+    "The Midnight Offering"
+  ],
+  "partner": "cassiane-lockhart",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Camgirl — DTS",
+  "essence": "She films like she is whispering secrets to a lover who has not arrived yet. When Cassie watches from behind the monitors, the performance shifts from confession to offering and the camera never understands why the air changed.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Seductress",
+    "height": "5'8\"",
+    "measurements": "40–26–42"
+  },
+  "cock": {
+    "specs": "8.4\" × 6.0\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 55
+}

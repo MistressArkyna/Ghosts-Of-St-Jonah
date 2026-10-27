@@ -1,0 +1,42 @@
+{
+  "id": "jinx-walker",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Jinx Lindsey Walker",
+  "short": "Jinx",
+  "sort": "Jinx",
+  "titles": [
+    "The Brat Trap",
+    "The Gravity Well",
+    "The Lazy Patience"
+  ],
+  "partner": "brielle-haven",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Dancer",
+  "essence": "DD-cups and 40-inch anchor hips claiming space the way her personality claims brats, with slow inevitability. A gravity well that a wandering fox calls home.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Junoesque",
+    "fillBuild": "Athletic",
+    "height": "5'8\"",
+    "measurements": "38–24–40"
+  },
+  "cock": {
+    "specs": "10.8\" × 6.3\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 58
+}

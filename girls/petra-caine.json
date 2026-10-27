@@ -1,0 +1,42 @@
+{
+  "id": "petra-caine",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Petra Solis Caine",
+  "short": "Petra",
+  "sort": "Petra",
+  "titles": [
+    "The Quiet Cartographer",
+    "The Emotional Mapper",
+    "The Library's Resident"
+  ],
+  "partner": "umiko-sato",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "Cartographer of Feelings",
+  "essence": "Her leather-bound journal mapping everyone's emotional patterns sits on the library desk like a devotional text. She learned love through patient noticing.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Ethereal",
+    "fillBuild": "Petite",
+    "height": "5'9\"",
+    "measurements": "38–27–40"
+  },
+  "cock": {
+    "specs": "8.4\" × 5.5\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 41
+}

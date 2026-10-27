@@ -1,0 +1,42 @@
+{
+  "id": "ophelia-croft",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Ophelia Sylvanus Croft",
+  "short": "Lia",
+  "sort": "Ophelia",
+  "titles": [
+    "The Gamer Gremlin",
+    "The Speedrunner",
+    "The Interrupted Run"
+  ],
+  "partner": "zelda-hale",
+  "arcAdopted": 12,
+  "arcIntroduced": 12,
+  "profession": "Speedrunner",
+  "essence": "When the ADHD brain needs to hyperfocus rather than scatter she retreats to the Game Room and runs until the world makes sense. Her personal bests all have suspicious gaps in the middle.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Petite",
+    "fillBuild": "Athletic",
+    "height": "5'6\"",
+    "measurements": "34–24–36"
+  },
+  "cock": {
+    "specs": "8.15\" × 5.2\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 53
+}

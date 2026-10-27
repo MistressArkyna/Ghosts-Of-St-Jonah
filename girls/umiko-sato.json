@@ -1,0 +1,42 @@
+{
+  "id": "umiko-sato",
+  "kind": "girl",
+  "depth": "stub",
+  "state": "current",
+  "house": "specter-haven",
+  "full": "Umiko Rei Sato",
+  "short": "Umiko",
+  "sort": "Umiko",
+  "titles": [
+    "The Water-Tamed Tomboy",
+    "The Coach",
+    "The Girl Who Teaches Floating"
+  ],
+  "partner": "petra-caine",
+  "arcAdopted": 11,
+  "arcIntroduced": 11,
+  "profession": "Swim Coach",
+  "essence": "Saltwater-scented, stopwatch on the nightstand, dawn laps before the house wakes. Pretends she does not find it devastatingly sweet that Petra insists her swim schedules stay visible.",
+  "survivor": {
+    "y": false,
+    "state": "civilian"
+  },
+  "body": {
+    "coreBuild": "Athletic",
+    "fillBuild": "Petite",
+    "height": "5'7\"",
+    "measurements": "36–28–38"
+  },
+  "cock": {
+    "specs": "10.1\" × 5.8\""
+  },
+  "hair": {},
+  "mind": {},
+  "narrative": {},
+  "tags": [],
+  "seeAlso": [
+    "specter-haven"
+  ],
+  "open": [],
+  "gremlindex": 42
+}
