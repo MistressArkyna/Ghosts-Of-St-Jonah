@@ -2793,7 +2793,7 @@
   ]
  },
  {
-  "id": "c-twins-universe",
+  "id": "c-childhood-best-friends",
   "kind": "change",
   "subject": "izzy-fiona",
   "subjectKind": "couple",
@@ -2803,7 +2803,7 @@
   "field": "Transition Path",
   "from": "Project Nereid",
   "to": "One night, both of them, identically — no Nereid involved",
-  "note": "First kiss at fifteen; they held it there until eighteen. Izzy was born first so she got DIBS and Fiona let her, and thereafter one topped one day and the other the next. Their mother walked in and offered them separate aunts and uncles, good men, and no heresy — or nothing. IZZY STOOD IN FRONT OF FIONA and said she would lose everything to keep holding her.\n\nYears in a rented hotel room, odd jobs, and Fiona singing in the street for money. They crossed paths with the Found Family more than once and BRYN'S ADOPTION RADAR NEVER PINGED, because at the time they lacked the equipment. Then the universe said YOU'VE STRUGGLED ENOUGH, HERE. Neither panicked — Fiona straddled Izzy and they relearned each other on the spot. That is why their records are identical to the decimal.",
+  "note": "Izzy and Fiona were childhood best friends who grew up side by side and stayed inseparable by choice. Their affection deepened into romance when they were adults. When Fiona's family demanded she choose another life and leave Izzy behind, Fiona refused; Izzy stood beside her, and they chose each other.\n\nYears in a rented hotel room, odd jobs, and Fiona singing in the street for money. They crossed paths with the Found Family more than once and BRYN'S ADOPTION RADAR NEVER PINGED, because at the time they lacked the equipment. Then the universe said YOU'VE STRUGGLED ENOUGH, HERE. When it affirmed them both on the same night, they met the change with the curiosity they had always shared. As adults, they learned what they liked together, trading the lead, teasing each other, and building a playful intimacy on years of trust. That is why their records are identical to the decimal.",
   "links": [
    "izzy-harlow",
    "fiona-harlow",
@@ -4509,16 +4509,14 @@
   "timeless": true,
   "state": "current",
   "mode": "correction",
-  "label": "Two sister-pairs, and one of them explains the towels",
-  "field": "The Found Family · sibling marriages",
-  "from": "FOUR WOMEN FILED AS TWO MARRIED COUPLES with no sibling relation recorded",
-  "to": "KATHERINE AND WYNTER ARE SISTERS. IZZY AND FIONA ARE SISTERS.",
-  "note": "BOTH PAIRS, RULED. The Specter Haven appendix says it of the Morrisons twice and the Archive had read that page without catching it.\n\nAND KATHERINE RUNS AT STANDARD PLUS HALF. Fifty percent above every other woman on the property, which is the MECHANISM the Archive was missing for a fact it already held: SIR TRASHMUFFIN IS TRAUMATISED BY THEIR TOWELS. They stand upright. They hold a fold. THEY HAVE A CRUNCH. He went into that room once in Arc nine looking for a nest, came out, sat on a staircase for forty minutes and would not let anybody touch him.\n\nWYNTER ALSO CARRIES THE CUM-STUFFED GREMLIN.\n\nFOR SCALE: ON 8 SEPTEMBER IT TOOK THIRTY-TWO WOMEN FINISHING WITHIN NINETY SECONDS OF EACH OTHER to produce one Ghost Haven towel that stood up on its own edge. Those two manage it before breakfast.",
+  "label": "The Morrison sisters, and one explains the towels",
+  "field": "Katherine and Wynter · sibling relationship",
+  "from": "KATHERINE AND WYNTER FILED AS MARRIED WITH NO SIBLING RELATION RECORDED",
+  "to": "KATHERINE AND WYNTER ARE SISTERS.",
+  "note": "The Specter Haven appendix identifies the Morrisons as sisters, and the Archive had read that page without catching it.\n\nKATHERINE RUNS AT STANDARD PLUS HALF. Fifty percent above every other woman on the property, which is the MECHANISM the Archive was missing for a fact it already held: SIR TRASHMUFFIN IS TRAUMATISED BY THEIR TOWELS. They stand upright. They hold a fold. THEY HAVE A CRUNCH. He went into that room once in Arc nine looking for a nest, came out, sat on a staircase for forty minutes and would not let anybody touch him.\n\nWYNTER ALSO CARRIES THE CUM-STUFFED GREMLIN.\n\nFOR SCALE: ON 8 SEPTEMBER IT TOOK THIRTY-TWO WOMEN FINISHING WITHIN NINETY SECONDS OF EACH OTHER to produce one Ghost Haven towel that stood up on its own edge. Those two manage it before breakfast.",
   "links": [
    "katherine-morrison",
    "wynter-morrison",
-   "izzy-harlow",
-   "fiona-harlow",
    "sir-trashmuffin",
    "specter-haven"
   ]
